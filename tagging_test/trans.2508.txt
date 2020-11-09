@@ -1,0 +1,224 @@
+Agent 0.000000 0.778875 [noise]
+Customer 0.000000 1.021625 [silence]
+Agent 0.778875 3.363000 [silence]
+Customer 1.021625 3.918250 how do you uh manage your budget
+Agent 3.363000 7.964500 well let's see we or i sit down at the
+Customer 3.918250 54.934750 [silence]
+Agent 7.964500 18.415375 uh in a on a monthly or a biweekly i get paid every two weeks so i make out a budget for every two weeks and
+Agent 18.415375 23.786375 i sit down and see how much money i have to have for my bills going out
+Agent 23.786375 29.282875 and then i compare that to uh how much money we need to make and
+Agent 29.282875 36.467625 then just set it up that way and allot this much money for everything and if we have any left over we'll
+Agent 36.467625 41.523500 uh you know buy clothes or have fun go out to eat or something
+Agent 41.523500 44.265500 and we're going to try to start saving
+Agent 44.265500 46.580000 as soon as we can
+Agent 46.580000 55.683375 we generally don't have a lot left over but as far as the long term our long-term goal is to to get out of debt
+Customer 54.934750 56.203500 um-hum
+Agent 55.683375 57.451375 and uh
+Customer 56.203500 66.368750 [silence]
+Agent 57.451375 66.919375 m[ost]- most of our debts are from before we were married and we're trying to get rid of you know student loans those kinds of things
+Customer 66.368750 67.885500 yeah
+Agent 66.919375 74.836375 [silence]
+Customer 67.885500 75.415125 well i in my younger years i'd always heard the adage you should uh buy as much of a house as you can afford
+Agent 74.836375 76.040000 um-hum
+Customer 75.415125 79.475500 uh because of the uh improvement in real estate prices
+Agent 76.040000 86.950000 [silence]
+Customer 79.475500 84.329375 and on the last move we bought ourselves a fairly large house
+Customer 84.329375 87.724250 and i've got some pretty stiff mortgage payments now
+Agent 86.950000 88.353250 yeah
+Customer 87.724250 90.624000 and uh the uh
+Agent 88.353250 103.288000 [silence]
+Customer 90.624000 103.656375 improvement in uh income and uh investments and so forth has not uh come at the rate i've expected so we're still kind of hurting by the uh high mortgage payments and we haven't gotten out from under them yet
+Agent 103.288000 104.598000 yeah
+Customer 103.656375 104.713000 [silence]
+Agent 104.598000 113.467375 [silence]
+Customer 104.713000 106.257625 but uh
+Customer 106.257625 109.446500 so far we've managed to hold our own by uh
+Customer 109.446500 110.609125 [silence]
+Customer 110.609125 114.113375 trying to set up a a monthly budget
+Agent 113.467375 114.816750 yeah
+Customer 114.113375 121.774750 uh i try to take out just so much cash for me and my uh give so much cash to my wife
+Agent 114.816750 121.691000 [silence]
+Agent 121.691000 122.931125 um-hum
+Customer 121.774750 125.820750 to spend on groceries and clothing and fuel for the car
+Agent 122.931125 141.455250 [silence]
+Customer 125.820750 131.275125 and then the rest of it's uh pretty much fixed expenses uh mortgage electricity
+Customer 131.275125 133.755000 uh water and uh
+Customer 133.755000 139.116375 and garbage collection and telephone [laughter-bills] and cable television bills
+Customer 139.116375 141.295750 and those are pretty much fixed
+Customer 141.295750 158.330625 [silence]
+Agent 141.455250 150.510125 yeah yeah that's basically the kinds of bills we have are on our budget are you know the needs the have to haves and
+Agent 150.510125 155.640000 you know those kinds of things uh we don't have a lot of uh
+Agent 155.640000 167.598625 you know like JC Penny's in our [laughter] in our budget and uh maybe twice a year we're to where i can let my wife go clothes shopping like that and
+Customer 158.330625 159.538625 yeah
+Customer 159.538625 174.514625 [silence]
+Agent 167.598625 176.035375 let's see my mother-in-law lives uh not too far from here so she helps with our son's clothes when she can
+Customer 174.514625 175.734250 um-hum
+Customer 175.734250 196.365875 [silence]
+Agent 176.035375 177.432750 and
+Agent 177.432750 180.806625 that's real good and uh
+Agent 180.806625 185.889000 w[ell]- at TI i have a real good uh benefits package for uh
+Agent 185.889000 187.591875 uh
+Agent 187.591875 196.327500 you know like for going to the doctor and that kind of thing so that's not something i really have to put in the budget that seriously
+Agent 196.327500 197.758375 so
+Customer 196.365875 201.536875 yeah no my wife's pretty good about uh grocery shopping and
+Agent 197.758375 201.318750 [silence]
+Agent 201.318750 202.552500 yeah
+Customer 201.536875 205.064500 she pitches in and uh makes clothes for the kids
+Agent 202.552500 204.399375 [silence]
+Agent 204.399375 206.739250 really well that's neat
+Customer 205.064500 213.657375 uh which is a big help uh one of our big problems though is handling unexpected uh uh budget items
+Agent 206.739250 213.523875 [silence]
+Agent 213.523875 214.920125 yeah
+Customer 213.657375 217.428375 like this month the uh heat pump went out and uh
+Agent 214.920125 216.079000 [silence]
+Agent 216.079000 218.448500 [noise] um yeah
+Customer 217.428375 221.167375 they want pretty close to three thousand dollars just to replace that
+Agent 218.448500 219.638375 [silence]
+Agent 219.638375 221.373250 wow
+Customer 221.167375 223.066000 [silence]
+Agent 221.373250 223.320125 so what do you do
+Customer 223.066000 229.741000 well uh we have to cut into the savings uh at this point to uh to buffer that
+Agent 223.320125 227.475125 [silence]
+Agent 227.475125 228.964000 oh
+Agent 228.964000 230.452875 wow
+Customer 229.741000 231.232625 and
+Agent 230.452875 233.362375 well that's good that you have the savings to get into
+Customer 231.232625 233.215125 [silence]
+Customer 233.215125 239.173500 then maybe we'll go for a week or two and or a month or two and then the car [laughter-breaks] [laughter-down] [laughter]
+Agent 233.362375 237.874500 [silence]
+Agent 237.874500 239.363625 [laughter]
+Customer 239.173500 243.285625 so it's the unexpected things that make it awful hard to control the budget
+Agent 239.363625 240.852750 wow
+Agent 240.852750 242.936375 [silence]
+Agent 242.936375 244.383000 yeah that's
+Customer 243.285625 250.412125 [silence]
+Agent 244.383000 250.809750 that's the way we are we've had a lot of unexpected things just in the last uh couple months
+Customer 250.412125 251.579625 yeah
+Agent 250.809750 261.025625 that uh really hit us hard but i've been able to work enough overtime to you know really help with the with covering the expenses
+Customer 251.579625 277.970500 [silence]
+Agent 261.025625 271.138000 so but we've never been we've been married for uh nearly four years and we've never been able to save any money and i think it's just
+Agent 271.138000 281.223375 hit both of us uh just in the past few months that we need to start saving some money no matter what we do we need to put that in our budget and just start doing it
+Customer 277.970500 279.164500 yeah
+Customer 279.164500 295.641500 [silence]
+Agent 281.223375 284.191375 even if it's you know ten dollars a week
+Agent 284.191375 289.919000 and so we're going to start doing that or actually we started two paychecks ago
+Agent 289.919000 295.278125 and that was uh i think that was a really wise decision
+Agent 295.278125 299.116125 [silence]
+Customer 295.641500 298.966250 well do you have some uh savings plans at work
+Customer 298.966250 309.286000 [silence]
+Agent 299.116125 304.185875 no actually i'm i'm not involved in anything like that at work or
+Agent 304.185875 309.842000 uh anywhere uh i don't have anything to fall back on at all
+Customer 309.286000 310.524750 yeah
+Agent 309.842000 313.151250 and i- i know that's not wise but
+Customer 310.524750 332.532875 [silence]
+Agent 313.151250 323.539250 that's just uh where we're at right now my wife just went back to work part-time uh she can substitute teach at schools
+Agent 323.539250 333.048375 and uh there's so many school districts and schools here in the metroplex that uh by turning her name in if she wanted to she could work
+Customer 332.532875 333.709375 yeah
+Agent 333.048375 335.301750 you know everyday but
+Customer 333.709375 347.103000 [silence]
+Agent 335.301750 345.409125 we're we're just going to let her work one maybe two days a week and we're just going to apply all the money that she makes to uh
+Agent 345.409125 351.658875 uh our debts and try to get as much out of debt as fast as we can
+Customer 347.103000 348.305750 yeah
+Customer 348.305750 350.508500 [silence]
+Customer 350.508500 351.611125 um-hum
+Customer 351.611125 366.407625 [silence]
+Agent 351.658875 364.908750 and there's and we're we're Christians and that's uh we've only been Christians for about five years but that's a a real a biblical truth in the Bible is to
+Agent 364.908750 372.726375 to not be in debt and we're [laughter-really] starting to see the the the reasoning behind that
+Customer 366.407625 367.875125 um-hum
+Customer 367.875125 377.960625 [silence]
+Agent 372.726375 378.689625 and uh because_1 we're you know we're always well i can't be [laughter-sick] this week but one day
+Customer 377.960625 379.230000 yeah
+Agent 378.689625 384.855625 or you know this month but one day because you know our bills will catch up with us if i am
+Customer 379.230000 398.366000 [silence]
+Agent 384.855625 389.268750 or you know i c[an't]- we can't go on a two week vacation because
+Agent 389.268750 402.157250 uh i wouldn't make any overtime in two weeks so that would really hurt us financially and you know just things like that all the time and you know w[e]- we really see how we're
+Customer 398.366000 399.774125 um-hum
+Customer 399.774125 406.360875 [silence]
+Agent 402.157250 407.273375 you know indebted or nearly underneath uh the debt that we have
+Customer 406.360875 407.710375 yeah
+Agent 407.273375 410.691875 you know and that's that's really hard but
+Customer 407.710375 421.663375 [silence]
+Agent 410.691875 417.223375 so far we've never really uh been behind on any bills uh
+Agent 417.223375 422.490125 i had to put our student loans on hold once for about i think three months
+Customer 421.663375 422.868375 um-hum
+Agent 422.490125 425.992750 and we had a a cutback at work
+Customer 422.868375 436.782000 [silence]
+Agent 425.992750 429.671625 and uh this is this was a couple of years back
+Agent 429.671625 437.365750 but anyway but we're doing really good we're not saving but we're staying right even
+Customer 436.782000 439.588125 yeah w[ell]- we've been looking around at uh
+Agent 437.365750 449.681500 [silence]
+Customer 439.588125 450.139250 uh trying to develop some side activities that that might help out such as uh creating some craft objects that we can market in the uh local stores
+Agent 449.681500 451.526375 oh yeah
+Customer 450.139250 452.071125 or uh
+Agent 451.526375 456.837750 [silence]
+Customer 452.071125 459.593500 uh making uh some dresses for children or things like that or even writing children's [laughter-books]
+Agent 456.837750 459.095875 yeah that's neat
+Agent 459.095875 461.273875 oh that's neat yeah
+Customer 459.593500 461.568625 and uh
+Agent 461.273875 462.308250 [silence]
+Customer 461.568625 473.690500 i tried uh this past year writing uh journal articles but uh i found out it cost me more than the the honorariums i got for writing them_1
+Agent 462.308250 463.316625 wow
+Agent 463.316625 473.709750 [silence]
+Customer 473.690500 476.696000 [silence]
+Agent 473.709750 477.317500 oh wow because of the time
+Customer 476.696000 484.617250 uh well especially the first one because i wound up buying a lot of [laughter-reprints] for [laughter-handouts] and i ate up all my [laughter-profits] with uh
+Agent 477.317500 481.713250 [silence]
+Agent 481.713250 483.012750 wow
+Agent 483.012750 484.095500 [silence]
+Agent 484.095500 485.792125 right
+Customer 484.617250 485.955375 buying reprints
+Agent 485.792125 487.300375 right
+Customer 485.955375 494.346250 [silence]
+Agent 487.300375 488.581000 wow
+Agent 488.581000 495.490250 yeah my my wife made uh a whole lot of crafts last year for Christmas presents
+Customer 494.346250 495.552125 um-hum
+Agent 495.490250 497.793375 and we didn't uh
+Customer 495.552125 510.571000 [silence]
+Agent 497.793375 509.801375 you know have to allot any well hardly ver[y]- very much money anyway for Christmas just for our uh personal family just me and her and our son and
+Agent 509.801375 519.314750 i think her mom and that was really you know about it we we made everything else that uh we gave for Christmas last year
+Customer 510.571000 511.774625 um-hum
+Customer 511.774625 518.334875 [silence]
+Customer 518.334875 519.511375 yeah
+Agent 519.314750 521.796500 and she did really good with that
+Customer 519.511375 522.546625 [silence]
+Agent 521.796500 526.071000 [silence]
+Customer 522.546625 526.335875 oh we thought we were going to be pretty tight with Christmas this past year
+Agent 526.071000 527.356125 um-hum
+Customer 526.335875 531.649500 but uh we have a family dog that uh ate all of the children's toys
+Agent 527.356125 531.676250 [silence]
+Customer 531.649500 537.197625 [laughter-so] [laughter-coming] [laughter-up] [laughter-to] [laughter-Christmas] [laughter-time] [laughter] the girls didn't have any toys [laughter-so] we had to go out and
+Agent 531.676250 533.931000 oh wow
+Agent 533.931000 535.906500 wow
+Agent 535.906500 538.054125 oh no
+Customer 537.197625 539.898375 and get them a whole new set of playthings
+Agent 538.054125 539.669250 [silence]
+Agent 539.669250 541.246000 wow
+Customer 539.898375 540.908750 [silence]
+Customer 540.908750 549.445875 now i don't know how the dog has fared eating all that plastic and uh and stuffed animal stuffing but [laughter] he's still here [laughter]
+Agent 541.246000 544.698125 [silence]
+Agent 544.698125 545.976125 [laughter]
+Agent 545.976125 548.233000 [silence]
+Agent 548.233000 556.318500 wow wow that's pretty [laughter-pretty] [laughter-bizarre] [laughter] the dog ate the Christmas presents
+Customer 549.445875 562.606250 [silence]
+Agent 556.318500 563.500750 that's funny well anyway what uh is the economy doing pretty good there where you're at
+Customer 562.606250 568.726000 so far it's uh doing fairly well uh we're in the metropolitan Washington area
+Agent 563.500750 577.693375 [silence]
+Customer 568.726000 574.822125 and uh i guess most of the area is still living off the federal government with uh
+Customer 574.822125 577.623000 beltway bandit type contracts
+Customer 577.623000 581.576000 uh our company is uh done fairly well
+Agent 577.693375 579.011125 um-hum
+Agent 579.011125 581.662500 [silence]
+Customer 581.576000 583.122375 and uh
+Agent 581.662500 584.507250 yeah what company is it
+Customer 583.122375 586.306750 i'm with the Melpar division of E-Systems
+Agent 584.507250 586.498250 [silence]
+Customer 586.306750 587.312000 [silence]
+Agent 586.498250 589.276000 oh of E-Systems okay
+Customer 587.312000 588.250000 yeah
+Customer 588.250000 591.698375 [silence]
+Agent 589.276000 592.325250 i see what do you all make
+Customer 591.698375 596.966250 uh we're primarily in the uh uh systems integrations business
+Agent 592.325250 597.780250 [silence]
+Customer 596.966250 598.000625 [silence]
+Agent 597.780250 599.780500 oh
+Customer 598.000625 599.780500 selling to the government

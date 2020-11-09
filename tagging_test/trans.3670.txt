@@ -1,0 +1,124 @@
+Agent 0.000000 1.396625 [noise]
+Customer 0.000000 1.257000 [noise] start first
+Customer 1.257000 2.359875 [silence]
+Agent 1.396625 3.663875 sure i guess [laughter]
+Customer 2.359875 3.935125 [laughter]
+Agent 3.663875 14.080125 i'm trying to think do we pay too much taxes uh uh well i it it certainly seems like it i don't know you know i i i'm not up in the uh in in the high end brackets myself and so
+Customer 3.935125 13.003375 [silence]
+Customer 13.003375 14.326625 uh-huh
+Agent 14.080125 22.539875 i can just imagine how bad that would hurt i remember at one point when my dad was paying uh nearly nearly sixty percent ta[x]- tax bracket and that was just you know
+Customer 14.326625 19.856125 [silence]
+Customer 19.856125 21.132875 uh-huh
+Customer 21.132875 23.618000 [silence]
+Agent 22.539875 25.207125 it was killing him [laughter]
+Customer 23.618000 33.127125 yeah and i think that's that's basically my standpoint too is my dad and i've talked about this a lot and i just personally i think it's kind of i don't know we pay a lot
+Agent 25.207125 42.281000 [silence]
+Customer 33.127125 36.702875 um sometimes i I know that it's not used very wisely
+Customer 36.702875 42.931250 and i think the big thing for me and what my dad has said is we pay a lot but it's worth it to live in America i guess for our freedom
+Agent 42.281000 51.630625 yeah uh i mean other places pay more and you know so you can look at some place like Sweden and you know they they almost all give like seventy percent of their income to the government
+Customer 42.931250 44.561625 [silence]
+Customer 44.561625 45.907625 uh-huh
+Customer 45.907625 50.248875 [silence]
+Customer 50.248875 51.607625 right
+Customer 51.607625 54.072375 [silence]
+Agent 51.630625 63.838750 um they get some different things out of it though uh i don't know i i'm not i'm not terribly pleased with the distribution of of of it and i think we we spend entirely too much on defense
+Customer 54.072375 55.390875 uh-huh
+Customer 55.390875 63.276375 [silence]
+Customer 63.276375 64.682625 right
+Agent 63.838750 75.641750 um although i work in in sort of hi tech industry type thing and and and which in large part survives on on uh on defense contracting you know so
+Customer 64.682625 74.146750 [silence]
+Customer 74.146750 75.469500 um-hum
+Customer 75.469500 78.648500 [silence]
+Agent 75.641750 79.180875 so i mean i kind of biting the hand that feeds you if you really wanna
+Customer 78.648500 80.467250 [laughter]
+Agent 79.180875 80.502250 [laughter]
+Customer 80.467250 89.830875 [silence]
+Agent 80.502250 82.720000 sorry cutting it hard but um
+Agent 82.720000 94.613875 i don't know you know it seems like it seems like we ought to be able to get a little bit uh things ought to be a little bit more efficiently run and i i i and i think that we could get by without continually raising taxes
+Customer 89.830875 90.749875 yeah
+Customer 90.749875 93.776000 [silence]
+Customer 93.776000 95.555000 absolutely
+Agent 94.613875 105.514000 you know i mean i think i think we're at a point where you know it's it's taxes are a burden but their you know um services come out of it and and things are important but on the other hand
+Customer 95.555000 104.017750 [silence]
+Customer 104.017750 105.356875 right
+Customer 105.356875 107.943625 [silence]
+Agent 105.514000 110.437250 you know they just can't continue to rise forever and the deficit can't continue to grow
+Customer 107.943625 109.344125 yeah
+Customer 109.344125 111.027875 [laughter]
+Agent 110.437250 122.332375 you know there's there's got to be some point where people sit down and say okay you know this is enough income to give government services at and we need to make sure we give good government service at this point and you know and
+Customer 111.027875 119.597750 [silence]
+Customer 119.597750 120.942000 um-hum
+Customer 120.942000 126.984250 and the sad thing i think personally you know i don't mind paying so much taxes if i'm getting what's due
+Agent 122.332375 126.451875 [silence]
+Agent 126.451875 127.844500 um-hum
+Customer 126.984250 139.356750 but i think a lot of times what happens is you get into the government system and my dad works for the government in some ways and he works a lot with people who are paid by the government and there are so many things to quote unquote protect the employee
+Agent 127.844500 131.702875 [silence]
+Agent 131.702875 132.965375 um-hum
+Agent 132.965375 138.881000 [silence]
+Agent 138.881000 140.536875 yeah
+Customer 139.356750 145.777750 that you know y[ou're]- you're you're not getting what you're paying for a lot of times whereas in any other business situation it'd be see you you know
+Agent 140.536875 144.999750 [silence]
+Agent 144.999750 158.530625 right right you know th[ere]- there there isn't there isn't the business cycle where where where government gets uh gets chopped down you know i mean a[nd]- they they don't go through a restructuring y[ou]- you know even IBM going through a cutbacks right and and you know government just doesn't do it
+Customer 145.777750 158.030125 [silence]
+Customer 158.030125 159.370625 yeah
+Agent 158.530625 164.515250 you know a[nd]- a[nd]- and and it's because of in part you know necessary protections for the worker
+Customer 159.370625 163.890125 [silence]
+Customer 163.890125 165.247250 right
+Agent 164.515250 170.653625 b[ut]- but on the other hand there's you know you you you've got to plan them_1 in the real world also you kn[ow]-
+Customer 165.247250 169.134000 [silence]
+Customer 169.134000 181.885875 yeah and you got to walk that fine line i think one of the things that the government really could could save a lot of money on is is you know when it's for example in defense spending when it's something that you can use like an ashtray you know
+Agent 170.653625 181.240250 [silence]
+Agent 181.240250 182.888250 um-hum
+Customer 181.885875 190.258000 just go buy it at a store my gosh and [laughter] or buy it from a manufacturer instead of having it made and have to form the mold and everything you know
+Agent 182.888250 185.737250 yeah yeah
+Agent 185.737250 189.808750 [silence]
+Agent 189.808750 191.098625 right
+Customer 190.258000 197.603000 and granted there's other things for example that you know a microwave or something if you're underwater you'd have to have some specific specifications but
+Agent 191.098625 197.163625 [silence]
+Agent 197.163625 198.157375 um-hum
+Customer 197.603000 204.680875 but just to work out with our tax money you know watch where is it going to be best used and how is it going to be most effective cost wise
+Agent 198.157375 200.404500 [silence]
+Agent 200.404500 201.032375 ye[ah]-
+Agent 201.032375 204.028625 [silence]
+Agent 204.028625 213.022875 right yeah i mean i think i think y[ou]- you know in general i'm i'm pretty pleased with the government with you know with America and and a lot of the things that work here i mean
+Customer 204.680875 209.368000 [silence]
+Customer 209.368000 210.712000 oh yeah
+Customer 210.712000 215.907500 [silence]
+Agent 213.022875 220.572000 i[t]- there there's lots of things that don't quite work right and um but if you've ever spent any time in other countries you realize
+Customer 215.907500 217.165500 um-hum
+Customer 217.165500 222.946750 [silence]
+Agent 220.572000 228.221250 that that its all a relative i[ssue]- issue you know every[where]- everywhere things don't work right and some places they really don't work right and here they they [laughter-pretty] much work right you know
+Customer 222.946750 224.294875 yep
+Customer 224.294875 225.835750 [silence]
+Customer 225.835750 227.517375 [laughter]
+Customer 227.517375 229.583625 yeah
+Agent 228.221250 241.625750 um but i think you know i mean if if things are gonna things that need to change are things that that need to be sort of restructuring you know maybe market orientation a little bit more and and things like what you're talking about um
+Customer 229.583625 235.586625 [silence]
+Customer 235.586625 237.293125 right
+Customer 237.293125 240.220125 [silence]
+Customer 240.220125 241.490375 um-hum
+Customer 241.490375 247.243125 [silence]
+Agent 241.625750 253.988875 you know putting a little bit more of the pre[ssures]- of the of the business pressures that are nor[mal]- that are on everybody else on the government and uh so that we get a little bit more out of the tax dollars and a little bit
+Customer 247.243125 248.459875 right
+Customer 248.459875 249.662750 yeah
+Customer 249.662750 252.342000 [silence]
+Customer 252.342000 260.026375 and i agree with you there i think you know there there's nothing in my opinion from what i've seen and the people i've worked with some other countries and from our own country that
+Agent 253.988875 264.258875 [silence]
+Customer 260.026375 268.505750 that would ever take the place of the freedoms and the the the things that we have here for me i you know i i guess when it comes right down to it if it was living in a place
+Agent 264.258875 265.311000 um
+Agent 265.311000 271.930125 [silence]
+Customer 268.505750 276.704750 like Mexico or Russia that are really struggling both with the government and with economics i would prefer to pay my extra tax money here and
+Agent 271.930125 273.397000 um-hum
+Agent 273.397000 276.165375 [silence]
+Agent 276.165375 277.605125 yeah
+Customer 276.704750 278.795875 and have things the way they are
+Agent 277.605125 286.579000 yeah i i think m[y]- my wife's from Brazil and i've spent a fair amount of time there and and you wanna see a government system that just doesn't work you know i mean it's just its incredible its just
+Customer 278.795875 283.551500 [silence]
+Customer 283.551500 285.077250 [laughter]
+Customer 285.077250 287.719000 [silence]
+Agent 286.579000 295.456375 entirely corrupt they have uh you know something like uh seventy five percent or sixty five percent of the able bodied workers are employed by the government
+Customer 287.719000 289.009125 uh-huh
+Customer 289.009125 294.676375 [silence]
+Customer 294.676375 295.995750 yeah
+Agent 295.456375 298.562000 you know and so that leaves everybody else you know this other small
+Customer 295.995750 298.562000 [silence]

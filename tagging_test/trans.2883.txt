@@ -1,0 +1,110 @@
+Agent 0.000000 4.134125 [noise]
+Customer 0.000000 1.247500 [noise]
+Customer 1.247500 4.726875 well what are your did you like do you use credit cards
+Agent 4.134125 12.098375 uh not very often i usually uh the ones we use is like visa and we always try to pay it back at the end of the month
+Customer 4.726875 11.089250 [silence]
+Customer 11.089250 16.345000 huh-uh so it doesn't gets uh uh the credit uh
+Agent 12.098375 13.850625 i have uh uh
+Agent 13.850625 15.266875 [silence]
+Agent 15.266875 17.492500 right
+Customer 16.345000 24.405500 uh interest rate is so high that you're really if you're going to use credit cards you need to use that policy i think don't you
+Agent 17.492500 23.617625 [silence]
+Agent 23.617625 24.885750 [laughter-yeah]
+Customer 24.405500 30.564750 otherwise you end up paying so much more for your merchandise that it's hardly
+Agent 24.885750 30.100000 [silence]
+Agent 30.100000 31.652000 that's right
+Customer 30.564750 33.347875 uh it's not a very good idea
+Agent 31.652000 33.396375 [silence]
+Customer 33.347875 34.593625 [silence]
+Agent 33.396375 35.257250 do you have a lot of credit cards
+Customer 34.593625 37.701500 well i have a lot of them but i don't use them very much though
+Agent 35.257250 37.055000 [silence]
+Agent 37.055000 38.398125 right
+Customer 37.701500 38.597875 [laughter]
+Agent 38.398125 62.445125 [silence]
+Customer 38.597875 43.187750 i use them mostly for big things like maybe sometimes uh
+Customer 43.187750 45.061500 tuition if it's
+Customer 45.061500 52.047500 you know if i'm short to go ahead and get it and then try to get it saved back as quick as i can
+Customer 52.047500 57.336750 the other thing i i think if you do get overextended a little bit you need to be sure and pay it off
+Customer 57.336750 63.433750 uh more than one at a time because i think you could run forever paying what they require
+Agent 62.445125 64.277125 oh yeah
+Customer 63.433750 65.531250 just goes on and on
+Agent 64.277125 66.617250 which is what they want
+Customer 65.531250 66.767750 yeah
+Agent 66.617250 75.778875 i think a lot of people go in debt because they think oh you know i can just charge it but really i mean if they don't have the money then they aren't going to have it in a month so
+Customer 66.767750 74.874750 [silence]
+Customer 74.874750 76.536750 yeah that's true
+Agent 75.778875 79.189000 they uh make the mistake of pushing all their cards
+Customer 76.536750 77.379125 [silence]
+Customer 77.379125 81.985000 there are times when it's when it's very useful like uh emergency trip
+Agent 79.189000 80.219000 [silence]
+Agent 80.219000 84.034625 yeah yeah
+Customer 81.985000 85.339750 or something sometimes when you when you
+Agent 84.034625 96.169125 [silence]
+Customer 85.339750 88.088250 the the money will be available but it's
+Customer 88.088250 98.027750 you know not immediately handy i think uh they're very helpful plus the fact that it's helpful not to have to carry a lot of money sometimes
+Agent 96.169125 98.472250 right
+Customer 98.027750 103.273250 but uh i you really do need to be very um
+Agent 98.472250 107.976750 [silence]
+Customer 103.273250 104.369250 [silence]
+Customer 104.369250 108.811250 oh responsible about it or you end up in deep trouble
+Agent 107.976750 112.304375 [noise] yeah i made that mistake when i first got a job and that's kind of like
+Customer 108.811250 114.570375 [silence]
+Agent 112.304375 115.030500 it took me quite a while to pay them off
+Customer 114.570375 116.057875 uh-huh
+Agent 115.030500 116.294375 so
+Customer 116.057875 128.687875 [silence]
+Agent 116.294375 119.424000 af[ter]- after that i decided well i'm not going to use them_1 at all
+Agent 119.424000 123.650000 and just try to pay cash for everything and that worked for a while and then
+Agent 123.650000 127.293250 we got married so we decided to you know if we used them we would
+Agent 127.293250 129.990125 pay them off as we go so
+Customer 128.687875 129.899625 right
+Customer 129.899625 133.704500 right that can be very handy under those kind of circumstances
+Agent 129.990125 144.833750 [silence]
+Customer 133.704500 142.888625 the other thing about them is too if you really don't you really need to get some and use them because if you have never used them and developed and haven't developed a credit thing
+Customer 142.888625 154.097250 it stops you from doing a lot of things if you if you pay for everything by cash uh there is a lot of things that a lot of people who will not give you credit when you need something like a house or
+Agent 144.833750 146.484000 right
+Agent 146.484000 152.813250 [silence]
+Agent 152.813250 155.143000 that's true yeah
+Customer 154.097250 163.773875 a car so so they they have become a very vital part of our of our monetary [laughter] system over the last few years
+Agent 155.143000 161.548250 [silence]
+Agent 161.548250 163.316250 uh-huh
+Agent 163.316250 173.052750 [silence]
+Customer 163.773875 167.490125 but uh it's true you have to be very careful or you end up
+Customer 167.490125 174.238375 uh going in the deep end and uh and an awful lot of people are in trouble
+Agent 173.052750 175.153750 um-hum
+Customer 174.238375 179.484375 we have a boy living with us who works for a credit card uh
+Agent 175.153750 184.669375 [silence]
+Customer 179.484375 188.258000 company that and he makes calls to people who have problems you know credit problems that are trying to work out of them_1 and uh
+Agent 184.669375 186.086250 uh-huh
+Agent 186.086250 190.765000 [silence]
+Customer 188.258000 189.011500 [laughter]
+Customer 189.011500 191.463500 poor thing he comes home very depressed every [laughter-night]
+Agent 190.765000 192.506625 oh
+Customer 191.463500 196.223125 [laughter] because the world has so many problems of that sort so it's uh it's uh
+Agent 192.506625 194.205625 [silence]
+Agent 194.205625 195.438500 yeah
+Agent 195.438500 208.063000 [silence]
+Customer 196.223125 202.593750 it's a really big problem i think and um takes mature people to
+Customer 202.593750 208.971500 to treat it uh so that it's so that it's a real advantage to you instead of a disadvantage
+Agent 208.063000 216.318625 right i think um the way the tax system was they encouraged people to use credit cards you know with a big write off at the end of the year
+Customer 208.971500 215.849375 [silence]
+Customer 215.849375 217.104750 yeah
+Agent 216.318625 219.336500 but now it's like it's punch money because
+Customer 217.104750 218.785625 [silence]
+Customer 218.785625 222.291125 right it doesn't do you any good now does it right
+Agent 219.336500 220.618625 you cannot
+Agent 220.618625 223.437750 right you cannot write off your interest
+Customer 222.291125 227.810875 even before it probably wasn't though because you didn't get anywhere near as much as what it
+Agent 223.437750 227.538750 [silence]
+Agent 227.538750 228.894375 yeah
+Customer 227.810875 231.068625 you didn't get to claim anywhere near what you ended up paying
+Agent 228.894375 236.143375 [silence]
+Customer 231.068625 237.880625 so well i'm not that uh other than that i don't have too much on credit cards but
+Agent 236.143375 237.676875 [laughter]
+Agent 237.676875 239.205625 [silence]
+Customer 237.880625 240.058125 it's good to talk to you
+Agent 239.205625 241.615250 yeah you too thanks for calling bye
+Customer 240.058125 241.432875 uh-huh bye now
+Customer 241.432875 243.853250 [noise]
+Agent 241.615250 243.853250 [noise]

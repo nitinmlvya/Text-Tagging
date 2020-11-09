@@ -1,0 +1,117 @@
+Agent 0.000000 3.831125 [silence]
+Customer 0.000000 0.053625 [noise]
+Customer 0.053625 4.578250 uh so uh what are your benefits like at your job and how do you feel about them
+Agent 3.831125 12.959250 uh pretty good actually i work for Hewlett Packard and they have uh a pretty good uh benefits package in fact they're they're kind of known
+Customer 4.578250 24.230000 [silence]
+Agent 12.959250 17.987625 uh for having good benefits the pay isn't fabulous although
+Agent 17.987625 29.376000 i saw a survey recently and i'm actually making just about as much as you know i'm m[aking]- making actually over average over the average for my career my experience and all that stuff which kind of surprised me so
+Customer 24.230000 26.448750 oh that's good
+Customer 26.448750 27.922875 uh-huh
+Customer 27.922875 30.164750 what kind of a degree have you got
+Agent 29.376000 32.340000 i've got a Bachelor's in electrical engineering so
+Customer 30.164750 31.737750 [silence]
+Customer 31.737750 33.103250 oh
+Agent 32.340000 35.330625 and i'm not like a hugely advanced degree or any of that stuff
+Customer 33.103250 34.626250 [silence]
+Customer 34.626250 35.862500 uh-huh
+Agent 35.330625 44.298750 uh anyway the our benefits are pretty good we've got stock purchase program and a that that's pretty generous although you have to hold the stock for two years
+Customer 35.862500 44.031875 [silence]
+Customer 44.031875 45.243375 uh-huh
+Agent 44.298750 54.412000 before you get the company contribution which is kind of a a pain but uh [noise] there's a four O one K plan uh for uh sheltering some taxable income
+Customer 45.243375 50.525250 [silence]
+Customer 50.525250 51.965875 uh-huh
+Customer 51.965875 53.985375 [silence]
+Customer 53.985375 55.259750 uh-huh
+Agent 54.412000 56.592500 uh there's
+Customer 55.259750 57.160375 how long have you been with them
+Agent 56.592500 58.779625 i've been with them for seven years
+Customer 57.160375 57.879000 [silence]
+Customer 57.879000 60.235750 uh that's good
+Agent 58.779625 67.502125 yeah and the best thing and a lot of the stuff the best thing is like four years or five years it's pretty soon you're completely vested in the retirement plan and everything
+Customer 60.235750 64.577875 [silence]
+Customer 64.577875 66.019125 uh-huh
+Customer 66.019125 80.122875 [silence]
+Agent 67.502125 80.657625 so uh it's not too but there's full uh th[ere]- there's several medical plans to choose from uh that cover pretty much everything i don't get sick that often so i don't pay much of it but you know i pay five dollars every time i visit the the hospital
+Customer 80.122875 81.462375 uh-huh
+Agent 80.657625 83.156875 that you know for a checkup or whatever
+Customer 81.462375 82.465375 [silence]
+Customer 82.465375 83.700625 uh-huh
+Agent 83.156875 84.366500 um
+Customer 83.700625 87.696500 [silence]
+Agent 84.366500 88.325625 they don't cover eyes though and i i have contact lenses so that's kind of a pain
+Customer 87.696500 88.922375 uh-huh
+Agent 88.325625 90.862750 but you know i i can live
+Customer 88.922375 92.796875 but for for all practical purpose you are almost a hundred percent covered
+Agent 90.862750 91.999875 [silence]
+Agent 91.999875 93.835750 oh yeah yeah
+Customer 92.796875 97.053250 so that you've got got small small things to gripe about
+Agent 93.835750 96.268250 [silence]
+Agent 96.268250 97.649875 right
+Customer 97.053250 100.160500 wow well that sounds like you must feel really good about it
+Agent 97.649875 99.009875 and
+Agent 99.009875 103.453125 yeah yeah and and the dental plan is fabulous the dental plan i pay absolutely nothing
+Customer 100.160500 103.174875 [silence]
+Customer 103.174875 104.508250 wow
+Agent 103.453125 113.725375 because uh i i guess they would charge a little bit if there was some orthodontia or something for one of my dependents or something like that but that's not the case so i [laughter] guess nothing it's fabulous
+Customer 104.508250 108.575625 [silence]
+Customer 108.575625 110.538875 uh-huh uh-huh
+Customer 110.538875 113.138375 [silence]
+Customer 113.138375 114.367125 wow
+Agent 113.725375 116.081875 uh the what about you
+Customer 114.367125 115.540625 [silence]
+Customer 115.540625 121.012000 well i uh work in Washington at the Naval Research Laboratory
+Agent 116.081875 128.083375 [silence]
+Customer 121.012000 128.471500 i also have a part time job at a law firm and i get no benefits from them at to the part time work although they pay better per hour
+Agent 128.083375 129.555375 uh-huh
+Customer 128.471500 138.463000 than my my sort of quote real job does uh and benefits through the government are uh really uh [noise]
+Agent 129.555375 131.004625 [silence]
+Agent 131.004625 132.298000 [laughter]
+Agent 132.298000 140.600625 [silence]
+Customer 138.463000 147.697625 they just uh they're not the greatest uh i before i i uh [noise] uh got my degree i'm uh c[omputer]- a computer scientist
+Agent 140.600625 141.969875 uh
+Agent 141.969875 146.903250 [silence]
+Agent 146.903250 148.523250 uh-huh
+Customer 147.697625 155.868875 and before i got my degree i had uh done paralegal work for law firms here in Washington and uh
+Agent 148.523250 151.744625 [silence]
+Agent 151.744625 152.982500 uh-huh
+Agent 152.982500 163.664000 [silence]
+Customer 155.868875 168.650625 at that time i was in gravy city uh the law firms [laughter] in this town are not you know for a long time were just rolling in the dough in the early eighties and uh benefits were just amazing and
+Agent 163.664000 165.254500 yeah
+Agent 165.254500 167.405500 [silence]
+Agent 167.405500 168.949875 uh-huh
+Customer 168.650625 182.251625 we had everything paid for and uh anyway with the government it's not uh quite that nice a deal uh but it's you know it's it's okay what we have to do is we have to pay uh about twenty percent of our
+Agent 168.949875 200.947500 [silence]
+Customer 182.251625 191.695375 uh uh our costs and it's deducted from our check each month and that sort of thing and the plans that are available to us uh range from kind of mediocre to really sweet
+Customer 191.695375 202.483500 and uh [noise] so i i think i'm actually involved in a relatively good p[lan]- plan at this point um but uh it could be better that's for sure and
+Agent 200.947500 202.309250 yeah
+Agent 202.309250 229.371375 [silence]
+Customer 202.483500 207.691125 uh [noise] but you know there there are other things that you get when you work for the government i- uh
+Customer 207.691125 218.807125 in in terms of uh more relaxed atmosphere it's really nice to be for me anyway to be able to work in uh a research atmosphere uh where i don't have to uh
+Customer 218.807125 230.141125 uh you know worry about uh academics or anything like that and [noise] so i'm i'm really kind of happy about that end of of things it's uh
+Agent 229.371375 238.009750 yeah the one of the things with my company is that they've uh got a reputation for a lot of job security and uh there's a lot of different
+Customer 230.141125 235.694000 [silence]
+Customer 235.694000 237.173625 uh-huh
+Customer 237.173625 246.892875 [silence]
+Agent 238.009750 247.507250 things that they do lot of different divisions even this area in the San Francisco Bay Area that they do so there's uh i myself have moved around quite a bit within the company
+Customer 246.892875 248.165125 uh-huh
+Agent 247.507250 255.583375 and it's and i and i haven't had to move my residence to do that you know i still live in San Jose and
+Customer 248.165125 254.522625 [silence]
+Customer 254.522625 264.408875 wow that's fabulous you see now that's that's interesting because i have a cousin whose husband works for Hewlett Packard up in the Massachusetts area he he lives in Andover
+Agent 255.583375 257.126875 yeah it
+Agent 257.126875 260.858375 [silence]
+Agent 260.858375 262.102125 oh yeah
+Agent 262.102125 263.388250 yeah
+Agent 263.388250 265.061250 uh-huh
+Customer 264.408875 274.948375 and uh the work that he he's uh specifically an engineer and and does work with uh the Hewlett Packard machines that do uh [noise] uh sonographic imagining
+Agent 265.061250 274.157375 [silence]
+Agent 274.157375 275.444750 right
+Customer 274.948375 286.665750 and uh i've been over to see his complex over there and it's amazing it's it's all ecologically designed and and uh he seems really really happy with the the set up
+Agent 275.444750 279.840875 [silence]
+Agent 279.840875 281.147250 um
+Agent 281.147250 286.455750 [silence]
+Agent 286.455750 296.169125 yeah yeah in fact i know a guy who works at Andover who used to work who i used to work with out here and he moved his family back east a few years ago to to take that position
+Customer 286.665750 287.894375 and
+Customer 287.894375 291.535375 [silence]
+Customer 291.535375 293.046875 uh-huh
+Customer 293.046875 299.170000 [silence]
+Agent 296.169125 299.170000 kind of interesting um uh anyhow

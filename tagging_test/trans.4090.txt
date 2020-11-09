@@ -1,0 +1,130 @@
+Agent 0.000000 0.575000 [noise]
+Customer 0.000000 2.312875 [noise] okay Eric um
+Agent 0.575000 4.643875 [silence]
+Customer 2.312875 5.179750 are you married and do you have a family
+Agent 4.643875 8.495625 [noise] uh yes i am to uh both questions
+Customer 5.179750 7.545125 [silence]
+Customer 7.545125 14.415750 okay and do you and your wife have a budget plan for your finances
+Agent 8.495625 13.962000 [silence]
+Agent 13.962000 16.900625 uh yeah we do we um [noise]
+Customer 14.415750 23.194375 [silence]
+Agent 16.900625 21.796125 uh basically there's the you know expenses that
+Agent 21.796125 27.483500 are fixed during the month you know the ones that come every every month and
+Customer 23.194375 24.689875 uh-huh
+Customer 24.689875 31.435750 [silence]
+Agent 27.483500 32.204375 we uh enter those into uh into a spread sheet
+Customer 31.435750 33.259625 [noise]
+Agent 32.204375 40.763000 [noise] and uh what's ever left uh after that we you know we we sit down and agree on kind of what
+Customer 33.259625 43.106000 [silence]
+Agent 40.763000 43.698625 you know what sort of range we're gonna
+Customer 43.106000 44.473750 uh-huh
+Agent 43.698625 44.744000 [silence]
+Customer 44.473750 46.610500 [silence]
+Agent 44.744000 47.477750 generally gonna shoot for
+Customer 46.610500 48.219125 okay
+Agent 47.477750 49.597250 [silence]
+Customer 48.219125 49.488875 um
+Customer 49.488875 51.069125 [noise]
+Agent 49.597250 51.620875 [noise] so what do you do
+Customer 51.069125 57.948000 [noise] well that's basically what we do um about every every three months or so
+Agent 51.620875 65.397375 [silence]
+Customer 57.948000 65.974750 we reevaluate our budget and we sit down and just write from the largest bills down to the smallest
+Agent 65.397375 66.754750 um-hum
+Customer 65.974750 69.652500 and then we divvy them up between
+Agent 66.754750 72.105875 [silence]
+Customer 69.652500 82.106625 our four pay checks i work part time at night and he works and my husband works full time days and so we have the four pay checks with that works out nice because we get paid every week
+Agent 72.105875 74.127375 [laughter-wow]
+Agent 74.127375 82.109875 [silence]
+Customer 82.106625 85.858375 and so that does help that helps a lot
+Agent 82.109875 83.472000 yeah
+Agent 83.472000 90.526000 [silence]
+Customer 85.858375 94.321875 and then um we don't have a lot ex[tra]- extra for extra spending so it's pretty well [laughter] earmarked
+Agent 90.526000 96.824375 [laughter-yeah] all allocated out [laughter] yeah
+Customer 94.321875 102.857375 yeah [laughter] ev[ery]- every penny is earmarked but um it we have found that that works the best and
+Agent 96.824375 117.858000 [silence]
+Customer 102.857375 108.323375 and so if we can just divide them up all the major bills up in fact we
+Customer 108.323375 118.406875 found it easier to divide the major bills up you know cut the house payment in half and cut the loan payment in half and and divide those up between all
+Agent 117.858000 119.132625 all the
+Customer 118.406875 126.397500 um-hum and so we are not taking a huge sum out out of one and then the next pay check we're real short or
+Agent 119.132625 121.090250 checks yeah
+Agent 121.090250 125.861500 [silence]
+Agent 125.861500 129.002125 right yeah we found that um
+Customer 126.397500 127.914750 [silence]
+Customer 127.914750 129.572625 [noise]
+Agent 129.002125 133.675750 it's definitely helped uh get a handle on kind of
+Customer 129.572625 135.200500 [silence]
+Agent 133.675750 143.690500 the unnecessary expenses [laughter] we were before we started doing that kind of a thing we were um spending uh
+Customer 135.200500 137.354625 that's true
+Customer 137.354625 148.474000 [silence]
+Agent 143.690500 146.199625 money for things that
+Agent 146.199625 156.779000 you know we probably tended to eat out a bit more than the than we should have and it was easy to uh let things get out of hand we thought it uh
+Customer 148.474000 150.184750 uh-huh
+Customer 150.184750 152.551125 [laughter]
+Customer 152.551125 160.615750 [silence]
+Agent 156.779000 161.525750 thought it to be really helpful we've gotten some of our loans paid off early
+Customer 160.615750 162.288125 yeah
+Agent 161.525750 164.626500 because of this and and stuff like that so
+Customer 162.288125 163.958750 [silence]
+Customer 163.958750 166.242250 well it helps you to focus
+Agent 164.626500 167.815125 [silence]
+Customer 166.242250 173.408250 where your money goes and and i'm sure you felt the s[ame]- the same frustration before you got on a budget but
+Agent 167.815125 169.762625 yeah [laughter]
+Agent 169.762625 179.522625 [silence]
+Customer 173.408250 183.941125 you're wondering my when you put down all the money that you do bring in and then you're saying my word where did all that money go where does it go
+Agent 179.522625 182.915375 that's a lot of money but [laughter]
+Agent 182.915375 184.676375 yeah
+Customer 183.941125 188.981125 huh and also we have found that if we write down
+Agent 184.676375 185.764750 [vocalized-noise]
+Agent 185.764750 199.033250 [silence]
+Customer 188.981125 198.090375 a[nd]- and we did this we're not real consistent with this but we did it for about a month and we wrote down everything that we bought with you know
+Customer 198.090375 199.587500 every paycheck
+Agent 199.033250 200.328750 um-hum
+Customer 199.587500 204.737125 and so we could see where every penny went and it was really interesting to see
+Agent 200.328750 210.822000 [silence]
+Customer 204.737125 211.046625 [noise] just what you do spend and and like i say we haven't been real consistent with it it's
+Agent 210.822000 211.999500 [noise]
+Customer 211.046625 213.660625 we should because_1 it does help
+Agent 211.999500 213.022125 [silence]
+Agent 213.022125 217.815500 yeah the other the other thing that that we've found that that helps if
+Customer 213.660625 220.009250 [silence]
+Agent 217.815500 226.816500 you know we tend to fudge on the budget a little bit it's just to [laughter-uh] uh get out the money in advance and put it in uh
+Customer 220.009250 221.537500 uh-huh
+Customer 221.537500 222.589375 [laughter]
+Customer 222.589375 232.009750 [silence]
+Agent 226.816500 235.221500 um so long as it wasn't you know unreasonably high but for things like food expenses or or whatever just put it in a
+Customer 232.009750 233.704000 uh-huh
+Customer 233.704000 235.457125 [noise]
+Agent 235.221500 242.483000 in an envelope or whatever and that way it kind of forced us to uh stick to that amount
+Customer 235.457125 240.001125 [silence]
+Customer 240.001125 241.272500 [vocalized-noise]
+Customer 241.272500 245.261375 just stick to that uh-huh that is
+Agent 242.483000 243.570375 [silence]
+Agent 243.570375 251.447375 and then once that was gone well [laughter] if the entertainment amount was gone for the month oh it's gone [laughter]
+Customer 245.261375 247.511125 [laughter-uh-huh]
+Customer 247.511125 249.376250 yeah
+Customer 249.376250 250.361875 that
+Customer 250.361875 253.000750 that sounds like a really good idea
+Agent 251.447375 252.555250 [silence]
+Agent 252.555250 254.429625 so
+Customer 253.000750 255.179250 and it really helpful
+Agent 254.429625 261.320250 [silence]
+Customer 255.179250 262.194500 um have you [noise] developed a savings plan or IRAs or anything like that yet
+Agent 261.320250 272.767875 we we haven't we our our initial goal was just to retire our debt uh completely retire our debt for car payments and credit card
+Customer 262.194500 270.726625 [silence]
+Customer 270.726625 272.310625 oh uh-huh
+Customer 272.310625 273.862375 uh-huh
+Agent 272.767875 280.463375 uh credit card debt and and all of that and we're just at a point where where we could start thinking about it so
+Customer 273.862375 279.167750 [silence]
+Customer 279.167750 283.136250 oh that's good that's a good feeling [noise]
+Agent 280.463375 281.712625 [noise]
+Agent 281.712625 284.012250 yeah i
+Customer 283.136250 288.400500 my husband just graduated from the university uh [noise]
+Agent 284.012250 289.110375 [silence]
+Customer 288.400500 296.711625 a year ago so finally [laughter] finally we are getting to that point too so are you still going to school or
+Agent 289.110375 290.547625 um-hum
+Agent 290.547625 291.971500 [laughter]
+Agent 291.971500 293.979375 a study
+Agent 293.979375 295.005500 yeah
+Agent 295.005500 296.008000 [silence]
+Agent 296.008000 298.466000 yeah i'm actually in the in the mas[ter]-
+Customer 296.711625 298.466000 [silence]

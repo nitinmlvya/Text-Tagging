@@ -1,0 +1,265 @@
+Agent 0.000000 2.882500 [silence]
+Customer 0.000000 3.586625 so uh describe your family budget
+Agent 2.882500 6.431000 well i've uh
+Customer 3.586625 32.406375 [silence]
+Agent 6.431000 20.233500 for a lot of years i've i've pretty much flied without one and uh just recently uh we we set up a budget and and we're trying to stick to it we just bought a new house so we've got everything you know pretty much we know what our uh
+Agent 20.233500 33.673000 our fixed expenses are per month and then we've got some ones that are variable that that pretty much stay within a certain range and then uh then there's the ones that you never know anything about and that's the the food budget but that
+Customer 32.406375 38.013750 well yeah and to some extent uh utilities i imagine
+Agent 33.673000 38.386375 [silence]
+Customer 38.013750 49.209375 [silence]
+Agent 38.386375 41.374250 yeah well the utilities they're pretty much uh
+Agent 41.374250 49.873375 uh you can pretty much uh figure what they're going to be and one of the nice things here is the electric company has a plan where they'll average them out for you
+Customer 49.209375 57.917875 uh they have that to some extent here but it's not quite as good and
+Agent 49.873375 55.527750 [silence]
+Agent 55.527750 56.986875 um-hum
+Agent 56.986875 61.508250 [silence]
+Customer 57.917875 61.980000 uh transportation expenses i guess you own a car
+Agent 61.508250 62.983500 yes sir
+Customer 61.980000 63.684875 [silence]
+Agent 62.983500 66.348625 [silence]
+Customer 63.684875 67.076250 and you know how much you're going to drive every week
+Agent 66.348625 80.165125 well i used to um i used to know uh fairly close to exactly how many miles i drove because i- i was very convenient i lived uh uh nine tenths of a mile from work
+Customer 67.076250 79.912250 [silence]
+Customer 79.912250 81.267750 huh
+Agent 80.165125 91.425000 so so was uh you know two miles a day [laughter] to and from work [laughter] so it it kind of cut my transportation costs a lot but now i've just bought a new house and i'm a half hour
+Customer 81.267750 91.218125 [silence]
+Customer 91.218125 92.433625 uh
+Agent 91.425000 97.707750 and so my uh transportation costs have uh gone up by uh five times [laughter]
+Customer 92.433625 99.158250 [silence]
+Agent 97.707750 112.281000 [silence]
+Customer 99.158250 105.344250 yeah i understand that we we have a real similar situation ours have uh
+Customer 105.344250 109.761625 quintupled at least uh
+Customer 109.761625 112.390750 so there is a real family budget
+Agent 112.281000 118.521625 yeah pretty much um the problem is there never seems to be enough money
+Customer 112.390750 138.240500 [silence]
+Agent 118.521625 128.840500 uh i have uh three children and uh it seems like the more money you make the more money you have the more things that they seem to need
+Agent 128.840500 138.881375 and uh of course nothing ever goes down i mean uh i remember you know i have five children total i have three left in the house
+Customer 138.240500 139.435125 yeah
+Agent 138.881375 146.072375 and i can remember years ago when uh school would start and i'd go buy all five kids you know shoes and i could get out of the out of the uh
+Customer 139.435125 154.159125 [silence]
+Agent 146.072375 154.936875 out of the shoe store with uh out spending more than thirty five dollars nowadays thirty five dollars buys about one pair of shoes
+Customer 154.159125 155.475625 if you're lucky
+Agent 154.936875 163.083000 [laughter-yeah] so i mean things have just really gone out of sight in the last uh i guess about the last ten years
+Customer 155.475625 162.002500 [silence]
+Customer 162.002500 163.915375 exempt or nonexempt
+Agent 163.083000 164.829250 i'm exempt
+Customer 163.915375 165.478875 [silence]
+Agent 164.829250 166.329250 [silence]
+Customer 165.478875 166.850000 wow must be nice
+Agent 166.329250 168.230000 [laughter]
+Customer 166.850000 168.383625 [silence]
+Agent 168.230000 179.625125 [silence]
+Customer 168.383625 170.752250 part of the high price spread uh
+Customer 170.752250 171.966375 no uh
+Customer 171.966375 173.368000 [silence]
+Customer 173.368000 174.705000 well we don't
+Customer 174.705000 177.708875 we do but we don't have a family budget
+Customer 177.708875 180.263500 we have the fixed things that we have to pay
+Agent 179.625125 181.012500 um-hum
+Customer 180.263500 183.493250 [silence]
+Agent 181.012500 192.733125 [silence]
+Customer 183.493250 184.783125 and
+Customer 184.783125 192.994375 we have the things that are extras but it seems that by and large the extras just don't exist
+Agent 192.733125 194.029375 yeah
+Customer 192.994375 194.469125 [silence]
+Agent 194.029375 203.590375 [silence]
+Customer 194.469125 195.767000 and
+Customer 195.767000 198.455875 well you know the auto budget
+Customer 198.455875 200.308250 [silence]
+Customer 200.308250 204.163375 the car payment sucks a hell of a lot of it dry
+Agent 203.590375 204.865500 um-hum
+Customer 204.163375 205.998500 [silence]
+Agent 204.865500 207.611000 [silence]
+Customer 205.998500 208.642750 and insurance is insurance bad there
+Agent 207.611000 209.942250 um
+Customer 208.642750 216.362750 [silence]
+Agent 209.942250 219.444125 i've got uh two older cars there both uh one's a seventy seven and one's a seventy eight
+Customer 216.362750 218.623375 well we've got one eighty nine
+Customer 218.623375 243.605250 [silence]
+Agent 219.444125 223.230875 and uh my insurance is about uh
+Agent 223.230875 229.196625 it was running about four hundred dollars a year but when i moved to the new town i live in because it's a different county
+Agent 229.196625 244.159000 which has less crime and uh less you know less highways and so it's a cheaper place to live as far as the insurance company's concerned so my my i think my insurance dropped about uh sixty dollars a year
+Customer 243.605250 247.562625 wow that's that's not bad four hundred and something a year that's that's
+Agent 244.159000 246.853250 [silence]
+Agent 246.853250 250.297250 well it's actually three hundred and forty for each one of the cars so [noise]
+Customer 247.562625 250.690000 [silence]
+Agent 250.297250 251.796875 [silence]
+Customer 250.690000 252.147500 that's cheaper than we pay
+Agent 251.796875 261.256375 yeah yeah i was down in Texas for uh two years and i was paying unbelievable rates for both car insurance and for home insurance um they
+Customer 252.147500 260.452250 [silence]
+Customer 260.452250 264.499750 well here in Colorado it's even worse because_1 we have uh no fault
+Agent 261.256375 263.928125 [silence]
+Agent 263.928125 265.219125 yeah
+Customer 264.499750 266.301625 [silence]
+Agent 265.219125 267.217250 [silence]
+Customer 266.301625 267.789875 do you have that there
+Agent 267.217250 270.401625 uh in Maryland they uh they have no fault in Maryland also
+Customer 267.789875 270.341875 [silence]
+Customer 270.341875 275.339500 well no fault's rather funny in Colorado because uh it seems that
+Agent 270.401625 277.942750 [silence]
+Customer 275.339500 276.761375 [silence]
+Customer 276.761375 278.886375 everyone pays all the time
+Agent 277.942750 279.217625 yeah
+Customer 278.886375 280.896750 instead of just the guilty party pays
+Agent 279.217625 280.240250 [silence]
+Agent 280.240250 281.662125 um-hum
+Customer 280.896750 290.980500 [silence]
+Agent 281.662125 283.251875 yeah
+Agent 283.251875 291.235000 it's kind of it's kind of strange here the way things go uh here if you have an accident and no one's injured the police won't even show up
+Customer 290.980500 292.243750 you're kidding
+Agent 291.235000 292.779625 nope
+Customer 292.243750 297.527125 [silence]
+Agent 292.779625 297.570750 they tell you if nobody's injured you all exchange names and take it up with your insurance company
+Customer 297.527125 299.819375 God
+Agent 297.570750 299.149625 [silence]
+Agent 299.149625 309.592500 [vocalized-noise] well if you i don't know how familiar you are with Maryland but uh especially the the the center part of Maryland where i ninety five runs through it is really heavily populated
+Customer 299.819375 303.836500 [silence]
+Customer 303.836500 305.133875 not at all
+Customer 305.133875 318.014375 [silence]
+Agent 309.592500 314.432625 and there's just so many people and so many accidents every single day
+Agent 314.432625 318.156875 that it take a whole another police force just to answer the traffic
+Customer 318.014375 320.196125 they don't even try to keep up with it
+Agent 318.156875 319.273875 [silence]
+Agent 319.273875 320.754625 no
+Customer 320.196125 324.297500 God so you lived in Texas for a while
+Agent 320.754625 322.304500 not a bit
+Agent 322.304500 323.353000 [silence]
+Agent 323.353000 324.788875 yes sir
+Customer 324.297500 325.568125 huh
+Agent 324.788875 330.797500 i spent uh couple years down there moved down there in eighty seven and moved out in eighty nine
+Customer 325.568125 330.604875 [silence]
+Customer 330.604875 332.885750 are where you from originally
+Agent 330.797500 332.917625 [silence]
+Customer 332.885750 334.230875 [silence]
+Agent 332.917625 334.367250 uh right here in Maryland
+Customer 334.230875 337.467875 huh so you just basically went home when you had a chance
+Agent 334.367250 335.942625 and my family
+Agent 335.942625 337.232375 [silence]
+Agent 337.232375 346.551500 yeah my family uh didn't like Texas and i had a chance to uh transfer up TI bought a company about seven months after i moved to Texas right here in Hunt Valley
+Customer 337.467875 345.689000 [silence]
+Customer 345.689000 347.968500 uh that's nice
+Agent 346.551500 349.818000 so i got an opportunity to transfer back and i took it
+Customer 347.968500 350.345125 [silence]
+Agent 349.818000 351.213750 [silence]
+Customer 350.345125 354.494125 God that's great uh no i'm a native Texan
+Agent 351.213750 352.472375 yeah
+Agent 352.472375 353.530125 [silence]
+Agent 353.530125 355.054750 um-hum
+Customer 354.494125 355.783750 west Texan
+Agent 355.054750 356.542500 yeah
+Customer 355.783750 357.232875 there is a difference
+Agent 356.542500 366.300625 [laughter-yeah] believe me i know there is i lived in Plano and i don't know if you're familiar with Plano but Plano maybe five percent of the people in Plano actually were from Texas
+Customer 357.232875 361.713875 [silence]
+Customer 361.713875 363.347875 yeah
+Customer 363.347875 368.147750 [silence]
+Agent 366.300625 367.998750 everybody else was an import
+Agent 367.998750 369.851625 [silence]
+Customer 368.147750 372.713875 well i'm i'm a west Texan Lubbock Midland Odessa
+Agent 369.851625 371.138750 um-hum
+Agent 371.138750 372.167000 [silence]
+Agent 372.167000 373.467750 yes
+Customer 372.713875 373.816000 [silence]
+Agent 373.467750 375.630250 [silence]
+Customer 373.816000 376.318875 Amarillo Dumas Panhandle
+Agent 375.630250 376.946250 yeah
+Customer 376.318875 378.805000 a different world from down there
+Agent 376.946250 378.114500 [silence]
+Agent 378.114500 379.387500 yeah
+Customer 378.805000 380.716875 so uh
+Agent 379.387500 384.722000 [silence]
+Customer 380.716875 382.665750 Colorado's been fun
+Customer 382.665750 384.866000 but they have a real problem
+Agent 384.722000 385.926125 um
+Customer 384.866000 386.238625 [silence]
+Agent 385.926125 394.870750 [silence]
+Customer 386.238625 388.409375 next to every window the state
+Customer 388.409375 391.181375 seems to have put up a turnstile
+Customer 391.181375 392.839375 and every time you
+Customer 392.839375 395.244750 look at a look at the mountains
+Agent 394.870750 396.311000 yeah
+Customer 395.244750 396.321750 [silence]
+Agent 396.311000 399.343125 [silence]
+Customer 396.321750 398.298750 or think about looking at the mountains
+Customer 398.298750 399.776125 you got to throw in a dollar
+Agent 399.343125 401.695625 [laughter]
+Customer 399.776125 401.184500 [silence]
+Customer 401.184500 409.121500 or or so it seems i- i may just be paranoid but that state income tax is just eating me alive
+Agent 401.695625 407.954750 [silence]
+Agent 407.954750 414.870125 yeah yeah they have a state income tax in Maryland but i noticed when i was in the in the
+Customer 409.121500 420.603250 [silence]
+Agent 414.870125 423.138125 in Texas they didn't have a state income tax but they sure nailed you on those darn county taxes and school taxes and property tax[es]-
+Customer 420.603250 429.340000 yeah yeah property taxes and yeah well Colorado
+Agent 423.138125 425.919375 oh my God ate you alive
+Agent 425.919375 433.491875 [silence]
+Customer 429.340000 431.144625 insp[ection]-
+Customer 431.144625 434.369375 you know they have the state income tax
+Agent 433.491875 434.882000 um-hum
+Customer 434.369375 437.877375 but then they also have property taxes
+Agent 434.882000 445.002625 [silence]
+Customer 437.877375 441.637000 and they also have sales taxes and they just
+Customer 441.637000 443.011875 [silence]
+Customer 443.011875 445.717875 and they just get you every direction they can
+Agent 445.002625 446.372750 yeah
+Customer 445.717875 446.779125 [silence]
+Agent 446.372750 451.417500 [silence]
+Customer 446.779125 451.684875 and i just don't know sir but they it seems like they trying to get you every which way
+Agent 451.417500 457.840500 yeah it sure does um there's uh some good books that i've read um that you might be interested in
+Customer 451.684875 457.862375 [silence]
+Agent 457.840500 467.904750 um Charles D Gibbons is the guy who runs some ads on late night TV and he's got seminars you can go to and they try to hook you into his organization which costs about four hundred bucks
+Customer 457.862375 459.332875 oh yeah
+Customer 459.332875 473.348625 [silence]
+Agent 467.904750 472.750500 but he's got a couple of books out uh one of them_1 is called um [noise] Wealth Without Risk
+Agent 472.750500 474.619750 [silence]
+Customer 473.348625 475.585375 i've heard of the book
+Agent 474.619750 480.632125 yes it's a very good book it's tells you how to cut money on your taxes and on your insurance and then what to do
+Customer 475.585375 479.920500 [silence]
+Customer 479.920500 481.174625 legally
+Agent 480.632125 482.776625 what to do with the money that you save
+Customer 481.174625 483.231500 [silence]
+Agent 482.776625 483.806375 [silence]
+Customer 483.231500 486.121625 legally cut money on your taxes huh
+Agent 483.806375 485.065375 yes [noise] yes sir
+Agent 485.065375 494.688750 legally legally cut money on your taxes and on your uh insurance and then he tells you how to invest that money in order to uh uh
+Customer 486.121625 520.854375 [silence]
+Agent 494.688750 504.546375 [noise] you know be wealthier uh he also has a new book out that i purchased right before i moved and haven't had a chance to uh to crack it open yet um
+Agent 504.546375 508.671750 [noise] Financial Self Defense i believe is the name of it
+Agent 508.671750 521.493750 uh the man uh has a lot of good ideas some of them i already knew about some of them i had already practiced but uh i suggest it to anyone who wants to be better off financially to read it because uh
+Customer 520.854375 523.475750 and that includes everyone at TI
+Agent 521.493750 522.632000 [silence]
+Agent 522.632000 529.699125 [laughter-yes] yes i'm one of the ones that had my salary frozen for ninety one yes
+Customer 523.475750 529.983750 [silence]
+Agent 529.699125 537.496750 [silence]
+Customer 529.983750 533.550750 well even the you know the non exempts
+Customer 533.550750 537.143625 technically yet we haven't had our salary frozen
+Customer 537.143625 538.402500 yet
+Agent 537.496750 538.884750 yet
+Customer 538.402500 540.513625 [silence]
+Agent 538.884750 542.870875 [silence]
+Customer 540.513625 543.555375 but when you're only at living wage it doesn't matter
+Agent 542.870875 544.178250 yeah
+Customer 543.555375 545.554250 [silence]
+Agent 544.178250 547.351250 [silence]
+Customer 545.554250 547.708750 you know survival is a funny state
+Agent 547.351250 554.342000 yeah i know what you mean i uh when i was in Dallas i was supervisor and i had uh four non exempts
+Customer 547.708750 555.714750 [silence]
+Agent 554.342000 555.734125 um under me
+Customer 555.714750 557.106000 yes
+Agent 555.734125 561.683625 and uh i- i was appalled at what the hell they were paying them i just couldn't believe it
+Customer 557.106000 561.647125 [silence]
+Customer 561.647125 568.430875 did well i've been with the company sixteen years now i was a WF for several years
+Agent 561.683625 564.284625 [silence]
+Agent 564.284625 565.785250 um-hum
+Agent 565.785250 579.167250 [silence]
+Customer 568.430875 569.707500 [silence]
+Customer 569.707500 573.773000 it just n[ever]- never seems to improve
+Customer 573.773000 579.987250 it and it doesn't seem to get much better for the exempts either unless you're twenty eight or above
+Agent 579.167250 580.596000 yeah
+Customer 579.987250 581.066000 [silence]
+Agent 580.596000 584.290000 [silence]
+Customer 581.066000 584.295375 it's really a shame
+Agent 584.290000 585.711750 well i i've
+Customer 584.295375 590.301125 [silence]
+Agent 585.711750 590.330000 this company that they bought they ended up buying a very high payroll
+Customer 590.301125 591.911500 oh
+Agent 590.330000 598.073000 and uh the you know uh i thought i was making a good wage you know high wage till i ca[me]-
+Customer 591.911500 598.073000 [silence]

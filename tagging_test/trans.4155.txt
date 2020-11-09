@@ -1,0 +1,151 @@
+Agent 0.000000 0.518125 [noise]
+Customer 0.000000 1.345375 [noise] um
+Agent 0.518125 2.015875 [silence]
+Customer 1.345375 2.790125 what's our topic
+Agent 2.015875 5.227500 taxes do we pay too much
+Customer 2.790125 4.565625 taxes
+Customer 4.565625 6.568625 right um
+Agent 5.227500 7.357625 [silence]
+Customer 6.568625 8.657375 [laughter]
+Agent 7.357625 9.316750 well do we
+Customer 8.657375 10.715000 [noise] what do you do
+Agent 9.316750 10.710875 [silence]
+Agent 10.710875 12.000000 um
+Customer 10.715000 11.739750 [silence]
+Customer 11.739750 15.817500 i guess that i mean it all depends really on what kind of bracket you're in
+Agent 12.000000 15.479375 [silence]
+Agent 15.479375 25.489750 my tax bracket is is pretty high up there i pay the i generally pay the maximum tax bracket and uh i think that we're paying too much because i don't have any children
+Customer 15.817500 20.416875 [silence]
+Customer 20.416875 21.759000 uh-huh
+Customer 21.759000 25.076500 [silence]
+Customer 25.076500 26.108750 right
+Agent 25.489750 28.027875 and i pay a lot on property taxes
+Customer 26.108750 27.126125 [silence]
+Customer 27.126125 28.817875 um sure
+Agent 28.027875 37.302375 i don't have any um i don't you know i don't use an awful lot of city services it it you know [noise] it's like i have to work
+Customer 28.817875 34.848750 [silence]
+Customer 34.848750 36.275000 um-hum
+Customer 36.275000 39.218500 [silence]
+Agent 37.302375 42.301375 but uh i have to work all the time just to make enough money to pay the taxes
+Customer 39.218500 40.771625 um-hum
+Customer 40.771625 42.507000 right
+Agent 42.301375 47.112625 and um y[ou]- there's so many people who wanted a [dib/bit] of the federal money
+Customer 42.507000 46.543375 [silence]
+Customer 46.543375 47.819500 um-hum
+Agent 47.112625 54.437625 or the state money or whatever it is and i just sometimes many times i end up feeling like i'm paying too much in taxes
+Customer 47.819500 53.654750 [silence]
+Customer 53.654750 54.918000 right
+Agent 54.437625 57.277250 how about_1 you do you pay too much
+Customer 54.918000 56.831750 [silence]
+Customer 56.831750 68.578375 uh well no i can't really complain i'm a student um and i [vocalized-noise] i work as a co-op at uh Georgia Tech Research Institute and uh
+Agent 57.277250 75.485000 [silence]
+Customer 68.578375 74.426500 i'm gonna get back most of what i earned i mean most of what i pay in taxes and uh
+Customer 74.426500 78.281875 and uh one one of my parents is still claiming me hm
+Agent 75.485000 76.843375 well when you
+Agent 76.843375 77.915625 [silence]
+Agent 77.915625 80.120375 when you go out into the uh
+Customer 78.281875 81.667250 [silence]
+Agent 80.120375 90.155000 when you go out into the working world i[t]- it it changes quickly um you look at your paycheck and you go oh my gosh where did it all go [laughter]
+Customer 81.667250 83.332000 um-hum
+Customer 83.332000 85.806875 i'm sure [laughter]
+Customer 85.806875 88.022875 [silence]
+Customer 88.022875 91.475125 [laughter]
+Agent 90.155000 93.944125 um what kind of what kind of uh
+Customer 91.475125 102.591250 [silence]
+Agent 93.944125 103.330500 well have you paid a lot of in ta[xes]- have you been out working and then gone back to school or are you did you go directly from high school into into college
+Customer 102.591250 105.458375 i went uh well i did work um
+Agent 103.330500 111.625500 [silence]
+Customer 105.458375 111.346000 just various jobs for some time but i- i didn't make enough money to really
+Customer 111.346000 114.349500 make too much of a difference right
+Agent 111.625500 113.267875 to worry about it
+Agent 113.267875 114.297500 [silence]
+Agent 114.297500 118.754500 have you have you been active in in politics trying to
+Customer 114.349500 123.813625 [silence]
+Agent 118.754500 124.444875 [noise] concerning this have you like worked on a political action committees or something like that
+Customer 123.813625 125.476500 no no i haven't
+Agent 124.444875 125.501625 [silence]
+Customer 125.476500 128.145750 [silence]
+Agent 125.501625 129.772125 i uh i haven't done any of that type of work myself um
+Customer 128.145750 129.393625 um-hum
+Customer 129.393625 147.984375 [silence]
+Agent 129.772125 140.867625 but every once in a while when i hear up here at at um in DC area um one of the radio stations has been talking about the the Congress um
+Agent 140.867625 148.424125 [noise] Congress has added too towards a Members Bank there you know there's a bank that they all bank with and i guess it went defunct recently
+Customer 147.984375 149.268625 um-hum
+Agent 148.424125 154.997875 and one of the Congressmen has has written in the last three years al[most]- about a thousand bad checks
+Customer 149.268625 154.484500 [silence]
+Customer 154.484500 155.777250 hm
+Agent 154.997875 164.586375 and we we the taxpayers float him a loan for all tho[se]- all those bad checks no interest no repayment schedule
+Customer 155.777250 161.958625 [silence]
+Customer 161.958625 162.979500 really
+Customer 162.979500 164.014000 [silence]
+Customer 164.014000 165.353000 really
+Agent 164.586375 173.037000 and um it's causing quite a stir up here because we're so close to DC anyway it's really kind of curious to watch this thing occur
+Customer 165.353000 167.294750 [silence]
+Customer 167.294750 168.535250 um-hum
+Customer 168.535250 172.461125 [silence]
+Customer 172.461125 173.870625 oh sure
+Agent 173.037000 180.745250 um i- i- i think we pay too much and i've i look at my paycheck and i make
+Customer 173.870625 190.646000 [silence]
+Agent 180.745250 188.911375 well let's see they take out in state and federal taxes i think i pay
+Agent 188.911375 191.454875 forty two percent
+Customer 190.646000 192.002625 wow
+Agent 191.454875 194.636625 forty two cents out of every dollar i make goes to
+Customer 192.002625 199.495125 [silence]
+Agent 194.636625 205.828625 the government and then they charge me sales tax and they charge me gasoline taxes and they charge me all these others and it's just too expensive i can't believe that
+Customer 199.495125 201.083375 um-hum
+Customer 201.083375 202.500000 taxes
+Customer 202.500000 203.516125 [silence]
+Customer 203.516125 204.826000 um-hum
+Customer 204.826000 208.565000 [silence]
+Agent 205.828625 209.593750 i- i'm just thankful that i don't get all the government that i pay for
+Customer 208.565000 209.891375 hm
+Agent 209.593750 211.349750 you know what i mean
+Customer 209.891375 210.892750 [silence]
+Customer 210.892750 212.096625 yeah
+Agent 211.349750 216.747625 do you have you used um student loans and things like that that were guaranteed by the government
+Customer 212.096625 216.245000 [silence]
+Customer 216.245000 222.995625 no no i haven't uh i uh my father pays for my my schooling my tuition
+Agent 216.747625 226.775250 [silence]
+Customer 222.995625 226.992000 so uh i'm i haven't made use of that
+Agent 226.775250 228.453375 what are you studying down there
+Customer 226.992000 228.308875 [silence]
+Customer 228.308875 229.512500 physics
+Agent 228.453375 230.021375 [silence]
+Customer 229.512500 231.640500 [silence]
+Agent 230.021375 233.388500 physics ooh that sounds like a fun fun field [noise]
+Customer 231.640500 235.520875 [laughter] [laughter-everybody] says that [laughter]
+Agent 233.388500 234.391250 [silence]
+Agent 234.391250 235.725500 [laughter]
+Customer 235.520875 237.004125 [laughter]
+Agent 235.725500 243.098375 scientific [laughter] heavy science are you like in the particle particle research or
+Customer 237.004125 238.859000 um
+Customer 238.859000 240.738625 [laughter]
+Customer 240.738625 247.053625 [silence]
+Agent 243.098375 247.384250 anything like that or is it more um applied physics
+Customer 247.053625 253.442750 um i haven't i haven't gotten too terribly much into my major yet actually um
+Agent 247.384250 263.130125 [silence]
+Customer 253.442750 255.115125 [silence]
+Customer 255.115125 263.447875 [noise] the the degree i'm getting is physics there's a different one for applied physics so i guess you could call it more straight stuff
+Agent 263.130125 272.260000 okay well maybe maybe you can figure out how we can stop this inertia that's [vocalized-noise] rolling towards whatever it's rolling toward
+Customer 263.447875 265.482125 than applied
+Customer 265.482125 268.085250 [silence]
+Customer 268.085250 269.989000 [laughter]
+Customer 269.989000 271.130500 [silence]
+Customer 271.130500 275.972000 i doubt about that are are is America i mean are we pretty
+Agent 272.260000 278.744750 [silence]
+Customer 275.972000 278.763750 pretty steep compared to most countries
+Agent 278.744750 281.266500 actually i don't think we are
+Customer 278.763750 280.553000 [silence]
+Customer 280.553000 282.735625 nah i don't think so either
+Agent 281.266500 283.375000 um like like Europe
+Customer 282.735625 284.251625 um-hum
+Agent 283.375000 284.695500 um England
+Customer 284.251625 285.649750 um-hum
+Agent 284.695500 286.995875 i know the taxes are a lot higher
+Customer 285.649750 287.417500 um-hum
+Agent 286.995875 290.726250 but they do have socialized medicine and things like that
+Customer 287.417500 289.876375 [silence]
+Customer 289.876375 291.140125 yeah
+Agent 290.726250 296.094125 and um i know th[at]- i was reading in the paper i believe yesterday that um
+Customer 291.140125 298.562000 [silence]
+Agent 296.094125 298.562000 they're talking or maybe it was on the radi[o]-

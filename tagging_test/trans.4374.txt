@@ -1,0 +1,141 @@
+Agent 0.000000 0.924750 [noise] okay_1
+Customer 0.000000 0.611500 [noise]
+Customer 0.611500 2.980250 okay what do you do
+Agent 0.924750 2.723250 [silence]
+Agent 2.723250 7.533125 we use a monthly budget um my husband and i my husband works
+Customer 2.980250 11.128750 [silence]
+Agent 7.533125 15.665500 i don't and um he brings home the paycheck [laughter] and we have a budget or a balance sheet is what we call it
+Customer 11.128750 12.427250 um-hum
+Customer 12.427250 15.115875 [silence]
+Customer 15.115875 16.297125 um-hum
+Agent 15.665500 20.731500 we have different columns for different areas of our budget and
+Customer 16.297125 24.889625 [silence]
+Agent 20.731500 25.566125 we budget out a certain amount for each month or each pay period
+Customer 24.889625 26.125875 um-hum
+Agent 25.566125 28.888000 and then we try not to go over that [laughter]
+Customer 26.125875 28.294750 [silence]
+Customer 28.294750 29.547375 right
+Agent 28.888000 31.899625 and so anyway what do you do
+Customer 29.547375 30.575750 [silence]
+Customer 30.575750 38.542750 well when when i was married my husband budgeted you know very very tightly
+Agent 31.899625 37.963750 [silence]
+Agent 37.963750 39.430250 uh-huh
+Customer 38.542750 46.843875 but then every time there was any uh and he made sure of it if there was any extra money for anything he spent it
+Agent 39.430250 46.237625 [silence]
+Agent 46.237625 49.040250 oh [laughter]
+Customer 46.843875 55.569875 right so you know that that type of budget i didn't func[tion]- you know i didn't uh i felt like i was getting the short end of the stick
+Agent 49.040250 54.812000 [silence]
+Agent 54.812000 57.403875 right um-hum
+Customer 55.569875 63.296250 you know so uh but i'm i'm divorced now so i don't even have a bank account
+Agent 57.403875 62.719500 [silence]
+Agent 62.719500 64.307000 uh-huh
+Customer 63.296250 73.863000 i have a my the company that i'm working for has a credit union and i put in the credit union every week
+Agent 64.307000 67.995500 [silence]
+Agent 67.995500 69.265500 um-hum
+Agent 69.265500 74.057375 [silence]
+Customer 73.863000 76.746500 a substantial amount of my check
+Agent 74.057375 75.837625 um-hum
+Agent 75.837625 77.235875 right
+Customer 76.746500 86.598250 and then when i have some extra monthly uh or quarterly bills like insurances and taxes and things like that
+Agent 77.235875 85.880375 [silence]
+Agent 85.880375 87.300000 um-hum
+Customer 86.598250 91.034000 then i draw out of that savings account to cover those extra expenses
+Agent 87.300000 90.156000 [silence]
+Agent 90.156000 91.597875 um-hum
+Customer 91.034000 99.633000 and uh i you know i'm still very uh very tight with my money course i make very little also
+Agent 91.597875 96.768250 [silence]
+Agent 96.768250 98.512375 uh-huh
+Agent 98.512375 100.183125 yeah
+Customer 99.633000 106.997500 but i couldn't i just couldn't stand the pressure of having a checking account and being concerned about having a check that wasn't covered
+Agent 100.183125 106.397250 [silence]
+Agent 106.397250 107.905500 right
+Customer 106.997500 119.529125 because they're really expensive down here on a you know if you if you misfigure your check you on a ten or twenty dollar check any any size check it could cost you easy fifty dollars to get it
+Agent 107.905500 115.792750 [silence]
+Agent 115.792750 117.364000 um-hum
+Agent 117.364000 118.489125 [silence]
+Agent 118.489125 122.061250 oh my God uh-huh
+Customer 119.529125 121.443750 straightened out
+Customer 121.443750 125.317500 so and my my budget doesn't ha[ve]- stand for that
+Agent 122.061250 124.385750 [silence]
+Agent 124.385750 126.493500 [laughter-right]
+Customer 125.317500 134.421500 so uh but i've i save uh uh i haven't the last two years i have saved in an IRA every year
+Agent 126.493500 138.479750 [silence]
+Customer 134.421500 139.749250 uh saved enough money to to buy an IR[A]- you know to pay for a two thousand dollar IRA every year
+Agent 138.479750 139.987000 right
+Customer 139.749250 147.908000 and um i'm in the credit union uh not the credit union the company uh savings and investment plan
+Agent 139.987000 144.407750 [silence]
+Agent 144.407750 145.924500 um-hum
+Agent 145.924500 147.031500 [silence]
+Agent 147.031500 149.524375 now that's a good idea
+Customer 147.908000 154.109125 and i save six percent there i actually sa[ve]- nine percent there they add three percent to it
+Agent 149.524375 151.478250 uh-huh
+Agent 151.478250 153.055750 [silence]
+Agent 153.055750 154.845000 um-hum
+Customer 154.109125 157.597125 so uh i'm you know i'm uh
+Agent 154.845000 156.983250 [silence]
+Agent 156.983250 158.505750 you're set
+Customer 157.597125 166.845000 well i'm i'm saving you know i e[ven]- even though i make very little money and and uh you know and me an[d]- it's it's me and my daughter
+Agent 158.505750 159.766375 [laughter]
+Agent 159.766375 160.738750 yeah
+Agent 160.738750 164.204125 [silence]
+Agent 164.204125 164.993000 um-hum
+Agent 164.993000 166.176375 [silence]
+Agent 166.176375 167.576750 yeah
+Customer 166.845000 176.385250 and uh so uh you know i'm doing better [laughter-n[ow]-] better i'm came out of of a job that paid very well
+Agent 167.576750 180.562375 [silence]
+Customer 176.385250 187.595875 like for down here i made twenty five to thirty thousand a year and my ex made uh under forty
+Agent 180.562375 181.969500 uh-huh
+Agent 181.969500 186.610500 [silence]
+Agent 186.610500 188.113250 hm
+Customer 187.595875 194.439750 and now the first year i was out on my own i made four i made twelve thousand
+Agent 188.113250 193.741875 [silence]
+Agent 193.741875 195.267750 wow
+Customer 194.439750 197.566125 yes it was tough
+Agent 195.267750 196.757250 [silence]
+Agent 196.757250 198.280500 yes
+Customer 197.566125 204.979375 and last year i got a promotion and a raise and and a better [vocalized-noise] different a better job and i made seventeen
+Agent 198.280500 204.725250 [silence]
+Agent 204.725250 205.913375 wow
+Customer 204.979375 211.379625 so uh i'm doing better uh and but i'm still saving more money now than i did when i was married
+Agent 205.913375 210.847500 [silence]
+Agent 210.847500 221.506000 yeah well i think that one thing that people don't do a lot of these days a lot of people just live from paycheck to paycheck and don't have enough to put away
+Customer 211.379625 220.572625 [silence]
+Customer 220.572625 227.658250 they do here they you know a lot of people i mean they are and every time they have uh like a car break down
+Agent 221.506000 222.985750 yeah
+Agent 222.985750 227.010125 [silence]
+Agent 227.010125 228.374750 uh-huh
+Customer 227.658250 238.163125 or their taxes come due or [vocalized-noise] all kinds of stuff they would our credit [vocalized-noise] the credit union at the company that i work for was was more like a loan shark
+Agent 228.374750 229.424500 [silence]
+Agent 229.424500 230.642125 um-hum
+Agent 230.642125 237.685875 [silence]
+Agent 237.685875 239.067625 right
+Customer 238.163125 243.624375 it was awful they w[ouldn't]- they didn't have to follow uh regulations of any kind
+Agent 239.067625 240.505375 uh-huh
+Agent 240.505375 242.923000 [silence]
+Agent 242.923000 244.508500 oh uh-huh
+Customer 243.624375 255.183750 and so the people would would every time they had trouble they didn't have to manage their money they'd just have to go sign their life away and and get money from the credit union
+Agent 244.508500 253.037625 [silence]
+Agent 253.037625 254.491875 hm
+Agent 254.491875 255.860375 yeah
+Customer 255.183750 261.228875 and they just they ended up a lot of them ended up owing more at the credit union than they could then they could ever pay
+Agent 255.860375 260.531625 [silence]
+Agent 260.531625 261.999250 right
+Customer 261.228875 264.156875 and they wouldn't get very much of a paycheck at all
+Agent 261.999250 263.488375 [silence]
+Agent 263.488375 264.959875 uh-huh
+Customer 264.156875 270.435750 because of the credit union taking so much out and and they didn't weren't willing to manage their their checks
+Agent 264.959875 266.758125 [silence]
+Agent 266.758125 268.020875 uh-huh
+Agent 268.020875 269.690875 [silence]
+Agent 269.690875 273.289750 [laughter]
+Customer 270.435750 278.959625 you know and uh but i it was pitiful i mean you think good grief y'all what is your you know why but uh
+Agent 273.289750 274.746750 yes
+Agent 274.746750 276.791125 [silence]
+Agent 276.791125 278.240625 uh-huh
+Agent 278.240625 286.486250 well i wasn't brought up this way to budget that's for sure my husband was and and it was really an adjustment period for me
+Customer 278.959625 286.017625 [silence]
+Customer 286.017625 287.533375 um-hum
+Agent 286.486250 290.504000 to learn how [laughter] but i could see the wisdom in it
+Customer 287.533375 289.656500 well if you
+Customer 289.656500 299.394000 exactly you know if you are not willing to budget your money then y[ou]- uh you know if you're not willing to be careful and live on what you make
+Agent 290.504000 299.394000 [silence]

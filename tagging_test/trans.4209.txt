@@ -1,0 +1,109 @@
+Agent 0.000000 0.224125 [noise]
+Customer 0.000000 3.323625 [noise] Jeff what do you think are you paying to much in taxes
+Agent 0.224125 2.576750 [silence]
+Agent 2.576750 11.005625 i certainly think that in some cases i am but uh i think it's mostly on the federal area were i don't see as much
+Customer 3.323625 29.856250 [silence]
+Agent 11.005625 16.243125 maybe fo[r]- for my money as uh i might uh i thought of
+Agent 16.243125 30.636375 school taxes as well and i was very involved in schools uh in the local community a couple years ago and it was pretty easy to see where it went all there but i guess i have the same opinion that some American have that uh uh it's all fat [laughter]
+Customer 29.856250 31.114875 [laughter]
+Agent 30.636375 32.601625 how about you
+Customer 31.114875 36.652750 well i- i i'm one of those that i'm kind of glad i don't get all the government i pay for
+Agent 32.601625 37.450750 [silence]
+Customer 36.652750 37.704250 [silence]
+Agent 37.450750 40.553250 i tell me more i don't understand [laughter]
+Customer 37.704250 39.808250 [laughter]
+Customer 39.808250 50.463125 well i just ship off so much money to the federal government and if they really uh took it and and did things to govern me well that would be a lot more government than what i think i [laughter-need]
+Agent 40.553250 49.939000 [silence]
+Agent 49.939000 54.392375 [laughter] uh
+Customer 50.463125 52.542375 [silence]
+Customer 52.542375 62.099250 oh uh the one i guess that on a daily basis the one that bother me is the sale tax i'm paying eight and a quarter percent on sale tax
+Agent 54.392375 61.189625 [silence]
+Agent 61.189625 62.587125 [vocalized-noise]
+Customer 62.099250 63.593000 yes
+Agent 62.587125 63.781375 [silence]
+Customer 63.593000 65.176375 at
+Agent 63.781375 65.893500 yeah that that adds up
+Customer 65.176375 74.355500 yeah and and you know you you put put your money down on the counter thinking that is enough to pay for it then you need another dollar [laughter-because] you had not guess right on the sale [laughter-tax]
+Agent 65.893500 71.179000 [silence]
+Agent 71.179000 72.201500 uh-huh
+Agent 72.201500 73.901750 [silence]
+Agent 73.901750 76.875875 it certainly adds up quickly yes
+Customer 74.355500 86.822750 [silence]
+Agent 76.875875 87.911250 and i've heard it said that of course that effect that effect us across the board in terms of social economic uh areas everybody pays that sale tax
+Customer 86.822750 87.953125 oh yes
+Agent 87.911250 93.494375 um i guess that's i- i guess i'm luck here i only pay five percent
+Customer 87.953125 93.517125 [silence]
+Agent 93.494375 94.750500 and
+Customer 93.517125 96.518875 that that sound great to me [laughter]
+Agent 94.750500 103.387125 [laughter] well if you want to move here uh all you have to do is find a job so i guess you trade things off one way or another [laughter]
+Customer 96.518875 98.214000 [silence]
+Customer 98.214000 99.751250 [laughter]
+Customer 99.751250 101.065625 [vocalized-noise]
+Customer 101.065625 102.395875 [silence]
+Customer 102.395875 104.234500 yeah i suppose so
+Agent 103.387125 105.412375 [laughter]
+Customer 104.234500 109.808125 yeah there there has been a lot of going on in Texas in term of financing schools
+Agent 105.412375 117.830000 [silence]
+Customer 109.808125 122.678500 uh there some judge decide that we had to have pay equal amount to students i mean you know education dollars per student all across the state well as you know it's very large state
+Agent 117.830000 119.424750 um-hum
+Agent 119.424750 120.668000 [silence]
+Agent 120.668000 122.300250 cool
+Agent 122.300250 127.024000 [silence]
+Customer 122.678500 128.140875 and it certainly cost more in in some areas than it does in others
+Agent 127.024000 130.575000 exactly they uh [laughter]
+Customer 128.140875 129.644750 and [noise]
+Customer 129.644750 144.045500 the they they call it the robin hood pl[an]- plan taking from the from the mostly prosperous urban district or suburb district and passing it alone to the rural districts so i don't know that that's going to be in the courts for a long time
+Agent 130.575000 131.872125 [silence]
+Agent 131.872125 133.219250 [laughter]
+Agent 133.219250 143.434500 [silence]
+Agent 143.434500 148.842125 i would think so uh that sort of thing has been tried here and
+Customer 144.045500 158.567000 [silence]
+Agent 148.842125 160.682125 the results are results the results were not too hardening uh and the belief here is uh kind of education what do we need that for [laughter]
+Customer 158.567000 173.475125 huh well that that's about the attitude here is just that you know if if you're paying for your local tax you're paying your local school district you can see some results of it but it's if you stop and think that some of that money is going to go get shipped off to South Texas or something
+Agent 160.682125 172.146125 [silence]
+Agent 172.146125 173.285625 yeah
+Agent 173.285625 177.720625 [silence]
+Customer 173.475125 178.266125 you it its almost like i don't know socialism or something isn't it
+Agent 177.720625 191.744750 exactly uh and i would think base upon my experience you have to have some of that uh consider uh some of these places in Idaho that have a school district of a total of about two hundred or three hundred children
+Customer 178.266125 191.318750 [silence]
+Customer 191.318750 192.505625 yeah
+Agent 191.744750 204.285250 and there a certain amount of overhead in running a school district uh for instance those kids may be spread out uh over an area where driving the buses you may go forty or fifty or even sixty miles
+Customer 192.505625 238.802250 [silence]
+Agent 204.285250 205.848625 and
+Agent 205.848625 220.678000 can you really expect the uh the people in that district to support all that overhead of getting the kids to and from school so some of the money come through the states from all people in the state basically e[qual]- well base upon their income
+Agent 220.678000 227.018625 to i'm sorry i- i take i that back a little bit of it comes from their income uh
+Agent 227.018625 239.092875 to support doing thing like that and that's probably okay uh it's kind of like telephone where uh the folk that live in the middle of town subsidize for people that have lines that go out for four or five miles
+Customer 238.802250 239.638875 uh-huh
+Agent 239.092875 247.841500 uh the other thing that we have is a property tax and that tend to subsidies part of it also
+Customer 239.638875 252.951750 [silence]
+Agent 247.841500 259.260750 uh the disadvantage there of course the people get into is they say hey i don't have any kids in school i've been retried for thirty five years and i'm still paying for somebody education
+Customer 252.951750 255.131625 i know huh
+Customer 255.131625 256.489500 huh
+Customer 256.489500 258.442375 [silence]
+Customer 258.442375 259.469125 yeah
+Agent 259.260750 270.390125 i- i guess i'm a believe in yes you have to you have to have some overhead just like uh i never used the fire department but at the some time i'll hate to have to ante up before they got here
+Customer 259.469125 266.703125 [silence]
+Customer 266.703125 267.713500 [laughter]
+Customer 267.713500 269.932875 [silence]
+Customer 269.932875 272.005000 yes it's true [laughter]
+Agent 270.390125 273.017000 [laughter]
+Customer 272.005000 276.055125 that's true do you have income tax and [vocalized-noise]
+Agent 273.017000 274.485250 [silence]
+Agent 274.485250 281.500875 yes yes yes we still pay that i suspect it's not quite a higher percentage as you may pay
+Customer 276.055125 280.852625 [silence]
+Customer 280.852625 283.946000 we don't have a state income tax yet
+Agent 281.500875 284.687875 [silence]
+Customer 283.946000 285.509875 [silence]
+Agent 284.687875 287.049375 well [laughter]
+Customer 285.509875 287.894750 huh it's coming
+Agent 287.049375 289.347250 [laughter]
+Customer 287.894750 291.509500 it's it's on its way i i'm almost certain
+Agent 289.347250 290.526875 yeah
+Agent 290.526875 291.733000 [silence]
+Customer 291.509500 295.519875 uh but that's why we have that eight and a quarter percent sales tax
+Agent 291.733000 293.376125 i i certainly
+Agent 293.376125 295.512625 [silence]
+Agent 295.512625 297.037250 that's true
+Customer 295.519875 296.630125 [silence]
+Customer 296.630125 298.562000 and an[d]- you know the the dam[age]-
+Agent 297.037250 298.562000 [silence]

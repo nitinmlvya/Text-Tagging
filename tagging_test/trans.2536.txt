@@ -1,0 +1,366 @@
+Agent 0.000000 0.520500 [noise]
+Customer 0.000000 0.569625 [noise]
+Agent 0.520500 3.748750 [silence]
+Customer 0.569625 3.538500 well how do you use your credit cards
+Customer 3.538500 7.027000 [silence]
+Agent 3.748750 5.223125 um
+Agent 5.223125 8.265375 i use them_1 carefully i guess um
+Customer 7.027000 8.527500 yeah
+Agent 8.265375 13.996375 i uh i usually don't i usually use them to consolidate billing
+Customer 8.527500 13.311375 [silence]
+Customer 13.311375 14.681250 um-hum
+Agent 13.996375 17.177875 uh for convenience sakes
+Customer 14.681250 19.718000 [silence]
+Agent 17.177875 20.643500 but i usually just pay them_1 off at the end of the month
+Customer 19.718000 22.108500 yeah especially what i do
+Agent 20.643500 26.254500 i don't i don't avoid the finance charges uh as high as they are
+Customer 22.108500 25.584375 [silence]
+Customer 25.584375 27.104375 yeah
+Agent 26.254500 28.288125 i don't uh
+Customer 27.104375 29.290250 ridiculously high
+Agent 28.288125 29.701625 don't
+Customer 29.290250 32.472750 [silence]
+Agent 29.701625 31.233625 you know i don't
+Agent 31.233625 33.784875 let them carry over you know i uh
+Customer 32.472750 34.073250 um-hum
+Agent 33.784875 38.668750 i've been lucky i guess i haven't had a bill big enough where i couldn't pay them_1 off at the end of the month
+Customer 34.073250 39.172625 [silence]
+Agent 38.668750 43.219250 but i- i try to try to live within a budget you know and so
+Customer 39.172625 40.489750 well so
+Customer 40.489750 52.110750 [silence]
+Agent 43.219250 45.649375 i keep that in mind i just don't you know
+Agent 45.649375 49.381250 i guess it takes self-restraint when you have a credit card to know that
+Agent 49.381250 52.951500 that there's re[ally]- you really have to pay these things [laughter-off]
+Customer 52.110750 54.951875 yeah plus a lot more [laughter]
+Agent 52.951500 53.798000 [silence]
+Agent 53.798000 58.975875 plus a lot more you know and you got to realize that there's only this much money in the bank and if you're going to live
+Customer 54.951875 59.761125 [silence]
+Agent 58.975875 60.162625 you know
+Customer 59.761125 61.781625 yeah we[ll]-
+Agent 60.162625 64.340625 if you're not going to try to you know say well i'll pay it off sometime in the future
+Customer 61.781625 64.171125 [silence]
+Customer 64.171125 75.939125 yeah for so many years i was so deep in debt on credit cards and i finally dug my way out of them_1 and that was enough to teach me you know you just [laughter] i can do without them_1
+Agent 64.340625 70.523500 [silence]
+Agent 70.523500 71.750250 um-hum
+Agent 71.750250 75.449625 [silence]
+Agent 75.449625 78.094750 right [vocalized-noise] some people ha[ve]- a
+Customer 75.939125 80.311875 [silence]
+Agent 78.094750 82.095625 rip theirs up just because they ca[n't]- you know they can't resist them
+Customer 80.311875 82.144500 yeah
+Agent 82.095625 82.943000 [vocalized-noise]
+Customer 82.144500 82.271000 [noise]
+Customer 82.271000 85.904500 i got rid of a lot of them_1 especially the ones where i paid fees
+Agent 82.943000 85.471250 [silence]
+Agent 85.471250 86.695500 right
+Customer 85.904500 89.072875 uh i kept the ones that were free
+Agent 86.695500 88.634750 [silence]
+Agent 88.634750 89.891125 right
+Customer 89.072875 97.512125 and basically the same thing i use them_1 if i'm running short of cash and there's something i want or sa[le]- a sale or
+Agent 89.891125 95.355750 [silence]
+Agent 95.355750 96.369500 um-hum
+Agent 96.369500 97.560875 [silence]
+Customer 97.512125 99.682250 when i travel i use them_1
+Agent 97.560875 99.144875 right
+Agent 99.144875 105.730000 i use them to float sometimes if it's near the end of the month and you know and you know i don't have a check coming in a few days
+Customer 99.682250 101.477375 [silence]
+Customer 101.477375 103.475750 yeah yeah
+Customer 103.475750 105.043375 [silence]
+Customer 105.043375 106.791375 yeah it's about
+Agent 105.730000 109.409750 i'll go ahead and and charge it knowing that the money will be there
+Customer 106.791375 108.763125 [silence]
+Customer 108.763125 111.018375 yeah that's what i do
+Agent 109.409750 111.483750 by the time the bill comes
+Customer 111.018375 123.753625 yeah if there's running into a cash short or something there's some things some purchases i make that i will do always on credit card just so i have a record of them_1 just like when i take all my cats down to the vet i always pay that on credit card
+Agent 111.483750 123.110125 [silence]
+Agent 123.110125 126.380000 uh-huh right you know we go out to eat a lot of times
+Customer 123.753625 125.889250 [silence]
+Customer 125.889250 127.204750 yeah
+Agent 126.380000 129.292250 i don't like to carry a lot of cash with me
+Customer 127.204750 128.437500 [silence]
+Customer 128.437500 129.813000 hum-um
+Agent 129.292250 130.828750 [vocalized-noise] i have
+Customer 129.813000 133.974875 [silence]
+Agent 130.828750 134.692875 so i just carry my credit card and and for things like that
+Customer 133.974875 135.351750 yeah
+Agent 134.692875 138.913250 as long as i know you know that i'm i'm not over doing it [laughter]
+Customer 135.351750 138.121125 [silence]
+Customer 138.121125 139.337875 yeah
+Agent 138.913250 140.135625 it's a
+Customer 139.337875 145.322750 [silence]
+Agent 140.135625 145.987625 and yeah i have i have what i have two credit cards that's all i use i'm always getting stuff in the mail all the time
+Customer 145.322750 147.487875 yeah yeah i
+Agent 145.987625 149.512250 you are a preferred such and such and you are
+Customer 147.487875 151.863500 yeah you're you're already approved then it's back
+Agent 149.512250 151.580375 you're already approved to ge[t]-
+Agent 151.580375 162.924875 i
+Customer 151.863500 163.671125 i uh for the longest time i i'd gotten rid of my gas credit cards and then all of a sudden i started getting a flurry of these things so i- i did i have picked up three gas credit cards in the last couple months
+Agent 162.924875 163.841625 oh
+Customer 163.671125 165.059125 but uh
+Agent 163.841625 164.648250 [silence]
+Agent 164.648250 167.714500 sometimes they just send them to you and say here have a credit card
+Customer 165.059125 167.665250 [silence]
+Customer 167.665250 169.011375 yeah
+Agent 167.714500 169.403625 [laughter] i have that one
+Customer 169.011375 170.661250 oh do you yeah
+Agent 169.403625 170.014750 [noise]
+Agent 170.014750 173.637875 yeah i just ripped i just cut it up and threw it away but you know [vocalized-noise]
+Customer 170.661250 172.348250 [silence]
+Customer 172.348250 175.477500 oh you should have used it you wouldn't have been liable for the payment
+Agent 173.637875 175.055000 [silence]
+Agent 175.055000 176.296750 is that right
+Customer 175.477500 176.715750 yeah
+Agent 176.296750 178.063750 huh i didn't know that
+Customer 176.715750 179.500000 they yeah they send you card th[at]-
+Agent 178.063750 179.089250 [silence]
+Agent 179.089250 180.370875 that you didn't want
+Customer 179.500000 182.332000 that you didn't apply for it's yours
+Agent 180.370875 181.698125 [silence]
+Agent 181.698125 182.801500 is that right
+Customer 182.332000 183.576750 yeah
+Agent 182.801500 183.350750 [noise]
+Agent 183.350750 184.373500 huh
+Customer 183.576750 189.953625 of course they could always stick something in the credit bureau [laughter]
+Agent 184.373500 186.641375 [silence]
+Agent 186.641375 191.469250 that's right that's right they could they can make your life miserable if they want to
+Customer 189.953625 196.554500 sure yeah i had a i had a tough battle with Exxon several years ago
+Agent 191.469250 196.175500 [silence]
+Agent 196.175500 197.563125 is that right
+Customer 196.554500 201.924000 uh and i- i tore up their card and sent it to them and now i've got another one [laughter]
+Agent 197.563125 201.646750 [silence]
+Agent 201.646750 203.375250 [laughter]
+Customer 201.924000 204.195125 [laughter]
+Agent 203.375250 206.619625 we don't have too many Exxon stations out this way
+Customer 204.195125 206.323750 [silence]
+Customer 206.323750 208.226375 oh really what do you got out there
+Agent 206.619625 209.205375 uh we've got lots of Mobil
+Customer 208.226375 210.163375 Mobils yeah
+Agent 209.205375 211.582375 Mobils are big and
+Customer 210.163375 214.913000 [silence]
+Agent 211.582375 215.703250 we have a few Exxon we've got some other ones like Citgo
+Customer 214.913000 216.292000 yeah
+Agent 215.703250 218.155375 yeah is a is a one
+Customer 216.292000 221.785875 yeah well i don't think i don't think we've got a Citgo here in Raleigh no matter of fact i know we don't
+Agent 218.155375 220.278125 [silence]
+Agent 220.278125 221.350750 yeah
+Agent 221.350750 223.627125 got some Shell stations
+Customer 221.785875 223.099750 [silence]
+Customer 223.099750 224.635000 um
+Agent 223.627125 226.140125 a few Texaco stations
+Customer 224.635000 225.705250 [silence]
+Customer 225.705250 231.484375 we have several convenience stores that sell Citgo gas but they're not Citgo stations i guess
+Agent 226.140125 229.235375 [silence]
+Agent 229.235375 230.579750 uh-huh
+Agent 230.579750 232.245125 right
+Customer 231.484375 234.971875 the biggies around here are Exxon Texaco and um
+Agent 232.245125 239.690000 [silence]
+Customer 234.971875 236.480750 [silence]
+Customer 236.480750 239.703750 well gosh that's about it BP i guess
+Agent 239.690000 244.706125 and there's another local one i can't i can't remember what there's some few Sinclair stations
+Customer 239.703750 244.311500 [silence]
+Customer 244.311500 247.664250 gosh i haven't seen a Sinclair station in years
+Agent 244.706125 247.061000 [silence]
+Agent 247.061000 249.621375 yeah the few they're the green dinosaurs are
+Customer 247.664250 248.817750 [silence]
+Customer 248.817750 250.444375 yeah
+Agent 249.621375 250.846500 their their
+Customer 250.444375 263.186250 gosh there used to when i was a when i was a kid there was a Sinclair station about three blocks away that's where i used to go to pump up my tires and get my flats fixed and all of that [vocalized-noise]
+Agent 250.846500 252.398375 [noise] logo
+Agent 252.398375 260.525750 [silence]
+Agent 260.525750 262.117375 [laughter]
+Agent 262.117375 264.879125 yeah there's not that many down here that you know once
+Customer 263.186250 266.273625 [silence]
+Agent 264.879125 266.797750 once in a while you'll see one
+Customer 266.273625 267.602125 yeah
+Agent 266.797750 268.722625 i guess they're still in business
+Customer 267.602125 268.741375 [silence]
+Agent 268.722625 269.639375 [silence]
+Customer 268.741375 270.567750 just barely i guess
+Agent 269.639375 270.717500 yeah
+Customer 270.567750 271.720500 [silence]
+Agent 270.717500 272.150750 yeah
+Customer 271.720500 273.621625 well jus[t]-
+Agent 272.150750 272.911750 [silence]
+Agent 272.911750 278.711125 you ever you ever gotten in trouble with your credit card where they they've charged charged you for something you didn't didn't
+Customer 273.621625 278.656750 [silence]
+Customer 278.656750 281.687875 no uh i i've nope i've never had that
+Agent 278.711125 280.186000 didn't purchase
+Agent 280.186000 281.875125 [silence]
+Customer 281.687875 289.594375 i- i did have a problem with American Express one time about_1 ten years ago when i first got started in a business um
+Agent 281.875125 283.727875 yeah i have
+Agent 283.727875 285.708500 [silence]
+Agent 285.708500 286.996500 uh-huh
+Agent 286.996500 291.516000 [silence]
+Customer 289.594375 292.027750 they got my name of course
+Agent 291.516000 292.922125 um-hum
+Customer 292.027750 301.564500 and i said yeah this will be handy because i can use this for all my business expenses so i used it went on a went on a trip and used it got the bill and paid it
+Agent 292.922125 306.449000 [silence]
+Customer 301.564500 306.948500 about three weeks later i get this nasty letter from them_1 saying you haven't paid you're overdue pay it
+Agent 306.449000 307.657875 right
+Customer 306.948500 314.839250 so i ignored it assuming that the things had crossed in the mail about two weeks after that i get a phone call
+Agent 307.657875 311.261000 [silence]
+Agent 311.261000 312.486500 right
+Agent 312.486500 314.547875 [silence]
+Agent 314.547875 316.020250 from someone saying
+Customer 314.839250 318.096500 say you are really overdue you need to pay this thing
+Agent 316.020250 318.255875 [silence]
+Customer 318.096500 324.006000 and i said what are you talking about i've already paid you and by that time the bank statement had come in and i had the canceled check
+Agent 318.255875 319.240125 uh-huh
+Agent 319.240125 323.558625 [silence]
+Agent 323.558625 324.697875 uh-huh
+Customer 324.006000 326.444625 so they said okay we'll take care of it
+Agent 324.697875 328.998000 [silence]
+Customer 326.444625 330.963000 two weeks later i get another nasty letter threatening legal action
+Agent 328.998000 330.327500 [laughter]
+Agent 330.327500 331.845500 [laughter]
+Customer 330.963000 344.986875 so i sent them a letter with a copy of the canceled check and their card cut up into about a hundred pieces i said here is your card here is the copy of my canceled check never send me anything else
+Agent 331.845500 346.699375 [silence]
+Customer 344.986875 347.106500 and never heard from them_1
+Agent 346.699375 349.428875 uh-huh somebody blew it
+Customer 347.106500 348.487125 but i just
+Customer 348.487125 352.844625 yeah i just you know i ain't got time to me[ss]- mess around with them
+Agent 349.428875 352.339500 [silence]
+Agent 352.339500 354.466125 right
+Customer 352.844625 357.423500 too many people want my money out there i don't have to pay somebody to take it
+Agent 354.466125 356.046625 right
+Agent 356.046625 358.032625 [silence]
+Customer 357.423500 359.642250 [silence]
+Agent 358.032625 360.610875 do you have the Discover card
+Customer 359.642250 367.279625 no i don't i- i kept wa[nting]- i kept thinking about getting it but i just don't use the things enough to justify getting it
+Agent 360.610875 362.140125 ei[ther]- either do i
+Agent 362.140125 366.953625 [silence]
+Agent 366.953625 374.912500 they they i don't know i don't know how anybody can fall into this you get cash back and buy into that because
+Customer 367.279625 372.712250 [silence]
+Customer 372.712250 374.266750 um-hum
+Customer 374.266750 377.028750 [silence]
+Agent 374.912500 378.780500 all they're giving you back is a little bit of the interest you paid in
+Customer 377.028750 383.364000 that's right tha[t's]- that's right you're paying you're paying a higher interest rate so they can rebate you two percent of it
+Agent 378.780500 380.529500 [silence]
+Agent 380.529500 381.798250 yeah their interest
+Agent 381.798250 382.876125 [silence]
+Agent 382.876125 385.165875 right their interest rate's twenty two percent
+Customer 383.364000 384.014875 [silence]
+Customer 384.014875 385.729500 um-hum
+Agent 385.165875 389.168000 higher than any other ones and then they said that we'll give you back some of your money
+Customer 385.729500 386.063875 [silence]
+Customer 386.063875 387.767875 hum that's right
+Customer 387.767875 388.161875 [silence]
+Customer 388.161875 394.244625 [laughter-yeah] right and in the meantime for that entire year they've got the use of that money
+Agent 389.168000 390.579500 uh like
+Agent 390.579500 393.656500 [silence]
+Agent 393.656500 395.335750 right
+Customer 394.244625 396.332250 uh yeah it's
+Agent 395.335750 397.708000 it it's a rip-off
+Customer 396.332250 398.997375 oh it is i there's so [vocalized-noise]
+Agent 397.708000 407.508375 but a lot of people think it's wonderful i guess said they're they're doing well everything i've read they've been getting a more market share i guess they're they're advertising and promotions and
+Customer 398.997375 403.202500 [silence]
+Customer 403.202500 405.313500 well [vocalized-noise]
+Customer 405.313500 406.043250 [silence]
+Customer 406.043250 409.171375 uh America's Americans are suckers
+Agent 407.508375 408.727750 [silence]
+Agent 408.727750 410.682875 yeah i guess so
+Customer 409.171375 410.838500 [laughter-yeah]
+Agent 410.682875 412.329875 i don't know
+Customer 410.838500 417.399625 they don't know how to sit there and look at the interest rate and say well this one is only sixteen percent and this one's twenty two hum
+Agent 412.329875 413.682000 yeah
+Agent 413.682000 415.541625 [silence]
+Agent 415.541625 416.907500 um-hum
+Agent 416.907500 424.856625 yeah i have a on my credit cards i have a grace period if i pay it off within when the bill comes i- i don't have to owe any interest
+Customer 417.399625 421.363000 [silence]
+Customer 421.363000 422.696375 yeah i
+Customer 422.696375 424.211875 [silence]
+Customer 424.211875 425.683250 yeah right that's
+Agent 424.856625 426.545500 and uh
+Customer 425.683250 432.413500 i've only got i've only got two uh two cards now i've got a Bank of Scotland Visa and a Citibank MasterCard
+Agent 426.545500 429.228375 [silence]
+Agent 429.228375 430.485000 right
+Agent 430.485000 432.299375 [silence]
+Agent 432.299375 433.050500 um-hum
+Customer 432.413500 436.757750 and and that's it i mean i- i don't need anything else now
+Agent 433.050500 434.575500 [silence]
+Agent 434.575500 435.962000 um-hum [noise]
+Agent 435.962000 437.079375 [silence]
+Customer 436.757750 443.290750 [silence]
+Agent 437.079375 439.767375 yeah once in a while uh
+Agent 439.767375 444.315750 my i have an American Express they have this [vocalized-noise] a buyer protection thing
+Customer 443.290750 444.492125 um-hum
+Agent 444.315750 446.880375 where yo[u]- they extend the warranty
+Customer 444.492125 445.819250 [silence]
+Customer 445.819250 447.374875 yeah
+Agent 446.880375 447.963750 [silence]
+Customer 447.374875 450.175250 [silence]
+Agent 447.963750 454.540750 so uh they both can be nice around Christmas time and stuff if you're going to buy a TV or uh or uh [vocalized-noise] electronic
+Customer 450.175250 451.627250 yeah
+Customer 451.627250 452.381625 [silence]
+Customer 452.381625 454.589250 yeah so[mething]- something like that
+Agent 454.540750 455.886500 then
+Customer 454.589250 462.106625 my roommate really believes in American Express he's got the green car[d]- or the gold card and the the Optima card and
+Agent 455.886500 461.952250 [silence]
+Agent 461.952250 463.397250 and everything huh
+Customer 462.106625 464.801125 he just he just thinks they're terrific
+Agent 463.397250 464.537375 [silence]
+Agent 464.537375 465.919375 uh-huh
+Customer 464.801125 468.694625 and i sit there and say yeah look what you pay for that every year
+Agent 465.919375 467.066375 [silence]
+Agent 467.066375 471.974000 he pays for that yeah a couple hundred bucks probably for that like high end card
+Customer 468.694625 470.268500 yeah
+Customer 470.268500 471.805125 [silence]
+Customer 471.805125 473.173000 gosh
+Agent 471.974000 473.497750 [silence]
+Customer 473.173000 474.375000 [silence]
+Agent 473.497750 476.214625 well if you have the money i guess [laughter]
+Customer 474.375000 475.514750 yeah
+Customer 475.514750 478.675125 [laughter-yeah] [laughter-i'm] i'm thinking myself
+Agent 476.214625 478.057000 [silence]
+Agent 478.057000 479.494125 get what you pay for huh
+Customer 478.675125 486.076875 really yeah you know he's he's impressed because they send you this nice statement every i guess it's every year
+Agent 479.494125 495.490000 [silence]
+Customer 486.076875 495.908375 they itemize all your purchases and they break it down in little categories for you and all that uh yeah it's a nice report but is it worth you know is it worth sixty bucks a year [vocalized-noise]
+Agent 495.490000 497.204625 for that little
+Customer 495.908375 497.775250 for that [laughter-report]
+Agent 497.204625 498.761750 right
+Customer 497.775250 498.854000 [laughter]
+Agent 498.761750 500.087625 [silence]
+Customer 498.854000 500.384000 don't be crazy
+Agent 500.087625 501.111250 yeah
+Customer 500.384000 512.492250 uh when i was over in England i pi[cked]- i picked up that uh Bank of Scotland Visa card and i- i don't know har[dly]- i don't ever use it except when i want to play the currency market
+Agent 501.111250 512.651500 [silence]
+Customer 512.492250 523.024625 um that's that's when it becomes handy because if i know that you know if the if the uh if the pound is high i can buy more dollar things
+Agent 512.651500 513.900125 um-hum
+Agent 513.900125 523.065375 [silence]
+Customer 523.024625 529.526500 for what i'm getting and then if if i think the rate's going to drop then i pay them back in less dollars
+Agent 523.065375 523.933625 right
+Agent 523.933625 524.684875 [silence]
+Agent 524.684875 525.655500 right
+Agent 525.655500 529.390250 [silence]
+Agent 529.390250 530.685875 right
+Customer 529.526500 535.829875 and it it's worked out most of the times i'm i'm usually pretty good on calling the the currency market
+Agent 530.685875 536.403625 [silence]
+Customer 535.829875 538.564000 [silence]
+Agent 536.403625 539.625625 uh-huh yeah a lot of people do that for a living i guess
+Customer 538.564000 539.981000 yeah
+Agent 539.625625 540.892500 t[rade]- trade money
+Customer 539.981000 540.256125 [silence]
+Customer 540.256125 541.699500 yeah i- i did it
+Agent 540.892500 544.400375 [silence]
+Customer 541.699500 544.543625 [noise] when i lived over there i did it quite often
+Agent 544.400375 545.352125 uh-huh
+Customer 544.543625 554.780500 um and i rea[lly]- i really had a racket going because uh my paycheck was being uh electronically deposited here in the states
+Agent 545.352125 563.756500 [silence]
+Customer 554.780500 563.747375 and the bank that i banked with i could write them_1 a check on an American bank and they would give me instant credit for it
+Customer 563.747375 565.362375 so
+Agent 563.756500 564.779000 uh-huh
+Agent 564.779000 575.241250 [silence]
+Customer 565.362375 574.640250 and and i and ov[er]- and over the course of a year i- i figured out how long it took them to clear that check and the and the shortest period of time was eight days
+Customer 574.640250 585.811000 so generally about eight days before payday depending on what the currency markets were doing i would go up and start buying i'd i'd start cashing in my checks for pounds
+Agent 575.241250 575.978250 hum
+Agent 575.978250 585.722250 [silence]
+Agent 585.722250 586.600000 right
+Customer 585.811000 587.775625 and then by the time
+Agent 586.600000 588.054250 [silence]
+Customer 587.775625 588.889125 [silence]
+Agent 588.054250 589.861750 the other check went through
+Customer 588.889125 595.610750 it th[e]- it the rate was either down or up depending on what i was doing and i[t]- it was great i mean i- i could
+Agent 589.861750 594.583000 [silence]
+Agent 594.583000 596.915750 made a little extra money there huh
+Customer 595.610750 599.730000 yeah and i mean one day you know i might be able to get
+Agent 596.915750 599.730000 [silence]

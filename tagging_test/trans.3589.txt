@@ -1,0 +1,132 @@
+Agent 0.000000 0.982750 [noise]
+Customer 0.000000 4.278625 [noise] well my view i work for a financial institution and
+Agent 0.982750 2.689000 [silence]
+Agent 2.689000 5.517625 oh boy [laughter]
+Customer 4.278625 12.428125 yeah and i love my credit card uh you end up with more consumer rights by using credit cards than
+Agent 5.517625 11.022625 [silence]
+Agent 11.022625 13.021625 what do you mean by that
+Customer 12.428125 19.403125 uh what i mean is say you pay for something with a check your check clears you're out the bucks
+Agent 13.021625 16.211750 [silence]
+Agent 16.211750 17.839500 um-hum
+Agent 17.839500 31.234000 [silence]
+Customer 19.403125 31.777500 you pay for something with a credit card you d[issatisfied]- are dissatisfied with it you take it back and they say sorry we you can't take it back if you know you can leave it there and then just have your Visa charged back
+Agent 31.234000 37.476750 oh what's your favorite credit card do you use Visa how come
+Customer 31.777500 33.695000 [noise] get your money back
+Customer 33.695000 34.786375 [silence]
+Customer 34.786375 36.598375 Visa
+Customer 36.598375 39.624000 well that's the kind we offer [laughter]
+Agent 37.476750 38.535625 [silence]
+Agent 38.535625 41.899000 oh that's a good reason that's a good reason
+Customer 39.624000 40.876375 [silence]
+Customer 40.876375 50.072625 and uh we're just offering a a new card that gives you o[ne]- up to one percent back of all the charges that you make
+Agent 41.899000 49.441625 [silence]
+Agent 49.441625 50.906875 now
+Customer 50.072625 53.582875 cash back you know like Discover's
+Agent 50.906875 51.910500 [silence]
+Agent 51.910500 55.118250 i was gonna say i know Discover does that
+Customer 53.582875 56.735500 yep and we're starting to do that
+Agent 55.118250 57.686750 Visa's gonna do it too
+Customer 56.735500 58.495625 we are
+Agent 57.686750 61.295375 wh[o]- all right who puts out your Visa card
+Customer 58.495625 61.021750 [silence]
+Customer 61.021750 65.241875 uh we do [noise] America First Credit Union
+Agent 61.295375 62.367000 [silence]
+Agent 62.367000 64.243375 who is we
+Agent 64.243375 77.977375 America First Credit Union and you're gonna offer the cash back just like Discover does huh well i i'll tell you that works because_1 i use my Discover card more than any other credit card for that sole reason
+Customer 65.241875 69.033375 [silence]
+Customer 69.033375 70.650000 yeah
+Customer 70.650000 76.878125 [silence]
+Customer 76.878125 78.757375 did you get much back
+Agent 77.977375 91.091375 hm [noise] yeah [laughter] unfortunately i use my Discover card more than i ought to not a great deal i get i get about a check for about_1 fifty some bucks at the end of the year usually
+Customer 78.757375 80.442125 [silence]
+Customer 80.442125 82.482125 well good for you that must mean
+Customer 82.482125 90.659375 [silence]
+Customer 90.659375 94.381875 and it's one percent so you spend about five thousand
+Agent 91.091375 93.336375 [silence]
+Agent 93.336375 98.813500 [laughter] i shouldn't tell that to [laughter-you]
+Customer 94.381875 96.710875 that's pretty good
+Customer 96.710875 106.040625 well i- i do better than that everything goes on mine and then i've got a business too that i use it for charging computers on
+Agent 98.813500 105.466000 [silence]
+Agent 105.466000 113.215750 well i tell you then then i have an exact account of everything i've bought it's all printed out
+Customer 106.040625 110.606750 [silence]
+Customer 110.606750 112.778000 it is nice
+Customer 112.778000 114.333375 yep
+Agent 113.215750 121.877625 and as long as you keep your statements then you know exactly what you've spent and if you know when you bought something because often i won't remember
+Customer 114.333375 130.625125 [silence]
+Agent 121.877625 131.121750 and i can go back you know i'll remember the month so i can go back to my my credit card invoice and there it is it tells me the exact date and everything
+Customer 130.625125 132.941000 well how many cards have you got
+Agent 131.121750 132.414125 [silence]
+Agent 132.414125 143.812500 well i have a whole slew of the them_1 but i really i use i have a Visa um but my Visa is an automatic draw from my credit from my
+Customer 132.941000 137.628750 [silence]
+Customer 137.628750 138.998125 uh-huh
+Customer 138.998125 142.481500 [silence]
+Customer 142.481500 146.503125 uh-huh a debit card yes i don't l[ike]- those
+Agent 143.812500 152.581875 yeah and so i don't either because it's gone although they don't debit it until the end of the month yeah
+Customer 146.503125 150.345125 [silence]
+Customer 150.345125 153.618625 oh really that's interesting
+Agent 152.581875 164.507250 um but it still automatically comes off that month if i time it right then any like [noise] my
+Customer 153.618625 165.850500 [silence]
+Agent 164.507250 178.784250 my date is the twelfth so if i charge something on the thirteenth then i don't get that bill till the end of the month and it's not due till before the twelfth of the next month so i can put off paying for something for free for two months
+Customer 165.850500 167.332125 uh-huh
+Customer 167.332125 173.373500 [silence]
+Customer 173.373500 174.690250 [noise]
+Customer 174.690250 177.767000 [silence]
+Customer 177.767000 179.859875 with a debit card
+Agent 178.784250 187.166750 no not with a debit card with my Discover card i can and and i use Discover more than any other because of the cash back
+Customer 179.859875 181.883750 oh credit
+Customer 181.883750 183.656125 oh okay
+Customer 183.656125 197.319375 [silence]
+Agent 187.166750 197.475125 i have MasterCard and then i have all the different department stores but i just really never use them and i try desperately hard to pay it off each month
+Customer 197.319375 198.633125 [noise] yes
+Agent 197.475125 203.796625 because the the cost to use it is terrific
+Customer 198.633125 200.260375 [silence]
+Customer 200.260375 201.402125 [vocalized-noise]
+Customer 201.402125 202.495125 [silence]
+Customer 202.495125 205.043500 is it twenty percent interest
+Agent 203.796625 208.599375 uh it varies from eighteen and a half to twenty one percent
+Customer 205.043500 207.939250 [silence]
+Customer 207.939250 209.302125 wow [noise]
+Agent 208.599375 211.530500 and that's that's tremendous amount
+Customer 209.302125 210.636125 [silence]
+Customer 210.636125 213.666750 our card's thirteen and a half
+Agent 211.530500 212.916500 [silence]
+Agent 212.916500 215.004125 oh you're kidding me
+Customer 213.666750 217.005000 uh with a ten dollar annual fee
+Agent 215.004125 216.867125 [silence]
+Agent 216.867125 219.375750 how do you get one of yours
+Customer 217.005000 219.043625 [silence]
+Customer 219.043625 222.136750 well you have to be a member of our credit union
+Agent 219.375750 221.194000 [silence]
+Agent 221.194000 223.559000 and what credit union is that
+Customer 222.136750 224.425875 America First
+Agent 223.559000 225.311250 [silence]
+Customer 224.425875 227.015500 it's we're the [vocalized-noise]
+Agent 225.311250 229.180250 oh but see you're in Utah yeah
+Customer 227.015500 230.365750 yeah and you'd have to be a resident of the state
+Agent 229.180250 241.634000 oh okay i was thinking about your brother [laughter-he] [laughter-said] Jack and he'll do that but that's you're nowhere near us wow [noise] that's a neat idea though perhaps some other people around here will catch on and do it too
+Customer 230.365750 241.672125 [silence]
+Agent 241.634000 244.662375 [silence]
+Customer 241.672125 249.951625 uh do you have Mervyn's and all those have you noticed that they all have started issuing their own credit cards
+Agent 244.662375 246.338625 oh yeah
+Agent 246.338625 249.215375 [silence]
+Agent 249.215375 262.025875 oh yeah they have for years but you can still use the three big ones MasterCard Visa and now Discover you can still use those three um at almost any department store
+Customer 249.951625 261.617375 [silence]
+Customer 261.617375 266.293750 what do you think of Dis[cover]- uh Sears not taking anyone but theirs
+Agent 262.025875 265.848125 [silence]
+Agent 265.848125 268.544375 they have not done that for years
+Customer 266.293750 267.581500 [silence]
+Customer 267.581500 271.123750 yeah do you like that or do you think that's fair or
+Agent 268.544375 270.723875 [silence]
+Agent 270.723875 275.565875 [laughter] i don't know i used when i was a a kid [laughter] i worked for Sears
+Customer 271.123750 274.790000 [silence]
+Customer 274.790000 276.109500 oh
+Agent 275.565875 288.384000 and it i'm just [noise] i'm so used to them not taking anybody but theirs they'll take Discover but see they back Discover too so it doesn't bother me because i use Discover most of the time
+Customer 276.109500 283.607750 [silence]
+Customer 283.607750 285.478125 ye[ah]- yeah it's theirs
+Customer 285.478125 287.214625 [silence]
+Customer 287.214625 289.593750 ah okay
+Agent 288.384000 296.006375 [silence]
+Customer 289.593750 291.588500 let's see
+Customer 291.588500 293.024750 [silence]
+Customer 293.024750 297.762000 do you think that uh the move towards plastic is a good thing
+Agent 296.006375 297.762000 [noise] i think i

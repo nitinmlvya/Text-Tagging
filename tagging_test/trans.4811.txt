@@ -1,0 +1,126 @@
+Agent 0.000000 2.878375 [silence]
+Customer 0.000000 3.129750 [noise] do you have any thoughts on company benefits
+Agent 2.878375 7.755125 i do but uh they're pretty slanted i want you to know [laughter]
+Customer 3.129750 6.659375 [silence]
+Customer 6.659375 8.500125 i'm prepared
+Agent 7.755125 11.722500 [laughter] uh my company was bought by another company
+Customer 8.500125 11.317625 [silence]
+Customer 11.317625 12.739875 um-hum
+Agent 11.722500 14.482500 and the majority of us were laid off
+Customer 12.739875 14.052000 [silence]
+Customer 14.052000 16.844125 oh okay i see where this is [laughter-going]
+Agent 14.482500 15.939375 [silence]
+Agent 15.939375 19.299000 uh-huh so you know uh what i would like to see
+Customer 16.844125 23.411000 [silence]
+Agent 19.299000 23.425250 well uh the really sad part of this is that i'm fifty five years old
+Customer 23.411000 25.531000 that's not that [laughter-bad]
+Agent 23.425250 24.507125 and
+Agent 24.507125 26.384000 beg your pardon
+Customer 25.531000 27.736250 that's not so sad
+Agent 26.384000 30.372375 oh my chances of getting another job are just really slim
+Customer 27.736250 29.960250 [silence]
+Customer 29.960250 31.321875 hm
+Agent 30.372375 33.633000 i was a systems analyst for an oil company
+Customer 31.321875 32.968375 [silence]
+Customer 32.968375 34.438375 right
+Agent 33.633000 42.686500 and you know they just i mean Sprint had uh two thousand jobs open i mean i'm sorry two hundred jobs open they had two thousand applications
+Customer 34.438375 43.827750 [silence]
+Agent 42.686500 51.478875 for this type of work you know it's just uh and i guess that's that's pretty far-fetched as benefits go
+Customer 43.827750 45.503750 uh-huh
+Customer 45.503750 56.672000 [silence]
+Agent 51.478875 57.891625 but gosh you know i saw it i was fixed for life [laughter] so uh
+Customer 56.672000 64.457375 i think more and more people are finding that out even people with state and and uh federal jobs it it's a shock
+Agent 57.891625 63.080875 [silence]
+Agent 63.080875 65.762750 it really is it really is
+Customer 64.457375 73.787875 [silence]
+Agent 65.762750 74.244000 but uh i- i think uh i guess my feelings on this are that the one of the most important benefits we currently have is our health insurance
+Customer 73.787875 75.529625 that's true
+Agent 74.244000 78.763000 and that if there were some way to get that to follow you from job to job
+Customer 75.529625 82.385625 [silence]
+Agent 78.763000 82.914000 or so that you would not lose it if you have to leave a company
+Customer 82.385625 87.968000 isn't there some sort of deal where you can continue your benefits for eighteen months
+Agent 82.914000 86.859375 [silence]
+Agent 86.859375 93.488750 there is uh-huh and and that's fine but you know i'm still unemployed after about fourteen months okay
+Customer 87.968000 93.012500 [silence]
+Customer 93.012500 95.581750 oh yeah that's worrisome
+Agent 93.488750 99.206125 and when you switch yeah when you switch over the the premiums are really quite high
+Customer 95.581750 101.438375 [silence]
+Agent 99.206125 101.662875 and additionally i've had a heart attack
+Customer 101.438375 103.658500 um
+Agent 101.662875 112.852250 so it's going to be really tough for me to do this so you know uh in in my very personal way i feel that insurance is just one of the most important benefits we have now
+Customer 103.658500 118.726375 [silence]
+Agent 112.852250 117.697875 now with the poli[tical]- political situation the way it is i think that's going to change
+Agent 117.697875 119.014250 [silence]
+Customer 118.726375 121.765625 you talking about national health
+Agent 119.014250 120.469625 because
+Agent 120.469625 123.703375 i think we're going to have to have something of that sort
+Customer 121.765625 123.591125 [silence]
+Customer 123.591125 125.033875 um
+Agent 123.703375 128.138125 so that will cease to be as important a benefit
+Customer 125.033875 127.986875 [silence]
+Customer 127.986875 134.490000 i think that well i think the whole thing with this health insurance being so high is because people are
+Agent 128.138125 131.099125 what are your feelings what what do you feel
+Agent 131.099125 137.883000 [silence]
+Customer 134.490000 138.454875 suing left and right and just driving these costs up
+Agent 137.883000 143.964500 well i agree with you but do you know that's that's what makes this such a tremendous benefit if you can possible get group rates
+Customer 138.454875 143.572000 [silence]
+Customer 143.572000 147.937250 well i- i have my own beef about health insurance i uh
+Agent 143.964500 149.247000 [silence]
+Customer 147.937250 154.143375 i'm not a spring chicken [laughter-myself] quite frankly um i raised a family and
+Agent 149.247000 151.026125 [laughter]
+Agent 151.026125 168.219000 [silence]
+Customer 154.143375 163.767375 now i'd like to get back into my field which is teaching and it's at a time where school budgets are so far down that they're firing experienced people
+Customer 163.767375 171.426625 and also you know i'm i'm a art teacher which is a very small field out of a whole school there's two or three
+Agent 168.219000 170.198125 oh yes
+Agent 170.198125 171.930000 uh-huh
+Customer 171.426625 181.407875 and you know there are two hundred [apliplations/applications] for one one job uh you send in a resume and th[ey]- they don't even write a letter to you to say no thanks which
+Agent 171.930000 175.012750 [silence]
+Agent 175.012750 176.222500 yep
+Agent 176.222500 180.179000 [silence]
+Agent 180.179000 182.369500 they they don't have time
+Customer 181.407875 193.723625 yeah i suppose and um i do substitute teach and my biggest complaint is schools get a discount insurance school districts because they have so many people
+Agent 182.369500 203.468625 [silence]
+Customer 193.723625 204.771750 why can't they allow their substitutes to buy into it to pay ourselves just to get the lower rate that a group would have and they won't let us
+Agent 203.468625 206.310500 well you've you've approached it
+Customer 204.771750 207.954625 yeah they don't let you do it
+Agent 206.310500 208.711250 what is their thinking on it
+Customer 207.954625 212.535500 uh um i don't know i don't know
+Agent 208.711250 212.224375 [silence]
+Agent 212.224375 213.815625 have they said
+Customer 212.535500 215.438875 i just i just know it's not allowed
+Agent 213.815625 217.031250 okay have they said we cannot do this because
+Customer 215.438875 219.652875 yeah uh no not th[ey]- they didn't get that far
+Agent 217.031250 218.380125 [silence]
+Agent 218.380125 220.057250 no because
+Customer 219.652875 222.817000 no because we we do we don't do this
+Agent 220.057250 223.630125 [silence]
+Customer 222.817000 236.695500 we don't do this and everybody thinks it's sort of a crying shame i have been divorced and i knew that uh when i was divorced i was allowed that eighteen months of insurance on my ex-husband's plan and i was allowed to pay for myself
+Agent 223.630125 225.063375 okay
+Agent 225.063375 233.332625 [silence]
+Agent 233.332625 234.894500 uh-huh
+Agent 234.894500 242.358875 [silence]
+Customer 236.695500 244.404125 at their lower rate and i don't see what the school district would have to lose by letting us pay for ourselves but
+Agent 242.358875 244.482625 is uh let's see
+Customer 244.404125 246.551125 [silence]
+Agent 244.482625 246.862750 are they paying a part of the premium
+Customer 246.551125 251.115250 well i they're paying all the premium for their full-time teachers
+Agent 246.862750 249.988625 [silence]
+Agent 249.988625 251.598125 oh they are
+Customer 251.115250 254.423750 yeah yeah that's part of their salary
+Agent 251.598125 256.706625 and have you offered to come in and have you offered to come in and pay the whole premium
+Customer 254.423750 256.062250 [silence]
+Customer 256.062250 257.737500 yeah
+Agent 256.706625 258.311750 and they still won't let you
+Customer 257.737500 261.190875 no no it's just not policy
+Agent 258.311750 259.926000 [silence]
+Agent 259.926000 261.184500 that's crazy
+Agent 261.184500 262.724375 [silence]
+Customer 261.190875 263.955000 yeah that just doesn't seem to make any sense
+Agent 262.724375 265.000250 so what do you do about insurance
+Customer 263.955000 272.032125 well i am remarried now and my husband um quit his job to try some consulting he's an engineer
+Agent 265.000250 278.086500 [silence]
+Customer 272.032125 285.390625 and what he did was he j[oined]- you know if you join a group sometimes it's a little less he joined the Engineer's Society or some group like that and what he did which was actually very clever most people want to have
+Agent 278.086500 279.999750 ah yeah
+Agent 279.999750 298.082000 [silence]
+Customer 285.390625 293.121125 the lowest deductible and then get eighty percent of their money back and all of this my husband said why don't we take a five hundred dollar deductible
+Customer 293.121125 298.082000 if we have a little you know annual checkup here or there we can pay that that's not the prob[lem]-

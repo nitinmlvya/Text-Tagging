@@ -1,0 +1,161 @@
+Agent 0.000000 0.186625 [noise]
+Customer 0.000000 1.756750 [noise] oh i guess i started it
+Agent 0.186625 1.187250 [silence]
+Agent 1.187250 2.918125 oh okay_1
+Customer 1.756750 3.148375 bust away
+Agent 2.918125 6.332375 so uh where you from just in general
+Customer 3.148375 5.629375 [silence]
+Customer 5.629375 8.316000 oh um New York
+Agent 6.332375 7.632000 state
+Agent 7.632000 10.428000 New York okay i'm in New Jersey
+Customer 8.316000 9.506375 yeah
+Customer 9.506375 11.014000 uh-huh [vocalized-noise]
+Agent 10.428000 16.221625 okay_1 so uh i guess we're talk about taxes uh so what do you
+Customer 11.014000 12.532500 yeah well
+Customer 12.532500 14.955375 [silence]
+Customer 14.955375 16.981250 yeah i know i pay too much
+Agent 16.221625 18.094875 you pay too much
+Customer 16.981250 21.121500 yeah i know i pay too much the reason i know this for a fact is because um
+Agent 18.094875 32.581000 [silence]
+Customer 21.121500 32.801000 the nature of my business is such that my income fluctuates dramatically from year to year so on the good years i pay just propor[tional]- i'm i'm viewed as wealthy and i pay a high percentage
+Agent 32.581000 33.861500 um-hum
+Customer 32.801000 38.358375 and on the bad years i'm not and i pay average so i either pay average or above average i don't pay below average
+Agent 33.861500 38.108500 [silence]
+Agent 38.108500 41.587375 oh are you like a small business or something or
+Customer 38.358375 40.348000 [silence]
+Customer 40.348000 42.135500 yeah yeah i'm a consultant
+Agent 41.587375 43.338750 oh okay
+Customer 42.135500 49.410250 you know so due to the nature of the business it um you know my base line is average and i don't get that back on the other half back
+Agent 43.338750 47.682750 [silence]
+Agent 47.682750 52.198375 isn't it their like [vocalized-noise] um income averaging or something like that
+Customer 49.410250 51.329000 [silence]
+Customer 51.329000 53.818000 there was that went away a few years ago
+Agent 52.198375 53.205500 [silence]
+Agent 53.205500 55.645750 oh okay [laughter]
+Customer 53.818000 55.484875 and uh
+Customer 55.484875 59.660875 you know whatev[er]- you call it i suspect that was one of those loop holes for the wealthy they closed
+Agent 55.645750 59.259250 [silence]
+Agent 59.259250 60.481375 oh
+Customer 59.660875 62.484375 [laughter] but uh i don't know for sure
+Agent 60.481375 61.978750 [silence]
+Agent 61.978750 63.040500 huh
+Customer 62.484375 63.723750 um
+Agent 63.040500 67.622750 so why why do you think you don't get uh anything enough for your value i mean
+Customer 63.723750 67.001250 [silence]
+Customer 67.001250 72.814250 well i didn't say value um i'm just saying that proportionally i pay this portion in a large amount
+Agent 67.622750 72.231500 [silence]
+Agent 72.231500 74.190625 oh you a single
+Customer 72.814250 73.857250 [silence]
+Customer 73.857250 77.498375 uh no not at the moment not at [laughter-present]
+Agent 74.190625 75.497125 [silence]
+Agent 75.497125 76.810750 um-hum
+Agent 76.810750 81.479000 uh i know singles pay more than married people
+Customer 77.498375 78.540250 um
+Customer 78.540250 79.556250 [silence]
+Customer 79.556250 81.501500 yeah yeah yeah
+Agent 81.479000 86.611875 and i'm single i know that and i pay quite a bit higher than a married person
+Customer 81.501500 82.492125 well that's
+Customer 82.492125 88.992625 [silence]
+Agent 86.611875 90.103375 where if you don't happen to buy a house or something like that
+Customer 88.992625 93.092000 yeah if you're unfortunate enough not to buy a house which if your life style doesn't
+Agent 90.103375 92.895500 [silence]
+Agent 92.895500 94.648125 and you don't uh
+Customer 93.092000 94.898750 make it desirable
+Agent 94.648125 99.291250 yeah that's about_1 the only uh tax uh write off you can get these days
+Customer 94.898750 96.006000 yeah
+Customer 96.006000 98.807375 [silence]
+Customer 98.807375 102.309500 yeah yeah well unless you're up in the uh mega bucks range
+Agent 99.291250 102.083375 [silence]
+Agent 102.083375 104.862000 well yeah buy a yacht or some[thing]-
+Customer 102.309500 103.905375 [silence]
+Customer 103.905375 105.068375 [laughter]
+Agent 104.862000 106.350500 [silence]
+Customer 105.068375 107.519375 [laughter] but um
+Agent 106.350500 109.919375 but i guess they took away that and they're yelling and screaming about that
+Customer 107.519375 109.017375 [silence]
+Customer 109.017375 114.506000 yeah yeah as far as whether you get value back for your dollar
+Agent 109.919375 121.974250 [silence]
+Customer 114.506000 122.407375 i think the answer to that one if if you wonder the through state of through uh Washington DC awful lot of big fancy buildings there they got paid by something
+Agent 121.974250 124.674625 um-hum yeah
+Customer 122.407375 124.048750 you know
+Customer 124.048750 128.845375 so uh you know what's going in -[ha]s got to be a lot more -[th]an going out if it can pay for all that stuff
+Agent 124.674625 128.086375 [silence]
+Agent 128.086375 134.426500 well it depends if it's you know a a regressive tax or a progressive tax
+Customer 128.845375 133.797500 [silence]
+Customer 133.797500 137.035875 well i'm not really talking about um
+Agent 134.426500 144.420500 [silence]
+Customer 137.035875 138.044500 [silence]
+Customer 138.044500 144.633875 who is putting it in i'm just saying that what goes in must be a lot more than what comes out if there is left over for all these things
+Agent 144.420500 146.836000 well no yeah
+Customer 144.633875 145.991875 in the middle
+Customer 145.991875 147.209750 yeah that's what i meant
+Agent 146.836000 151.457000 borrowed time actually could be could be borrowed time it's like
+Customer 147.209750 148.112375 [vocalized-noise]
+Customer 148.112375 149.292750 what's that
+Customer 149.292750 150.306000 [silence]
+Customer 150.306000 153.938375 well you know it's just uh you know pass a law print up ano[ther]- billion
+Agent 151.457000 154.020750 [silence]
+Customer 153.938375 155.018250 [silence]
+Agent 154.020750 155.037000 yeah
+Customer 155.018250 156.120000 and uh
+Agent 155.037000 157.532250 i don't know i- i
+Customer 156.120000 157.996500 business as [laughter-usual]
+Agent 157.532250 168.550250 uh i don['t]- know uh here in New Jersey we have taxes for just the necessities and i think it's uh regressive tax it's just as worse
+Customer 157.996500 166.939750 [silence]
+Customer 166.939750 170.704875 i'm not too familiar with that expression regressive versus what does that mean
+Agent 168.550250 170.056875 [silence]
+Agent 170.056875 184.786000 progressive um i[t's]- it's like um you know a graduated tax which means you pay more money as you earn more money so you have a greater ability to pay you don't really need that extra income to survive
+Customer 170.704875 171.794375 yeah
+Customer 171.794375 179.505875 [silence]
+Customer 179.505875 180.760875 right
+Customer 180.760875 184.415250 [silence]
+Customer 184.415250 185.523375 um-hum
+Agent 184.786000 193.733250 you know and so the i[dea]- idea behind that is to to you know that's why we we have higher tax rates for people who have higher income right at least suppose[dly]-
+Customer 185.523375 192.488250 [silence]
+Customer 192.488250 194.835875 well that's the theory um
+Agent 193.733250 202.025000 you know that's what progressive tax regressive tax is you can have a flat f[lat]- percentage tax um across the board
+Customer 194.835875 199.418125 [silence]
+Customer 199.418125 200.528875 um-hum
+Customer 200.528875 201.532875 [silence]
+Customer 201.532875 202.640000 yeah
+Agent 202.025000 213.865500 and e[ven]- and even tax people for things that they need to live so if you tax you can tax uh you know medicine or food and a[nd]-
+Customer 202.640000 212.125750 [silence]
+Customer 212.125750 224.149750 yeah well they play that game here in New York but um it worki[ng]- it winds up working in very strange ways you can go to the grocery store and there's a sales tax now which is supposedly is only for necessities
+Agent 213.865500 235.911875 [silence]
+Customer 224.149750 235.702875 i'm sorry on[ly]- not for necessities only for non essentials and if you buy your orange juice in a paper container it's not taxed but if you buy it in a can [rec[oncentrated]-/concentrated] uh concentrated then it is taxed
+Customer 235.702875 236.716250 [silence]
+Agent 235.911875 236.783250 uh-huh
+Customer 236.716250 240.028625 so um i don't claim to understand that [laughter]
+Agent 236.783250 237.487125 [laughter]
+Agent 237.487125 239.803500 [silence]
+Agent 239.803500 241.091625 um-hum
+Customer 240.028625 242.008375 you know that's um
+Agent 241.091625 247.937375 [silence]
+Customer 242.008375 249.992375 and uh you know then we get into the idea of trying to modify behavior by taxing you know cranking the taxes for cigarettes and
+Agent 247.937375 248.981000 yeah
+Agent 248.981000 249.982500 [silence]
+Agent 249.982500 251.947125 yeah sin taxes
+Customer 249.992375 251.611875 hope people -[w]ill stop
+Customer 251.611875 253.268125 yeah but you know we
+Agent 251.947125 257.512250 you don't need cigarettes or or um alcohol to live
+Customer 253.268125 255.027000 [silence]
+Customer 255.027000 263.465000 liquor yeah thing is you know you got to l[ook]- all all you got to do is take one look at the uh cocaine situation to realize that cranking the price up is not going to stop people [laughter]
+Agent 257.512250 263.505500 [silence]
+Customer 263.465000 267.237375 [silence]
+Agent 263.505500 268.296250 well it's to a degree if uh you know if you're addicted it's not going to matter but
+Customer 267.237375 268.554750 hm
+Agent 268.296250 279.866750 um certainly it it depends i mean here you in New Jersey you pay you pay thirteen percent tax sort of value added tax on your utilities
+Customer 268.554750 279.683875 [silence]
+Customer 279.683875 280.892875 hm
+Agent 279.866750 293.253000 so things you need to heat your home the things that drink your water you tax water [laughter] it's crazy um you know you you see what you it's got to go somewhere so you got tax for that every utility's thir[teen]- thirteen percent
+Customer 280.892875 281.939875 [silence]
+Customer 281.939875 282.913750 right
+Customer 282.913750 285.160500 [silence]
+Customer 285.160500 286.496000 really
+Customer 286.496000 290.502625 [silence]
+Customer 290.502625 291.683625 yeah
+Customer 291.683625 293.029125 [silence]
+Customer 293.029125 296.275500 you know i um we get a tax here
+Agent 293.253000 299.522000 [silence]
+Customer 296.275500 298.279500 that um
+Customer 298.279500 299.522000 what do you call it uh

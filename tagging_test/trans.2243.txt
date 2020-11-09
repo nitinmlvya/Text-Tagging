@@ -1,0 +1,279 @@
+Agent 0.000000 1.031875 [noise]
+Customer 0.000000 0.383375 [noise]
+Customer 0.383375 3.072750 what kind of coins do you primarily collect
+Agent 1.031875 3.272875 [silence]
+Customer 3.072750 7.403625 [silence]
+Agent 3.272875 6.981250 um basically i my preference is Arab
+Agent 6.981250 8.281625 coins
+Customer 7.403625 8.680000 hum
+Agent 8.281625 10.857500 and ancient coins
+Customer 8.680000 10.249250 [silence]
+Customer 10.249250 12.583750 hum i've got a uh
+Agent 10.857500 25.541000 [silence]
+Customer 12.583750 22.040750 i've got a few i don't know i don't know i don't even know if they're real but they seem to be very old Greek or Roman coins that somebody gave me as i when i was a kid
+Customer 22.040750 26.288625 never done anything with them_1 i still got still got them_1 in a box
+Agent 25.541000 26.867250 um-hum
+Customer 26.288625 28.727000 i'm mostly into uh
+Agent 26.867250 34.985750 [silence]
+Customer 28.727000 29.328125 [noise]
+Customer 29.328125 34.586000 American gold and silver dollars and stuff like that
+Customer 34.586000 42.057000 [silence]
+Agent 34.985750 36.779125 oh very interesting
+Agent 36.779125 43.948000 um over the years of course by uh my grandparents used to give me silver dollars so i've got a few of those tucked away but
+Customer 42.057000 43.511000 um-hum
+Customer 43.511000 53.284000 [silence]
+Agent 43.948000 49.065750 um your Greek and Roman coins m[ight]- you know if if they're um
+Agent 49.065750 53.982625 in good condition might be worth something you might want to drag them_1 out and
+Customer 53.284000 59.266750 i keep meaning to do that everytime i go to a show i keep saying well i'll take them_1 with me and let somebody look at them_1
+Agent 53.982625 69.593250 [silence]
+Customer 59.266750 64.314125 they just they just feel phony you know they feel like they're made of lead or something
+Customer 64.314125 70.076000 and uh they don't have any sort of i[t's]- it's got a it's got a like a picture on it
+Agent 69.593250 71.018750 um-hum
+Customer 70.076000 76.390625 but there's no uh inscriptions or or dates or anything else
+Agent 71.018750 76.485750 [silence]
+Customer 76.390625 77.497875 [silence]
+Agent 76.485750 78.508500 that would be the Greek ones
+Customer 77.497875 78.605000 [noise]
+Agent 78.508500 79.786250 [silence]
+Customer 78.605000 79.717500 yeah
+Customer 79.717500 82.080875 [silence]
+Agent 79.786250 83.327000 okay because_1 i think most the Roman ones have
+Customer 82.080875 84.071250 had something on them_1
+Agent 83.327000 86.014875 right right so this
+Customer 84.071250 89.473500 yeah it had a it had a had a has a bust of somebody on there but uh
+Agent 86.014875 93.390375 [silence]
+Customer 89.473500 93.131625 no sort of identifying marks or anything
+Customer 93.131625 97.876250 [silence]
+Agent 93.390375 94.718750 um-hum
+Agent 94.718750 98.506500 um it the are they silver or
+Customer 97.876250 106.487000 no i don't no they're not they're it's it's too heavy for silver it's it's more like lead i think fairly soft
+Agent 98.506500 99.832500 bronze
+Agent 99.832500 106.479625 [silence]
+Agent 106.479625 108.546250 oh interesting
+Customer 106.487000 107.540875 [silence]
+Customer 107.540875 109.938250 yeah i think they're fakes [laughter]
+Agent 108.546250 110.682500 [laughter]
+Customer 109.938250 111.642875 [laughter]
+Agent 110.682500 116.460125 did did somebody go over to the Middle East where they could have picked up some fakes pretty easily
+Customer 111.642875 115.177500 [silence]
+Customer 115.177500 121.160625 probably [laughter] i don't know where they got them_1 from they just came up gave me a whole bag of these things
+Agent 116.460125 117.712000 oh
+Agent 117.712000 120.727250 [silence]
+Agent 120.727250 121.869000 um-hum
+Customer 121.160625 124.319625 it's probably about thirty or forty of them_1 in there
+Agent 121.869000 125.124875 [silence]
+Customer 124.319625 125.551750 [silence]
+Agent 125.124875 126.641750 gee that's
+Customer 125.551750 127.857000 yeah they
+Agent 126.641750 129.371875 [laughter] you might be sitting on a gold mine
+Customer 127.857000 130.609375 wouldn't that be something
+Agent 129.371875 141.332375 right um i don't know a lot about um Greek and Roman although i'm a member of an organization and that is the the primary interest of some ancient uh Numismatic Society Club
+Customer 130.609375 140.576250 [silence]
+Customer 140.576250 141.928625 um-hum
+Agent 141.332375 149.144125 and so most of the people collect Roman with a few collecting Greek so every now and then we have a program so i've picked up a bit
+Customer 141.928625 148.463875 [silence]
+Customer 148.463875 149.540125 hum
+Agent 149.144125 156.599625 but um if it if they're really soft and very early they could be uh i think they call them_1 Lydian coins
+Customer 149.540125 155.830500 [silence]
+Customer 155.830500 157.391000 huh
+Agent 156.599625 158.531125 and um
+Customer 157.391000 162.501875 gosh all these years i've been thinking they were fakes maybe they're real [laughter]
+Agent 158.531125 160.085500 [silence]
+Agent 160.085500 162.388000 [laughter]
+Agent 162.388000 170.446875 right i don't uh you know i i guess they say that a lot of people in the in the Middle East particularly can pick up fakes
+Customer 162.501875 169.997125 [silence]
+Customer 169.997125 171.490375 um-hum
+Agent 170.446875 174.782250 you know if you go to um uh a fight and then
+Customer 171.490375 179.561750 [silence]
+Agent 174.782250 180.617000 the people say oh look what i just dug out of the ground and they sell you something they made last night
+Customer 179.561750 180.885000 um-hum [laughter]
+Agent 180.617000 182.342750 but um
+Customer 180.885000 182.828625 [laughter]
+Agent 182.342750 185.532750 i think that's fairly recent phenomena probably
+Customer 182.828625 184.488750 [silence]
+Customer 184.488750 187.202000 sounds like some of the coin dealers i know
+Agent 185.532750 190.002250 [laughter]
+Customer 187.202000 190.197250 [laughter]
+Agent 190.002250 195.105125 now now [laughter] they're supposed to they're supposed to be licensed and the um above board
+Customer 190.197250 191.440500 [silence]
+Customer 191.440500 192.835000 [noise]
+Customer 192.835000 194.458875 [silence]
+Customer 194.458875 195.920625 [laughter]
+Agent 195.105125 198.879500 [silence]
+Customer 195.920625 202.233500 right i used to be a coin dealer so i i i know i know those guys you [laughter-know]
+Agent 198.879500 200.972750 oh i see [laughter]
+Agent 200.972750 204.138000 oh and you made your own
+Customer 202.233500 207.291125 yeah i got a whole roll of Krugerrands here would you like to buy i just made them_1 last night [laughter]
+Agent 204.138000 206.297125 [silence]
+Agent 206.297125 208.456250 [laughter]
+Customer 207.291125 213.715125 here's a nice uh twenty dollar gold eagle uh just just manufactured in Lebanon last year [laughter]
+Agent 208.456250 213.007500 [silence]
+Agent 213.007500 215.609125 [laughter]
+Customer 213.715125 215.516000 [laughter]
+Customer 215.516000 217.718375 [silence]
+Agent 215.609125 218.648000 was uh was the gold worth i mean was it really gold
+Customer 217.718375 225.342125 yeah that they they are gold they're just of course the the twenty dollar gold pieces go for coin value not the bullion value
+Agent 218.648000 224.938125 [silence]
+Agent 224.938125 226.050000 right
+Customer 225.342125 233.255250 and amazingly enough you're you're into Middle Eastern sort of coins the the largest amount of fakes of US gold is made in Lebanon
+Agent 226.050000 232.840000 [silence]
+Agent 232.840000 234.253375 oh really
+Customer 233.255250 234.548875 yeah
+Agent 234.253375 236.648625 is that uh s[till]- still true
+Customer 234.548875 235.955000 [silence]
+Customer 235.955000 237.993250 yeah still is
+Agent 236.648625 237.679625 [silence]
+Agent 237.679625 239.061375 wow
+Customer 237.993250 241.514000 yeah that's sort of like a cottage indus[try]- industry over there
+Agent 239.061375 241.276375 [silence]
+Agent 241.276375 242.583750 um-hum
+Customer 241.514000 248.721000 uh and and there's some very specific things you can find you can even n[arrow]- narrow it down to where it was made
+Agent 242.583750 259.764125 [silence]
+Customer 248.721000 255.844250 i mean people are so aware of these things that there are certain identifying marks on there that would not be on a real one
+Customer 255.844250 259.567125 and uh you you can almost tell the area
+Customer 259.567125 262.474875 somebody probably even knows the guy who made them_1
+Agent 259.764125 261.066875 you mean ma[ke]-
+Agent 261.066875 262.099375 [silence]
+Agent 262.099375 264.223625 oh
+Customer 262.474875 274.281625 [silence]
+Agent 264.223625 269.112250 i suppose he he has to protect himself too so that somebody can't say
+Agent 269.112250 272.351250 you know when he's selling them that somebody else made it i mean it's
+Agent 272.351250 275.472000 so that he gets his own profits
+Customer 274.281625 284.718875 yeah well the [noise] yeah coin dealers are supposed to be smart enough not to fall for that gimmick but i i have seen a few of them_1 sell these things
+Agent 275.472000 277.257000 [laughter]
+Agent 277.257000 284.741750 [silence]
+Customer 284.718875 292.721000 and course you have to you have to be able to prove they they knew it was counterfeit [laughter] and that's always very difficult
+Agent 284.741750 286.016250 hum
+Agent 286.016250 293.225000 [silence]
+Customer 292.721000 298.170750 [silence]
+Agent 293.225000 296.741125 oh i see otherwise the the buyer is
+Agent 296.741125 297.812750 [silence]
+Agent 297.812750 299.138375 respon[sible]- i mean re[sponsible]-
+Customer 298.170750 308.028000 well he can he can usually go back to the dealer but if if it's an unscrupulous dealer he'll just say hey you know you you had an opportunity to see it you know it's yours
+Agent 299.138375 308.252375 [silence]
+Customer 308.028000 314.198250 course you can always turn around and sell it in court and but you'd have to go in on a fraud count and that wouldn't
+Agent 308.252375 309.642625 uh-huh
+Agent 309.642625 316.243500 [silence]
+Customer 314.198250 316.835750 fraud is very difficult to prove
+Agent 316.243500 318.009500 um-hum um-hum
+Customer 316.835750 317.996250 [silence]
+Customer 317.996250 321.708250 because_1 you have to you have to show they knowingly did it
+Agent 318.009500 321.420625 [silence]
+Agent 321.420625 322.522000 right
+Customer 321.708250 328.128750 and that's all he's got to say is well in my in my professional judgment it was a it was a real coin
+Agent 322.522000 328.110250 [silence]
+Agent 328.110250 329.133625 um-hum
+Customer 328.128750 331.200125 so you know it's his word against mine
+Agent 329.133625 330.907375 [silence]
+Agent 330.907375 332.641625 right right
+Customer 331.200125 332.680000 [laughter]
+Agent 332.641625 336.911750 [silence]
+Customer 332.680000 337.146250 that's one of the reasons i got out of the business there was too many shenanigans going on
+Agent 336.911750 346.003500 oh that's interesting because i'm more interested in the research and i'm doing some dye link analyses of of these early coins from the
+Customer 337.146250 351.747500 [silence]
+Agent 346.003500 353.257625 six and seven hundreds and s[o]- and so i'm not into the the buying and selling business
+Customer 351.747500 353.240000 um-hum
+Customer 353.240000 355.244625 [silence]
+Agent 353.257625 356.121750 um it sounds like i'm wise [laughter]
+Customer 355.244625 357.434125 [laughter] yes
+Agent 356.121750 358.830750 [laughter]
+Customer 357.434125 364.706750 yeah nowadays the the the way the uh the market is and the and the way the uh
+Agent 358.830750 389.548625 [silence]
+Customer 364.706750 371.679000 grading systems have changed over the last few years that's primarily what got me out of it
+Customer 371.679000 375.529375 they they kept changing the grading systems on coins
+Customer 375.529375 380.090750 and you know you go out and buy a very nice silver dollar collection
+Customer 380.090750 388.884000 and you've graded it at the current grade and then the next year they've changed the grading system and now these things are worth a fourth of what you paid for them_1
+Customer 388.884000 393.293375 you know it's just it it just go[t]- it just got ludicrous after a while
+Agent 389.548625 391.367625 oh
+Agent 391.367625 392.653125 [silence]
+Agent 392.653125 394.349750 um-hum um-hum
+Customer 393.293375 394.573750 uh
+Agent 394.349750 413.576500 [silence]
+Customer 394.573750 402.467000 w[hat]- w[hat]- what the the standards for for an uncirculated silver dollar changed so many times in three years
+Customer 402.467000 413.947250 and a lot of people lost lots of money on that course the the persistent dealers will just sit there if they graded them_1 as M S sixty five then by golly they're M S sixty five i don't care what you say
+Agent 413.576500 415.090125 um-hum um-hum
+Customer 413.947250 417.199750 and they'll keep them_1 until some fool comes along and buys them_1
+Agent 415.090125 416.992375 [silence]
+Agent 416.992375 418.431125 right
+Customer 417.199750 418.370500 [silence]
+Customer 418.370500 420.637625 at inflated [laughter-prices]
+Agent 418.431125 419.980000 [silence]
+Agent 419.980000 424.116500 um-hum i think that's that's the the hardest thing is that
+Customer 420.637625 426.502500 [silence]
+Agent 424.116500 430.818875 people who don't really know feel sometimes a s[ometimes]- for example i know um you know the ancients better but
+Customer 426.502500 427.588375 [noise]
+Customer 427.588375 433.969250 [silence]
+Agent 430.818875 435.093000 because it's old they figure it's got to cost you know thousands of dollar[s]-
+Customer 433.969250 441.854875 oh yeah yeah i mean it's r[eally]- it's it silly i mean i i i used to have people walk into my shop with um
+Agent 435.093000 444.083875 [silence]
+Customer 441.854875 444.534750 Indian head pennies you know
+Agent 444.083875 445.491750 um-hum
+Customer 444.534750 447.475125 and they say wow you know this is really old
+Agent 445.491750 450.689375 [silence]
+Customer 447.475125 450.353500 yeah well it's not worth anything [laughter]
+Customer 450.353500 452.961125 [laughter] i'll give you a nickel for it [laughter-you] [laughter-know]
+Agent 450.689375 452.125125 oh
+Agent 452.125125 454.492125 [laughter]
+Customer 452.961125 454.444125 [laughter]
+Customer 454.444125 462.024125 and e[ven]- even some of the rare coins that a lot of people have never even seen like um like two cent pieces
+Agent 454.492125 455.916875 right right
+Agent 455.916875 469.217875 [silence]
+Customer 462.024125 469.911000 and things like that those are not those are not even expensive i mean you can pick up very nice ones for eight nine dollars
+Agent 469.217875 471.640000 oh really i didn't know that
+Customer 469.911000 473.761875 oh yeah yeah they're cheap they're super cheap
+Agent 471.640000 473.781625 [silence]
+Customer 473.761875 475.075375 um
+Agent 473.781625 474.963750 oh that
+Agent 474.963750 483.518125 [silence]
+Customer 475.075375 476.218125 [silence]
+Customer 476.218125 483.883375 several i mean i[t's]- i[t's]- it it's funny the way the business works because there're so many things that are enormously out priced
+Agent 483.518125 484.660000 um-hum
+Customer 483.883375 485.635000 um
+Agent 484.660000 496.920000 [silence]
+Customer 485.635000 493.078625 some some later proof sets because they have a slight error in them_1 are are worth hundreds of dollars
+Customer 493.078625 499.404625 you know and and the coins themselves aren't worth very much at all face value basically
+Agent 496.920000 498.107000 um-hum
+Agent 498.107000 508.024375 [silence]
+Customer 499.404625 500.731625 uh
+Customer 500.731625 508.766875 and then of course the silver coins are more and more being traded for bullion than anything else
+Agent 508.024375 509.452250 um-hum
+Customer 508.766875 510.120375 uh
+Agent 509.452250 518.446250 [silence]
+Customer 510.120375 518.738875 you can you can buy bags of silver coins a a bag has a thousand dollars face value in it and it's traded for silver
+Agent 518.446250 519.748250 oh
+Customer 518.738875 520.384250 yeah
+Agent 519.748250 520.754250 [silence]
+Customer 520.384250 526.907625 [silence]
+Agent 520.754250 526.516750 so basically if if someone isn't really interested in the coins it's not some an investment
+Agent 526.516750 530.443250 [silence]
+Customer 526.907625 530.855750 no it's it's more of a uh it's a commodity purchase really
+Agent 530.443250 531.629375 um-hum
+Customer 530.855750 536.776000 uh it is fun though to buy these bags and go through them_1 because_1 you do find some
+Agent 531.629375 548.900250 [silence]
+Customer 536.776000 538.307750 some uh
+Customer 538.307750 544.342875 nice coins i mean people who are starting out collections and need to fill holes in their books
+Customer 544.342875 546.493000 can fill a whole bunch of them_1
+Customer 546.493000 549.670125 with these uh with these bags
+Agent 548.900250 549.928750 um-hum
+Customer 549.670125 555.046750 uh especially y[ou]- you want to get a mixed bag of course dimes quarters and halves
+Agent 549.928750 554.474500 [silence]
+Agent 554.474500 555.600000 um-hum
+Customer 555.046750 559.205125 uh but you could fill a whole bunch of uh holes with these things
+Agent 555.600000 569.310875 [silence]
+Customer 559.205125 564.406750 i used to i used to advertise buying wheat pennies um
+Customer 564.406750 569.856750 i'd give a dollar a roll which two cents a piece which is basically overpriced
+Agent 569.310875 570.616500 um-hum
+Customer 569.856750 579.582875 um but i used to go th[rough]- i i'd get loads and loads of these things i ended up one time with about uh a[bout]- about twelve bags of these things
+Agent 570.616500 584.918250 [silence]
+Customer 579.582875 585.510250 and i'd gone through all of them_1 and i found a couple of them_1 i found a nineteen O nine VDB
+Agent 584.918250 586.156000 oh
+Customer 585.510250 590.784375 and uh a um a nineteen eleven which is fairly scarce
+Agent 586.156000 592.864500 [silence]
+Customer 590.784375 593.330375 i found several good ones out of there
+Agent 592.864500 594.067875 um-hum
+Customer 593.330375 594.508250 [silence]
+Agent 594.067875 597.242625 [silence]
+Customer 594.508250 597.559750 people's giving it to me for two cents i uh that's okay
+Agent 597.242625 598.459750 right
+Customer 597.559750 599.506000 turn around and sell it for fifteen dollars [laughter]
+Agent 598.459750 599.506000 [silence]

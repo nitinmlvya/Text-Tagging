@@ -1,0 +1,92 @@
+Agent 0.000000 0.053500 [silence]
+Customer 0.000000 0.393250 [noise]
+Agent 0.053500 1.352000 uh
+Customer 0.393250 5.008875 what what you have some ideas on the to help out the President here
+Agent 1.352000 4.730625 [silence]
+Agent 4.730625 15.587625 i think that uh one of the things they're going to have to do is go back and take some serious look at what's important and what has a return on investment
+Customer 5.008875 24.720000 [silence]
+Agent 15.587625 19.625500 uh there's an awful lot of federal programs that uh
+Agent 19.625500 25.200250 they put a million dollars in it and it probably does a couple of hundred dollars worth of good
+Customer 24.720000 30.331250 right i- i think they are going to be a lot more selective on on what they throw money at
+Agent 25.200250 30.383625 [silence]
+Customer 30.331250 58.368125 [silence]
+Agent 30.383625 35.732250 and there's some things some programs that just don't seem to be working at all
+Agent 35.732250 43.801625 uh an awful lot of the social programs and welfare programs they're just seem to be self perpetuating
+Agent 43.801625 45.554125 and uh
+Agent 45.554125 50.426625 uh certainly in a lot of the state and local regulations that are involved
+Agent 50.426625 59.019500 just force individuals into perpetuating the same activity and gives them_1 no incentive whatever to to solve their own problems
+Customer 58.368125 65.338625 right people get get where they depend on the the benefit and they don't have much interest and there is no uh
+Agent 59.019500 74.110500 [silence]
+Customer 65.338625 74.120125 uh enforcing uh ability i think to make sure that it doesn't get continued there's there's a lot of waste as a result i think of that
+Agent 74.110500 78.100000 well some of the things that happen in welfare programs that uh
+Customer 74.120125 85.988125 [silence]
+Agent 78.100000 86.460750 they are inclined not to give welfare or reduce welfare payments if there is a uh male present in the family
+Customer 85.988125 86.996875 yeah
+Agent 86.460750 94.056125 so that's resulted in uh the family dissolving the husband is thrown out of the house so that they collect the welfare
+Customer 86.996875 93.375375 [silence]
+Customer 93.375375 94.848750 yeah
+Agent 94.056125 101.823375 and uh then the children are raised under the single parent circumstance without uh the father roll around
+Customer 94.848750 101.649625 [silence]
+Customer 101.649625 103.251375 well uh i
+Agent 101.823375 105.148250 and uh they wind up doing exactly the same thing
+Customer 103.251375 104.884750 [silence]
+Customer 104.884750 114.879125 yeah i think there's uh there's a good opportunity if they'll take advantage of it with the with the the defense needs not as great as they use to be uh
+Agent 105.148250 139.786875 [silence]
+Customer 114.879125 118.991125 if and combine the savings there with with the savings in
+Customer 118.991125 130.837500 all these uh give away programs and and then waste that's in welfare and a lot of other programs i think they can start to get a handle on on the budget though what i am afraid is they will just
+Customer 130.837500 140.161875 continue wasting money the way they have and and uh throw throw potential savings into uh more programs that don't do any good
+Agent 139.786875 146.210250 i think we can also do a lot to eliminate an awful lot of paper work and superfluous regulation
+Customer 140.161875 145.986375 [silence]
+Customer 145.986375 151.292125 well there was a there was a study i don't know if you heard of it it was the Grace Commission
+Agent 146.210250 148.455000 I know that
+Agent 148.455000 150.782750 [silence]
+Agent 150.782750 152.140000 um-hum
+Customer 151.292125 160.486000 uh and it it he was uh a private uh individual and he did a study on on cutting waste out of government and he came up with
+Agent 152.140000 166.357625 [silence]
+Customer 160.486000 168.787875 i forget the figure but it was a tremendous amount of savings that could be cut out without really cutting benefits uh just the waste that went on
+Agent 166.357625 167.569625 yeah
+Agent 167.569625 169.110375 [silence]
+Customer 168.787875 184.166250 [silence]
+Agent 169.110375 171.514250 well i know that uh
+Agent 171.514250 180.624250 well it seems like just ten or fifteen years ago when we were writing a proposal to work on some program we would sit down with an old Freidman mechanical calculator
+Agent 180.624250 184.995250 and work out a a one or two page cost proposal
+Customer 184.166250 185.605500 uh-huh
+Agent 184.995250 189.118750 and now when we write a proposal for the same magnitude of program
+Customer 185.605500 196.375625 [silence]
+Agent 189.118750 198.584750 we have a Compaq three eighty six and it runs for about three days and generates about three hundred pages of uh of nonsense to for somebody to go read
+Customer 196.375625 204.217875 right yeah you wonder if all that is necessary and that's the same in government i guess it's is it all necessary
+Agent 198.584750 201.713750 [silence]
+Agent 201.713750 202.890125 you know
+Agent 202.890125 204.621875 [silence]
+Customer 204.217875 209.412500 [silence]
+Agent 204.621875 209.788000 and uh you wonder if anybody every reads it and if they do why
+Customer 209.412500 214.459375 yeah yeah it it perpetuates a lot more jobs i think is what it does
+Agent 209.788000 210.927250 [laughter]
+Agent 210.927250 211.979250 and
+Agent 211.979250 216.254625 [silence]
+Customer 214.459375 216.416875 [silence]
+Agent 216.254625 224.777625 uh and i- i think one of the problems we're having with uh schools uh is sort of the same factor that uh
+Customer 216.416875 217.975250 but but
+Customer 217.975250 232.494875 [silence]
+Agent 224.777625 233.083875 when i was going to school we had uh a principal assistant principal and everybody else was teaching except the janitor
+Customer 232.494875 234.042000 uh-huh
+Agent 233.083875 241.585125 and now it seems like there's uh as many administrators and administrative assistants as we have teachers
+Customer 234.042000 240.584125 [silence]
+Customer 240.584125 243.012250 yeah well
+Agent 241.585125 246.732125 and uh the number of pupils per class has gone up by about fifty or sixty percent
+Customer 243.012250 246.252000 [silence]
+Customer 246.252000 258.212875 well with the economy overall getting bad a lot of companies have had to really go into cost cutting and streamlining and that's something the government has never really tried hard to do uh
+Agent 246.732125 263.925500 [silence]
+Customer 258.212875 264.693875 they just have to learn to live within their budget i think and and not uh allow this bunch to get out of hand like they have
+Agent 263.925500 264.929750 um-hum
+Customer 264.693875 273.129625 uh there's no no need in spending all of this money on on a lot of welfare and these programs when you're going into debt to do it
+Agent 264.929750 273.070250 [silence]
+Agent 273.070250 279.931125 and i think that the government also goes overboard uh on the way they do things
+Customer 273.129625 277.779625 [silence]
+Customer 277.779625 279.486250 [noise]
+Customer 279.486250 299.394000 [silence]
+Agent 279.931125 281.953250 uh we have a
+Agent 281.953250 286.076375 a new sewage treatment facility near here
+Agent 286.076375 293.506125 that's uh one of the fine EPA approved things that does a super job of cleaning up the water
+Agent 293.506125 297.591750 and they have an administrative building associated with it
+Agent 297.591750 299.394000 that uh ha[s]-

@@ -1,0 +1,69 @@
+Agent 0.000000 0.499500 [noise]
+Customer 0.000000 6.032875 [noise] Steve uh with the election year and whatnot coming up do you think we ought to cut taxes raise them or or or what do you think
+Agent 0.499500 5.787000 [silence]
+Agent 5.787000 13.865625 well that's [laughter] that's a really hard question i do know that uh politicians always talking out of both sides of their mouths um
+Customer 6.032875 35.565750 [silence]
+Agent 13.865625 25.654000 [noise] i let's example uh o[ur]- our friend the President right now says no new taxes we should and especially if anything be cutting taxes now because of the recession and at the same time the budget he sent to Congress has
+Agent 25.654000 36.875125 tax and fee increases so uh i know the politicians uh aren't aren't straightforward now i[n]- in terms of economics i'm not it's hard hard to call it really is
+Customer 35.565750 37.168750 uh-huh
+Agent 36.875125 63.393250 [silence]
+Customer 37.168750 39.832250 see i never thought really it's uh [noise]
+Customer 39.832250 51.422500 i never really thought that that the the question really had to do whether or not we're paying too much or too little i i always thought that the the real question was is are we getting a reasonable return on on investment
+Customer 51.422500 64.124750 for instance like Social Security tax or Soc[ial]- uh i mean that's that's tax we're paying money and and supposedly this money is going into some kind of fund so that when it comes our turn to retire the money will be there for us
+Agent 63.393250 65.564250 hm right [laughter]
+Customer 64.124750 72.774000 that's yeah i you know when i when i see that money taken out of my paycheck each each week i or each every other week i i really think that money's history
+Agent 65.564250 72.776375 [noise]
+Customer 72.774000 80.305125 and you know so as far as return investment that's not that's nothing and we're not even going to get the exact same number of dollars back
+Agent 72.776375 74.673125 yes uh
+Agent 74.673125 106.601000 [silence]
+Customer 80.305125 92.962250 uh someone was telling me that there is a uh uh there's still an office in uh you know staffed with with people there and in DC that are researching to find a cure for polio
+Customer 92.962250 94.111375 [silence]
+Customer 94.111375 106.858875 which i may be wrong but i believe that the cure for polio is already founded but but supposedly once you have an office in DC or you know and and staff it with people it's really tough to close it down and and they just haven't yet
+Agent 106.601000 120.040125 well yeah i'm not exactly sure uh about polio in particular i know we have a polio vaccine which will prevent somebody from getting polio i'm not sure if we know what to do in terms of curing somebody who has already gotten polio
+Customer 106.858875 113.286250 [silence]
+Customer 113.286250 114.676000 uh-huh
+Customer 114.676000 119.418500 [silence]
+Customer 119.418500 126.025125 well that might be the difference i don't know uh the other thing that uh i remember seeing on TV lately is uh had to do with
+Agent 120.040125 133.332750 [silence]
+Customer 126.025125 133.711000 it's like seventy five percent of the historical sites in America are in the home districts of very powerful people politically
+Agent 133.332750 134.622000 right
+Customer 133.711000 139.746000 that that histor[ical]- for some reason historical sites with you know the the full federal money and everything
+Agent 134.622000 147.849250 [silence]
+Customer 139.746000 147.521750 seem to appear as as almost as like political favors to to very strong politicians
+Customer 147.521750 164.513625 [silence]
+Agent 147.849250 159.334625 yeah it's it's it's funny because uh it was one of the things that Bush is been trying really hard to get ahold of is the line item veto where uh you know Congress is able to attach all kinds of
+Agent 159.334625 168.009500 uh funny amendments for individual uh c[ongressional]- congressional districts to the to the main budget proposals and
+Customer 164.513625 166.050000 uh-huh
+Customer 166.050000 174.013750 [silence]
+Agent 168.009500 173.553625 the poor President has has to uh either accept or reject the whole thing
+Agent 173.553625 177.979375 [silence]
+Customer 174.013750 180.034250 so it sounds like you uh you think that that we'd be able to save some money by uh passing the line item veto
+Agent 177.979375 179.396375 uh
+Agent 179.396375 185.417375 i i think the line item veto is not not is not necessarily a bad thing assuming that the uh
+Customer 180.034250 200.209250 [silence]
+Agent 185.417375 194.883125 the the President uh uses it to get rid of uh this kind of waste on the other hand uh
+Agent 194.883125 200.861625 uh it it assumes that you have lots of confidence in your President not to veto important things
+Customer 200.209250 201.458250 yeah
+Agent 200.861625 207.487250 [laughter] right and just to get rid of the unimportant things and whenever there's that kind of subjective judgment
+Customer 201.458250 209.484625 [silence]
+Agent 207.487250 216.942500 [noise] there's always going to be a dispute as to uh where the exa[ctly]- where the boundary between waste and and necessity is
+Customer 209.484625 210.945250 uh-huh
+Customer 210.945250 227.242625 [silence]
+Agent 216.942500 227.829000 so i'm not i'm not sure that that that will help solve our problems but there definitely is is a problem with uh i forgot there's a political term for this stuff pork barrel or something
+Customer 227.242625 229.948750 yeah pork barrel politics
+Agent 227.829000 237.458750 uh pork barrel politics the[re]- the[re]- there has to be some way to do it i know state governors usually have line item vetos and uh
+Customer 229.948750 247.034875 [silence]
+Agent 237.458750 247.477250 we[ll]- i- i lived in Massachusetts for a while and uh when Dukakis vetoed certain things there was a big uproar and wasn't necessarily so popular
+Customer 247.034875 253.325625 yeah but Massachusetts wasn't when Dukakis was there anyway wasn't in that great shape financially
+Agent 247.477250 252.261000 [silence]
+Agent 252.261000 254.022000 but at least at the end
+Customer 253.325625 257.210625 uh-huh i mean i don't know i
+Agent 254.022000 255.750500 [silence]
+Agent 255.750500 267.831375 yeah i- i- they were very good at first they were in very good financials at first and uh that's part of the reason he became a nominee is because things went so well and then of course the bottom fell out
+Customer 257.210625 266.910250 [silence]
+Customer 266.910250 269.898625 [laughter]
+Agent 267.831375 289.741625 [silence]
+Customer 269.898625 281.559750 it's uh i mean it's it's tough i mean there's there's two ways you can kind of go to get out of tough financial situations i guess you can like raise taxes and then create like job programs and whatnot
+Customer 281.559750 290.529375 or you can hope that if people keep their money that they'll spend more and create jobs and and whatnot
+Agent 289.741625 299.618000 and spare the economy yeah it's really it's a hard balance it it definitely is even not for government even just say for a small business um i know some
+Customer 290.529375 299.618000 [silence]

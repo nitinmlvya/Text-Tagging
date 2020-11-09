@@ -1,0 +1,138 @@
+Agent 0.000000 0.909125 [noise]
+Customer 0.000000 2.491250 okay Janet do you guys have a family budget
+Agent 0.909125 2.410625 [silence]
+Agent 2.410625 11.020750 we try to [laughter] like mothers i'm sitt[ing]- i'm right this minute dishing up cheap spaghetti which is one way we try and keep within a budget
+Customer 2.491250 3.511500 [silence]
+Customer 3.511500 4.718625 uh-huh
+Customer 4.718625 9.121750 [silence]
+Customer 9.121750 10.273375 uh-huh
+Customer 10.273375 13.691250 [laughter] it's probably why we're participating too right
+Agent 11.020750 12.936500 [silence]
+Agent 12.936500 16.695875 [laughter] although i'm trying to raise money for a boy scout cause
+Customer 13.691250 29.105125 [silence]
+Agent 16.695875 25.687125 um actually how we do it is my husband and i both work and we try very hard to live on his salary and my salary goes automatically into a savings
+Agent 25.687125 33.791125 account which we try not to use too much although from that we both def[initely]- we typically pay our credit cards from that account
+Customer 29.105125 30.335375 um-hum
+Customer 30.335375 32.948000 [silence]
+Customer 32.948000 34.159000 um-hum
+Agent 33.791125 41.553500 so that's the that's the uh our household expenses are pretty well covered because they're pretty much the same every month
+Customer 34.159000 44.082875 [silence]
+Agent 41.553500 44.945625 but it's our credit card spending that it's always the problem
+Customer 44.082875 48.548625 yep is the cost of living uh high down there is it tough to
+Agent 44.945625 48.293125 [silence]
+Agent 48.293125 59.018625 i don't know what to compare it to i lived in Indiana and Saint Louis but i was a student then and you know when you're a student things don't mean much um i think Dallas is um
+Customer 48.548625 50.319375 i know it's just a
+Customer 50.319375 51.473250 yeah
+Customer 51.473250 52.952125 [silence]
+Customer 52.952125 54.171625 um-hum
+Customer 54.171625 55.177125 [silence]
+Customer 55.177125 56.513500 right
+Customer 56.513500 67.350750 [silence]
+Agent 59.018625 64.147250 [noise] relatively high priced homes but then there's not
+Agent 64.147250 67.944875 i think energy and some of the other things aren't quite so high
+Customer 67.350750 68.272375 um-hum
+Agent 67.944875 77.754000 and i my my gestalt is that our groceries are sort of intermediate there're not as bad as i have seen in big cities like New York or California areas
+Customer 68.272375 77.254000 [silence]
+Customer 77.254000 78.723500 um-hum
+Agent 77.754000 79.319625 how about_1 you
+Customer 78.723500 84.288000 um the cost of living here is cheap in in fact it's really great we've got a
+Agent 79.319625 93.042250 [silence]
+Customer 84.288000 92.986625 a quite a nice home we've got a five bedroom ho[me]- home with a basement in it and it cost me through let me see four years ago it cost me fifty five thousand
+Customer 92.986625 96.837250 so it's great i mean uh uh
+Agent 93.042250 94.881750 that i[s]- [laughter]
+Agent 94.881750 97.246500 [silence]
+Customer 96.837250 98.704500 hm
+Agent 97.246500 99.190625 where are you from originally
+Customer 98.704500 100.469250 right here in Idaho
+Agent 99.190625 101.340750 fro[m]- from Idaho
+Customer 100.469250 107.774125 yes i've got a brother in law in Plano Texas and that's how we got hooked up with this uh TI deal but it's
+Agent 101.340750 105.221375 [silence]
+Agent 105.221375 107.295375 [noise]
+Agent 107.295375 113.229250 well i don't know anyone from Idaho i'm from Indiana um and i have a great love for the Midwest
+Customer 107.774125 109.540375 [silence]
+Customer 109.540375 110.744625 um-hum
+Customer 110.744625 114.993000 [silence]
+Agent 113.229250 117.350250 would go back in a minute if i could [laughter-but] i married a Texan
+Customer 114.993000 116.265500 um-hum
+Customer 116.265500 117.860250 [silence]
+Agent 117.350250 120.261125 they don't always tell you that they have a homing instinct
+Customer 117.860250 119.504375 well that's good
+Customer 119.504375 120.727750 um-hum
+Agent 120.261125 128.503500 but i our home uh we have a five bedroom home um but it's more in the range of with around two hundred forty thousand
+Customer 120.727750 127.561625 [silence]
+Customer 127.561625 128.844625 yeah
+Agent 128.503500 133.726875 so about_1 four and a half times your home i'm sure they're probably quite comparable
+Customer 128.844625 130.212000 [silence]
+Customer 130.212000 131.935250 yeah right
+Customer 131.935250 133.237250 [silence]
+Customer 133.237250 134.225375 yeah
+Agent 133.726875 140.319250 or maybe i don't know ours is nice our home is nicely located but i don't think the house itself is
+Customer 134.225375 138.108000 [silence]
+Customer 138.108000 139.677750 um-hum
+Customer 139.677750 148.330000 yeah well i- i wouldn't uh mine's not nicely located i probably got a bargain i think more
+Agent 140.319250 142.224125 particularly extraordinary
+Agent 142.224125 146.443125 [silence]
+Agent 146.443125 152.237875 [noise] how about_1 budget wise how how do you do a family budget are you married
+Customer 148.330000 149.542375 [silence]
+Customer 149.542375 151.061125 um-hum
+Customer 151.061125 158.426000 yes i am and my wife is very meticulous about budgeting she has a computer program in fact i'm an accountant i'm a CPA
+Agent 152.237875 157.610250 [vocalized-noise]
+Agent 157.610250 159.705000 [laughter]
+Customer 158.426000 167.132125 i'm calling you from work tonight uh but uh my wife runs every single check she spends through a computer
+Agent 159.705000 181.072750 [silence]
+Customer 167.132125 173.898875 and she can tell me on a monthly basis and she's more interested not me in fact i only look at it once a year when i do our we do our taxes
+Customer 173.898875 183.477250 but she can tell you every month exactly what she's paid for groceries and uh utility bills and for gasoline in the cars and everything she's uh
+Agent 181.072750 191.904375 uh my husband tries very hard to do that for us and we used the Managing Your Money software package with Andrew Tobias he is familiar with that one
+Customer 183.477250 184.933750 [silence]
+Customer 184.933750 186.176625 uh-huh
+Customer 186.176625 188.652750 [silence]
+Customer 188.652750 189.939250 um
+Customer 189.939250 192.730375 yeah i'm not i'm not uh-huh
+Agent 191.904375 198.217000 well i mean now i'm sure there are a million software packages but um he tried very hard and we were all computerized and we
+Customer 192.730375 193.739250 [silence]
+Customer 193.739250 194.952625 right
+Customer 194.952625 201.125375 [silence]
+Agent 198.217000 208.474625 our regular monthly checks we printed you know um and i ha[ted]- i did it for three years and hated every minute of it [laughter] and still founded about half of our checks
+Customer 201.125375 202.377000 um-hum
+Customer 202.377000 205.052375 [silence]
+Customer 205.052375 206.292250 huh
+Customer 206.292250 210.599625 [silence]
+Agent 208.474625 213.624750 maybe a third i still hand wrote because it would be like in the school parking lot or
+Customer 210.599625 211.821250 hm
+Customer 211.821250 213.054875 yep
+Customer 213.054875 216.521000 um-hum
+Agent 213.624750 220.847375 you know at my child's skating lesson or something like that so we had to come we had two checks two sizes of checks [vocalized-noise]
+Customer 216.521000 217.798125 right
+Customer 217.798125 226.616000 [silence]
+Agent 220.847375 222.300000 um
+Agent 222.300000 224.708250 excuse me <b_aside> Beth right there <e_aside>
+Agent 224.708250 234.038875 my daughter wants to know where the spaghetti cheese is um so we we tried and it was pretty nice one of one mistake i think we made in that is that um
+Customer 226.616000 227.951375 [laughter]
+Customer 227.951375 238.946125 [silence]
+Agent 234.038875 245.872125 for budgeting purposes in terms of putting it in a budget we must have had eighty different categories and so they they became sort of nonsensical instead of i always said if we had redone it we should have just put big categories like utilities
+Customer 238.946125 239.788750 yep
+Customer 239.788750 240.791375 [silence]
+Customer 240.791375 241.788625 um-hum
+Customer 241.788625 245.133125 [silence]
+Customer 245.133125 246.421000 right
+Agent 245.872125 251.331000 and you know luxuries [laughter-and] entertainment that sort of thing
+Customer 246.421000 248.650375 hm
+Customer 248.650375 250.272000 [vocalized-noise]
+Customer 250.272000 262.442625 we have about twenty five categories is all probably and we write all of our checks out of the register we don't try to do any through the computer and then my wife just sets down when she's got about an hour and just keys them_1 all in
+Agent 251.331000 274.004250 [silence]
+Customer 262.442625 265.662500 and it's really not you know that bad it um
+Customer 265.662500 271.556000 well i don't know it might it might've been tough for you but she enjoys it and that's another thing too she really enjoys it
+Customer 271.556000 272.768250 she uh
+Customer 272.768250 274.336375 uh
+Agent 274.004250 280.959250 [laughter] well i see [laughter] i suppose that's the key um
+Customer 274.336375 277.654500 just gets a thrill out of seeing where her money went i guess
+Customer 277.654500 283.213250 um-hum
+Agent 280.959250 284.065750 do you does your wife work outside the home
+Customer 283.213250 290.860875 she does she's she teaches at um a small two year college here she's uh teaches uh business communications
+Agent 284.065750 289.918000 [silence]
+Agent 289.918000 294.383125 oh my goodness well with a CPA and a business person you should be organized
+Customer 290.860875 292.197500 and
+Customer 292.197500 293.761750 [silence]
+Customer 293.761750 298.914000 uh yeah uh [laughter-i] [laughter-don't] [laughter-know] we still have problems with money like everybody else
+Agent 294.383125 297.952000 [silence]
+Agent 297.952000 298.914000 yeah

@@ -1,0 +1,69 @@
+Agent 0.000000 1.165375 [noise]
+Customer 0.000000 8.386000 [noise] see wh[en]- whe[n]- when you're with a big company or a big organization a lot of times uh you know the benefits are good and and you know the pay's regular
+Agent 1.165375 36.367125 [silence]
+Customer 8.386000 23.144875 but uh we[ll]- you know sometimes you don't get tuned in to what's going on and i- i- i think the biggest benefit or the biggest benefit other than wages that that uh that uh anybody could get in uh in dealing in a with a large company
+Customer 23.144875 32.130875 is to be in a situation where you you get to know what's going on and maybe that's that's probably the toughest thing in the whole world to to do
+Customer 32.130875 37.729625 what's what's your feeling about benefits what sort of benefits would you like to get from a big compa[ny]-
+Agent 36.367125 48.222250 well since i'm kind of on the the older side you know i- i- i just feel like uh when i start talking about benefits i talk about i'm concerned about medical benefits [noise]
+Customer 37.729625 59.251500 [silence]
+Agent 48.222250 49.823875 um
+Agent 49.823875 59.984250 my um my husband works for McDonald Douglas and so m[y]- his benefits his medical benefits are so excellent you know that's really great
+Customer 59.251500 60.613250 um-hum
+Agent 59.984250 65.058375 you know i work for um Wes[tern]- a bank Western Financial
+Customer 60.613250 64.239750 [silence]
+Customer 64.239750 65.587250 um-hum
+Agent 65.058375 70.999125 and uh they don't let me know really about anything that's going on
+Customer 65.587250 102.338875 [silence]
+Agent 70.999125 83.672625 even some of the immediate things that i need to know i don't know it until the next hour and then all of a sudden we know we've gotten changes made we're changing departments we're changing policies we're changing doing other kinds of things which to me is is disturbing
+Agent 83.672625 94.698500 i mean i feel like if i- i don't necessarily need to uh be involved since i'm pretty much on a low level you are you are right there you know i'm pretty much on a low level as far as uh
+Agent 94.698500 105.784750 uh the company is concerned but i i do kind of like to know what's going on and what's happening and i think i can be a better and more effective employee if if i had a little bit more information along that line
+Customer 102.338875 104.034875 well th[at]- i
+Customer 104.034875 109.746500 i well i- i work for the government and uh actually i work for the FBI
+Agent 105.784750 108.870875 [silence]
+Agent 108.870875 110.880875 oh my gosh
+Customer 109.746500 115.796875 and uh and so well you know we we don't there's lots of things that we don't get told for good reason
+Agent 110.880875 123.007875 [silence]
+Customer 115.796875 123.375625 but uh but basically uh there's lots of things that that we should know about projects i'm an engineer
+Agent 123.007875 124.362625 um-hum
+Customer 123.375625 136.466750 you know i'm i'm a COTR and sometime[s]- and i worked in the same lab with a guy and we didn't really know that much about each other's projects for two years and we should've you know we're we're now collaborating
+Agent 124.362625 135.968125 [silence]
+Agent 135.968125 137.310625 oh
+Customer 136.466750 141.948750 [laughter] and it did[n't]- for two years we didn't and wh[ich]- which was uh kind of stupid
+Agent 137.310625 138.966500 and it it
+Agent 138.966500 161.471625 [silence]
+Customer 141.948750 154.210125 but uh but uh our organization is doing something else t[omorrow]- on Monday uh we're having a for all unclassified programs we're we're having little tables put out in front of you know lab in the hallways
+Customer 154.210125 158.819250 and everyb[ody]- all the other employees are going to come around and see what sort of things we do
+Customer 158.819250 161.390875 which i thought was kind of interesting
+Customer 161.390875 162.575875 and bu[t]-
+Agent 161.471625 163.621125 yeah that is interesting
+Customer 162.575875 170.435375 but uh but that sort sort of thing but but i[f]- but ju[st]- i think you can tolerate a lot of problems if you understand what's going on
+Agent 163.621125 169.722250 [silence]
+Agent 169.722250 171.392250 exactly
+Customer 170.435375 178.487625 and and but of course most time most the time management has a hard time distributing or getting the word out to the people who must know
+Agent 171.392250 215.090375 [silence]
+Customer 178.487625 192.049125 and you know if you don't really count if you're not part of the program you might not get told for months or you might you know if it doesn't impact you directly or if your management doesn't think that
+Customer 192.049125 202.382125 but but regard to benefits you know most companies have most big organizations have decent you know benefits like retirement and that sort of thing
+Customer 202.382125 212.445500 in the private sector i would think that one of the major uh situations especially when you reach you know the the mid fifties wa[s]- is
+Customer 212.445500 215.292500 keeping a job until you retire
+Agent 215.090375 216.906500 hm ah right
+Customer 215.292500 224.340625 uh and engineers are uh [noise] are baggage to most uh uh as they get older to to most companies
+Agent 216.906500 238.440750 [silence]
+Customer 224.340625 239.079500 and uh it's very much like the military it windows out you know you you think well boy i'm getting more money and i'm getting more responsibility i'm doing this but as you climb up that tree pretty soon you're the the the branches get smaller on the top of the tree
+Agent 238.440750 239.613375 um-hum
+Customer 239.079500 244.679625 and pretty soon somebody falls off i['ve]- i've fallen off twice in my private sector
+Agent 239.613375 244.049000 [silence]
+Agent 244.049000 245.260750 oh
+Customer 244.679625 247.925875 and uh [laughter] an[d]- and you know i can get up
+Agent 245.260750 246.431875 [silence]
+Agent 246.431875 251.456250 i know it it seem to be kind of kind of scary you know because you think of um
+Customer 247.925875 277.264875 [silence]
+Agent 251.456250 257.673750 see my son's eighteen right now and he he's uh he wants to go into engineering
+Agent 257.673750 266.397625 and the the the branches of engineering that he wants to go into is now is kind of open and he's interested in basically three different areas but
+Agent 266.397625 277.817375 uh it's difficult for me to [noise] to try to give him any kind of advice or to advise him or anything like that he needs to do his own course investigation and and see what he can do because who knows what's going to happen in another thirty years
+Customer 277.264875 279.190250 um-hum yeah
+Agent 277.817375 290.608125 and in thirty years it becomes pretty critical i mean my um brother-in-law is like um i mean he's sixty he's not ready to retire but his company is is c[losing]- is um is uh closing up
+Customer 279.190250 290.110625 [silence]
+Customer 290.110625 291.484500 um-hum
+Agent 290.608125 300.290000 and because of the defense cutbacks and all that kind of stuff and all the nuclear and stuff which is what he what he was working on he's getting cut back and he's not ready to reti[re]-
+Customer 291.484500 298.543750 [silence]
+Customer 298.543750 300.290000 yeah he may be retired

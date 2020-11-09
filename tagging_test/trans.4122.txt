@@ -1,0 +1,168 @@
+Agent 0.000000 0.547375 [noise]
+Customer 0.000000 2.236750 [noise] so do you work for an employer who uh
+Agent 0.547375 3.441625 [silence]
+Customer 2.236750 3.969125 gives you health benefits
+Agent 3.441625 8.137125 yeah we get um i have i have good health benefits actually
+Customer 3.969125 7.380125 [silence]
+Customer 7.380125 8.613125 oh yeah
+Agent 8.137125 13.810875 yeah i have uh all of them and they're it's pretty cheap per month and they
+Customer 8.613125 15.622875 [silence]
+Agent 13.810875 17.762250 i get to pick my own doctor and they have really good benefits
+Customer 15.622875 16.915750 uh-huh
+Customer 16.915750 19.149625 uh um
+Agent 17.762250 24.427250 [silence]
+Customer 19.149625 23.994000 do you have any any interesting benefits aside from basic health coverage
+Customer 23.994000 36.463125 [silence]
+Agent 24.427250 30.886375 uh besides bas[ic]- uh no i have um some
+Agent 30.886375 34.150750 a little bit of uh life
+Agent 34.150750 36.334250 insurance benefits
+Agent 36.334250 43.168375 [silence]
+Customer 36.463125 37.828375 um
+Customer 37.828375 38.829625 [silence]
+Customer 38.829625 43.307625 do uh do you get any kind of dental or optical coverage
+Agent 43.168375 45.512250 uh no the the
+Customer 43.307625 48.175875 [silence]
+Agent 45.512250 49.294000 uh no optical the dental is fully covered um
+Customer 48.175875 49.499250 uh-huh
+Agent 49.294000 50.297375 [silence]
+Customer 49.499250 51.859250 [silence]
+Agent 50.297375 52.368375 excep[t]- unless it's major
+Customer 51.859250 53.135875 uh-huh
+Agent 52.368375 55.983750 but anything minor or just checkups that's all covered
+Customer 53.135875 55.422250 [silence]
+Customer 55.422250 58.814375 and uh is your whole family covered or do
+Agent 55.983750 58.002625 [silence]
+Agent 58.002625 62.500625 no that's just me but they can be i have that option but it's more money
+Customer 58.814375 62.061125 [silence]
+Customer 62.061125 63.424500 uh-huh
+Agent 62.500625 65.309000 but they're not they have their own
+Customer 63.424500 64.825125 [silence]
+Customer 64.825125 68.405750 i see so through your husband or
+Agent 65.309000 67.197375 [silence]
+Agent 67.197375 71.040750 oh no me i'm single it's just through me
+Customer 68.405750 70.129875 uh-huh
+Customer 70.129875 71.983125 oh i see
+Agent 71.040750 76.258875 it's it's uh so it's and i[t]- that makes it cheaper too since i'm single
+Customer 71.983125 76.035750 [silence]
+Customer 76.035750 78.567750 okay d[o]- but do you have children
+Agent 76.258875 78.031125 [silence]
+Agent 78.031125 79.650125 no no
+Customer 78.567750 82.460875 oh okay so that's real simple yeah here uh
+Agent 79.650125 81.633750 yeah [laughter]
+Agent 81.633750 82.861375 [noise]
+Customer 82.460875 89.024500 it's just for the individual and if you want to cover your family you pay a little extra but not much
+Agent 82.861375 86.498500 [silence]
+Agent 86.498500 87.882125 yeah
+Agent 87.882125 92.519250 not much not for the good but it's really good the benefits are good
+Customer 89.024500 90.351000 uh
+Customer 90.351000 91.626375 [silence]
+Customer 91.626375 96.285250 yeah i think it's pretty significant benefit uh really uh
+Agent 92.519250 93.611875 [silence]
+Agent 93.611875 94.984375 um-hum
+Agent 94.984375 97.953375 [silence]
+Customer 96.285250 99.792625 makes you wanna stick around [laughter]
+Agent 97.953375 102.879125 yeah yeah they have they uh it does [laughter]
+Customer 99.792625 101.951750 [silence]
+Customer 101.951750 110.009000 [laughter-yeah] that's just what you want to hear about uh people who are individually insured you know once you get sick you can be booted right out
+Agent 102.879125 103.932250 [silence]
+Agent 103.932250 105.307750 yeah
+Agent 105.307750 106.948500 [silence]
+Agent 106.948500 108.212500 um-hum
+Agent 108.212500 109.233750 [silence]
+Agent 109.233750 110.494375 yeah
+Customer 110.009000 112.298125 uh which seems kind of unfair
+Agent 110.494375 112.367875 [silence]
+Customer 112.298125 113.719250 uh
+Agent 112.367875 116.395625 do do you work where you have benefits like that
+Customer 113.719250 115.489500 [silence]
+Customer 115.489500 119.500125 yeah yeah we have we can choose uh
+Agent 116.395625 125.403250 [silence]
+Customer 119.500125 125.897875 a couple different plans they made they try to make it real flexible where if you don't use much you actually get cash back
+Agent 125.403250 127.067250 oh really
+Customer 125.897875 135.761375 um so you can choose all these different plans some of which pay you know like everything and some of which pay very little uh you can also choose an HMO
+Agent 127.067250 135.948500 [silence]
+Customer 135.761375 148.069625 uh well i used to have that when i was single and i wa[s]- i found it very convenient uh and we have some optical and dental coverage that's i guess it's optional bu[t]- i think we can get one pair of glasses a year
+Agent 135.948500 137.294000 yeah th[e]-
+Agent 137.294000 139.336375 [silence]
+Agent 139.336375 140.536500 um-hum
+Agent 140.536500 144.738375 [silence]
+Agent 144.738375 145.978625 yeah
+Agent 145.978625 147.582000 [silence]
+Agent 147.582000 149.489625 really well that's good
+Customer 148.069625 155.367000 that's so yeah it's pretty good actually uh i think a anything under a hundred dollars we can get one pair of glasses a year
+Agent 149.489625 157.154500 [silence]
+Customer 155.367000 158.032250 but if you want something really fancy you pay the difference
+Agent 157.154500 167.968375 uh-huh see that's see i wear glasses not all the time but when i read and stuff and um i wish we had some kind of optical
+Customer 158.032250 162.084500 [silence]
+Customer 162.084500 163.444500 uh-huh
+Customer 163.444500 168.722375 [silence]
+Agent 167.968375 170.287250 coverage but there's
+Customer 168.722375 170.571125 yeah it's nice
+Agent 170.287250 173.545000 there's none whatsoever and it can get expensive
+Customer 170.571125 172.858625 [silence]
+Customer 172.858625 181.357625 yeah it can uh at least it's not like medical where it can really go through the roof you know at least somewhat limited um
+Agent 173.545000 177.252875 [silence]
+Agent 177.252875 178.739375 yeah
+Agent 178.739375 186.054125 [silence]
+Customer 181.357625 183.915000 let's s[ee]- you have any kind of uh
+Customer 183.915000 186.598250 child care benefits or
+Agent 186.054125 193.833625 um yeah for the um actually if you're i believe i i read up on some of it if you're pregnant
+Customer 186.598250 187.853625 anything in
+Customer 187.853625 193.159375 [silence]
+Customer 193.159375 194.447875 uh-huh
+Agent 193.833625 202.110125 they have really really good coverage they have um like well baby care it's it's pretty much covered
+Customer 194.447875 199.448000 [silence]
+Customer 199.448000 200.904375 uh-huh
+Customer 200.904375 208.436500 that's a problem sometimes i understand when the baby's not sick but you know you have these periodic appointments and
+Agent 202.110125 203.741250 um-hum
+Agent 203.741250 207.422125 [silence]
+Agent 207.422125 209.699625 especially when they're younger
+Customer 208.436500 214.524875 yeah the doctors end up having to come up with some ailment to cover the uh
+Agent 209.699625 212.304000 [silence]
+Agent 212.304000 213.511375 yeah
+Agent 213.511375 216.499875 [silence]
+Customer 214.524875 216.951000 the appointment even though there's not really one
+Agent 216.499875 217.718500 um-hum
+Customer 216.951000 219.377000 yeah some seems more honest
+Agent 217.718500 218.784750 [silence]
+Agent 218.784750 220.750625 and though and the
+Customer 219.377000 226.422000 [silence]
+Agent 220.750625 222.472125 pregnant mother has
+Agent 222.472125 223.798500 [silence]
+Agent 223.798500 226.359000 uh full coverage for well mother care
+Agent 226.359000 235.891750 [silence]
+Customer 226.422000 235.905875 uh-huh well that's good that's good and d[o]- is there any kind of interesting uh wh[at]- i mean what happens after the baby's born is there some uh some maternity leave policy
+Agent 235.891750 241.371125 um that's what i was trying to i think there is i don't really remember how long it is
+Customer 235.905875 241.065500 [silence]
+Customer 241.065500 242.477500 uh-huh
+Agent 241.371125 246.981750 but they do give you a certain amount of time to be home and get adjusted i guess
+Customer 242.477500 246.108250 [silence]
+Customer 246.108250 247.512125 uh
+Agent 246.981750 248.341000 and um
+Customer 247.512125 259.967250 [silence]
+Agent 248.341000 250.086000 [silence]
+Agent 250.086000 260.556125 most of the benefits are pretty good the hospital benefits and and they let you pick your own doctor you have your choice actually if um it's better they give you a list
+Customer 259.967250 261.302750 uh-huh
+Agent 260.556125 268.213375 and if and if your doctor's on that list then most of your benefits are better because those doctors are in a chain that works with the insurance company
+Customer 261.302750 267.238250 [silence]
+Customer 267.238250 271.327375 i see so they they're preferred providers or is that a
+Agent 268.213375 269.479000 [silence]
+Agent 269.479000 272.802125 yeah but you can have your own doctor
+Customer 271.327375 272.461000 [silence]
+Customer 272.461000 277.185125 right and you pay a little more or certain things aren't as well covered but at least you have that option
+Agent 272.802125 274.127375 [silence]
+Agent 274.127375 275.367125 yeah
+Agent 275.367125 277.807500 yeah um-hum
+Customer 277.185125 281.440875 that's nice because_1 once in a while you find someone who deals specifically with
+Agent 277.807500 282.510000 [silence]
+Customer 281.440875 286.151750 you know what you have or or so[mebody]- just somebody you've dealt with already a
+Agent 282.510000 283.900750 um-hum
+Agent 283.900750 285.540375 [silence]
+Agent 285.540375 296.382500 yeah and and a lot of times because_1 we just switched my comp[any]- my uh company just switched insurance companies and before [noise]
+Customer 286.151750 287.382500 an[d]-
+Customer 287.382500 292.751250 [silence]
+Customer 292.751250 294.204625 uh-huh
+Customer 294.204625 297.859000 [silence]
+Agent 296.382500 298.230750 we did not have that choice
+Customer 297.859000 299.074000 uh-huh
+Agent 298.230750 299.074000 [silence]

@@ -1,0 +1,93 @@
+Agent 0.000000 1.326625 [noise]
+Customer 0.000000 0.498625 [noise]
+Customer 0.498625 2.372750 [silence]
+Agent 1.326625 3.519125 no you start [laughter]
+Customer 2.372750 3.478000 [laughter]
+Customer 3.478000 14.805125 okay what are the benefits well i- i mean i don't even consider like salary a real benefit it just it's kind of a like a side thing i'm really here for you know working with lots of creative people
+Agent 3.519125 18.035625 [silence]
+Customer 14.805125 17.816000 is what i really like about my job
+Customer 17.816000 19.477125 um-hum
+Agent 18.035625 22.358500 well i think that i'm self-employed and work in radio
+Customer 19.477125 42.473500 [silence]
+Agent 22.358500 31.994250 and uh for me really i don't have to be terribly concerned about uh benefits outside because_1 i own my own company
+Agent 31.994250 43.228875 but uh the worst problem that i think uh out here is affecting people and i think would be the most positive job benefit is job security these days
+Customer 42.473500 46.149875 that's true y[eah]- yeah you don't you don't want to have worry about it [laughter]
+Agent 43.228875 46.420375 [silence]
+Customer 46.149875 49.343875 you know if if you're worried you don't work as well
+Agent 46.420375 48.204000 yeah it['s]-
+Agent 48.204000 55.975125 well it it's a real problem out here because uh you know it's hard to imagine that you know ten years ago
+Customer 49.343875 65.611000 [silence]
+Agent 55.975125 66.286250 i can remember where we really you know somebody would work for a local company here like Kodak or Xerox which are based here and uh they'd have that job for life
+Customer 65.611000 67.256375 [laughter]
+Agent 66.286250 71.729875 and you really didn't have to worry too much about that but ever since this Reagan Bush thing
+Customer 67.256375 70.847000 [silence]
+Customer 70.847000 72.564750 i know
+Agent 71.729875 81.739625 every single time there's you know th[e]- the first thing they do is they fire employees whenever there's a problem with the uh uh ec[onomy]- economy
+Customer 72.564750 85.852625 [silence]
+Agent 81.739625 87.003000 and clear out the employees and we're losing more and more jobs and uh
+Customer 85.852625 89.373000 and it just gets worse then people don't don't spend any money
+Agent 87.003000 89.151500 [silence]
+Agent 89.151500 103.413000 yeah it's it's a real that's probably the biggest thing that i think people are looking for i uh put some things up in the Comp Dcom Telecom thing regularly about uh job security with the uh AT&T employees and
+Customer 89.373000 101.661000 [silence]
+Customer 101.661000 105.516125 right yeah i j[ust]- i just noticed that yeah
+Agent 103.413000 113.482500 the Communication Workers of America and i'm watching as that progresses more and more and it seems to me that we're seeing a real problem with job security
+Customer 105.516125 123.713375 [silence]
+Agent 113.482500 122.987875 being the number one focus it's no longer a question of salary or or perks it it's just basic security to have that job
+Agent 122.987875 129.251750 [silence]
+Customer 123.713375 135.465875 yeah i know i know exactly how you feel but i- i also don't kn[ow]- you know ho[w]- how can we get people to change it i mean it it kind of it kind of requires you know a company taking a risk and they don't want to do that [laughter]
+Agent 129.251750 131.105875 well i in
+Agent 131.105875 133.715750 [noise]
+Agent 133.715750 139.701750 well i think maybe some incentives on the part of the government to retain employees
+Customer 135.465875 147.961750 [silence]
+Agent 139.701750 148.994750 uh versus downsizing really why we're seeing that kind of downsizing is because of the uh increasing power of shareholders in the corporations of the country
+Customer 147.961750 149.671000 that's true
+Agent 148.994750 159.203125 whenever there's a uh problem with uh the economy or the stock value you know the first thing the stockholders want to see is well decrease costs which means cut employees
+Customer 149.671000 158.375500 [silence]
+Customer 158.375500 164.057875 i know i mean our CEO is is you know quite frankly stated that you know we're we're here to make stockholders happy
+Agent 159.203125 166.418500 [silence]
+Customer 164.057875 167.299000 and that's not why i'm working here [laughter]
+Agent 166.418500 172.773250 yeah California is really starting to feel the effects i think of the uh downturn
+Customer 167.299000 170.432125 [silence]
+Customer 170.432125 172.489625 oh definitely [laughter]
+Customer 172.489625 185.840875 [silence]
+Agent 172.773250 181.223625 you know you guys have been pretty insulated uh for some of the past ones i[t]- it hasn't hit as bad as it has out in the northeast here
+Agent 181.223625 188.456500 Rochester's luckily is a technology moving city i mean we have a lot of telecommunications and the like out here but
+Customer 185.840875 187.649375 right [laughter]
+Customer 187.649375 196.490000 [silence]
+Agent 188.456500 197.752875 Buffalo and Pittsburgh and cities around here that were into mechanical and engineering and things like that steel mills they're all gone they're all in Mexico now [laughter]
+Customer 196.490000 198.740875 [laughter]
+Agent 197.752875 205.980375 [silence]
+Customer 198.740875 205.391500 yeah w[e're]- we're just kind of like losing and it it just seems to be a snowball effect i mean [vocalized-noise] you know we keep losing more
+Customer 205.391500 211.418500 [silence]
+Agent 205.980375 212.344000 well Cupertino seems to be one of the every single software company ever sees always sees Cupertino [laughter-you] [laughter-know]
+Customer 211.418500 213.451000 [laughter]
+Agent 212.344000 221.104250 so you guys at least don't have those kinds of you know the only pro[blem]- software seems to be still a US strength versus hardware
+Customer 213.451000 219.220875 [silence]
+Customer 219.220875 221.200125 right and it [laughter]
+Agent 221.104250 230.076625 but you know the again in the future we're going to see the same type of thing even in more white collar work where we're going to have job security i think being the biggest focus
+Customer 221.200125 227.436750 [silence]
+Customer 227.436750 232.621625 yeah it's thi[ngs]- things aren't that secure in software right now either i think it's
+Agent 230.076625 245.310000 [silence]
+Customer 232.621625 240.536625 it's kind of a cutthroat i'm also a i'm also a hardware manufacturer i'm at Apple so it's like
+Customer 240.536625 245.554500 you know we we notice our product just becoming a commodity and that's really bad
+Agent 245.310000 250.303625 well i heard Apple was remaking themselves into a consumer electronics company
+Customer 245.554500 249.036875 [silence]
+Customer 249.036875 254.382875 we're trying and if it works tha[t's]- that'd be great for us but what about you know the rest of the industry
+Agent 250.303625 253.952625 [silence]
+Agent 253.952625 254.431875 [noise]
+Customer 254.382875 262.945500 [silence]
+Agent 254.431875 265.099000 yeah well the hardware you know HDTV if we can keep control of that that looks like something that we could have good strengths on and there would be a lot of new jobs created
+Customer 262.945500 275.183750 yeah although although we we go on that subject i- i because_1 i looked at HDTV uh but i- i don't like standards that are on it's s[till]- still on a fixed resolution which means it'll be eventually outdated also
+Agent 265.099000 274.236625 [silence]
+Agent 274.236625 275.714000 um-hum
+Customer 275.183750 279.205375 [silence]
+Agent 275.714000 284.517000 well we i'm a home satellite dish owner and we have these arguments all the time about [laughter-standards] because of the video cipher of the scrambling system
+Customer 279.205375 281.006375 [laughter]
+Customer 281.006375 282.210500 [silence]
+Customer 282.210500 283.555750 um-hum
+Customer 283.555750 293.903750 [silence]
+Agent 284.517000 294.728625 in place and there's two separate arguments over whether we w[ant]- should have an industry standard which many people can build equipment towards or whether we want to have a uh system where
+Customer 293.903750 295.801125 everybody's separate
+Agent 294.728625 295.293750 [noise]
+Agent 295.293750 299.170000 yeah it's it's a real s[erious]- serious problem in a situation of
+Customer 295.801125 299.170000 [silence]

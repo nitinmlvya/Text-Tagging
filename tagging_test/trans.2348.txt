@@ -1,0 +1,243 @@
+Agent 0.000000 1.513000 [silence]
+Customer 0.000000 0.927625 [silence]
+Customer 0.927625 1.949125 hi Ellen
+Agent 1.513000 2.832750 hi
+Customer 1.949125 8.674375 um do you uh could you tell me if you uh budget your monthly expenses
+Agent 2.832750 9.140750 [silence]
+Customer 8.674375 20.078250 [silence]
+Agent 9.140750 13.213000 no we don't really do anything formal um
+Agent 13.213000 25.141875 i kind of keep up with all the finances you know paying the bills and typically i do most of the [laughter-spending] too as well so uh you know i kind of have a handle on it and
+Customer 20.078250 21.459125 [laughter]
+Customer 21.459125 37.050625 [silence]
+Agent 25.141875 30.687875 i just sort of know what we can and can't do and
+Agent 30.687875 37.468500 it you know it's worked pretty well i haven't really gotten into any major problems without having something formal
+Customer 37.050625 47.318250 yeah how about how about uh long term do you have anything uh for as far as as far as savings go for long term
+Agent 37.468500 45.498875 [silence]
+Agent 45.498875 46.641000 well yeah
+Agent 46.641000 59.380375 yeah we have uh you know like a typical credit union account for you know just a a basic savings thing and then uh we've got you know the IRA's and CD's and
+Customer 47.318250 61.199375 [silence]
+Agent 59.380375 63.198750 various and sundry you know long term kinds of things
+Customer 61.199375 63.853875 uh yeah
+Agent 63.198750 64.808125 how about_1 you
+Customer 63.853875 69.920000 okay that's uh uh we used to budget when the children were small
+Agent 64.808125 75.666875 [silence]
+Customer 69.920000 71.826625 um
+Customer 71.826625 76.417875 things were and there was only one income so we had to watch what we were doing
+Agent 75.666875 76.978000 um-hum
+Customer 76.417875 85.174625 and our savings weren't that great but now the kids are all grown up and gone in fact the youngest is is uh
+Agent 76.978000 87.691125 [silence]
+Customer 85.174625 88.418625 finally getting out of college this uh May
+Agent 87.691125 89.017875 uh
+Customer 88.418625 102.320125 so we've we don't budget anymore we run basically the same as you do you kind of know what you're going to spend uh week to week or or you have your monthly bills at a fixed
+Agent 89.017875 101.547500 [silence]
+Agent 101.547500 102.838500 right
+Customer 102.320125 106.259375 um as far as electricity and telephone and
+Agent 102.838500 113.464000 [silence]
+Customer 106.259375 113.912250 um we do the same thing we budget not budget but um i have a long term savings goal
+Agent 113.464000 114.599000 um-hum
+Customer 113.912250 116.991750 for retirement you know
+Agent 114.599000 116.594000 [silence]
+Agent 116.594000 117.730750 right
+Customer 116.991750 120.217750 they take out for CODA and then uh um
+Agent 117.730750 137.362125 [silence]
+Customer 120.217750 122.270375 the IRA's
+Customer 122.270375 126.055500 and then uh i also take out for
+Customer 126.055500 131.059375 um a savings account but it's it's uh
+Customer 131.059375 132.594500 [noise]
+Customer 132.594500 137.973750 um it's not really sa[vings]- it's savings if we don't spend it
+Agent 137.362125 140.605750 [laughter] well i know yeah
+Customer 137.973750 139.041750 [silence]
+Customer 139.041750 143.135500 it's like a floating you know if something if something comes up
+Agent 140.605750 142.318000 [silence]
+Agent 142.318000 149.165875 yeah or if you want to take a trip or something that you you plan it but that's where you get the money is
+Customer 143.135500 145.106000 [silence]
+Customer 145.106000 146.389875 yes
+Customer 146.389875 147.878875 [silence]
+Customer 147.878875 149.634250 right yeah
+Agent 149.165875 151.486375 yeah that's that's the way we work it
+Customer 149.634250 150.831625 it it
+Customer 150.831625 153.492750 it doesn't come out um
+Agent 151.486375 172.860000 [silence]
+Customer 153.492750 164.537125 it doesn't come out of long term savings like we were we were um saving savings bonds too for oh years and years and years and now i'm getting up towards retirement age so
+Customer 164.537125 172.287250 we stopped stopped the the savings bonds and we're going {maxed} out on CODA and then
+Customer 172.287250 175.091000 you know other things like you know CD's
+Agent 172.860000 174.162250 uh-huh
+Agent 174.162250 175.322500 uh-huh
+Customer 175.091000 176.576750 um
+Agent 175.322500 185.043625 [silence]
+Customer 176.576750 185.605000 but this other it's in the credit union and they and they take it out and it goes in there and at the end of the month but if we want to go on a trip or if something looks good or if we want to go away for a weekend
+Agent 185.043625 185.987875 yeah
+Customer 185.605000 187.124375 that's what we hit
+Agent 185.987875 187.026500 [silence]
+Agent 187.026500 187.856750 yeah
+Customer 187.124375 188.126500 [silence]
+Agent 187.856750 194.269875 [silence]
+Customer 188.126500 191.916375 or if we go out for dinner say to a nice restaurant
+Customer 191.916375 194.748750 um that'll come out of that
+Agent 194.269875 195.323625 uh-huh
+Customer 194.748750 196.807125 rather than put it on a credit card
+Agent 195.323625 197.077125 [silence]
+Customer 196.807125 208.439375 [silence]
+Agent 197.077125 211.098125 oh that's sort of the way we you know do it or at least certainly for some of those bigger things or maybe one of the appliances breaks down you know and we have to go get something new then we've got that little cushion in there that
+Customer 208.439375 209.659875 right
+Customer 209.659875 215.177750 [silence]
+Agent 211.098125 215.926375 you know will either cover it or partially so you know depending on what it is
+Customer 215.177750 226.303875 yeah so it you don't have to really dig into long term or or you know well you can't cash in a CD that's kind of ridiculous um
+Agent 215.926375 224.684250 [silence]
+Agent 224.684250 229.159000 yeah no i never g[o]- like to go into those things that are
+Customer 226.303875 228.180625 [noise]
+Customer 228.180625 234.062000 [silence]
+Agent 229.159000 234.734375 like you say long term that have penalties and all sorts of other things they
+Customer 234.062000 235.085000 yeah
+Agent 234.734375 243.064625 uh [vocalized-noise] i i sort of feel like if you leave it there and you don't use it and you sort of don't see it then it's it's safe in a [laughter-sense]
+Customer 235.085000 242.465250 [silence]
+Customer 242.465250 250.075125 right the only time you know about it is when it comes due and they'll say you know well you've got to reinvest it back in this or that or whatever
+Agent 243.064625 249.518375 [silence]
+Agent 249.518375 250.409500 yeah
+Customer 250.075125 253.287875 but yeah it's it's it's kind of forced on you
+Agent 250.409500 255.470375 [silence]
+Customer 253.287875 255.778750 because you suffer a penalty
+Agent 255.470375 256.473125 yeah
+Customer 255.778750 262.908250 so that's yeah that's one of the that's one of the ways that we do it you you also have uh CODA
+Agent 256.473125 262.417750 [silence]
+Agent 262.417750 263.413875 yes
+Customer 262.908250 264.635250 so
+Agent 263.413875 264.592875 [silence]
+Agent 264.592875 267.052500 definitely i mean that's a good deal
+Customer 264.635250 267.059625 [silence]
+Agent 267.052500 270.359875 [silence]
+Customer 267.059625 270.755000 that's yeah where else can you get that kind of interest to start with
+Agent 270.359875 271.830750 i don't know
+Customer 270.755000 272.554250 i mean that's fantastic
+Agent 271.830750 273.091625 yeah
+Customer 272.554250 275.311125 you know they match it um
+Agent 273.091625 284.506000 [silence]
+Customer 275.311125 284.859375 my wife used to they matched hers only hers was a little bit better than ours um she hasn't been working for a couple of years her father took sick so she's been taking care of him
+Agent 284.506000 285.525500 uh-huh
+Customer 284.859375 285.861625 [silence]
+Agent 285.525500 290.813250 [silence]
+Customer 285.861625 294.476125 but that added up too i mean when when she left and the pay out came in you know if we just rolled that over and it just sits there and gathers
+Agent 290.813250 291.785125 yeah
+Agent 291.785125 300.399000 [silence]
+Customer 294.476125 298.878500 steam or momentum and you don't realize it you know it just
+Customer 298.878500 300.560750 piles up
+Agent 300.399000 309.089875 yeah that's a good deal well when you did keep a a budget all the time how strictly did you do that i mean was it real precise or
+Customer 300.560750 308.928250 [silence]
+Customer 308.928250 313.309750 um yeah we we took out actually my wife
+Agent 309.089875 315.130625 [silence]
+Customer 313.309750 326.257875 she's the one that ran the budget you know i just brought it home and she had to stretch it out wherever it was going to go but she would allocate so much at at at that time when the kids were growing up [noise] so much went for groceries
+Agent 315.130625 316.319625 um-hum
+Agent 316.319625 330.531875 [silence]
+Customer 326.257875 327.491625 [noise]
+Customer 327.491625 338.694000 so much went for the mortgage because_1 we knew you know that was kind of fixed and electricity you could come pretty close and telephone you could come pretty close uh the oil
+Agent 330.531875 331.686125 yeah
+Agent 331.686125 339.648125 [silence]
+Customer 338.694000 341.387000 we heated with oil [noise]
+Agent 339.648125 340.815500 uh-huh
+Agent 340.815500 347.141375 [silence]
+Customer 341.387000 347.880375 we they put us on a budget they would run like uh [vocalized-noise] they could really tell how much oil you were going to use
+Agent 347.141375 348.172750 uh-huh
+Customer 347.880375 350.903250 so they budgeted it at year round
+Agent 348.172750 359.074750 [silence]
+Customer 350.903250 353.103125 so in the summer time
+Customer 353.103125 355.723875 which you didn't use very little oil
+Customer 355.723875 361.512000 you were still paying the same thing as in the winter time when you're using a lot but they kind of spread the payments out
+Agent 359.074750 360.023250 yeah
+Agent 360.023250 378.800375 [silence]
+Customer 361.512000 363.229000 and
+Customer 363.229000 370.376875 we stuck to that pretty much so uh groceries fluctuated um we didn't go out to eat that often
+Customer 370.376875 379.305625 but as times went on the children got older you know and naturally salaries increased um we kind of fell away from it
+Agent 378.800375 379.947125 yeah
+Customer 379.305625 381.091375 it it became a chore
+Agent 379.947125 381.293375 [silence]
+Customer 381.091375 384.826250 [silence]
+Agent 381.293375 384.735250 well it is to a certain extent to have to try to keep up with all that
+Agent 384.735250 391.914000 [silence]
+Customer 384.826250 387.201625 yeah i talked to to uh
+Customer 387.201625 387.962875 [noise]
+Customer 387.962875 396.599625 other people and they used to have envelopes they used to stuff so much in you know so much for this so much for that so much for we never really we never really did that
+Agent 391.914000 392.934500 yeah
+Agent 392.934500 399.207500 [silence]
+Customer 396.599625 399.779375 we just allocated so much and it went into a checking account
+Agent 399.207500 400.838250 yeah
+Customer 399.779375 404.466375 and at the end of the month hopefully everything came out pretty close
+Agent 400.838250 420.289500 [silence]
+Customer 404.466375 409.460750 so we just kept certain things out for like i said for groceries
+Customer 409.460750 416.327375 um but even at that point you know she'd say oh you know we we need this or the budget's not doing this or that uh
+Customer 416.327375 421.578750 course me i didn't run it like she ran it like you run it now
+Agent 420.289500 423.226875 [laughter] we[ll]-
+Customer 421.578750 422.585125 [silence]
+Customer 422.585125 426.431000 and it's pretty much the same she still does the same thing everything's fixed
+Agent 423.226875 426.049375 [silence]
+Agent 426.049375 427.168375 yeah
+Customer 426.431000 430.344625 you know like CODA comes out of your out of your pay and the credit union comes out of your pay
+Agent 427.168375 439.394125 [silence]
+Customer 430.344625 433.422000 so we don't have to do anything there and the rest of it
+Customer 433.422000 439.889625 as far as my salary goes i just have it automatically deposited in into our bank
+Agent 439.394125 441.251000 yeah i do that too
+Customer 439.889625 440.887625 [silence]
+Customer 440.887625 449.606125 so we don't really see anything if if i need something i'll go and you know use the teller machine or if she needs something she'll go and she'll use the teller machine
+Agent 441.251000 453.631625 [silence]
+Customer 449.606125 454.356875 so we don't really um have a lot of cash anymore
+Agent 453.631625 454.862375 yeah
+Customer 454.356875 460.227250 yeah i i walk around sometimes and i've got if i've got five dollars in my pocket that's that's a lot it's
+Agent 454.862375 458.100875 [silence]
+Agent 458.100875 460.167250 [laughter]
+Agent 460.167250 469.269250 yeah i used to take money out for gas and groceries and things like that and i don't even do that anymore i mean i just don't have that much cash on me
+Customer 460.227250 469.158125 [silence]
+Customer 469.158125 470.752125 yeah for your automobile
+Agent 469.269250 470.679125 [silence]
+Agent 470.679125 472.674250 um-hum right
+Customer 470.752125 482.063625 you mean gas [vocalized-noise] yeah and now i don't know about down there but up here they got the pumps you just put your because_1 i always put my gas on a credit card and i pay it at the end of the month
+Agent 472.674250 481.238125 [silence]
+Agent 481.238125 482.136625 yeah
+Customer 482.063625 487.655000 so you just stick your credit card in there and then it pumps whatever it pumps and it adds it all up and it gives you a ticket and off you go
+Agent 482.136625 487.151875 [silence]
+Agent 487.151875 488.203000 yeah
+Customer 487.655000 490.405250 so you don't even have to go in to see the teller anymore
+Agent 488.203000 489.636875 [silence]
+Agent 489.636875 491.362375 works pretty good then
+Customer 490.405250 499.446500 yeah yeah it's not bad so you don't need you don't need money for gasoline you don't need money you know incidentals
+Agent 491.362375 509.815000 [silence]
+Customer 499.446500 500.650500 uh
+Customer 500.650500 504.925500 for coffee when i come into work in the morning and things like that but other than that
+Customer 504.925500 510.262500 um it looks like we're probably going towards a cashless society
+Agent 509.815000 512.303625 yeah to some extent i guess so
+Customer 510.262500 511.992375 [silence]
+Customer 511.992375 514.317125 because if you're doing that
+Agent 512.303625 530.201500 [silence]
+Customer 514.317125 518.956750 you know and i'm sure it must be prevalent in your area down in Dallas
+Customer 518.956750 530.460000 um and we're doing it m[ost]- most of the people up here that work ha[ve]- already have their their checks uh electronically sent to their banks or the credit union if they belong to the credit union
+Agent 530.201500 531.354375 yeah
+Customer 530.460000 532.003375 [silence]
+Agent 531.354375 537.661250 [silence]
+Customer 532.003375 534.640000 so they don't deal much in cash anymore either
+Customer 534.640000 538.946875 [silence]
+Agent 537.661250 538.946750 well
+Agent 538.946750 540.232250 if we
+Customer 538.946875 542.172250 so it looks like we're both running about the same
+Agent 540.232250 541.702375 [silence]
+Agent 541.702375 542.714000 yeah
+Customer 542.172250 543.602875 um
+Agent 542.714000 545.742125 [silence]
+Customer 543.602875 546.446125 maybe younger people are different i'm not sure
+Agent 545.742125 552.003625 yeah they probably don't have enough to [laughter] that's right
+Customer 546.446125 547.564750 uh
+Customer 547.564750 549.160000 [silence]
+Customer 549.160000 555.683375 they don't have spendable income right yeah the poor poor things i know like you know
+Agent 552.003625 565.559500 [silence]
+Customer 555.683375 561.254125 [vocalized-noise] i look at mine and he's getting out of school and i'm saying geez you know i'm glad i'm not starting out now because_1
+Customer 561.254125 566.034750 things are kind of tough up here for as far as uh employment goes
+Agent 565.559500 569.497875 yeah we we're having some problems here too
+Customer 566.034750 569.549375 [silence]
+Agent 569.497875 572.726375 [silence]
+Customer 569.549375 573.200250 still because_1 you guys ran into it a while back
+Agent 572.726375 579.947625 yeah they're still laying off like over in Fort Worth and a lot of other companies too just here and there
+Customer 573.200250 574.076000 uh
+Customer 574.076000 579.772625 [silence]
+Customer 579.772625 592.299125 oh yeah it's not just yeah it's not just TI they they're doing the same thing up here and not just uh in yesterday's newspaper they said um IBM's going through they're going to lay off like fourteen thousand world wide
+Agent 579.947625 590.865875 [silence]
+Agent 590.865875 593.796875 well yeah that really is scary
+Customer 592.299125 594.152625 [noise]
+Agent 593.796875 599.475875 [silence]
+Customer 594.152625 599.475875 So it's still there unfortunately um

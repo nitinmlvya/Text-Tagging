@@ -1,0 +1,269 @@
+Agent 0.000000 0.398625 [silence]
+Customer 0.000000 0.760000 [noise]
+Agent 0.398625 1.941875 okay
+Customer 0.760000 3.000000 uh do you work
+Agent 1.941875 3.704625 yes i do
+Customer 3.000000 4.423750 what do you do
+Agent 3.704625 9.055000 uh i'm a data manager at a manufacturing company that makes landing gear
+Customer 4.423750 8.600125 [silence]
+Customer 8.600125 11.470000 oh well do they have good job benefits
+Agent 9.055000 10.606250 [silence]
+Agent 10.606250 22.623250 yes they do very good uh comparable i used to work for TI and i used to work for Martin Marietta and they are comparable to them um as good or better
+Customer 11.470000 12.715500 huh
+Customer 12.715500 21.516125 [silence]
+Customer 21.516125 22.861125 uh-huh
+Agent 22.623250 25.237500 what do do you work
+Customer 22.861125 24.447000 [silence]
+Customer 24.447000 25.857500 no i don't
+Agent 25.237500 27.151375 oh okay
+Customer 25.857500 30.211375 uh i said my husband works on the railroad they've got
+Agent 27.151375 33.858375 [silence]
+Customer 30.211375 34.441125 a lot of benefits but it's expensive
+Agent 33.858375 35.205625 uh-huh
+Customer 34.441125 39.034500 this uh the insurance is a kick in the tail every month
+Agent 35.205625 39.220625 [silence]
+Customer 39.034500 39.820750 [laughter]
+Agent 39.220625 40.561000 really
+Customer 39.820750 40.852750 um-hum
+Agent 40.561000 47.104125 well i uh my insurance is is very reasonable where i work and course the
+Customer 40.852750 42.236000 it would
+Customer 42.236000 45.666375 [silence]
+Customer 45.666375 53.543750 well the insurance is good we only have to pay like a hundred dollar deductible per year it's just it's uh
+Agent 47.104125 50.207500 [silence]
+Agent 50.207500 51.675375 uh-huh
+Agent 51.675375 55.323250 [silence]
+Customer 53.543750 56.254500 it's like a hundred dollars a month
+Agent 55.323250 57.326375 oh is it really
+Customer 56.254500 59.493875 yeah well i mean well that's just
+Agent 57.326375 59.052000 [silence]
+Agent 59.052000 64.681000 well i i chose an HMO and mine only runs five dollars a uh five dollars a month
+Customer 59.493875 64.355125 [silence]
+Customer 64.355125 71.997500 well this is uh like retirement benefits and it's a bunch of different benefits in one it's not just
+Agent 64.681000 70.763750 [silence]
+Agent 70.763750 72.760500 oh i see
+Customer 71.997500 74.648375 it's not just medical insurance
+Agent 72.760500 74.120625 [silence]
+Agent 74.120625 80.381500 okay well i pay five dollars a month for my medical and then we have a retirement uh
+Customer 74.648375 90.747250 [silence]
+Agent 80.381500 93.092750 benefits packa[ge]- a profit sharing type of thing they match our uh we can put in up to fifteen percent and they'll match uh sixteen six percent one hundred percent you know so that is that's better than most companies do
+Customer 90.747250 92.424500 that's great
+Customer 92.424500 94.627375 yeah that's good
+Agent 93.092750 103.966125 plus plus they you know we have bonds we have a credit union it's a fairly it's not a real large company well it is it's part of a large company it's a subsidiary of a large company and
+Customer 94.627375 96.091250 [silence]
+Customer 96.091250 97.358125 um-hum
+Customer 97.358125 103.563500 [silence]
+Customer 103.563500 104.582250 [noise]
+Agent 103.966125 104.933750 [noise]
+Customer 104.582250 106.250625 [noise] whoops i'm sorry
+Agent 104.933750 111.981625 we have three diff[erent]- that's my call's waiting they'll just have to call back uh we have uh
+Customer 106.250625 112.238750 [silence]
+Agent 111.981625 114.482125 uh we're part of a
+Customer 112.238750 113.577250 i'm sorry
+Customer 113.577250 122.176875 [noise]
+Agent 114.482125 121.867750 company in [noise] we have a company in California and a company in Canada and this company here and uh so we have about five hundred employees at each place
+Agent 121.867750 123.013750 [silence]
+Customer 122.176875 123.539125 they do
+Agent 123.013750 132.258875 uh so it's that's about fifteen hundred all together then we but we're a a subsidiary of a of a larger company so we have all the benefits that all the big large companies have
+Customer 123.539125 134.920500 [silence]
+Agent 132.258875 134.931875 i don't know any that we don't have
+Customer 134.920500 139.520500 i don't know a lot about benefits most of the jobs that i've had you know we[re]-
+Agent 134.931875 139.141000 [silence]
+Agent 139.141000 140.607750 [noise]
+Customer 139.520500 144.630500 [noise] i don't have a degree i quit college when i first got pregnant with my little boy
+Agent 140.607750 142.727750 [silence]
+Agent 142.727750 144.480250 oh uh-huh
+Agent 144.480250 147.388625 [silence]
+Customer 144.630500 148.212375 i plan on going back [noise] just i want to wait for my kids to grow up now
+Agent 147.388625 148.603750 yeah
+Customer 148.212375 150.310875 and uh
+Agent 148.603750 151.765375 [silence]
+Customer 150.310875 159.463875 uh i'm sorry [laughter] so all i've had was mainly fast food jobs and i worked at a toy store and i worked at TI for a while but it was for Manpower so
+Agent 151.765375 153.181125 that's all right
+Agent 153.181125 158.453375 [silence]
+Agent 158.453375 159.893625 oh uh-huh
+Customer 159.463875 162.128250 [noise] i liked working at TI
+Agent 159.893625 161.098000 [silence]
+Agent 161.098000 170.570750 i worked for TI for seventeen years and then i moved to Florida and worked at Martin Marietta in Orlando for four years and then i got
+Customer 162.128250 169.424625 [silence]
+Customer 169.424625 171.199125 oh you're in Florida
+Agent 170.570750 178.411750 i wa[s]- no i'm in Texas uh i left Martin Marietta for this company here in Fort Worth it's i'm in Grapevine right now but
+Customer 171.199125 177.733375 [silence]
+Customer 177.733375 179.225125 oh okay
+Agent 178.411750 186.239625 i work in Fort Worth and they just offered me such a fantastic deal i i just couldn't turn it down there wasn't any way i could turn it down they
+Customer 179.225125 196.330750 [silence]
+Agent 186.239625 196.620000 they moved me and they paid for every i mean they paid for everything my license my driver's license m[y]- all my utilities at my home plus you know paying to move my furniture and
+Customer 196.330750 198.988375 [noise]
+Agent 196.620000 207.136375 my license tags everything i just you know and plus a huge salary increase and i thought God i'd be stupid if i don't take this and i wanted to come back to Texas anyway so
+Customer 198.988375 203.901500 [silence]
+Customer 203.901500 205.330625 [noise]
+Customer 205.330625 208.049125 [noise] well that's great
+Agent 207.136375 212.250125 and like i say they have all those same benefits that Martin Marietta and TI had so um
+Customer 208.049125 212.747125 [silence]
+Agent 212.250125 213.334125 i've
+Customer 212.747125 216.272125 what did you say you did again a com[puter]- a da[ta]-
+Agent 213.334125 214.496125 [silence]
+Agent 214.496125 216.345500 i'm a data manager
+Customer 216.272125 217.417500 huh
+Agent 216.345500 217.508875 and it
+Customer 217.417500 219.993750 well i took data processing in college
+Agent 217.508875 219.210625 [silence]
+Agent 219.210625 227.193250 oh di[d]- no this is a lot of people think that it has something to do with computers and it really doe[sn't]- i mean i do have a computer but it it really doesn't have anything to do with computers it's
+Customer 219.993750 252.348875 [silence]
+Agent 227.193250 234.952125 data that uh is generated like reports test reports financial repor[ts]- all kinds of reports that
+Agent 234.952125 241.958000 that uh a project would generate uh now it's my job to see that
+Agent 241.958000 253.240875 c[ontractually]- contractually these people you know deliver them_1 on time and i have to make sure that they they do get delivered and that's that's what my job is and it's that's that kind of data instead of
+Customer 252.348875 257.581000 instead of computer data well that sounds great though what did you do at TI
+Agent 253.240875 255.173750 yeah uh-huh
+Agent 255.173750 257.120500 [silence]
+Agent 257.120500 261.939000 i was a a configuration manager at at TI which was
+Customer 257.581000 284.595375 [silence]
+Agent 261.939000 270.483125 sim[ilar]- well it was uh similar but wasn't i mean i it was uh
+Agent 270.483125 271.516500 [silence]
+Agent 271.516500 277.780250 doing uh it was a little bit more technical configuration m[anagement]- management it's a little bit more technical than what i'm doing now
+Agent 277.780250 280.515625 and i liked it but it was a
+Agent 280.515625 290.680625 it was a job that i always felt like i didn't have control of you know what i mean i never felt like i'd mastered that job and when i moved to Florida i moved down there as a configuration manager
+Customer 284.595375 285.949000 right
+Customer 285.949000 302.736500 [silence]
+Agent 290.680625 295.639750 and stayed there from uh stayed at that job for quite a while until i
+Agent 295.639750 304.129250 got an opportunity to go into data management which i and i've been in that ever since and love it i mean that's just my cup of tea the configuration manager was
+Customer 302.736500 304.072375 right
+Customer 304.072375 307.102250 oh i hate to feel out of control of anything
+Agent 304.129250 305.874500 [silence]
+Agent 305.874500 314.998000 oh i do too and i really did i'd sit there and you know when people asked me what i did i never could really tell them_1 what i did because_1 i didn't know because_1 i you know [laughter] i was doing the job
+Customer 307.102250 308.394500 yeah
+Customer 308.394500 312.182250 [silence]
+Customer 312.182250 315.761750 [laughter] you played it by ear
+Agent 314.998000 322.597000 and i was getting good raises and my [laughter-boss] even goes you even got non periodic raises but i really just felt so c[ontrol]- out of control
+Customer 315.761750 322.073500 [silence]
+Customer 322.073500 323.359875 hum
+Agent 322.597000 324.616750 so but anyway i'm
+Customer 323.359875 337.103875 [silence]
+Agent 324.616750 333.446000 and i like i say i've always been with a company that's had a lot of benefits so uh and a[nd]- when you get older now i know when you're younger my daughter just doesn't realize it but
+Agent 333.446000 341.667125 i wish i had when i was younger thought about retirement but you know you think oh that's twenty years away from now who's going to worry about it well i
+Customer 337.103875 338.182000 um-hum
+Customer 338.182000 340.439750 [silence]
+Customer 340.439750 347.426875 well me and my husband are we've talked about it we're having six dollars a day taken out of his check for retirement
+Agent 341.667125 346.174625 [silence]
+Agent 346.174625 352.139125 that's good that's smart i wish i could talk my daughter into realizing that she works at TI also
+Customer 347.426875 350.239250 [silence]
+Customer 350.239250 351.193375 well that's
+Customer 351.193375 352.471625 [silence]
+Agent 352.139125 354.719500 and she needs yeah
+Customer 352.471625 355.304125 at the TI in Sherman or
+Agent 354.719500 358.564250 no she w[orks]- at the Expressway site uh SC Building
+Customer 355.304125 358.005500 [silence]
+Customer 358.005500 360.693250 okay well uh
+Agent 358.564250 359.108375 [silence]
+Agent 359.108375 360.039750 and
+Agent 360.039750 361.310750 uh
+Customer 360.693250 374.560500 um that's about the only thing we're doing for retirement now when i worked i wanted to go to TI i was wanting to become a TIer that way i could get some benefits because most the jobs around here you can't get benefits
+Agent 361.310750 368.125500 [silence]
+Agent 368.125500 369.426875 uh-huh
+Agent 369.426875 370.461875 [silence]
+Agent 370.461875 371.454750 yeah
+Agent 371.454750 373.788750 [silence]
+Agent 373.788750 375.866625 i know isn't that a shame
+Customer 374.560500 377.670500 especially if you well if you don't have a
+Agent 375.866625 378.338000 [silence]
+Customer 377.670500 379.482250 degree or something
+Agent 378.338000 379.655750 right
+Customer 379.482250 382.794500 but i'll go back to school one of these days and i will get me a
+Agent 379.655750 381.385125 [silence]
+Agent 381.385125 383.461000 see well i was uh
+Customer 382.794500 392.867125 [silence]
+Agent 383.461000 393.608750 forty five before i got my degree i uh started back when i was it took me nine years i was about thirty something before i even went back to school or even started college
+Customer 392.867125 394.328750 um-hum
+Agent 393.608750 396.787000 and i was forty five when i finally graduated
+Customer 394.328750 396.594875 [silence]
+Customer 396.594875 409.143500 well i was eighteen and i went and got my GED i quit the high school i just couldn't stand it and then course i hated it two years after i quit i wish i'd never done it
+Agent 396.787000 399.756500 [silence]
+Agent 399.756500 400.917750 uh-huh
+Agent 400.917750 401.980000 [silence]
+Agent 401.980000 403.232250 uh-huh
+Agent 403.232250 405.342125 oh yeah
+Agent 405.342125 406.577000 [silence]
+Agent 406.577000 407.923625 yeah
+Agent 407.923625 415.512250 [silence]
+Customer 409.143500 423.031250 but then i i went and got my GED and i went to school and then i i loved college i was making a three point oh average i wasn't having hardly any problem[s]- except for with my computer class i did have problems there but uh
+Agent 415.512250 416.858750 really
+Agent 416.858750 419.904875 [silence]
+Agent 419.904875 421.356375 yeah
+Agent 421.356375 428.415250 [silence]
+Customer 423.031250 428.844125 now i was then i was old enough to know you know well i'm paying for it i've got to
+Agent 428.415250 429.631000 um-hum
+Customer 428.844125 434.564250 you know do something with it but then i wanted to stay home with the babies so
+Agent 429.631000 433.310750 [silence]
+Agent 433.310750 444.521250 yeah i stayed home with my kid i think i guess the longest i ever stayed home was eight years i stayed home with my kids and uh my son went ahead and graduated from college and my daughter has quite a few hours but she
+Customer 434.564250 462.708875 [silence]
+Agent 444.521250 449.753125 bless her she and her husband are you know kind of struggling he's a policeman [vocalized-noise]
+Agent 449.753125 464.420750 they're both having and she works a second job too so she really doesn't have time i g[uess]- if she wanted to make time she could but and eventually i think she'll go back when it really means something to her but right now that's not foremost and her she likes being with her little girl
+Customer 462.708875 474.465500 well we're having a hard time right now too but it's just who if the kid if kids don't have direction if their mother ain't home directing them through the day kids are growing up wild nowadays
+Agent 464.420750 472.713500 [silence]
+Agent 472.713500 475.475875 oh i know it i know it
+Customer 474.465500 479.722000 my mom had to work and i i can feel the difference um a lot of
+Agent 475.475875 477.258875 [silence]
+Agent 477.258875 478.179250 um-hum
+Agent 478.179250 483.381250 [silence]
+Customer 479.722000 491.022500 well my husband had somebody to push him his mother was able to stay home with him more and you know he got his life straight at an early age which i'm not a i ne[ver]- i never went wild or anything but
+Agent 483.381250 484.538375 yes
+Agent 484.538375 487.305625 [silence]
+Agent 487.305625 488.198500 um-hum
+Agent 488.198500 493.623875 [silence]
+Customer 491.022500 495.595750 i still don't know what i want to be when i grow up and i'm twenty seven years old [laughter]
+Agent 493.623875 505.180750 i know [laughter-it] [laughter-that's] [laughter-me] i here am i in my fifties and i still don't know what i want to [laughter-do] but my my mother didn't work she was always home so and it [vocalized-noise] d[idn't]- i guess really looking back
+Customer 495.595750 496.810750 [silence]
+Customer 496.810750 498.004875 yeah
+Customer 498.004875 502.747500 [silence]
+Customer 502.747500 503.539375 um-hum
+Customer 503.539375 507.469375 [silence]
+Agent 505.180750 515.739000 knowing that she was always there when we got home from school my mother was there and what i did when my kids were growing up since i had to work i worked nights i was home i was sleepy but i was home when they got home from school
+Customer 507.469375 508.389125 um-hum
+Customer 508.389125 514.406125 [silence]
+Customer 514.406125 523.586875 yeah that's what's important isn't it you have t[o]- while i'm when they start going to school now my baby's just three months old and i'm not having any more so
+Agent 515.739000 517.370500 yeah
+Agent 517.370500 520.383375 [silence]
+Agent 520.383375 521.563125 uh-huh
+Agent 521.563125 525.192500 [silence]
+Customer 523.586875 529.711250 i'm going to be there for them at least until they're in the second well until the baby starts
+Agent 525.192500 526.509875 uh-huh
+Agent 526.509875 529.557750 [silence]
+Agent 529.557750 530.850375 school
+Customer 529.711250 532.522375 pre[school]- uh kindergarten not preschool
+Agent 530.850375 532.163250 yeah
+Agent 532.163250 537.828125 [silence]
+Customer 532.522375 538.922375 which it don't take long it seems like just yesterday that my little boy was born and he's fixing to go to school next year
+Agent 537.828125 539.540000 oh is he
+Customer 538.922375 541.594000 yeah they're all growing up
+Agent 539.540000 540.820500 [silence]
+Agent 540.820500 543.660625 your your husband works for the railroad you say
+Customer 541.594000 542.738625 [silence]
+Customer 542.738625 544.313000 yeah he sure does
+Agent 543.660625 548.057875 oh now d[o]- do they have pretty good benefits there besides uh
+Customer 544.313000 547.219875 [silence]
+Customer 547.219875 559.311500 yeah their medical and dental is real good and uh like i said they do make it easy for you to that's where a lot of our money is going is toward his retirement but i wa[nt]- we'll like that once you know we get older
+Agent 548.057875 549.309250 [silence]
+Agent 549.309250 550.378125 is it
+Agent 550.378125 557.338625 [silence]
+Agent 557.338625 560.206125 sure oh yeah abso[lutely]-
+Customer 559.311500 568.902500 and we'll need it and like i said that's six dollars a day and oh i haven't really sat down and figured it out but i guess it'd be pretty easy three times six is what eighteen
+Agent 560.206125 561.286500 uh-huh
+Agent 561.286500 564.237625 [silence]
+Agent 564.237625 565.666750 uh-huh
+Agent 565.666750 566.979375 yeah
+Agent 566.979375 569.382625 [silence]
+Customer 568.902500 572.064250 yeah so it's a hundred and eighty a month
+Agent 569.382625 571.280375 oh once i did
+Agent 571.280375 578.622625 well yeah that'll add up fast fast fast absolutely yeah you're smart in doing that i would never quit that
+Customer 572.064250 574.053125 [silence]
+Customer 574.053125 575.048500 yeah
+Customer 575.048500 578.022000 [silence]
+Customer 578.022000 582.542500 no well it's it's like this we don't see it so we don't really miss it
+Agent 578.622625 580.426250 well i've started uh
+Agent 580.426250 581.562375 [silence]
+Agent 581.562375 586.199625 that's right that i went the other day and had them_1 start taking some money out of my uh
+Customer 582.542500 593.040875 [silence]
+Agent 586.199625 596.348250 s[avings]- my checking at work t[o]- in to put into savings account plus i buy a two hundred dollar a month a bond a month so th[ey'll]- and they'll stack up faster than you realize
+Customer 593.040875 594.496500 uh-huh
+Customer 594.496500 600.001375 yeah now i wish they had that bond here i know that they had that at TI for the T[I]-
+Agent 596.348250 598.829500 [silence]
+Agent 598.829500 600.001375 uh-huh

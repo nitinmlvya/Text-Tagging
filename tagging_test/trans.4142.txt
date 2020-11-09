@@ -1,0 +1,115 @@
+Agent 0.000000 0.531625 [noise]
+Customer 0.000000 0.272250 [noise]
+Customer 0.272250 5.219375 so is your tax situation pretty straightforward or not straightforward at all
+Agent 0.531625 2.637875 [silence]
+Agent 2.637875 3.586750 [noise]
+Agent 3.586750 15.141250 yeah actu[ally]- actually uh mine's real straightforward um basically uh you know i take my standard deductions um on my house which i have a mortgage on
+Customer 5.219375 14.680250 [silence]
+Customer 14.680250 15.889250 um-hum
+Agent 15.141250 22.282500 and uh that's usually the big the big payoff part of the year for me because_1 i get a couple thousand dollars back usually
+Customer 15.889250 21.526750 [silence]
+Customer 21.526750 23.278625 oh that's nice
+Agent 22.282500 29.435250 but uh actually i uh i don't really begrudge uh the uh the government their due
+Customer 23.278625 37.655125 [silence]
+Agent 29.435250 37.899375 i d[o]- i do think that uh probably just like just almost anybody else that you know there's a lot of inefficiency in how they distribute taxes
+Customer 37.655125 38.901375 right
+Agent 37.899375 45.807125 and i don't think that they uh they do a very good job of distributing them_1 to the people [laughter-who] really need them [laughter] but uh
+Customer 38.901375 43.988500 [silence]
+Customer 43.988500 45.195250 um-hum
+Customer 45.195250 51.967000 [silence]
+Agent 45.807125 51.982250 generally i think they're pretty necessary and life would probably be a lot worse if they didn't have taxation [laughter-so]
+Customer 51.967000 64.000375 right i don't have any problem at all with income tax some of the property taxes are well i don't know if they're unfair they're confusing and i there seems to be
+Agent 51.982250 67.705125 [silence]
+Customer 64.000375 65.629625 less
+Customer 65.629625 68.560750 ability to get those all together
+Agent 67.705125 74.627750 yeah we actu[ally]- we actually had a situation here where uh our house was appraised you know every year by the county
+Customer 68.560750 74.003750 [silence]
+Customer 74.003750 75.313500 um-hum
+Agent 74.627750 78.872250 and we have to uh pay taxes on the basis of what that appraisal was
+Customer 75.313500 78.495250 [silence]
+Customer 78.495250 79.595000 um-hum
+Agent 78.872250 87.941500 and first year we owned the house um that appraisal was something like twenty five thousand dollars higher than we had just bought the house for [laughter]
+Customer 79.595000 87.001375 [silence]
+Customer 87.001375 88.478250 really
+Agent 87.941500 97.841250 and so uh despite you know a lot of kibitzing by our neighbors and stuff i decided to go in to uh talk to the Board of Equalization
+Customer 88.478250 97.524625 [silence]
+Customer 97.524625 98.795250 right
+Agent 97.841250 103.648000 uh in Prince William County and make sure that you know a mistake hadn't been made and all that kind of stuff
+Customer 98.795250 108.078500 [silence]
+Agent 103.648000 113.098875 and so i just sort of made my case on the basis of um you know analogy to other to other houses around us that were similar in terms of
+Customer 108.078500 109.991000 you just bought it right
+Customer 109.991000 119.088750 [silence]
+Agent 113.098875 125.657375 square footage you know and size all and and you know general property size and things like that and ju[st]- just showed that you know our obvi[ous]- for some reason our property had been valued much higher
+Customer 119.088750 120.379500 right
+Customer 120.379500 129.391875 [silence]
+Agent 125.657375 131.177500 and uh they bought it they actually reduced the uh reduced the a[ppraisal]-
+Customer 129.391875 132.872625 really they didn't raise the they c[anceled]- your neighbors' taxes
+Agent 131.177500 132.402375 [silence]
+Agent 132.402375 140.632750 uh they didn't raise my neighbors' [laughter-yeah] they actually reduced mine to be in line with uh a more reasonable appraisal
+Customer 132.872625 140.227000 [silence]
+Customer 140.227000 141.632875 that's really great
+Agent 140.632750 149.276875 so i y[ou]- you know i I realized well the you know few instances you can fight city hall on things like property taxes but uh
+Customer 141.632875 148.467375 [silence]
+Customer 148.467375 150.296125 that's wonderful
+Agent 149.276875 159.846375 yeah it was it was an interesting experience because the guy before me went in and he had a really kind of poorly organized discussion you know i mean he was sort of
+Customer 150.296125 162.382625 [silence]
+Agent 159.846375 168.004750 mad at the world and [laughter-uh] [laughter-he] he had sort of tha[t]- that mad at the world attitude right off the bat which you could you know see a mile away
+Customer 162.382625 163.441375 right
+Customer 163.441375 167.497250 [silence]
+Customer 167.497250 168.704500 um-hum
+Agent 168.004750 180.000250 and then he uh then he started talking about all the things that were wrong with this property you know like you know the leaves hadn't been cleaned out in two years and the gutters are falling off and you know a lot of really minor stuff
+Customer 168.704500 179.656375 [silence]
+Customer 179.656375 180.927125 right
+Agent 180.000250 184.721125 that just didn't impress these guys at all and they sort of gave him a hard time
+Customer 180.927125 182.414125 [silence]
+Customer 182.414125 183.663125 [laughter]
+Customer 183.663125 194.609375 [silence]
+Agent 184.721125 195.251875 but uh you know when i pointed out that that our house was appraised at this and all these similar houses in the subdivision were appraised at you know twenty five thousand dollars less i mean
+Customer 194.609375 197.985875 right and you just bought yours that's the best argument i think
+Agent 195.251875 196.906875 [silence]
+Agent 196.906875 205.185500 yeah so it it it worked it was actually pretty uh pretty sa[tisfying]- satisfying [laughter] experience [laughter]
+Customer 197.985875 203.647500 [silence]
+Customer 203.647500 205.409875 that's wonderful
+Agent 205.185500 214.428750 but it wa[s]- it was kind of like going up to the Pope though you know i mean they they uh were sitting in these you know at these giant judges tables you know like
+Customer 205.409875 206.779125 i bet
+Customer 206.779125 207.917375 [silence]
+Customer 207.917375 209.121000 um-hum
+Customer 209.121000 213.986500 [silence]
+Customer 213.986500 215.984250 oh it was a it was a
+Agent 214.428750 215.943000 [silence]
+Agent 215.943000 219.878500 it was like a judge's chambers that that y[ou]-
+Customer 215.984250 217.848625 [silence]
+Customer 217.848625 221.766375 really wow it wasn't it wasn't the county council
+Agent 219.878500 221.268750 [silence]
+Agent 221.268750 233.389000 it was the it was the county but it wasn't the council they have different people on this Board of Equalization i don't know i don't even know how they get on it you know i i'm just guessing they're appointed
+Customer 221.766375 232.794125 [silence]
+Customer 232.794125 234.020875 um-hum
+Agent 233.389000 242.812750 uh one of the guys is actually a kind of a well known realtor around here [laughter-so] you know i I figured if anybody gave me a hard time it'd be him [laughter-you]
+Customer 234.020875 237.571625 [silence]
+Customer 237.571625 238.857000 um-hum
+Customer 238.857000 242.266500 [silence]
+Customer 242.266500 246.239875 right well he di[d]- he probably knows it really well the real estate market
+Agent 242.812750 244.335250 [noise]
+Agent 244.335250 245.551625 [silence]
+Agent 245.551625 246.755875 yeah
+Customer 246.239875 248.164750 so that was probably help
+Agent 246.755875 248.223125 [silence]
+Customer 248.164750 258.626750 [silence]
+Agent 248.223125 260.748000 but other than that uh i haven't had too much too much problem with taxes actually when i was in grad school i lived in Virginia also i went to school down at uh Charlottesville and uh
+Customer 258.626750 259.925125 uh-huh
+Customer 259.925125 264.226250 [silence]
+Agent 260.748000 264.500250 uh i had a you know one of these graduate fellowships
+Customer 264.226250 265.635875 right
+Agent 264.500250 269.128500 and fortunately it was not taxable at that time
+Customer 265.635875 268.491375 [silence]
+Customer 268.491375 270.331750 right now it is
+Agent 269.128500 272.202375 bu[t]- they actua[lly]- they actually hassled me over it though
+Customer 270.331750 271.611625 [silence]
+Customer 271.611625 272.938125 right
+Agent 272.202375 283.031875 and i had to i had to go to some length you know i actually got one of these letters that that said you know you got to show up at the local you know IRS office and explain
+Customer 272.938125 281.830875 [silence]
+Customer 281.830875 283.927250 oh you got audited wow
+Agent 283.031875 286.825750 yeah and actually explain you know what was going on and
+Customer 283.927250 298.850000 [silence]
+Agent 286.825750 297.255000 you know [laughter] i just i said hey i mean it's tax free i mean that's my understanding of things so anyway eventually they they accepted that that it was but actually w[ork]- i work with a guy now who's
+Agent 297.255000 298.850000 i I i guess he was righ[t]-

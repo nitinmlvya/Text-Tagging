@@ -1,0 +1,117 @@
+Agent 0.000000 0.395750 [noise]
+Customer 0.000000 0.487250 [noise]
+Agent 0.395750 6.067875 [vocalized-noise]
+Customer 0.487250 3.549000 okay_1 so Frank what uh type of uh
+Customer 3.549000 5.986125 budget do you or your family have
+Customer 5.986125 35.030750 [silence]
+Agent 6.067875 17.496750 well uh i don't know that we really have a budget i have a set amount that i that i save actually well actually there is a a way uh we budget our our money apparently uh
+Agent 17.496750 19.467625 my wife uh
+Agent 19.467625 24.149000 has so much uh you know gets so much to do shopping with every couple of weeks and
+Agent 24.149000 35.529500 uh we allot each of us so much money per week for our personal stuff gas and things like that and besides that i uh you know i have a set amount that i save every every month
+Customer 35.030750 36.809375 right that's
+Agent 35.529500 40.146375 [silence]
+Customer 36.809375 44.281750 that's sounds like uh probably a tighter controlled budget than what i have [laughter] i'm single so i guess
+Agent 40.146375 41.637125 uh-huh
+Agent 41.637125 43.125750 uh-huh
+Agent 43.125750 47.580000 [silence]
+Customer 44.281750 48.969000 uh i don't know if that's an excuse for not having a tight budget but i basically
+Agent 47.580000 49.606500 really don't need to [laughter]
+Customer 48.969000 50.476375 right i don't need to [laughter]
+Agent 49.606500 52.036750 [silence]
+Customer 50.476375 54.287000 i'm the only that i have to keep track of so it makes it a little bit easier
+Agent 52.036750 53.208125 uh
+Agent 53.208125 54.673125 that's right
+Customer 54.287000 60.926250 um and also i you know i try to save a certain amount each month as well and uh
+Agent 54.673125 59.280000 [silence]
+Agent 59.280000 60.479750 um-hum
+Agent 60.479750 67.172250 [silence]
+Customer 60.926250 62.221000 i kind of
+Customer 62.221000 67.502125 i kind of have an idea of what my expenses are and i i'm pretty consistent from month to month
+Agent 67.172250 68.378375 uh-huh
+Customer 67.502125 74.555250 and uh whenever i need to uh you know whenever that changes i'm pretty well aware of it without actually having to maintain a budget for it
+Agent 68.378375 73.873875 [silence]
+Agent 73.873875 75.136500 right
+Customer 74.555250 112.339000 [silence]
+Agent 75.136500 76.489250 [silence]
+Agent 76.489250 86.936500 well i found that uh you know thing[s]- as as i've gotten older i'm in my fifties now but before we use to have to have to v[ery]- have a very strict budget i had four kids and uh
+Agent 86.936500 95.268250 you know we we planned out how much we're going to spend for food and how much for for this and for that and kind of anticipate how much things were going to be and
+Agent 95.268250 109.240750 uh i guess one interesting aspect of the budgeting i do now is that i set aside uh like i kind of fence off areas of my check book for instance there are certain things that i know -[w]ill come up uh every so often every six months i have to pay car insurance
+Agent 109.240750 121.594500 uh every six months i have to pay my taxes so i take a set amount i've got a money market account that i do a lot of uh saving in and i also have got a checking account besides that but
+Customer 112.339000 113.629375 um-hum
+Customer 113.629375 131.414875 [silence]
+Agent 121.594500 132.006375 what i do on my money market account for my taxes for instance which amount to uh an average of two hundred and twenty dollars a month i'll just take two hundred and twenty out and i put it in parenthesis i take it out of the right line total
+Customer 131.414875 132.534875 um-hum
+Agent 132.006375 140.172875 and put it in parenthesis in there and let it build up every month i add two hundred and twenty dollars to it and then when the tax bill comes in i've got that much set aside
+Customer 132.534875 139.222500 [silence]
+Customer 139.222500 140.470125 right
+Agent 140.172875 142.497875 and i guess that's a way of budgeting
+Customer 140.470125 141.928500 [silence]
+Customer 141.928500 143.472750 yeah that's
+Agent 142.497875 153.824625 [silence]
+Customer 143.472750 148.393000 i guess i kind of do a similar thing more m[edium]- uh medium or longer range i just have a
+Customer 148.393000 154.499625 maybe a target amount that i'll save for like i'm probably within a year i'd like to buy a new car
+Agent 153.824625 155.021125 um-hum
+Customer 154.499625 160.452000 so i kind of have uh an amount in my mind and i'm making every effort to
+Agent 155.021125 165.417250 [silence]
+Customer 160.452000 163.009125 to [vocalized-noise] put a little bit away and
+Customer 163.009125 166.099500 you know increase the amount i need for a down payment or whatever
+Agent 165.417250 166.892500 uh-huh
+Customer 166.099500 176.534625 [silence]
+Agent 166.892500 168.009750 [silence]
+Agent 168.009750 177.470125 yeah uh cars are are definitely something that you have to figure into your budget not only for buying them_1 but for for keeping them_1 on the road too
+Customer 176.534625 178.010875 right
+Agent 177.470125 179.081750 um
+Customer 178.010875 194.950125 [silence]
+Agent 179.081750 184.374000 you know we've got two cars my wife has a car and i and i like to drive a pick up truck so
+Agent 184.374000 195.708875 we're on a schedule where i try every uh three or four years to to buy a new one and you know i'm constantly making car payments but i figure that's got to be the story of my life anyway is making car payments
+Customer 194.950125 196.162125 um-hum
+Agent 195.708875 202.133125 so uh you know i get one paid for and uh actually i'm saving up for another one besides so
+Customer 196.162125 201.497375 [silence]
+Customer 201.497375 202.555375 hm
+Agent 202.133125 203.659250 it's
+Customer 202.555375 206.509750 [silence]
+Agent 203.659250 210.215000 y[ou]- you know it's it's kind of a never ending thing but you try to you try to schedule those things so that
+Customer 206.509750 207.826625 right
+Customer 207.826625 212.783375 [silence]
+Agent 210.215000 214.485875 uh you're on[ly]- you're not paying for two at the same time i guess what i'm saying
+Customer 212.783375 213.850750 right
+Customer 213.850750 216.014125 have you thought about uh leasing
+Agent 214.485875 216.003875 [silence]
+Agent 216.003875 226.961125 well i've thought about it but leasing wouldn't i you know i don't use it for my business my wife uses hers just for pleasure and i use mine just to go back and forth to work which is only ten miles away so
+Customer 216.014125 220.540000 [silence]
+Customer 220.540000 221.749125 i see
+Customer 221.749125 224.653375 [silence]
+Customer 224.653375 226.091125 right
+Customer 226.091125 230.996125 but if you're rolling it over every three years it might be advantageous to do that
+Agent 226.961125 227.978250 [silence]
+Agent 227.978250 229.221875 [noise]
+Agent 229.221875 231.509750 [silence]
+Customer 230.996125 232.780000 [silence]
+Agent 231.509750 233.573000 yeah i guess uh
+Customer 232.780000 245.631500 you know typically you [vocalized-noise] if you purchase your own car you tend to make uh the best returns after you pay it off of course you know the longer you keep it beyond that point the more profitable it is to own it yourself
+Agent 233.573000 240.004625 [silence]
+Agent 240.004625 241.403000 uh-huh
+Agent 241.403000 244.998000 [silence]
+Agent 244.998000 246.163250 right
+Customer 245.631500 259.211000 [silence]
+Agent 246.163250 247.166000 [silence]
+Agent 247.166000 251.417625 yeah you're right um i- i have uh been know to keep
+Agent 251.417625 260.273375 trucks or cars for oh ten or twelve years but i find that after about four years they kind of start going down hill and you got to put put stuff into them_1 you know
+Customer 259.211000 270.597250 that's right [laughter] yeah mine's uh seven years old and i think last year was that was a rough year for it i had ex[penses]- a number of expenses
+Agent 260.273375 261.948125 [laughter]
+Agent 261.948125 269.141625 [silence]
+Agent 269.141625 270.586500 uh-huh
+Agent 270.586500 281.696250 [silence]
+Customer 270.597250 272.341125 but uh i'm hoping that
+Customer 272.341125 275.277875 m[ost]- most of them_1 were just kind of uh you know the
+Customer 275.277875 282.374000 as you get to a certain number of miles you have to get everything replaced brake shocks and all that so i just went through that whole set last year
+Agent 281.696250 283.153500 um-hum
+Customer 282.374000 286.106250 and i'm hoping i'll be have a slow period before i need that again [laughter]
+Agent 283.153500 285.639625 [silence]
+Agent 285.639625 294.679625 those things can really upset your budget when they when they come in uh you know it's nice to have a little bit set aside for the for the unexpected shall we say
+Customer 286.106250 293.732625 [silence]
+Customer 293.732625 295.084375 right
+Agent 294.679625 298.376875 so that it doesn't uh kill you all in one month
+Customer 295.084375 297.641375 [silence]
+Customer 297.641375 299.394000 right what line of work are you in
+Agent 298.376875 299.394000 [silence]

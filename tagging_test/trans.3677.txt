@@ -1,0 +1,110 @@
+Agent 0.000000 1.086125 [noise]
+Customer 0.000000 0.534250 [noise]
+Customer 0.534250 2.283625 now are we off and run[ning]-
+Agent 1.086125 3.015125 that you were saying sorry
+Customer 2.283625 9.140000 oh i was just saying i guess old age has a few compensations i don't have to plan as carefully as i used to but uh
+Agent 3.015125 8.069000 [silence]
+Agent 8.069000 15.293625 do you feel like you you took the steps that you you were glad that you took um earlier i mean would you have done anything differently
+Customer 9.140000 14.851000 [silence]
+Customer 14.851000 23.609000 no i don't think so uh we have three children and we were able to put all three of them through college and um
+Agent 15.293625 23.169500 [silence]
+Agent 23.169500 26.544750 that's that's quite a feat in today's [laughter]
+Customer 23.609000 25.322500 [silence]
+Customer 25.322500 27.024375 [laughter]
+Agent 26.544750 29.355250 [laughter] economic situation
+Customer 27.024375 28.440125 [silence]
+Customer 28.440125 29.582625 yeah
+Agent 29.355250 36.757125 that's wonderful um i'm sort of beginning in that score um we have a two year old daughter and hope to have another child soon so
+Customer 29.582625 35.911000 [silence]
+Customer 35.911000 37.203500 uh-huh
+Agent 36.757125 49.173750 it's it's not easy putting enough aside but we're doing a um our best to try and have fairly regular meetings to discuss at least where our goals are sometimes um
+Customer 37.203500 61.617125 [silence]
+Agent 49.173750 55.843625 it is less consistent than than it could be in terms of our ability to put money aside but um
+Agent 55.843625 61.332750 i'm i'm curious about the things that you did that that seemed to work best for you that you'd pass on to somebody else [laughter]
+Agent 61.332750 61.791375 [noise]
+Customer 61.617125 64.069500 uh well
+Agent 61.791375 63.184875 as as advice
+Agent 63.184875 72.996375 [silence]
+Customer 64.069500 65.075375 [silence]
+Customer 65.075375 70.279875 the only way if if you spend all you take in every month
+Customer 70.279875 73.910750 you're uh living beyond your means
+Agent 72.996375 74.605625 that's right [laughter]
+Customer 73.910750 75.357000 [laughter]
+Agent 74.605625 75.729375 [laughter]
+Customer 75.357000 82.656000 and emergencies or what we could would consider an emergency uh always come up
+Agent 75.729375 82.021625 [silence]
+Agent 82.021625 83.463250 yeah
+Customer 82.656000 89.168375 i i i don't care how how you how closely you think you figured and then planned something always comes up
+Agent 83.463250 98.851625 [silence]
+Customer 89.168375 99.708875 so uh when i i guess we started by necessity because we went to uh law school on my husband's GI Bill
+Agent 98.851625 100.405875 uh-huh
+Customer 99.708875 103.882375 back in the days when uh the government paid
+Agent 100.405875 114.932875 [silence]
+Customer 103.882375 115.653875 uh the student's tuition and and bought books up to a certain amount plus uh gave the veteran a stipend we started off with ninety dollars a month and then a little bit later got up to a hundred and five dollars a month
+Agent 114.932875 116.496125 uh-huh
+Customer 115.653875 126.866375 so there was no way that we could do except when we cashed our monthly stipend was to put twenty dollars a week in an envelope
+Agent 116.496125 122.958875 [silence]
+Agent 122.958875 124.505250 right
+Agent 124.505250 133.250000 [silence]
+Customer 126.866375 133.940875 deciding that it was better to go without one day a week than for four days at the end of the month
+Agent 133.250000 135.393375 um-hum um-hum
+Customer 133.940875 136.149000 and then uh later on
+Agent 135.393375 148.789250 [silence]
+Customer 136.149000 142.230500 [noise] when we got out of school my husband got recalled into the Air Force when the Korean mess came up
+Customer 142.230500 143.669500 and uh
+Customer 143.669500 144.718375 [silence]
+Customer 144.718375 149.675000 so we had already established the envelope habit and uh
+Agent 148.789250 151.713250 and the envelope is your savings
+Customer 149.675000 150.920000 [silence]
+Customer 150.920000 153.872875 no no no this was our weekly budget
+Agent 151.713250 152.983250 [silence]
+Agent 152.983250 154.650875 oh okay
+Customer 153.872875 164.695000 but uh we realized very early on that if we were going to have money to buy cars and that sort of thing that we would have to save up beforehand
+Agent 154.650875 163.597250 [silence]
+Agent 163.597250 165.772000 uh-huh uh-huh
+Customer 164.695000 166.898375 so uh
+Agent 165.772000 184.211750 [silence]
+Customer 166.898375 168.005625 [silence]
+Customer 168.005625 169.857625 we uh
+Customer 169.857625 178.958375 uh began uh in nineteen fifty uh to pay cash for everything we bought a car in nineteen fifty and paid it off in three months
+Customer 178.958375 181.628625 so since then except for a house
+Customer 181.628625 192.322875 houses we've paid cash for everything and uh to illustrate how well that works so that you have the opportunity to take care of special pricing
+Agent 184.211750 185.728000 uh-huh
+Agent 185.728000 213.506000 [silence]
+Customer 192.322875 199.005875 uh our headquarters was transferred from South Carolina to Texas one time
+Customer 199.005875 204.000750 and because Texas gas was much much cheaper to cook with than electricity
+Customer 204.000750 210.036625 this one couple that we were transferred with uh bought a gas stove
+Customer 210.036625 214.624500 a very simplified gas stove for a hundred and forty some odd dollars
+Agent 213.506000 214.988375 uh-huh
+Customer 214.624500 222.902625 we had uh in storage and used uh just a little teeny gas stove but after we got to Waco
+Agent 214.988375 238.074125 [silence]
+Customer 222.902625 229.745125 we saw an ad in the paper one day where a lady who had uh was moving into a house with a built in oven had
+Customer 229.745125 238.896750 the very best stove that Sears made at the time with two ovens a grill in the middle on top clock all the fancy amenities
+Agent 238.074125 240.041875 uh-huh uh-huh
+Customer 238.896750 241.483375 and we were able to buy it for a hundred dollars
+Agent 240.041875 242.646000 [silence]
+Customer 241.483375 243.656625 because we had the cash
+Agent 242.646000 245.363375 yes yeah
+Customer 243.656625 245.898500 and uh uh
+Agent 245.363375 256.998375 that's that's been the case for us with with uh cars and our preference recently has been used cars so it's been nice to be able to negotiate when you have cash when you're buying a car
+Customer 245.898500 247.222625 the
+Customer 247.222625 248.639750 yeah
+Customer 248.639750 251.533125 [silence]
+Customer 251.533125 252.651125 uh-huh
+Customer 252.651125 256.220500 [silence]
+Customer 256.220500 257.618250 yeah
+Agent 256.998375 259.043500 [silence]
+Customer 257.618250 265.900625 [silence]
+Agent 259.043500 266.623375 well that's a that's a an important lesson do you feel like you've passed that along to your three kids given how different the economy's been in their lives
+Customer 265.900625 273.369125 no unfortunately we have not except for one daughter-in-law and uh [laughter] rise up and call her blessed every day
+Agent 266.623375 270.540500 [silence]
+Agent 270.540500 272.200750 [laughter]
+Agent 272.200750 284.818500 [silence]
+Customer 273.369125 285.233375 uh for some reason or other my husband didn't see fit to give the boys a meaningful allowance he just felt he had to keep con[trol]- control of the purse strings
+Agent 284.818500 286.097750 uh-huh
+Customer 285.233375 290.136000 and uh when they went off to college they had never really budgeted
+Agent 286.097750 289.890500 [silence]
+Agent 289.890500 291.462375 uh-huh
+Customer 290.136000 296.689500 and uh that that was a big mistake so even though you know your children are going to make mistakes
+Agent 291.462375 299.522000 [silence]
+Customer 296.689500 299.522000 uh i don't i don't know how to tell you

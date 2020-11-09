@@ -1,0 +1,153 @@
+Agent 0.000000 5.651250 [silence]
+Customer 0.000000 0.458875 [noise]
+Customer 0.458875 6.107000 so what kind of benefits d[o]- do you have in your job that you think is uh very important
+Agent 5.651250 7.119625 health care
+Customer 6.107000 8.936750 health care like dental
+Agent 7.119625 8.673375 number one
+Agent 8.673375 10.844375 dental and medical yes
+Customer 8.936750 10.113750 [silence]
+Customer 10.113750 11.485375 [vocalized-noise]
+Agent 10.844375 16.860625 yes i'm fortunate in that i was able to take early retirement from my company last year
+Customer 11.485375 22.976875 [silence]
+Agent 16.860625 26.609375 and being able to do that i was able to keep my uh health insurance that the company pays for which and i had to pick up my own life insurance
+Customer 22.976875 24.363375 uh-huh
+Customer 24.363375 31.842000 [silence]
+Agent 26.609375 32.697500 and my wife who works at the same company was able to add me to to the uh dental insurance
+Customer 31.842000 33.316750 right
+Agent 32.697500 35.669750 so i was really fortunate i really was
+Customer 33.316750 35.371250 [silence]
+Customer 35.371250 40.135125 so just this so you think that the uh a good company will provide good health
+Agent 35.669750 39.455375 [silence]
+Agent 39.455375 42.457750 i think they will as long as they can but the problem
+Customer 40.135125 44.498875 [silence]
+Agent 42.457750 47.588000 obviously is the cost of health care as you know it's just going completely out of sight
+Customer 44.498875 45.653250 right
+Customer 45.653250 47.130500 [silence]
+Customer 47.130500 53.696750 i hear that's like one of the major uh the major costs to com[panies]- to corporations nowadays
+Agent 47.588000 52.282125 [silence]
+Agent 52.282125 56.558625 it is very much so it's a billion dollar problem you know every year
+Customer 53.696750 60.913750 [silence]
+Agent 56.558625 71.349750 uh our company had it doesn't apply to me thank goodness it applies to you know to the younger employees that they're having to pick up you know more of the uh health insurance cost you know themselves the deductibles are going up and the co-payments are going up
+Customer 60.913750 62.458250 um-hum
+Customer 62.458250 68.615750 [silence]
+Customer 68.615750 69.997875 right
+Customer 69.997875 75.937875 [silence]
+Agent 71.349750 74.960000 and i'm concerned that's just you know the beginning of it
+Agent 74.960000 78.797000 [silence]
+Customer 75.937875 79.016125 see the problem i have with it is that i don't have a job
+Agent 78.797000 80.438375 oh yeah
+Customer 79.016125 84.210625 so i don't have [laughter] and i'm still in in school i'm still in college
+Agent 80.438375 82.371375 that's a problem too yeah
+Agent 82.371375 84.377500 um-hum right
+Customer 84.210625 88.139000 and so i don't i don't know firsthand of these benefits
+Agent 84.377500 86.819250 [silence]
+Agent 86.819250 89.070500 um-hum right
+Customer 88.139000 96.405625 but i- i do agree with you that health health insurance is one of the major ones i don't know about dental i mean
+Agent 89.070500 93.874375 [silence]
+Agent 93.874375 95.188875 oh i
+Agent 95.188875 100.429125 [silence]
+Customer 96.405625 101.158375 dental is is kind of like uh you know you're asking for uh too much
+Agent 100.429125 101.446750 um-hum
+Customer 101.158375 103.731000 to for me i think it's like uh
+Agent 101.446750 106.819875 [silence]
+Customer 103.731000 109.957875 you know uh you're you're expecting too much from a company if something happens it happens and they'll pay you for it but
+Agent 106.819875 107.417375 um-hum
+Agent 107.417375 108.986375 [silence]
+Agent 108.986375 109.906750 um-hum
+Agent 109.906750 112.071875 [silence]
+Customer 109.957875 114.098125 to actually have you know big coverage for something like that
+Agent 112.071875 119.365500 um-hum well actually excuse me our dental insurance you know it's it's good it's certainly better than nothing it's not you know it's not super you
+Customer 114.098125 124.356375 [silence]
+Agent 119.365500 126.983750 for unfortunately in my case and you sound like a younger guy so you probably don't have it you know i do have some dental problems and it's very very expensive
+Customer 124.356375 126.788625 right i'm only twenty one
+Customer 126.788625 132.857625 [silence]
+Agent 126.983750 130.209625 and if your blessed with you know good dental
+Agent 130.209625 140.594250 uh situation you are extremely lucky you really are i've had a lot of problems i still have some ongoing problems mainly because back when i was growing up
+Customer 132.857625 134.082125 um-hum
+Customer 134.082125 142.338500 [silence]
+Agent 140.594250 152.096750 you know we didn't know about fluoride i was raised in a small rural town in Oklahoma you only went to the dentist when your tooth actually began to hurt you know there was no such thing as preventive dentistry back then
+Customer 142.338500 143.887000 right
+Customer 143.887000 147.905375 [silence]
+Customer 147.905375 149.774375 [laughter-exactly] yeah
+Customer 149.774375 158.896500 [silence]
+Agent 152.096750 159.829625 so the younger people you know uh are are really uh really better shaped than than people of my generation or for the most part
+Customer 158.896500 160.130125 um-hum
+Agent 159.829625 166.020500 but uh dental insurance is important to me it is not as important as uh as health insurance you know if i had to rank them
+Customer 160.130125 164.010500 [silence]
+Customer 164.010500 165.481500 as health
+Customer 165.481500 176.938125 right so uh for a health insurance what do you think would be a uh a good health insurance with a a low deductible and a high premium or do you prefer the lower premiums with a higher deductible
+Agent 166.020500 177.304375 [silence]
+Customer 176.938125 199.508125 [silence]
+Agent 177.304375 185.508750 oh gosh that's that's the general you know y[ou]- you know you almost need to know the family situation you know and you know number of kids fortunately
+Agent 185.508750 192.921750 i have two children and they're both grown and are covered you know under their own plans so i don't i don't have medical you know expenses for them per say
+Agent 192.921750 194.055250 [silence]
+Agent 194.055250 200.368000 uh i guess if i had to choose i would be willing to pay more you know to get to get better coverage
+Customer 199.508125 204.003000 uh-huh i guess it also depends on how m[any]- how many times you're going to use it
+Agent 200.368000 201.308500 now we
+Agent 201.308500 203.017000 [silence]
+Agent 203.017000 211.101000 that's right that's right and also we i say we uh i'm retired from Texas Instruments and they're just they're like most everybody el[se]- you can't just
+Customer 204.003000 227.022625 [silence]
+Agent 211.101000 220.980250 you don't drop into a hospital and demand you know a thousand dollars worth of tests you know or you think you need to be hospitalized but there's only a certain i mean you can go anywhere you want to go
+Agent 220.980250 227.631625 but there's only approved uh health care centers you know that uh that they will pay you know the maximum amount
+Customer 227.022625 228.039625 right
+Agent 227.631625 234.205375 if you choose to go you know you pick up the difference according to the emergency it doesn't make any difference you can you know you can go wherever you need to go
+Customer 228.039625 233.198375 [silence]
+Customer 233.198375 235.538625 right so
+Agent 234.205375 239.650125 also they were doing for a long time they were doing the company was paying for second opinions
+Customer 235.538625 239.407750 [silence]
+Customer 239.407750 240.678375 uh-huh
+Agent 239.650125 244.799625 to doctors but they have since dropped that i guess it got to be you know not cost effective
+Customer 240.678375 243.390500 [silence]
+Customer 243.390500 246.558625 too expensive more expensive for them to do that then
+Agent 244.799625 258.535500 right so they have dropped the uh second opinion type thing but before you uh allow yourself to be admitted to the hospital you really there's a telephone number that you have to call you know and they will tell you exactly you know what they will pay for it
+Customer 246.558625 257.835750 [silence]
+Customer 257.835750 260.468250 um-hum so th[at]- that's pretty good
+Agent 258.535500 269.874375 and if you yeah if you want to so at least you you know you wouldn't have any surprises you can order any type of you know service you want but you stand a good chance you know having to pick up at least part of the bill yourself
+Customer 260.468250 269.315875 [silence]
+Customer 269.315875 281.583875 um-hum so the so i guess that if when i get a job and i and i look into the health insurance that they're going to pay for then i should really look really really deep into the policy
+Agent 269.874375 276.837500 [silence]
+Agent 276.837500 277.530875 um-hum
+Agent 277.530875 281.027500 [silence]
+Agent 281.027500 284.386875 absolutely you need about even probably
+Customer 281.583875 282.655750 [silence]
+Customer 282.655750 285.484000 the very first thing i- i should look at huh
+Agent 284.386875 286.861625 absolutely do you have a family
+Customer 285.484000 286.662625 [silence]
+Customer 286.662625 288.208000 no not yet
+Agent 286.861625 291.331500 i see well it will become even more important you know when and if you do
+Customer 288.208000 290.669125 [silence]
+Customer 290.669125 292.097375 um-hum
+Agent 291.331500 300.012750 but i would really check that out because_1 i'm concerned in coming years it's going to be you know just a horrendous burden to especially the younger folks
+Customer 292.097375 299.533625 [silence]
+Customer 299.533625 307.990625 what i'm really scared about and you know i'm i don't know firsthand but i it seems to me that like you were saying earlier that the deductibles are getting bigger and bigger
+Agent 300.012750 306.851250 [silence]
+Agent 306.851250 308.338375 um-hum right
+Customer 307.990625 312.205125 and that's scary because you know in the end you're getting insurance for basically nothing
+Agent 308.338375 311.924375 [silence]
+Agent 311.924375 312.780625 that's right
+Customer 312.205125 321.040500 i mean something really really really serious has happened for you you know to to make it worthwhile and then that that that that that defeats the purpose of insurance [laughter]
+Agent 312.780625 314.876500 [silence]
+Agent 314.876500 315.531500 um-hum
+Agent 315.531500 316.948500 [silence]
+Agent 316.948500 317.842750 right
+Agent 317.842750 319.758500 [silence]
+Agent 319.758500 321.735750 yeah absolutely absolutely
+Customer 321.040500 329.418625 [silence]
+Agent 321.735750 329.856000 um you know some companies can['t]- can't even afford any longer you know to carry the insurance they're just dropping it you know they don't have any choice it's bankrupting them
+Customer 329.418625 330.605625 yeah
+Agent 329.856000 331.117000 [silence]
+Customer 330.605625 335.536125 [silence]
+Agent 331.117000 336.020000 but i'm i am and very fortunate in that i was able to retire you know with with health benefits
+Customer 335.536125 336.792375 yeah
+Agent 336.020000 339.387125 [silence]
+Customer 336.792375 340.715125 that sounds like a big big asset to do that
+Agent 339.387125 342.073125 oh absolutely absolutely
+Customer 340.715125 342.187375 [silence]
+Agent 342.073125 346.705375 same to you [vocalized-noise]
+Customer 342.187375 344.635000 well it's been nice talking to you
+Customer 344.635000 348.281750 i guess i'll uh maybe see you again sometime
+Agent 346.705375 351.444750 okay you take care of yourself good luck to you thank you bye-bye
+Customer 348.281750 349.473625 [silence]
+Customer 349.473625 351.130250 you too bye
+Customer 351.130250 354.529625 [silence]
+Agent 351.444750 354.529625 [silence]

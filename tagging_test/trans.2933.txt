@@ -1,0 +1,182 @@
+Agent 0.000000 2.254125 [noise]
+Customer 0.000000 0.073875 [silence]
+Customer 0.073875 9.035625 okay i work for a temporary service and so our benefits are a lot more limited than what you would have if you worked a regular full time job
+Agent 2.254125 3.725375 um-hum
+Agent 3.725375 7.819250 [silence]
+Agent 7.819250 9.718875 um-hum um-hum
+Customer 9.035625 15.344750 we have to work a certain number of hours and then we get holiday pay and vacation pay and they if you
+Agent 9.718875 13.994125 [silence]
+Agent 13.994125 19.558375 so do you you say you work for a temporary but do you work full time hours doing that
+Customer 15.344750 18.767750 [silence]
+Customer 18.767750 23.338375 um i could if i wanted to i'd i'm not right now
+Agent 19.558375 20.670000 [silence]
+Agent 20.670000 23.117625 um-hum they
+Agent 23.117625 29.667500 but do they uh determine your benefits on whether or not you do work those hours or
+Customer 23.338375 25.162875 um i have been
+Customer 25.162875 28.808625 [silence]
+Customer 28.808625 41.500000 yeah you like you have to work twelve hundred hours um within a year to get holiday pay and fifteen hundred hours within a year to get vacation pay so if you're not working enough hours to get that much time in in a year
+Agent 29.667500 41.819250 [silence]
+Customer 41.500000 43.972000 then you don't get the benefit
+Agent 41.819250 45.161375 then they uh adjust it accordingly
+Customer 43.972000 46.920875 yeah yeah you don't get anything at all [laughter]
+Agent 45.161375 46.226125 [silence]
+Agent 46.226125 47.494875 [laughter]
+Customer 46.920875 59.145125 [silence]
+Agent 47.494875 54.297750 my uh husband works for a a large oil company and
+Agent 54.297750 62.115000 they uh and in the past has worked for a computer company and a bank so we've always uh
+Customer 59.145125 61.634625 uh-huh
+Customer 61.634625 74.276375 [silence]
+Agent 62.115000 65.206250 always had access to to good
+Agent 65.206250 71.000500 benefits as far as insurance and and usually some dental and
+Agent 71.000500 72.001750 [silence]
+Agent 72.001750 76.535250 life insurance and that kind of thing you know and
+Customer 74.276375 80.561500 right yeah my husband has good benefits too or i probably wouldn't be able to do the temporary work
+Agent 76.535250 78.282125 [silence]
+Agent 78.282125 81.217000 yeah exactly
+Customer 80.561500 84.387500 i think medical is probably one of the most important things
+Agent 81.217000 84.114250 [silence]
+Agent 84.114250 92.029000 i know uh here sometime back you know they ha[d]- had had given him a printout you know of uh
+Customer 84.387500 85.993000 to have
+Customer 85.993000 106.880750 [silence]
+Agent 92.029000 97.537125 money that the company had paid into stock in his name and how much he'd paid and
+Agent 97.537125 107.712250 um the medical benefits and whatnot that uh he was entitled to and they estimated those benefits at about forty percent of his salary
+Customer 106.880750 108.447625 wow
+Agent 107.712250 112.547000 even including vacation like you said and paid holidays and
+Customer 108.447625 109.917375 [silence]
+Customer 109.917375 111.431125 um-hum
+Customer 111.431125 124.243625 [silence]
+Agent 112.547000 124.490375 and uh all of those things now some of those you look at and you say well i'm not going to need that or use that benefit but i guess it's there knowing that it could be used if you
+Customer 124.243625 132.825125 yeah those must be pretty good benefits i've heard that usually they average about thirty percent of your salary so it sounds like maybe his company's a little bit better
+Agent 124.490375 126.327000 so chose
+Agent 126.327000 130.432250 [silence]
+Agent 130.432250 131.762125 yeah
+Agent 131.762125 137.732375 yeah i uh we've always been dealt fairly with that way
+Customer 132.825125 166.424750 [silence]
+Agent 137.732375 141.060375 and i would certainly you know
+Agent 141.060375 150.734375 caution any young person going into you know looking at jobs to make sure that they truly know what those benefits are and
+Agent 150.734375 158.618500 how they're going to match up and it might be wise to take a lower salary or hourly wage
+Agent 158.618500 162.406000 if you knew that uh long term the
+Agent 162.406000 167.147500 you were going to get more of a profit sharing or you know or just you know
+Customer 166.424750 168.555500 right yeah
+Agent 167.147500 170.376000 whatever you know the differences in the
+Customer 168.555500 178.235625 [silence]
+Agent 170.376000 177.846750 you know in the benefits we belong to an HMO through my husband's work is do you is that the kind of medical
+Agent 177.846750 179.370000 you have
+Customer 178.235625 185.636375 uh no fortunately we still have the it's just regular traveler's insurance that my husband has so we can go anywhere
+Agent 179.370000 185.444375 [silence]
+Agent 185.444375 187.019125 um-hum
+Customer 185.636375 190.096375 i guess that's good i don't know uh i can't decide
+Agent 187.019125 188.357375 [silence]
+Agent 188.357375 190.248125 well we uh
+Customer 190.096375 191.778125 [silence]
+Agent 190.248125 196.340500 we have five children so it's been good for us to uh to have the HMO for the most part
+Customer 191.778125 193.927250 oh yeah
+Customer 193.927250 218.495125 [silence]
+Agent 196.340500 209.391250 we're in a different one now than we used to be and it's required some adjustment but i think it in the end it will all come out in the wash their uh mental health benefits are very very low
+Agent 209.391250 219.616250 and anything that is elective of in any way could possibly be conceived as elective is you know not covered so
+Customer 218.495125 219.988875 uh-huh
+Agent 219.616250 227.222875 if you have those kinds of services that while the general public may see them as elective you don't see them as elective
+Customer 219.988875 225.254875 [silence]
+Customer 225.254875 226.325750 [laughter]
+Customer 226.325750 227.589875 really
+Agent 227.222875 228.528000 then uh
+Customer 227.589875 231.925375 [silence]
+Agent 228.528000 229.759250 you know
+Agent 229.759250 234.279250 uh you know you may not get the coverage that's you might have
+Customer 231.925375 239.969000 yeah my husband works [noise] for a psych hospital and i know that they sometimes have to discharge people before they're really ready because their insurance
+Agent 234.279250 241.157500 [silence]
+Customer 239.969000 248.304000 won't let them_1 stay any longer it frustrates him because they'll just be getting somebody to the point where they can really make some progress and then they're gone
+Agent 241.157500 242.747500 uh-huh
+Agent 242.747500 245.032375 [silence]
+Agent 245.032375 248.278125 that's right that's right
+Agent 248.278125 253.164500 and i know that that is a is a concern and if those people aren't willing to
+Customer 248.304000 261.077750 [silence]
+Agent 253.164500 258.262750 go to outpatient you know therapy or something then that benefit is
+Agent 258.262750 261.966625 what what was paid is almost wasted
+Customer 261.077750 263.103750 yeah really
+Agent 261.966625 265.801250 and uh well i mean i guess you can't ever totally say that but
+Customer 263.103750 268.776250 [silence]
+Agent 265.801250 276.673500 you know the best good was not gleaned from the [laughter-money] [laughter-spent] where as maybe even two weeks longer would have made a difference there should be some provision for appeal or something i guess
+Customer 268.776250 271.050625 right yeah
+Customer 271.050625 275.739125 [silence]
+Customer 275.739125 278.200500 yeah do you uh
+Agent 276.673500 278.533375 need
+Customer 278.200500 284.632625 does your husband's company have any of the new like a cafeteria plan where he gets to pick and chose any of his benefits
+Agent 278.533375 285.878875 [silence]
+Customer 284.632625 307.546750 [silence]
+Agent 285.878875 290.179500 well yes i guess so you know uh
+Agent 290.179500 293.842000 but not uh not really
+Agent 293.842000 305.415500 you know there're there are some options in in every area whether it's medical or uh you know insurance or you know as a stock you know savings
+Agent 305.415500 310.501625 kind of plan that's subsidized by the company and that kind of thing so
+Customer 307.546750 309.119750 right
+Customer 309.119750 318.552375 yeah that's one thing i wish that we had was like a 401K plan or one of those things were they matched what you could save those are really good deals
+Agent 310.501625 314.626000 [silence]
+Agent 314.626000 317.855000 um-hum yeah yeah
+Agent 317.855000 324.572250 yeah we have been so grateful for that over the years because we uh
+Customer 318.552375 328.320250 [silence]
+Agent 324.572250 330.078750 uh that that's what our kids are going to go to college on i guess so
+Customer 328.320250 330.360500 yeah
+Agent 330.078750 332.538250 you know it's good that
+Customer 330.360500 335.635250 that or retire i don't think we can plan on social security taking care of us so
+Agent 332.538250 334.015625 [silence]
+Agent 334.015625 341.954375 no i don't think so i think there're going to be too many of us our age for any way that that system can possibly
+Customer 335.635250 362.815250 [silence]
+Agent 341.954375 350.324750 even barely lessen the load we just better be those of us who can try to do something anything to put away for
+Agent 350.324750 354.157750 hopefully we won't have such a attitude
+Agent 354.157750 360.049875 in our country about elderly people not being able to work and not being smart enough to
+Agent 360.049875 363.335000 lend a hand by the time we get there [laughter-too]
+Customer 362.815250 369.296750 yeah with what they say about how the population's changing i think attitudes'll have to change to go along with that
+Agent 363.335000 365.816000 [silence]
+Agent 365.816000 367.097250 yeah
+Agent 367.097250 368.219000 [silence]
+Agent 368.219000 373.094250 exactly so it's going to we're going to see a lot of changes in the next while
+Customer 369.296750 371.474500 [silence]
+Customer 371.474500 377.180125 and that'll probably change the insurance benefits too as people get older and still work and
+Agent 373.094250 374.284500 [silence]
+Agent 374.284500 377.960250 i would think so don't you think yeah
+Customer 377.180125 379.478625 they'll need more health care
+Agent 377.960250 386.428125 i know uh my mother-in-law has had to get individual insurance the last couple of years and she's seventy two
+Customer 379.478625 385.683000 [silence]
+Customer 385.683000 387.024000 so
+Agent 386.428125 394.395750 and uh it's just been so difficult to get uh you know to get anything
+Customer 387.024000 393.368125 [silence]
+Customer 393.368125 394.944000 yeah
+Agent 394.395750 395.942625 but uh
+Customer 394.944000 398.665500 does that just supplement like Medic[are]- Medicare or
+Agent 395.942625 397.192125 [silence]
+Agent 397.192125 399.882875 yeah yeah uh-huh uh-huh
+Customer 398.665500 400.003500 yeah
+Agent 399.882875 401.701750 like that so
+Customer 400.003500 408.516000 [silence]
+Agent 401.701750 402.936000 but
+Agent 402.936000 408.777500 you know i would say that overall we've been very luck and are very happy you know if if i had to
+Customer 408.516000 419.672250 yeah that's good see i my husband been self-employed and he's worked for uh like a small companies and now he's in a little bit bigger company so we've seen a little bit of every kind of benefit you can have
+Agent 408.777500 409.782625 [silence]
+Agent 409.782625 411.007125 you know
+Agent 411.007125 414.154500 [silence]
+Agent 414.154500 415.510250 um-hum
+Agent 415.510250 417.349125 [silence]
+Agent 417.349125 423.609125 yeah yeah i i work for part-time for a man who's self-employed
+Customer 419.672250 429.011250 [silence]
+Agent 423.609125 434.888875 and gosh you know he and his f[amily]- he doesn't do anything for me you know because i have what i need through my husband but uh it sure is rough for him it's providing for his family
+Customer 429.011250 430.566125 right
+Customer 430.566125 433.984625 [silence]
+Customer 433.984625 438.945875 yeah when we when he was se[lf]- self-employed and we had to get our own insurance
+Agent 434.888875 442.526625 [silence]
+Customer 438.945875 448.924625 to get maternity benefits was just ridiculous i mean you c[ould]- you might as well have saved the money you paid every month and paid your own hospital bill at the end of the year or something
+Agent 442.526625 444.319500 oh i know it
+Agent 444.319500 446.348625 [silence]
+Agent 446.348625 448.029125 yeah
+Agent 448.029125 455.138750 but you never know if you could have had that catastrophic thing happen to you know you or your baby where you'd need
+Customer 448.924625 451.883750 [silence]
+Customer 451.883750 453.789375 right
+Customer 453.789375 457.609125 [silence]
+Agent 455.138750 459.279500 need somebody to jump in and take over those payments
+Customer 457.609125 460.715750 yeah yeah it's scary [laughter]
+Agent 459.279500 464.198125 yeah it sure is well i appreciate getting to visit with you
+Customer 460.715750 462.679250 [silence]
+Customer 462.679250 464.919625 well it was good talking to you
+Agent 464.198125 466.680250 take care bye now
+Customer 464.919625 466.371875 you too bye
+Customer 466.371875 469.961750 [noise]
+Agent 466.680250 469.961750 [noise]

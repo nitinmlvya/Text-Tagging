@@ -1,0 +1,136 @@
+Agent 0.000000 1.365000 [noise] -[ok]ay thanks
+Customer 0.000000 3.517750 [noise] huh um do y'all have a budget
+Agent 1.365000 3.038500 [silence]
+Agent 3.038500 10.448000 well um [noise] yeah we we do um we've been married for twenty three years
+Customer 3.517750 9.768250 [silence]
+Customer 9.768250 11.019625 um-hum
+Agent 10.448000 21.508375 and we have um three teenage daughters and you know they're very expensive so um [noise] uh we yeah we have somewhat of of a system um
+Customer 11.019625 26.039625 [silence]
+Agent 21.508375 24.171875 it's it's kind of um
+Agent 24.171875 35.389875 you know it's it's kind of hard to explain we've actually gone uh just recently to you know having having two checking accounts we always had just one and now we're having two
+Customer 26.039625 27.355375 yeah
+Customer 27.355375 32.707125 [silence]
+Customer 32.707125 33.944625 um-hum
+Customer 33.944625 39.318375 [silence]
+Agent 35.389875 40.056875 um it's kind of hard to talk about this because to me it's very personal
+Customer 39.318375 41.530750 yeah it's um
+Agent 40.056875 44.805125 so i have to be that's that's kind of the way i feel about it you know
+Customer 41.530750 43.216875 [silence]
+Customer 43.216875 55.725375 yeah i usually uh my wife handles a lot of the day to day finances and of course we're the like ever[ybody]- like a lot of people we just scramble through month to month you know and uh
+Agent 44.805125 53.482625 [silence]
+Agent 53.482625 55.055750 yes
+Agent 55.055750 58.187250 do you have a two income family or one income
+Customer 55.725375 57.167625 [silence]
+Customer 57.167625 60.946500 uh we have a two income uh family she also works
+Agent 58.187250 60.236125 yeah
+Agent 60.236125 61.716250 yeah
+Customer 60.946500 68.379500 and uh but she she enjoys it you know and and she's good at it um if it's if it's i am kind of uh
+Agent 61.716250 71.469750 [silence]
+Customer 68.379500 81.892000 uh i'm i'm pretty bad about procrastinating and o[ne]- one of these days i am gonna do something about that but you know [laughter] you know how that goes but uh uh if but she she handles it pretty well she uh
+Agent 71.469750 72.719875 um-hum
+Agent 72.719875 74.506375 [silence]
+Agent 74.506375 76.531500 yeah yeah
+Agent 76.531500 82.088625 [silence]
+Customer 81.892000 85.738375 she writes all the checks you know once a month
+Agent 82.088625 83.725125 so your wife
+Agent 83.725125 85.176625 yes
+Agent 85.176625 90.683375 is that what her is is her career uh related to to finance or accounting
+Customer 85.738375 89.999625 [silence]
+Customer 89.999625 102.782875 um sort of on a peripheral she's an an[nuity]- an[nuity]- [annuitity/annuity] administrator and so she uh she works for an insurance company but but she enjoys it she likes keeping track of all that stuff and uh
+Agent 90.683375 95.348250 [silence]
+Agent 95.348250 96.742750 oh
+Agent 96.742750 97.751875 [silence]
+Agent 97.751875 99.153000 uh-huh
+Agent 99.153000 100.894875 [silence]
+Agent 100.894875 104.285500 yeah so that's sort of related to her field a little bit
+Customer 102.782875 109.999500 yeah sort of and we you know we've experimented with with uh budgets you know from time to time uh
+Agent 104.285500 105.511500 yeah
+Agent 105.511500 123.363625 [silence]
+Customer 109.999500 118.619500 but if you know you have to keep up with them_1 so a lot of times we just uh just kind of play it by ear we try to keep our um
+Customer 118.619500 127.112750 [noise] our retirement and our savings kind of automated so we never see that money just like taken directly
+Agent 123.363625 125.116500 yeah
+Agent 125.116500 130.695250 it's just taking it out right right yeah yeah we do the same thing
+Customer 127.112750 135.260000 yeah and that that's kind of handy yeah because_1 if you don't see it you don't miss [laughter-it] [laughter-and] uh you don't spend it [laughter]
+Agent 130.695250 133.295375 [silence]
+Agent 133.295375 143.736625 yeah if if you have something to take it out that's exactly what we've always done and we've had uh they've always had um where they match your funds you know sometimes if you if you save so much then they'll match it
+Customer 135.260000 136.676125 [silence]
+Customer 136.676125 138.011875 yeah
+Customer 138.011875 141.111000 [silence]
+Customer 141.111000 142.465250 uh-huh
+Customer 142.465250 145.721000 [silence]
+Agent 143.736625 153.144750 um that you know we've done that too but my husband works for an insurance company and he he has now for about oh gosh how long has it been ten years i guess
+Customer 145.721000 147.137000 yeah
+Customer 147.137000 148.614125 uh-huh
+Customer 148.614125 158.430500 [silence]
+Agent 153.144750 159.349875 but he was with another company before that but we have we have i- i work also but i only have a part time job
+Customer 158.430500 159.733375 uh-huh
+Agent 159.349875 166.665625 and i get paid very little but um you know i try to use that money for food mo[ney]- Jim gives me a certain amount money
+Customer 159.733375 167.605750 [silence]
+Agent 166.665625 175.253125 you know we just transfer it into my account and then i use that for food household expenses and then i add my own check to that and then with that i try and handle
+Customer 167.605750 169.156875 yeah um-hum
+Customer 169.156875 177.020625 [silence]
+Agent 175.253125 181.663375 you know some of the clothes that the girls need and and things like that but the expenses that we need around have around the house
+Customer 177.020625 178.373000 yeah
+Customer 178.373000 180.762625 [silence]
+Customer 180.762625 185.175375 yeah so sounds like y'all pretty much do it the same we do just kind of
+Agent 181.663375 182.958500 so
+Agent 182.958500 184.582625 [silence]
+Agent 184.582625 186.015500 yeah
+Customer 185.175375 190.654500 play it by ear but but keep the the deductions you know [noise] coming on
+Agent 186.015500 188.335000 [silence]
+Agent 188.335000 194.194875 yeah we well Jim has Jim has a budget i mean he works it out every month and writes it all down
+Customer 190.654500 192.400500 [silence]
+Customer 192.400500 193.738750 uh-huh
+Customer 193.738750 199.081250 [silence]
+Agent 194.194875 201.353625 um you know i'm given so much mon[ey]- money a month so i am supposed to kind of get the food out of that so i try not to you know we don't
+Customer 199.081250 200.409500 um-hum
+Customer 200.409500 204.670750 [silence]
+Agent 201.353625 211.549375 you know i don't ask for more i mean i just try and make it on that because i think when you go to the grocery store you can just you can go crazy with all the choices that you have
+Customer 204.670750 206.370875 um-hum yeah
+Customer 206.370875 208.998625 [silence]
+Customer 208.998625 210.372625 yeah
+Customer 210.372625 211.695250 [noise] uh-huh
+Agent 211.549375 217.822500 and uh you can b[uy]- you can really waste a lot of money that way so um well how long have you been married
+Customer 211.695250 214.433875 [silence]
+Customer 214.433875 215.760250 yeah [noise]
+Customer 215.760250 217.200625 [silence]
+Customer 217.200625 221.258500 uh about_1 five years yeah
+Agent 217.822500 219.140875 [silence]
+Agent 219.140875 224.586500 oh yeah so you're just really getting started [laughter] so do you have a family too
+Customer 221.258500 228.371000 yeah uh i've got one little girl she's like uh nineteen months
+Agent 224.586500 227.281000 [silence]
+Agent 227.281000 229.654750 oh yeah yeah
+Customer 228.371000 232.281125 so uh she's she's not uh
+Agent 229.654750 231.369000 [silence]
+Agent 231.369000 233.846750 she hasn't affected your budget yet really
+Customer 232.281125 235.532750 not not really not too bad uh
+Agent 233.846750 245.326875 no no not like she will later on you'll you'll see that because_1 all of a sudden you're paying you're trying to decide whether you are going to do you know soccer and piano and all these choices that they have of activities to do
+Customer 235.532750 238.166125 yeah yeah when
+Customer 238.166125 244.825625 [silence]
+Customer 244.825625 246.175750 uh-huh
+Agent 245.326875 256.524125 and then you really have to start saying okay now what can we afford you know what can we do here and then you have to really sit down and plan some more and uh but i think when we were back at your age we didn't have much of a budget
+Customer 246.175750 248.077250 [silence]
+Customer 248.077250 249.465625 yeah
+Customer 249.465625 255.797000 [silence]
+Customer 255.797000 257.151250 yeah
+Agent 256.524125 263.390375 and then as the girls got older i think we we did more and more of that you know more budgeting as as they got older
+Customer 257.151250 262.437125 [silence]
+Customer 262.437125 263.760750 um-hum
+Agent 263.390375 265.994500 um but um
+Customer 263.760750 268.166625 [silence]
+Agent 265.994500 268.299875 but what do you do do you
+Customer 268.166625 276.163125 i'm uh i- i work for i'm an electronic technician i work at uh for a university uh Georgia Tech uh research
+Agent 268.299875 271.574500 [silence]
+Agent 271.574500 273.176125 oh okay
+Agent 273.176125 275.418500 [silence]
+Agent 275.418500 277.795125 oh well good good
+Customer 276.163125 278.998250 as a so i just uh
+Agent 277.795125 288.870625 well we just have yeah we have a good friend that's about to move to Atlanta i guess we're not supposed to talk about those things i better get back to the subject but um budgeting i found you know i feel a lot better you know we used to work out of one checkbook
+Customer 278.998250 282.719500 [silence]
+Customer 282.719500 284.485625 oh well [laughter]
+Customer 284.485625 288.344500 [silence]
+Customer 288.344500 289.664625 um-hum
+Agent 288.870625 298.306000 and it would be very hard for me because i wouldn't have i wouldn't have any idea of how much money i was spending in one month now i have know exactly what i'm spending and it is so much
+Customer 289.664625 293.409000 [silence]
+Customer 293.409000 294.873500 yeah
+Customer 294.873500 298.306000 [silence]

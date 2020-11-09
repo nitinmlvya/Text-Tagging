@@ -1,0 +1,82 @@
+Agent 0.000000 0.504750 [noise]
+Customer 0.000000 2.662125 [noise] do you happen to have a system for budgeting your money
+Agent 0.504750 3.030875 [silence]
+Customer 2.662125 9.612875 [silence]
+Agent 3.030875 4.391500 um
+Agent 4.391500 7.463500 just {sweared} i heard that beep but usually
+Agent 7.463500 11.217500 you can hear the tape or you can hear it starting [noise] um
+Customer 9.612875 12.989875 oh i've never go ahead
+Agent 11.217500 22.079250 uh no [laughter] no i am a very organized person that believes i ought to have all those things and we don't
+Customer 12.989875 15.468500 [laughter]
+Customer 15.468500 16.617500 [laughter]
+Customer 16.617500 21.592375 [silence]
+Customer 21.592375 24.918750 uh-huh so you it's not just you you have a family
+Agent 22.079250 23.565875 [vocalized-noise]
+Agent 23.565875 30.415000 yes i'm married i have two kids um young four and a half and three and [vocalized-noise]
+Customer 24.918750 51.837125 [silence]
+Agent 30.415000 37.536500 as far as sitting down and putting a formal budget paper and pen you know and following it no we don't do that
+Agent 37.536500 43.556875 um i have a very good idea of what our expenses are and how much we can afford to spend and can't spend and
+Agent 43.556875 52.189750 you know so i[t]- it's not like we just totally don't have a clue as to what's going [laughter-on] but i wish we were a little more organized a little more
+Customer 51.837125 56.793250 you know when i think about it there are certain parameters we work about
+Agent 52.189750 54.337000 faithful to a budget
+Agent 54.337000 64.749375 [silence]
+Customer 56.793250 67.266500 but we don't have a budget where it says its so much for this and so much for that but we do put a certain amount in checking account each month which we should pay for the mortgage and the electric bill and all that
+Agent 64.749375 66.415500 right
+Agent 66.415500 75.414125 [silence]
+Customer 67.266500 71.150125 and i know there's a certain number i put on my grocery and pocket money
+Customer 71.150125 77.526750 and sometimes i have a little left over and i kind of put it away but the next week i pull it out and add it to that number
+Agent 75.414125 76.867375 [laughter]
+Agent 76.867375 78.320750 right
+Customer 77.526750 84.695000 and i know that i don't go above that and i know that when we empty out the mortgage and the electric bill money and all that that you know
+Agent 78.320750 85.961750 [silence]
+Customer 84.695000 93.706750 you got to stop [laughter-spending] but you know i- i don't know if i can say i guess with the grocery and pocket money i do have a particular number but
+Agent 85.961750 89.031500 that's right that's right
+Agent 89.031500 97.529000 [silence]
+Customer 93.706750 99.034375 you know you never know if if you own a home you never know if something's going to break and you're gonna need more
+Agent 97.529000 108.925500 that's right well it's very difficult my husband is i[n]- is self-employed he's in uh financial planning and and so all of his income is commissions
+Customer 99.034375 116.381750 [silence]
+Agent 108.925500 119.432625 it's very hard to sit down and budget because you don't know what he's going to make uh you know we kind of think you know he usually brings home at least this much and i can base you know base it from there
+Customer 116.381750 117.780375 right
+Customer 117.780375 148.092500 [silence]
+Agent 119.432625 133.308500 but there's months that he brings home uh you know three times that much and there's some months he doesn't bring home anything it just depends on where the commissions fall and so you kind of have to you know i ha[ve]- in in my mind i know the basics i know what we've got to meet each month
+Agent 133.308500 138.802000 you know and and my salary helps towards that because mine's set you know but um
+Agent 138.802000 148.749250 i think that we could probably save a little better or afford to do more things for fun that we'd like to do if i did follow a [noise] you know pencil and paper budget but
+Customer 148.092500 150.310125 do you folks get to save
+Agent 148.749250 150.079125 [silence]
+Agent 150.079125 161.122625 [noise] well differently i mean do i have a savings account sitting in the bank no but uh we do have you know universal life insurance on him we have um
+Customer 150.310125 180.600625 [silence]
+Agent 161.122625 172.891500 a 401K a CODA plan preretirement plan on me through my work uh so there are things that we have money invested in you know i have a profit sharing and pension uh savings more toward retirement
+Agent 172.891500 181.466375 now savings sitting at the bank that hey let's plan a vacation no when we decide we wanna do something like that we start saving for that and when we get it we go
+Customer 180.600625 188.698875 right you know cause i i'm finding more and more that people don't have so many dollars left after they spend on what they have to spend i
+Agent 181.466375 192.756125 [silence]
+Customer 188.698875 198.554625 i think it's the rare person who says well i'm just putting money away for my kids and and every week puts in fifty dollars or something i don['t]- i think people aren't having much left at all nowadays
+Agent 192.756125 194.362875 right
+Agent 194.362875 197.873000 [silence]
+Agent 197.873000 203.814000 i think it's more and more difficult i do have savings accounts for my kids at work
+Customer 198.554625 214.865000 [silence]
+Agent 203.814000 210.371000 and um and i use that for their uh life insurance investments uh but
+Agent 210.371000 223.015875 i also pull from that and from mine if we need the money you know if you need it for something or like you said the something comes up on the house and you've got to have it well you go deplete those funds [laughter-and] [laughter-use] [laughter-it] you know
+Customer 214.865000 217.592625 right that come from somewhere
+Customer 217.592625 221.216500 [silence]
+Customer 221.216500 225.323625 yeah i work part time i'm a substitute art teacher
+Agent 223.015875 224.512750 [silence]
+Agent 224.512750 226.022250 oh
+Customer 225.323625 237.225500 so you know we try to live on my husband's salary and when i want something frivolous that he probably wouldn't agree to i just you know spend [laughter-my] [laughter-own] [laughter-money] or chip it in when you know something big comes up
+Agent 226.022250 233.074875 [silence]
+Agent 233.074875 236.670250 that's true yeah
+Agent 236.670250 241.059500 now we have an interesting arrangement my husband loves golf
+Customer 237.225500 248.125375 [silence]
+Agent 241.059500 249.871500 and i'm glad he ha[s]- i mean it's his release it's his time each week where he's not dad and he's not husband and he's not employee and he you know what i'm saying it's just a release
+Customer 248.125375 255.751875 i thought you said when he's not dead [laughter] not dad [laughter] [laughter-well] jeez [laughter]
+Agent 249.871500 258.979875 and no dad [laughter] dad [laughter] not dead [laughter] i'll have to work on that uh
+Customer 255.751875 280.288375 [silence]
+Agent 258.979875 266.612625 and and i'm glad he has that i'm glad he enjoys it but i used to resent it because i felt like all of our spare money went to his golf [noise]
+Agent 266.612625 272.686750 i don't particularly have anything i like to do from week to week or day to day or or anything like that and that's fine
+Agent 272.686750 280.768875 um and so what i started doing and he's never said you know if i wanted something i'd look in the checkbook because i'm to practical and say nah i'd better not spend the money
+Customer 280.288375 281.631875 uh-huh
+Agent 280.768875 285.248625 well he's never held me back you know he's always said if you want something go get it
+Customer 281.631875 296.154000 [silence]
+Agent 285.248625 296.316375 but i didn't feel comfortable so now when he goes and golfs i take you know if he takes out ten bucks or fifteen bucks or twenty bucks i take the same amount and i stick it in a savings account that i have at the credit union at work
+Customer 296.154000 297.430250 oh
+Agent 296.316375 298.466000 and i save for something i want becau[se]-
+Customer 297.430250 298.466000 [silence]

@@ -1,0 +1,204 @@
+Agent 0.000000 0.491875 [noise]
+Customer 0.000000 0.996625 [noise] are you Bob
+Agent 0.491875 2.993875 i am in Plano where are you
+Customer 0.996625 1.999125 [silence]
+Customer 1.999125 3.971625 oh okay i am in Waco
+Agent 2.993875 6.144625 is that right oh okay
+Customer 3.971625 5.367000 yeah [laughter]
+Customer 5.367000 6.715750 right down the street
+Agent 6.144625 7.482875 [laughter]
+Customer 6.715750 10.708750 oh credit cards my favorite subject [laughter]
+Agent 7.482875 9.511125 [silence]
+Agent 9.511125 12.264250 you mean you use credit cards
+Customer 10.708750 14.252750 oh do i uh
+Agent 12.264250 15.025125 i bet you used them all up over Christmas
+Customer 14.252750 26.983250 yeah mostly over Christmas uh i get in a rut with credit cards cause they get me kind of in a vicious cycle where you use them_1 a lot one month and then you have to use whatever money you have to pay those off
+Agent 15.025125 16.040625 [silence]
+Agent 16.040625 17.492375 [laughter]
+Agent 17.492375 20.461000 [silence]
+Agent 20.461000 21.995875 [laughter]
+Agent 21.995875 26.495125 [silence]
+Agent 26.495125 27.836000 and then your are in debt
+Customer 26.983250 31.481000 and so then you have no money [laughter] so you use a credit card
+Agent 27.836000 29.992000 [laughter]
+Agent 29.992000 30.995750 [silence]
+Agent 30.995750 32.996375 i understand that
+Customer 31.481000 36.224000 so yeah uh i probably have one of every credit card there is
+Agent 32.996375 35.794625 [silence]
+Agent 35.794625 37.162500 [laughter]
+Customer 36.224000 38.485625 do you use them a lot
+Agent 37.162500 38.179750 [silence]
+Agent 38.179750 46.980000 well uh it kind of comes and goes uh i use uh Citibank uh the Advantage one pretty much because_1 you get
+Customer 38.485625 44.785375 [silence]
+Customer 44.785375 46.239250 uh-huh
+Customer 46.239250 51.489000 [silence]
+Agent 46.980000 52.495625 Advantage points for every dollar you spend and once a year i get a free airplane ride that way
+Customer 51.489000 53.299250 oh
+Agent 52.495625 53.987250 so
+Customer 53.299250 55.498875 [silence]
+Agent 53.987250 57.214250 as long as you pay it off every month it doesn't cost you anything
+Customer 55.498875 58.725625 yeah yeah well that is a good idea
+Agent 57.214250 58.250000 [silence]
+Agent 58.250000 59.488500 so
+Customer 58.725625 59.737750 [silence]
+Agent 59.488500 61.001500 that is what i
+Customer 59.737750 61.497125 that through a Visa
+Agent 61.001500 62.492500 yeah
+Customer 61.497125 63.186750 uh-huh
+Agent 62.492500 63.751000 yeah
+Customer 63.186750 64.500000 huh
+Agent 63.751000 65.494625 but uh
+Customer 64.500000 68.991125 [silence]
+Agent 65.494625 69.999000 i got all sorts of credit cards for my business that i use but uh
+Customer 68.991125 70.483875 uh-huh
+Agent 69.999000 71.284500 [silence]
+Customer 70.483875 75.982125 [silence]
+Agent 71.284500 78.988500 if i can get away with paying them_1 off every month it is alright if i don't then it gets [laughter-expensive]
+Customer 75.982125 77.770500 yeah
+Customer 77.770500 85.802875 yeah that is my problem i don't try and pay them off i pay like the minimum but i know [laughter] so i have got myself
+Agent 78.988500 81.495750 [silence]
+Agent 81.495750 87.476875 well you shouldn't do that you y[ou]- y[ou]- nev[er]- y[ou]- y[ou]- you never get out of the hole that way
+Customer 85.802875 89.999750 exactly i have got that is why i have got myself with all this trouble now
+Agent 87.476875 89.492250 [silence]
+Agent 89.492250 90.721500 [laughter]
+Customer 89.999750 95.245500 but i pay most of them on time and everything it is just the i always have them
+Agent 90.721500 91.773250 [silence]
+Agent 91.773250 92.992000 [laughter]
+Agent 92.992000 96.772250 [silence]
+Customer 95.245500 97.462250 so it is kind of strange
+Agent 96.772250 99.195125 kind of like the federal government right
+Customer 97.462250 98.497500 [silence]
+Customer 98.497500 102.751125 oh yeah exactly like the government [laughter] in
+Agent 99.195125 100.265625 [silence]
+Agent 100.265625 101.762750 [laughter]
+Agent 101.762750 103.796000 ne[ver]- never get out of debt
+Customer 102.751125 105.249625 in debt for
+Agent 103.796000 109.278125 and any time you try to get out of debt the economy goes to pot because people are spending money right
+Customer 105.249625 108.275375 [silence]
+Customer 108.275375 110.784875 yeah yeah
+Agent 109.278125 111.041750 [laughter]
+Customer 110.784875 113.760000 have they put the cap on the interest rates
+Agent 111.041750 112.165500 so
+Agent 112.165500 113.229625 [silence]
+Agent 113.229625 114.495750 no
+Customer 113.760000 118.486500 i didn't know if they actually did that or not i know they were [noise] i know they were considering it
+Agent 114.495750 115.711125 [silence]
+Agent 115.711125 116.802500 no
+Agent 116.802500 117.788375 [silence]
+Agent 117.788375 125.975250 just the people who don't need credit get the four and a half percent the rest of the uh and me we got to pay fourteen and eighteen percent so
+Customer 118.486500 124.456250 [silence]
+Customer 124.456250 126.773875 uh-huh yeah
+Agent 125.975250 127.988375 [vocalized-noise] [laughter]
+Customer 126.773875 129.737250 funny how that works isn't it [laughter]
+Agent 127.988375 129.991500 [laughter] [noise]
+Customer 129.737250 132.721500 [silence]
+Agent 129.991500 133.759500 th[ou]- thou who doesn't need credit gets cheap credit
+Customer 132.721500 145.788000 i would be interested to find out how many people or how much uh people use credit this year say in nineteen ninety two as opposed to nineteen ninety one even nineteen ninety
+Agent 133.759500 148.971750 [silence]
+Customer 145.788000 150.264000 i think i think it be amazing how much how many more people use it
+Agent 148.971750 151.823750 well i think so because the
+Customer 150.264000 153.760375 because of the economy yeah
+Agent 151.823750 156.772125 that's right right you have got to use everything you have got just to stay where you are at
+Customer 153.760375 155.762750 [silence]
+Customer 155.762750 157.473250 exactly
+Agent 156.772125 157.787250 yeah
+Customer 157.473250 161.740125 i would be very i would like to see some numbers on that i think that would be interesting
+Agent 157.787250 161.200000 [silence]
+Agent 161.200000 167.262000 do you do you have any uh credit union or anything where you work or anything like that do you
+Customer 161.740125 165.474750 [silence]
+Customer 165.474750 167.701250 yeah i have a credit union
+Agent 167.262000 170.261500 we have a Master Card or Visa too [vocalized-noise]
+Customer 167.701250 168.992500 [silence]
+Customer 168.992500 170.788000 yeah they do uh-huh
+Agent 170.261500 171.346375 you got that one
+Customer 170.788000 175.498500 yes i do [laughter] yes i do a matter of fact
+Agent 171.346375 174.495625 [laughter]
+Agent 174.495625 176.218375 who who do you work for
+Customer 175.498500 177.620000 uh i work for Channel six
+Agent 176.218375 177.495625 [silence]
+Agent 177.495625 178.738500 oh
+Customer 177.620000 180.320500 it's it's an NBC affiliate down here
+Agent 178.738500 179.839500 yeah
+Agent 179.839500 183.772500 i do a lot of work down in Waco a lot of i call on a lot of my business is down there
+Customer 180.320500 181.500250 [silence]
+Customer 181.500250 182.755000 oh really
+Customer 182.755000 185.746875 oh okay where do you work what is your
+Agent 183.772500 184.809250 yeah
+Agent 184.809250 189.320250 i sell metal fabricating equipment and tooling and uh
+Customer 185.746875 187.733125 [silence]
+Customer 187.733125 189.989125 oh okay
+Agent 189.320250 194.784250 Tyme and Mercury and Tempco and all those people down there
+Customer 189.989125 193.360000 [silence]
+Customer 193.360000 194.764625 oh okay
+Customer 194.764625 197.286125 so you probably work with uh
+Agent 194.784250 196.494250 GNK
+Agent 196.494250 202.496125 [silence]
+Customer 197.286125 198.493750 [silence]
+Customer 198.493750 200.998000 uh what is the boy from here
+Customer 200.998000 202.987625 you ever work with Davis
+Agent 202.496125 207.488250 Davis Iron yes yep matter of fact i just saw them last week yep
+Customer 202.987625 205.996000 Davis Iron Work yeah
+Customer 205.996000 209.493250 oh okay and uh what else
+Agent 207.488250 210.754625 a[re]- are you in that part are you in the south part of town now
+Customer 209.493250 211.985750 yeah well i live actually in Hewett
+Agent 210.754625 211.768250 [silence]
+Agent 211.768250 213.485125 oh yeah okay
+Customer 211.985750 215.495875 yeah right outside so that is where Davis Iron Works is
+Agent 213.485125 214.785750 you know
+Agent 214.785750 218.284875 you know uh Parker Machine Tool down there
+Customer 215.495875 217.987500 [silence]
+Customer 217.987500 219.995125 [noise] uh
+Agent 218.284875 220.316125 Bobby Parker
+Customer 219.995125 224.710125 i don't think i have seen that one i am sure i pass by it or something but i am not sure
+Agent 220.316125 223.481500 [silence]
+Agent 223.481500 227.472250 there is a place in Hewett called it is a new company called Prime Air
+Customer 224.710125 229.776000 [silence]
+Agent 227.472250 230.380000 that is in Hewett just around the corner from Davis Iron Works
+Customer 229.776000 232.266375 huh Prime Air
+Agent 230.380000 231.728500 [silence]
+Agent 231.728500 233.495375 yeah they make uh
+Customer 232.266375 235.263750 [silence]
+Agent 233.495375 243.459750 humidifiers and uh filters for air filtration stuff for you know hospitals homes something like that it's a new kin[d]-
+Customer 235.263750 237.286750 oh okay
+Customer 237.286750 239.289875 [silence]
+Customer 239.289875 240.495750 okay
+Customer 240.495750 241.498250 [silence]
+Customer 241.498250 244.245875 have you ever been to Marlin
+Agent 243.459750 245.493250 uh yeah
+Customer 244.245875 247.494375 i think it is Marlin or Mart they have uh
+Agent 245.493250 250.991000 [silence]
+Customer 247.494375 254.002000 uh a place i guess that would be similar to Prime Air it is called H G H or something like K G H or
+Agent 250.991000 252.485000 oh really
+Agent 252.485000 253.726750 [silence]
+Agent 253.726750 254.849625 huh
+Customer 254.002000 257.304125 i can't think of i can't think of the name but
+Agent 254.849625 255.992250 [silence]
+Agent 255.992250 261.965125 i will have to stop in there i went i have gone through there uh my oldest son goes to A&M and
+Customer 257.304125 258.498500 uh-huh
+Customer 258.498500 261.491500 [silence]
+Customer 261.491500 263.479125 oh yeah
+Agent 261.965125 262.984125 [silence]
+Agent 262.984125 271.991625 he is working on his Mas[ter's]- the Navy sent him there for his Master's mostly in Engineering so once and a while we go up six there rather than take forty five
+Customer 263.479125 265.491875 [silence]
+Customer 265.491875 267.003375 uh-huh
+Customer 267.003375 268.500875 uh-huh
+Customer 268.500875 270.488125 [silence]
+Customer 270.488125 271.987625 yeah
+Customer 271.987625 274.760625 [silence]
+Agent 271.991625 274.998250 that is about the last time i have been through Marlin and Mart
+Customer 274.760625 280.700000 uh-huh oh i don't like that drive i make that drive sometimes we have stories out there but
+Agent 274.998250 277.301625 [laughter]
+Agent 277.301625 279.990000 [silence]
+Agent 279.990000 284.246250 there is always a state trooper down there you have got to drive careful
+Customer 280.700000 281.993125 [silence]
+Customer 281.993125 285.496875 huh [laughter] oh really i know
+Agent 284.246250 288.497250 between Mart and Marlin they will nail you if you go over sixty miles an hour
+Customer 285.496875 286.505750 [silence]
+Customer 286.505750 294.759250 oh goodness they they are bad at Hewett too on eighty four they are real bad that is where i got my last ticket
+Agent 288.497250 289.998000 [silence]
+Agent 289.998000 291.498625 huh
+Agent 291.498625 292.714000 uh-huh
+Agent 292.714000 293.991375 [silence]
+Agent 293.991375 296.497125 [laughter]
+Customer 294.759250 297.538000 so of course i couldn't pay that on a cre[dit]-
+Agent 296.497125 297.538000 [silence]

@@ -1,0 +1,129 @@
+Agent 0.000000 1.061000 [noise]
+Customer 0.000000 2.948750 [noise] okay Vic our topic is budgets
+Agent 1.061000 2.396375 [silence]
+Agent 2.396375 3.669375 yes
+Customer 2.948750 5.189625 do you keep a monthly budget
+Agent 3.669375 4.716750 [silence]
+Agent 4.716750 10.161375 uh i talk about doing that a lot [laughter]
+Customer 5.189625 6.320625 [silence]
+Customer 6.320625 10.470500 [laughter] welcome to the club [laughter]
+Agent 10.161375 20.202500 uh i- i use a uh computer software program to keep track of all expenses primarily it's a checking
+Customer 10.470500 14.982125 [silence]
+Customer 14.982125 16.401000 uh-huh
+Customer 16.401000 24.660875 [silence]
+Agent 20.202500 25.280375 you know a check balancing program but it does catego[rize]- categorize everything
+Customer 24.660875 26.682500 oh how interesting
+Agent 25.280375 39.133500 a[nd]- and it allows you to either to go in and create a budget and then compare against it or actually will sort of generate one based on you know how you categorize things over the over the months
+Customer 26.682500 38.659875 [silence]
+Customer 38.659875 40.050500 oh
+Agent 39.133500 48.179375 so i have all the information there um it's just that i haven't been very diligent at at really tracking it and following it
+Customer 40.050500 46.074250 [silence]
+Customer 46.074250 52.256000 well uh it's just like the money it's hard to keep track of it [laughter] as it goes out
+Agent 48.179375 49.594625 [silence]
+Agent 49.594625 53.497250 right right what do you do
+Customer 52.256000 61.039750 uh i'm a teacher and we're at a my husband and i are at a stage in life where we've got one left in college
+Agent 53.497250 55.277625 okay_1
+Agent 55.277625 60.139375 [silence]
+Agent 60.139375 61.553125 um-hum
+Customer 61.039750 70.419000 so budgeting is not our priority since we have one in college [laughter] their expenses run beyond any budgeting allowances
+Agent 61.553125 64.600250 [silence]
+Agent 64.600250 66.015125 right
+Agent 66.015125 68.884375 [silence]
+Agent 68.884375 73.363625 [laughter] o[kay]- okay
+Customer 70.419000 72.315375 we've quit [laughter]
+Customer 72.315375 84.393000 [silence]
+Agent 73.363625 80.164500 um well the biggest problem that i've had or one of the one of the problems is um
+Agent 80.164500 84.593750 keeping track of cash e[xpenditures]- you know expenditures
+Customer 84.393000 85.734750 yeah
+Agent 84.593750 94.445625 uh i think that one of the things that's uh makes budgeting very hard is the convenience of automatic teller machines
+Customer 85.734750 97.195250 [silence]
+Agent 94.445625 98.206500 uh the ability to go up and get cash so easily
+Customer 97.195250 102.034750 okay i see i stopped those four years ago yeah
+Agent 98.206500 100.209250 [silence]
+Agent 100.209250 101.558750 really
+Agent 101.558750 104.118375 okay_1 well see you have control
+Customer 102.034750 103.290500 [silence]
+Customer 103.290500 113.417125 yeah oh yeah now we are you know um well we're at a point in life that we're looking to retirement rather than you know earnings
+Agent 104.118375 112.563250 [silence]
+Agent 112.563250 114.012625 um-hum
+Customer 113.417125 125.841500 so it's gotten to the point where um yeah au[tomatic]- automatic teller i only had the card and it was on my own personal account and it got way out of control very fast
+Agent 114.012625 119.630625 [silence]
+Agent 119.630625 121.146750 okay
+Agent 121.146750 125.069250 [silence]
+Agent 125.069250 126.416125 huh
+Customer 125.841500 129.368000 so i have a tendency now i take an allowance
+Agent 126.416125 129.387000 [silence]
+Customer 129.368000 137.339375 and when it's gone it's gone you know i'm finished if it's gone the fifteenth of the month then it's gone
+Agent 129.387000 131.118625 well that's pretty good
+Agent 131.118625 132.577250 uh-huh
+Agent 132.577250 135.256000 [silence]
+Agent 135.256000 138.355125 it's gone huh oh that's great
+Customer 137.339375 143.117500 and uh we have a tendency not to use cash we pay everything by check
+Agent 138.355125 141.980250 [silence]
+Agent 141.980250 144.636250 right yeah that's a good way to do it
+Customer 143.117500 151.165250 and so that way w[e]- we keep control of what we're spending where it's going what it's going for
+Agent 144.636250 148.897250 [silence]
+Agent 148.897250 151.692875 um-hum well that's great
+Customer 151.165250 161.367500 so um you know it i take a hundred dollars a month that's all i take and you know i mean i don't buy groceries out of i[t]- it's my own little
+Agent 151.692875 155.246125 [silence]
+Agent 155.246125 156.945750 oh wow
+Agent 156.945750 163.180875 [silence]
+Customer 161.367500 170.635875 slush fund if you wanna call it that and that's for my little incidentals or running to the grocery store to get a you know gallon of milk or whatever
+Agent 163.180875 165.296750 um-hum yeah
+Agent 165.296750 169.964375 [silence]
+Agent 169.964375 171.283875 right
+Customer 170.635875 174.764875 but um after that it's check only
+Agent 171.283875 173.893875 [silence]
+Agent 173.893875 175.238875 right
+Customer 174.764875 181.058625 so we can you know really know where our money's going and you know what's happening
+Agent 175.238875 180.032875 [silence]
+Agent 180.032875 181.441125 um-hum
+Customer 181.058625 184.078125 what about how are you on charge cards
+Agent 181.441125 183.790250 [silence]
+Agent 183.790250 195.207500 uh pretty good about that tha[t]- the last few years anyway we did have a Master Card that got out of hand for awhile but we just just stopped using it didn't get rid of it
+Customer 184.078125 185.341125 [silence]
+Customer 185.341125 186.799125 good
+Customer 186.799125 201.400000 [silence]
+Agent 195.207500 202.751375 there are times uh such as oh some mail order type things uh where it's very convenient to have
+Customer 201.400000 202.650875 yes
+Customer 202.650875 219.571250 [silence]
+Agent 202.751375 211.179875 uh but that's really the only thing it it's used for and uh one one problem i do have is with uh
+Agent 211.179875 220.348375 is it i in my job i travel a good bit and have to use my own uh credit card i don't have a business credit card
+Customer 219.571250 220.947125 okay_1
+Agent 220.348375 226.573000 so i use that and then have to file expense reports and uh
+Customer 220.947125 239.762750 [silence]
+Agent 226.573000 236.030000 it just adds another complication to properly tracking expenses knowing how much of it is reimbursed business expense
+Agent 236.030000 239.841125 uh or how much is my own expense for
+Customer 239.762750 240.940125 well
+Agent 239.841125 251.367500 yeah i- i use uh credit cards not for credit but j[ust]- for convenience in other words i pay we pay monthly the balance due uh but we do
+Customer 240.940125 247.880875 [silence]
+Customer 247.880875 253.800500 okay yeah well this might help you because_1 see my husband travels as well
+Agent 251.367500 252.828125 [silence]
+Agent 252.828125 254.190750 uh-huh
+Customer 253.800500 256.418250 and we have separate charge accounts
+Agent 254.190750 255.669375 [silence]
+Agent 255.669375 257.124625 okay
+Customer 256.418250 261.298750 he's got an American Express and that's only traveling
+Agent 257.124625 260.551000 [silence]
+Agent 260.551000 261.977750 okay
+Customer 261.298750 265.263250 then we both have a Visa or MasterCard
+Agent 261.977750 264.365500 [silence]
+Agent 264.365500 265.860750 okay
+Customer 265.263250 269.743875 so anything on his American Express is his
+Agent 265.860750 268.266000 that's a pretty good way to do it
+Agent 268.266000 272.801000 [silence]
+Customer 269.743875 275.855125 and it's his expense now he gave me one and if i go with him on work
+Agent 272.801000 274.119250 um-hum
+Agent 274.119250 275.342375 [silence]
+Agent 275.342375 277.047125 um-hum
+Customer 275.855125 280.286625 i only charge on that card i don't put it on my MasterCard
+Agent 277.047125 279.172125 okay
+Agent 279.172125 280.741500 right
+Customer 280.286625 291.282000 so we've separated those two completely and i know what you mean because_1 at first we used to intermingle our funds and we weren't sure [noise] why our bills were outrageous
+Agent 280.741500 286.231625 [silence]
+Agent 286.231625 287.805750 um-hum
+Agent 287.805750 290.760375 oh yeah it's hard to be s[ure]- to be sure
+Agent 290.760375 292.100250 right
+Customer 291.282000 298.946000 you know because his traveling expenses were you know i mean he's a traveling salesman so we're looking at six fi[ve]-
+Agent 292.100250 296.897125 [silence]
+Agent 296.897125 298.946000 oh boy

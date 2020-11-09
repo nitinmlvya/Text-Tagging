@@ -1,0 +1,160 @@
+Agent 0.000000 2.739000 [silence]
+Customer 0.000000 0.148000 [noise]
+Customer 0.148000 1.499875 okay
+Customer 1.499875 3.273875 how do you feel about them_1
+Agent 2.739000 6.844375 well i keep trying to get away from them
+Customer 3.273875 31.680625 [silence]
+Agent 6.844375 15.989125 [laughter] i used to use a lot of credit cards i guess for a while i would use you know a variety of the the Visa and the MasterCard and the stores but
+Agent 15.989125 23.792125 i think i i impulse buy too much with them or i buy things you know i see it on sale and i think oh it's on sale i have to get it
+Agent 23.792125 34.493250 and i really don't need it or i really haven't budgeted for it so um the last couple of years i really have tried not to use them_1 at all what about you
+Customer 31.680625 33.485125 yeah
+Customer 33.485125 38.719375 well we have this philosophy we use it when we go off somewhere
+Agent 34.493250 42.276375 [silence]
+Customer 38.719375 47.490750 but we pay for it as soon as we come back you know as soon as we get our bills we pay it off and we only have one we tore all the rest of them_1 up
+Agent 42.276375 43.728625 um-hum
+Agent 43.728625 44.781375 um-hum
+Agent 44.781375 46.246875 [silence]
+Agent 46.246875 48.490500 [laughter] okay [laughter]
+Customer 47.490750 58.956875 because i don't like credit cards for one thing you know i mean they're okay i guess if you're on a trip or something you don't have to take a whole bunch of you know cash with you but i don't like using
+Agent 48.490500 53.324875 [silence]
+Agent 53.324875 54.721125 um-hum
+Agent 54.721125 55.997750 [silence]
+Agent 55.997750 57.485500 right
+Agent 57.485500 63.495375 [silence]
+Customer 58.956875 72.533375 because i've seen too many people that used them_1 and ended up bankrupt or on chapter thirteen and stuff like that because they have this weird opinion that if you use that card you don't have to pay for it
+Agent 63.495375 65.501000 hum
+Agent 65.501000 67.220125 uh-huh
+Agent 67.220125 71.968500 [silence]
+Agent 71.968500 84.265000 that's true if if it's on the credit card it doesn't seem like it's money out of your pocket and sometimes you may think well i don't have the money so you use the credit card it's like fake money or something
+Customer 72.533375 83.239875 [silence]
+Customer 83.239875 96.532750 yeah yeah and it gives you a sense um a false sense of security or something it seems like because you say oh well i don't have to pay for it now but you're going to have to pay for it and it seems like
+Agent 84.265000 94.475625 [silence]
+Agent 94.475625 106.984250 yeah you think well i don't have it now but payday will come and then i'll have the money but that's probably paying for things that were still owed from last time [laughter] yes
+Customer 96.532750 98.993875 [silence]
+Customer 98.993875 100.492250 uh-huh
+Customer 100.492250 103.351500 [silence]
+Customer 103.351500 106.472500 right are you married
+Customer 106.472500 113.265750 oh okay well i know that a lot of young people you know i it took me a long time to
+Agent 106.984250 118.458375 [silence]
+Customer 113.265750 125.438125 get it through my child's head i mean that was her goal you know uh got to have a credit card but now that she has one she's only used it one time but she wanted to establish some credit
+Agent 118.458375 120.224875 um-hum
+Agent 120.224875 124.507375 [silence]
+Agent 124.507375 126.467250 um-hum
+Customer 125.438125 132.694875 but i think it finally sunk in you know because_1 she saw some of the other people and just like she heard them_1 say you know well i used a credit card
+Agent 126.467250 140.987125 [silence]
+Customer 132.694875 142.023000 and my husband's sister is the world's worst at oh well i'll just use the credit cards and she has all of her credit cards up to the limit
+Agent 140.987125 143.205500 um
+Customer 142.023000 150.021625 you know and i'm i'm thinking woman [laughter] wake up and smell the roses before they come and get you but
+Agent 143.205500 147.679625 [silence]
+Agent 147.679625 155.494000 right besides the fact that how much interest you pay and then this
+Customer 150.021625 153.725000 [silence]
+Customer 153.725000 156.281375 right and people don't see that either
+Agent 155.494000 167.997000 yeah this thing that you thought you got on sale by the time you get done paying with that with all the finance charges because you pay it off over a long period of time you've spent a heck of a lot of money on that thing
+Customer 156.281375 166.686625 [silence]
+Customer 166.686625 172.429250 right the only one that we we have that we kept was the Discover card
+Agent 167.997000 171.492125 [silence]
+Agent 171.492125 173.266625 um-hum
+Customer 172.429250 186.987500 and it pays you to use it i mean if you pay your bill off right away if you don't ever have to pay any interest on it because they give you a certain amount every time that you use it
+Agent 173.266625 174.563375 [silence]
+Agent 174.563375 175.993375 um-hum
+Agent 175.993375 178.687625 [silence]
+Agent 178.687625 179.940625 um-hum
+Agent 179.940625 206.991500 [silence]
+Customer 186.987500 200.492250 and you make that money as long as you don't ever have to pay them_1 any uh interest now it's and people say well you know i'm making money by using this credit card but they don't realize that if they
+Customer 200.492250 208.177875 i mean it only takes one time for you to use it and not pay the interest i mean you have to pay the interest not pay it right off
+Agent 206.991500 208.746875 um-hum
+Customer 208.177875 210.977250 that's going to take up what you would have made
+Agent 208.746875 210.261000 [silence]
+Agent 210.261000 211.985125 um
+Customer 210.977250 216.993625 so that's the only reason that we kept that we debated for a long time plus they don't have that um
+Agent 211.985125 218.335000 [silence]
+Customer 216.993625 222.988250 charge on it you know like yeah right they don't have one of those
+Agent 218.335000 221.983000 service charge you mean yearly fee yeah
+Agent 221.983000 231.727125 [silence]
+Customer 222.988250 233.984625 so it we decided that was it you know and i mean everybody calls us and wants to give us a credit card we have we could have credit cards running out our ears
+Agent 231.727125 235.991625 oh you get that stuff in the mail all the time
+Customer 233.984625 247.472500 yes yes and then i['ll]- i'll have just like uh department stores they'll call me up you know and i'll say look i don't want the credit card well we're just going to send it to you you know you don't have to ever use it if you don't want to they'll send me any credit card i tear it up
+Agent 235.991625 247.281250 [silence]
+Agent 247.281250 257.479000 what i really hate in the mail is like for the credit cards that i do have still that they send you these things that look like checks
+Customer 247.472500 249.459000 i just can't see it
+Customer 249.459000 252.737125 [silence]
+Customer 252.737125 254.241000 uh-huh
+Customer 254.241000 256.727625 [silence]
+Customer 256.727625 258.487375 yeah
+Agent 257.479000 268.494500 and they say hey you know two thousand dollars you know free to you kind of thing you know all you got to do is go cash those things and you've got a short term loan
+Customer 258.487375 268.684625 [silence]
+Agent 268.494500 273.456500 i hate it [laughter] i can't believe they have the nerve to do that
+Customer 268.684625 272.221500 i know it and you know what
+Customer 272.221500 282.742125 what's really bad about those though is just like young people if they don't you know we take the time to you know help my daughter she's in college
+Agent 273.456500 281.978750 [silence]
+Agent 281.978750 283.876875 uh-huh
+Customer 282.742125 289.764250 but it this is her first credit card thing well when she got her first one she was so excited it was unreal look at this they sent me this money you know
+Agent 283.876875 295.446125 [silence]
+Customer 289.764250 299.035125 so then when i explained to her look you have to pay this back and they are going to charge you interest and stuff of course she [ter/tore] tore it up but a lot of parents would not take the time
+Agent 295.446125 297.944125 [laughter]
+Agent 297.944125 311.910625 [silence]
+Customer 299.035125 305.456625 you know and they wouldn't even think of it or their kids may not be as close as my daughter and i are
+Customer 305.456625 316.290875 and um you know they may not even discuss it they go out and cash that check thinking that you know they've got something maybe they've won something you know somebody sent them_1 something free and go out and spend it
+Agent 311.910625 315.912250 [laughter] um-hum
+Agent 315.912250 330.445750 [silence]
+Customer 316.290875 326.956875 and um it's just unreal i mean i don't like credit cards i wish that they would come up with some other way to you know the only way you could use them_1 is if you were
+Customer 326.956875 339.485125 like on vacation they would let you use it maybe once a year you know i mean of course i guess some people go out and spend their whole entire limit on it like that at that time but um
+Agent 330.445750 332.469000 [laughter]
+Agent 332.469000 352.966750 [silence]
+Customer 339.485125 345.179500 i have seen so many people and i have a friend right now she just got off of thirteen
+Customer 345.179500 358.711125 she got uh i can't remember what she called it it's some kind of maybe it's sure or something like that it's something it's some weird name of a credit card and she is charging out of her mind already and i'm going you just got off
+Agent 352.966750 354.943750 uh-huh
+Agent 354.943750 363.311625 [silence]
+Customer 358.711125 371.183250 that's how you got on to it to start with you know what is the matter with this person [laughter] but um it seems like people just you know they just think well i can just have anything i want
+Agent 363.311625 365.400500 [noise] yeah
+Agent 365.400500 401.339625 [silence]
+Customer 371.183250 383.464750 and i just don't see it like that of course i always see pay the bills first and whatever's leftover that's what you have but um maybe a lot of people don't see it like that but i can't stand owing
+Customer 383.464750 390.455000 i mean i cannot hardly tolerate to owe something like you know i guess it's just because i've been brought up like that
+Customer 390.455000 400.780125 but um i could not charge to the limit and knowing that i was going to have to pay this thing out for ever and maybe suffer from having to pay out
+Customer 400.780125 404.488500 but that's just the way i feel about it
+Agent 401.339625 406.711375 yeah i think it's it's somewhat a um symptom of our
+Customer 404.488500 464.804375 [silence]
+Agent 406.711375 413.712750 me generation and that we think we need all these things and i think my parents always
+Agent 413.712750 423.152500 you know did without or saved up to you know buy things and we consider that so many of these things we just have to have
+Agent 423.152500 429.315625 you know like when i first got my apartment and i was setting it up i did try to economize some but
+Agent 429.315625 438.495000 you know i was just like well i have to have it all furnished and i have to have all of my kitchen setup and you don't you know do without too much and
+Agent 438.495000 445.719750 you know that's how i got started kind of with setting up a household all up you know it kind of like in the short amount of time
+Agent 445.719750 454.978625 you know you just have to have these things just you know have them_1 at home have to have them_1 at my own place and that's you know a big expenditure to start um
+Agent 454.978625 468.990750 buying all these things that you think or or have to have and actually they're kind of luxuries or you should save up slowly and keep buying them_1 and not just rush out and furnish the whole place you know going in one big swoop save up and then buy it
+Customer 464.804375 466.689000 right
+Customer 466.689000 468.485250 [silence]
+Customer 468.485250 470.449875 yeah
+Agent 468.990750 472.942125 but we're not into that we're into like have to have it all now
+Customer 470.449875 471.954625 [silence]
+Customer 471.954625 479.259625 oh yeah i guess it is like that though because it seems like more and more people are like that
+Agent 472.942125 494.305125 [silence]
+Customer 479.259625 490.718000 but um i guess it's because i'm older i mean i'm not real old but i am older and um you know i didn't feel like that i didn't feel like i had to have everything i guess it was because
+Customer 490.718000 495.480750 well i had everything when i was at home but i i don't know why i didn't [laughter]
+Agent 494.305125 501.003000 well we're geared to that we're like okay like i want a living room set and instead of sitting back and and
+Customer 495.480750 505.966375 [silence]
+Agent 501.003000 511.194000 going okay well it's going to cost maybe a thousand dollars two thousand dollars and i'll save for two years people go oh well i'll just go buy it put it on credit and i'll pay it off
+Customer 505.966375 507.476375 um-hum
+Customer 507.476375 510.288375 [silence]
+Customer 510.288375 511.770125 yeah
+Agent 511.194000 522.937250 people aren't tuned in to like saving for it and then buying it they just put it on a charge card put it on account and then pay off the bill because_1 they want it now it's always have to have it now
+Customer 511.770125 517.774500 [silence]
+Customer 517.774500 519.238000 hm
+Customer 519.238000 522.051625 [silence]
+Customer 522.051625 529.242125 yeah um well it didn't hurt you did it to i mean you didn't go out and charge a whole bunch and lose everything did you
+Agent 522.937250 527.985125 [silence]
+Agent 527.985125 536.486375 [laughter] no no but i have had some times when i've had some pretty good balances on there and uh you know i finally
+Customer 529.242125 546.331875 [silence]
+Agent 536.486375 548.433875 you know paid them_1 all off and thought this is you know kind of nonsense so we don't uh have big balances on them_1 at all now we're we're you know we i use it occasionally but i pay it right off we're
+Customer 546.331875 550.247375 yeah well you learned then right
+Agent 548.433875 556.263250 yeah you learn the you know the hard way you hate paying all that interest and i've never been one to itemize on my income tax and never had
+Customer 550.247375 572.499875 [silence]
+Agent 556.263250 565.494500 enough to itemize and so it's just a big chunk of money and you realize that you're not buying anything on sale your paying so much more for that item
+Agent 565.494500 573.721375 because you've got finance charge and the cost of having that card every year which is what forty dollars sometimes just to have the card
+Customer 572.499875 574.216125 yeah
+Agent 573.721375 577.480375 that's a lot of money that you went to buy this item
+Customer 574.216125 576.704250 [silence]
+Customer 576.704250 579.001000 um-hum so then
+Agent 577.480375 585.316750 and then you never feel like you've got anything to to put into savings or anything you're always just paying bills paying bills
+Customer 579.001000 598.467250 [silence]
+Agent 585.316750 599.719500 you know you don't feel that you have any extra to save and i hate i hate living paycheck to paycheck i like to have a little there you know that i can save so i can feel that you know if something comes up i've got the money to pay for it
+Customer 598.467250 599.719500 right

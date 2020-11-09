@@ -1,0 +1,121 @@
+Agent 0.000000 0.913500 [noise]
+Customer 0.000000 10.855875 [noise] Wendy i guess we get to talk about budgets tonight or lack of budgets if uh if that may be the case and any kind of long term financial planning or anything like that uh
+Agent 0.913500 4.900750 [silence]
+Agent 4.900750 6.406500 right
+Agent 6.406500 16.888875 [silence]
+Customer 10.855875 17.823250 let me ask you the question do you have a uh budget or a monthly budget or a long term budget that you stick to
+Agent 16.888875 24.472500 [noise] right now i'm in college and i'm on work study and so my budget comes from my dad's help
+Customer 17.823250 20.914250 [silence]
+Customer 20.914250 22.261125 um-hum
+Customer 22.261125 23.901625 [silence]
+Customer 23.901625 25.510000 uh-huh
+Agent 24.472500 37.739875 [laughter-he] helps me out a lot and i get paid monthly so that's kind of hard to have a budget my mother uh doesn't get paid much money so her budget is um [noise] just uh planning for IRAs
+Customer 25.510000 36.782500 [silence]
+Customer 36.782500 45.340000 i see i see well good i'm i'm kind of in a different situation but i- i- i went through that too when i was in school
+Agent 37.739875 51.288625 [silence]
+Customer 45.340000 52.405875 but uh i was i was working to get through college and and uh trying to make it through that but uh
+Agent 51.288625 53.343375 [laughter]
+Customer 52.405875 63.412375 i'm married and have uh a couple of children and we have to uh pretty much stick to a budget i'm on a salary so i don't get any overtime or anything like that so
+Agent 53.343375 54.660500 [silence]
+Agent 54.660500 56.015375 uh-huh
+Agent 56.015375 62.552375 [silence]
+Agent 62.552375 64.110875 [noise] oh
+Customer 63.412375 71.746625 but we have a fixed income and we have to make sure that uh every dollar we have is is spent accordingly
+Agent 64.110875 76.370375 [silence]
+Customer 71.746625 73.471125 and um
+Customer 73.471125 83.592250 what we try and do to to stick to our monthly budget is we pretty much have you know the house payment we have the insurance premiums
+Agent 76.370375 77.755750 uh-huh
+Agent 77.755750 103.399750 [silence]
+Customer 83.592250 94.079875 um utilities and so forth and we do sit down at the beginning of every month or the end of every month and write down how much we know we're going to spend
+Customer 94.079875 107.863875 and set that money aside and we also try and set aside money for savings set aside money for the coll[ege]- the kids' education college education the future and uh
+Agent 103.399750 104.806125 um-hum
+Agent 104.806125 112.483250 [silence]
+Customer 107.863875 113.774750 set aside money for bonds and and we also set aside an emergency fund because_1
+Agent 112.483250 114.314750 that sounds good
+Customer 113.774750 127.036500 we've uh [laughter] we've been married for about ten years and we find out that you know no matter what kind of budget you stick on there's always going to be an unexpected car repair or something happen with the house that you have to have money for and uh
+Agent 114.314750 122.548125 [silence]
+Agent 122.548125 124.114000 right
+Agent 124.114000 130.893500 [silence]
+Customer 127.036500 131.387000 it's not enough to go in to take a loan out but uh you have to have money for
+Agent 130.893500 132.341375 right
+Customer 131.387000 140.166000 and uh then we have you know whatever's left over is disposable in[come]- disposable dis[posable]- yeah discretionary income
+Agent 132.341375 139.475375 [silence]
+Agent 139.475375 141.660875 [laughter]
+Customer 140.166000 148.878125 [laughter] that we use for the rest of the month so and it's worked out very well it's uh it's helped us so that we haven't been
+Agent 141.660875 152.222875 [silence]
+Customer 148.878125 158.183250 you know too long on the month and too short on the money and uh try and stick with that and nice thing about it i uh my wife is
+Agent 152.222875 154.131250 well that's good
+Agent 154.131250 162.689000 [silence]
+Customer 158.183250 166.696000 is excellent in that we both work together we both have a budget and we stick to it and there's no surprises in that [laughter]
+Agent 162.689000 164.371250 well good
+Agent 164.371250 168.843375 [laughter] with two kids that could be hard
+Customer 166.696000 167.827625 [silence]
+Customer 167.827625 169.851625 well actually i have four kids
+Agent 168.843375 170.729875 four
+Customer 169.851625 174.667250 so [laughter] yeah i said a couple of kids i- i guess i should have specified i have four
+Agent 170.729875 173.883625 [silence]
+Agent 173.883625 175.853125 oh my goodness
+Customer 174.667250 176.734500 four little boys yeah
+Agent 175.853125 180.379125 four boys oh my goodne[ss]- it's just me and my sister
+Customer 176.734500 179.450000 you bet you bet
+Customer 179.450000 181.959500 all right [laughter]
+Agent 180.379125 192.781625 and my parents divorced three years ago and my sister had gotten through college but i was still in high school and my mother paid for a lot of my sister's college while my parents were together
+Customer 181.959500 182.961875 [silence]
+Customer 182.961875 184.306500 um-hum
+Customer 184.306500 191.994250 [silence]
+Customer 191.994250 193.264875 yes
+Agent 192.781625 198.434625 and then uh before the divorce she had saved for my college
+Customer 193.264875 197.764125 [silence]
+Customer 197.764125 199.103000 uh-huh
+Agent 198.434625 206.418000 but uh when we had the divorce she just didn't get much money out of it and had to spend it all on getting another house
+Customer 199.103000 206.136625 [silence]
+Customer 206.136625 207.638875 oh
+Agent 206.418000 216.974000 so now my dad's paying for all of my college [laughter] and financial aid and scholarships i'm a music major so i have auditions coming up
+Customer 207.638875 209.307500 [silence]
+Customer 209.307500 211.804375 well good good
+Customer 211.804375 213.346375 uh-huh
+Customer 213.346375 216.277875 [silence]
+Customer 216.277875 219.321125 yes well what year are you in college
+Agent 216.974000 218.317375 [silence]
+Agent 218.317375 220.226125 i'm a sophomore
+Customer 219.321125 222.215125 you're a sophomore so you have a few more years
+Agent 220.226125 221.494625 [silence]
+Agent 221.494625 225.884625 [noise] right right i'll i'll probably have about two two and a half years left
+Customer 222.215125 224.880625 [silence]
+Customer 224.880625 234.077875 uh-huh well good for you good for you yeah i imagine it uh is a little difficult to stick with a budget during uh during school and so forth
+Agent 225.884625 232.537000 [silence]
+Agent 232.537000 240.976250 oh it sure is i- i know how much my dad is going to give me every two weeks and i and i don't spend over [laughter-that]
+Customer 234.077875 236.789750 [silence]
+Customer 236.789750 238.487500 yes [laughter]
+Customer 238.487500 240.081750 [silence]
+Customer 240.081750 247.948375 well great great and sometimes that's a little hard with books and music and and sheet music and stuff you've got to work on too
+Agent 240.976250 246.774750 [silence]
+Agent 246.774750 250.162500 oh sure there's there's always music books to buy
+Customer 247.948375 254.430625 lab fees [laughter] oh yes oh yes well you're not a starving artist yet are you
+Agent 250.162500 253.511375 [silence]
+Agent 253.511375 260.134500 oh no no no i don't plan on being a starving artist [laughter] that's why i'm in college [laughter]
+Customer 254.430625 255.731250 good
+Customer 255.731250 258.396750 [vocalized-noise] well good
+Customer 258.396750 261.333375 there there's enough of those in the world huh
+Agent 260.134500 263.022750 [noise] right [laughter]
+Customer 261.333375 264.845000 good good i'm glad to hear that Wendy w[ell]-
+Agent 263.022750 269.387750 that's usually because_1 they're not real educated they can't afford to [noise] have a really good job
+Customer 264.845000 268.794750 [silence]
+Customer 268.794750 271.429250 who's who's not very well educated
+Agent 269.387750 270.487250 [silence]
+Agent 270.487250 277.823250 the starving ones there's enough out there that if you have if you're educated enough then you can make money
+Customer 271.429250 273.621625 oh yes yes
+Customer 273.621625 277.131625 [silence]
+Customer 277.131625 280.145125 that's true that's true i've found that out
+Agent 277.823250 279.274500 [silence]
+Agent 279.274500 280.864500 [laughter]
+Customer 280.145125 288.914875 so that's why i'm planning and and preparing for the uh education of my children also try and set that money aside
+Agent 280.864500 286.327875 [silence]
+Agent 286.327875 289.492250 right what did you major in
+Customer 288.914875 291.681875 i majored in business administration
+Agent 289.492250 291.486625 [silence]
+Agent 291.486625 295.592250 well good you know plenty about planning a b[udget]- a budget
+Customer 291.681875 293.155500 and um
+Customer 293.155500 294.803500 [silence]
+Customer 294.803500 297.538000 yeah but uh once again
+Agent 295.592250 297.538000 [silence]

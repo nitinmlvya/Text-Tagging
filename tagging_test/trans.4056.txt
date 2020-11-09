@@ -1,0 +1,133 @@
+Agent 0.000000 0.572625 [noise]
+Customer 0.000000 0.252125 [noise]
+Customer 0.252125 2.001500 okay should begin
+Agent 0.572625 2.475000 okay all right
+Customer 2.001500 3.189125 uh
+Agent 2.475000 6.294875 [silence]
+Customer 3.189125 7.051250 i can begin this um basically i work for Honeywell in Minneapolis
+Agent 6.294875 7.629250 uh-huh
+Customer 7.051250 16.156000 and the the benefit program we have here is really quite good i'm i'm pretty pleased with it they cover uh just about everything vision dental medical
+Agent 7.629250 15.945000 [silence]
+Agent 15.945000 17.091625 uh-huh
+Customer 16.156000 23.406250 uh you name it and for me this is the first job i've had where they've covered that much so i'm pretty satisfied myself
+Agent 17.091625 22.596375 [silence]
+Agent 22.596375 24.050375 uh-huh
+Customer 23.406250 25.495875 um what's your situation
+Agent 24.050375 27.908625 i- i work for the University of New Hampshire and uh
+Customer 25.495875 26.889625 [silence]
+Customer 26.889625 27.988250 oh
+Agent 27.908625 39.815625 our benefits package isn't uh isn't quite as good in in some ways uh you know overall i'm satisfied with it we don't have the vision care we do have the health care and the uh and the medi[cal]- or the dental
+Customer 27.988250 39.183750 [silence]
+Customer 39.183750 40.500375 um-hum
+Agent 39.815625 41.756250 uh [vocalized-noise]
+Customer 40.500375 42.414000 are you a professor there
+Agent 41.756250 51.952750 no i work in i'm in a on the professional administrative and technical staff and i uh effectively i run the telephone switch at uh at the University of New Hampshire
+Customer 42.414000 50.476625 [silence]
+Customer 50.476625 52.980000 oh i see okay
+Agent 51.952750 59.724250 uh so the uh the the benefits uh probably the main thing i like about the benefits is the uh
+Customer 52.980000 63.005000 [silence]
+Agent 59.724250 64.293125 the uh very generous vacation time and sick time we get
+Customer 63.005000 65.472125 oh no doubt [laughter]
+Agent 64.293125 74.316250 we get we get fifteen days a year sick time and uh we get twenty four days a year right from the day one when you start work you get twenty four days a year uh time off
+Customer 65.472125 73.704875 [silence]
+Customer 73.704875 79.674500 right oh that's good yeah that's one of the things i guess i would change about Honeywell is uh
+Agent 74.316250 75.387625 [silence]
+Agent 75.387625 76.359250 yeah
+Agent 76.359250 87.570000 [silence]
+Customer 79.674500 80.694750 [silence]
+Customer 80.694750 84.707625 i used to work with the Army Research Institute and being a uh
+Customer 84.707625 88.149875 a government organization you got quite a few holidays off
+Agent 87.570000 88.937500 right
+Customer 88.149875 91.996875 but here you don't get that you maybe get two or three a year
+Agent 88.937500 91.555375 [silence]
+Agent 91.555375 92.743125 uh-huh
+Customer 91.996875 101.510875 so it's really unless you unless you have some vacation time or some some sick leave or whatever um you kind of have to finagle your way around to get that time so
+Agent 92.743125 100.940000 [silence]
+Agent 100.940000 101.962875 um-hum
+Customer 101.510875 111.581250 that's that's kind of a drawback i think but uh i don't know what do you consider most important you think in terms of of the different benefits
+Agent 101.962875 111.400625 [silence]
+Agent 111.400625 119.664500 well i think uh the the health care of course is is an important in has to be the single most important benefit
+Customer 111.581250 119.349250 [silence]
+Customer 119.349250 120.068500 um-hum
+Agent 119.664500 125.107250 and uh the rates that we keep paying seem to keep increasing uh
+Customer 120.068500 125.167000 [silence]
+Agent 125.107250 135.506500 you know i'm i'm a little disturbed about that but i think that's a national trend and i don't know that uh i don't know what the solution is to it it's bigger than just the benefits part
+Customer 125.167000 126.271875 yeah
+Customer 126.271875 135.000000 [silence]
+Customer 135.000000 145.154500 yeah i don't know if you saw on Twenty Twenty the other night they uh they basically reviewed Oregon's plan or The Oregon Plan toward uh nationalizing health care and that kind of thing
+Agent 135.506500 140.547125 [silence]
+Agent 140.547125 141.717125 uh-huh
+Agent 141.717125 142.950500 right
+Agent 142.950500 155.491000 [silence]
+Customer 145.154500 149.932000 it's kind of an interesting plan it's kind of cold though they've essentially made up a list of uh
+Customer 149.932000 152.751000 oh all the different uh
+Customer 152.751000 155.379000 med[ical]- medical maladies that you can have
+Customer 155.379000 165.380000 and they basically made a cutoff about six hundred and eighty seven and below will not be covered by by uh subsidized health care and and the ones above would
+Agent 155.491000 156.470750 oh yeah
+Agent 156.470750 159.179875 [silence]
+Agent 159.179875 160.216500 um-hum
+Agent 160.216500 164.980000 [silence]
+Agent 164.980000 165.988000 huh
+Customer 165.380000 170.998875 so it's kind of like drawing this line and and if you have it great if you don't you're kind of out of luck
+Agent 165.988000 170.408500 [silence]
+Agent 170.408500 171.540875 uh-huh
+Customer 170.998875 173.568625 but um it [vocalized-noise] was an interesting show
+Agent 171.540875 173.260000 [silence]
+Agent 173.260000 174.217250 hum
+Customer 173.568625 177.157750 i think you're right i think health care is probably the the most pressing
+Agent 174.217250 176.593750 [silence]
+Agent 176.593750 177.871375 right
+Customer 177.157750 184.694125 uh the pressing one but i'll tell you i- i- i don't mind having dental you know uh sometimes dental costs can be
+Agent 177.871375 187.904000 [silence]
+Customer 184.694125 185.769750 um
+Customer 185.769750 194.158500 just about as expensive if not more and i know historically a lot of companies i think carried dental as a rider along with the medical
+Agent 187.904000 189.065750 right
+Agent 189.065750 193.740000 [silence]
+Agent 193.740000 194.956125 um-hum
+Customer 194.158500 201.821250 but i'm not sure that's that's widely followed any more i'm not sure how how does uh University of New Hampshire handle it
+Agent 194.956125 201.281875 [silence]
+Agent 201.281875 213.654000 well we have two different plans that we can subscribe to under dental uh depending and and the cost between them is very is very little i think it costs me something like five dollars a a month for the dental plan
+Customer 201.821250 213.305000 [silence]
+Customer 213.305000 214.383000 um
+Agent 213.654000 221.915375 but it pays uh a substantial amount i mean the examinations and and uh checkups every year or every six months are free
+Customer 214.383000 221.650500 [silence]
+Customer 221.650500 223.000375 great
+Agent 221.915375 226.507750 and uh it it covers the bulk of the dental expenses
+Customer 223.000375 225.610375 [silence]
+Customer 225.610375 229.993375 is that uh let me interrupt is that the same for both uh
+Agent 226.507750 235.102125 [silence]
+Customer 229.993375 236.217750 professors and and also staff and administration is that generally across the board do you think or
+Agent 235.102125 241.994875 uh yes it is the the benefits plan is different for operat[ing]- for what we call operating staff which are
+Customer 236.217750 246.627125 [silence]
+Agent 241.994875 250.288875 considered to be uh clerical personnel accountants things like that as opposed to what they call the P A T staff which i belong to
+Customer 246.627125 247.801125 right
+Customer 247.801125 250.172250 [silence]
+Customer 250.172250 251.141875 um-hum
+Agent 250.288875 257.036875 and but the main i think the hea[lth]- the health and all that and the dental is the same for everybody and the retirement plan but
+Customer 251.141875 256.339250 [silence]
+Customer 256.339250 257.212375 uh-huh
+Agent 257.036875 262.467125 the main difference is in the uh the way sick time is accrued and and vacation time is accrued
+Customer 257.212375 261.843125 [silence]
+Customer 261.843125 263.321375 oh okay
+Agent 262.467125 268.696000 uh for the operating staff it's on a seniority it's uh you know based on how long they've worked there
+Customer 263.321375 268.426750 [silence]
+Customer 268.426750 269.490250 right
+Agent 268.696000 271.980500 uh that determines how much uh vacation time they get
+Customer 269.490250 271.615375 [silence]
+Customer 271.615375 277.093000 yeah i'm kind of interested because_1 i'm actually that's the route i'd like to take when i finally get my degree
+Agent 271.980500 276.630500 [silence]
+Agent 276.630500 277.796625 um-hum
+Customer 277.093000 279.630375 is to uh is to teach in university
+Agent 277.796625 279.057375 [silence]
+Agent 279.057375 280.284250 uh-huh
+Customer 279.630375 282.152750 i'm a doctoral student in Florida right now
+Agent 280.284250 281.475750 [silence]
+Agent 281.475750 282.664000 oh
+Customer 282.152750 283.373000 but um
+Agent 282.664000 289.426000 [silence]
+Customer 283.373000 290.471625 yeah that's that's interesting that's one of the things i'd like to think about is in what kind of benefits they would uh they would cover and things like that
+Agent 289.426000 296.303250 college programs uh belong to this T I A A uh C R E F uh retirement fund
+Customer 290.471625 295.645250 [silence]
+Customer 295.645250 297.260625 oh is that right
+Agent 296.303250 299.170000 right and in the case of the University of New Hampshire uh
+Customer 297.260625 299.170000 [silence]

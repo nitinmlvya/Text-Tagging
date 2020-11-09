@@ -1,0 +1,118 @@
+Agent 0.000000 0.412125 [noise]
+Customer 0.000000 0.243500 [noise]
+Customer 0.243500 3.654250 so how do you like the benefits of TI
+Agent 0.412125 4.345750 [silence]
+Customer 3.654250 9.722625 [silence]
+Agent 4.345750 11.456000 um well actually to tell you the truth uh not very well i resigned from Texas Instruments not shortly
+Customer 9.722625 11.609125 oh that's right yeah
+Agent 11.456000 16.788625 ago and found that my uh after having worked there for
+Customer 11.609125 28.092000 [silence]
+Agent 16.788625 18.986375 twenty one years
+Agent 18.986375 20.517875 [noise]
+Agent 20.517875 23.718375 my vested interest in my
+Agent 23.718375 28.788000 pension fund was amounted to less than three quarters of a year of salary
+Customer 28.092000 32.982750 yeah tha[t's]- that's one problem with uh engineering jobs is
+Agent 28.788000 48.440375 [silence]
+Customer 32.982750 40.332250 it's you you really need some sort of more flexible or portable pension you know something more like a
+Customer 40.332250 45.458750 either 40[1K]- well i guess you get part of into 401K one oh 401K
+Customer 45.458750 51.077250 but what what is the uh key heal[th]- plan that people who are privately employed use
+Agent 48.440375 52.163500 [noise]
+Customer 51.077250 66.528250 [silence]
+Agent 52.163500 66.949875 um i don't know uh th[e]- the uh i g[uess]- i guess the th[at]- that issue was a TI retirement uh benefit is it is what they call a defined a defined benefits program which means if you retire you get benefits
+Customer 66.528250 68.048375 right
+Agent 66.949875 68.747250 um
+Customer 68.048375 70.884500 [silence]
+Agent 68.747250 71.150125 if you don't retire you get shit
+Customer 70.884500 71.982000 um-hum
+Agent 71.150125 80.549500 uh but i think the government sort of passed some kind of legislation some long time ago that said well you can't do that you can't just kiss them_1 off if they don't retire
+Customer 71.982000 105.587375 [silence]
+Agent 80.549500 83.504125 and so there's some nominal uh
+Agent 83.504125 84.775250 [silence]
+Agent 84.775250 88.990500 a[mount]- amount that has to be vested with the employee
+Agent 88.990500 95.913625 but uh in this modern day and age where there is job mobility i mean
+Agent 95.913625 102.046125 uh it's time for employers to stop screwing the employees out of their retirement benefits by
+Agent 102.046125 105.570500 invoking this uh defined benefits plan
+Agent 105.570500 114.576625 [silence]
+Customer 105.587375 106.568000 yeah
+Customer 106.568000 111.411500 what also seems like a lot of company set the benefits based on
+Customer 111.411500 114.527875 your last salary when you left the company
+Customer 114.527875 117.976500 so you know let's say you've worked there for twenty years
+Agent 114.576625 115.427750 right
+Agent 115.427750 127.651750 [silence]
+Customer 117.976500 124.972375 you stopped working there you go work for somebody else for fifteen years and because of inflation alone
+Customer 124.972375 134.991375 um you know your twenty years is worthless just because it's it's not an index to fund it's based on the actual dollar amount of when you worked there
+Agent 127.651750 128.584500 right
+Agent 128.584500 134.476375 [silence]
+Agent 134.476375 140.106375 which is all the more reason i think that the employee should have control over his pension account
+Customer 134.991375 139.256375 [silence]
+Customer 139.256375 140.416000 yeah
+Agent 140.106375 147.418875 um of course the initial question that was asked related to uh actually i can't remember anymore but to
+Customer 140.416000 146.114875 [silence]
+Customer 146.114875 148.454500 i[t]- be[nefits]- benefits in general
+Agent 147.418875 160.901875 [noise] it related to what do you look for in a position other than salary and i guess my mind before it referred to benefits my mind was not thinking a long the with the i[deas]- lines of benefits at all but rather
+Customer 148.454500 165.919000 [silence]
+Agent 160.901875 162.111000 um
+Agent 162.111000 166.584125 career g[ratification]- gratification and you know that kind of thing
+Customer 165.919000 167.159000 um-hum
+Agent 166.584125 185.763750 [silence]
+Customer 167.159000 170.586125 well that's one thing you do get with a large company they're
+Customer 170.586125 174.214500 you know it's well it's actually can go both ways someth[ing]- some ways you have
+Customer 174.214500 178.293375 more opportunities because_1 there're so many things going on within the company
+Customer 178.293375 186.459000 but you also may get key holed and you are a ex type person therefore you should only work on this type project
+Agent 185.763750 187.075875 um-hum
+Customer 186.459000 195.958750 and that i guess to some extent depends on the philosophy of the company and whether they pigeon hole people or allow people to go in t[o]- to any area they want to
+Agent 187.075875 189.650000 [silence]
+Agent 189.650000 190.216250 um-hum
+Agent 190.216250 195.476250 [silence]
+Agent 195.476250 196.199000 um-hum
+Customer 195.958750 202.229750 [silence]
+Agent 196.199000 197.737000 [silence]
+Agent 197.737000 203.011375 boy i th[ere]- there were some something happened to your s[ignal]- your signal at that point did you notice it
+Customer 202.229750 205.374625 yeah the[re]- there was some clicking on the line i'm not sure what
+Agent 203.011375 204.297125 [silence]
+Agent 204.297125 204.824125 yeah
+Agent 204.824125 212.126125 [silence]
+Customer 205.374625 210.489250 whether that's local or somewhere in the long distance network between
+Customer 210.489250 212.800125 New Jersey and wherever you are
+Agent 212.126125 213.343875 in California
+Customer 212.800125 214.483000 California okay
+Agent 213.343875 214.808000 [silence]
+Customer 214.483000 217.721875 [silence]
+Agent 214.808000 217.928250 or whether it's part of the uh switchboard system
+Customer 217.721875 220.366125 this is also possible
+Agent 217.928250 219.239250 [silence]
+Agent 219.239250 219.854250 yeah
+Agent 219.854250 221.261125 [silence]
+Customer 220.366125 222.683250 somewhere between Texas
+Agent 221.261125 227.042125 well [noise] party of m[y]- part of my reason for coming to California was California
+Customer 222.683250 226.451125 [silence]
+Customer 226.451125 227.969125 um-hum
+Agent 227.042125 234.417250 uh it is it i love it it's a wonderful place but the the price of housing is
+Customer 227.969125 238.050750 [silence]
+Agent 234.417250 236.904000 is just totally
+Agent 236.904000 238.348625 looney
+Customer 238.050750 242.176875 well it depends on where you go if you go up uh far enough north it doesn't
+Agent 238.348625 243.975125 [silence]
+Customer 242.176875 245.933375 it gets cheaper again but then again there's y[ou]- y[ou]-
+Agent 243.975125 252.453625 well that's true up in Redding uh th[e]- housing prices are probably comparable to Dallas where i came from but down here the housing prices are
+Customer 245.933375 249.506375 [silence]
+Customer 249.506375 250.569500 um-hum
+Customer 250.569500 256.673500 [silence]
+Agent 252.453625 257.132625 about a factor of five higher which is really ridiculous
+Customer 256.673500 259.585750 yeah i know New Jersey is
+Agent 257.132625 267.065000 [silence]
+Customer 259.585750 265.984000 just slightly above the national average which was yeah it's about twice the price of Atlanta
+Customer 265.984000 267.396875 [silence]
+Agent 267.065000 268.995250 at any rate
+Customer 267.396875 270.978000 but uh the hou[sing]- the housing prices have definitely dropped
+Agent 268.995250 270.486000 [silence]
+Agent 270.486000 276.027750 [noise] so i guess one of the things you look for in a job uh is um
+Customer 270.978000 277.998250 [silence]
+Agent 276.027750 278.492750 affordable cost of living
+Customer 277.998250 286.512750 yeah co[st]- cost of living cost of housing is the salary enough to allow me to do the activities i want to do
+Agent 278.492750 287.444250 [silence]
+Customer 286.512750 295.241125 [silence]
+Agent 287.444250 295.655500 of course the most wonderful thing for the company and the most wonderful thing for the employee too is if what you want to do is to work
+Customer 295.241125 296.827500 yes [noise]
+Agent 295.655500 299.522000 not so great for the family but uh
+Customer 296.827500 299.522000 [silence]

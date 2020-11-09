@@ -1,0 +1,144 @@
+Agent 0.000000 0.096250 [noise]
+Customer 0.000000 7.433750 [noise] credit cards is one of my [laughter] wonderful topics um do you have quite a few or
+Agent 0.096250 1.311000 [silence]
+Agent 1.311000 2.489875 [laughter]
+Agent 2.489875 4.334750 [silence]
+Agent 4.334750 5.733875 [noise]
+Agent 5.733875 7.195125 [silence]
+Agent 7.195125 13.781750 i got rid of mine about uh oh it's been about four years ago now
+Customer 7.433750 12.803000 [silence]
+Customer 12.803000 14.485000 okay
+Agent 13.781750 18.350000 and uh went on a strictly cash basis
+Customer 14.485000 17.521875 [silence]
+Customer 17.521875 19.138000 uh-huh
+Agent 18.350000 20.339875 and
+Customer 19.138000 23.457000 [silence]
+Agent 20.339875 24.859125 uh sometimes it's inconvenient but
+Customer 23.457000 24.895500 uh-huh
+Agent 24.859125 27.950875 it is so much better for me
+Customer 24.895500 27.483000 [silence]
+Customer 27.483000 28.973000 it is
+Agent 27.950875 29.072625 [silence]
+Customer 28.973000 34.699500 [silence]
+Agent 29.072625 31.161750 because i
+Agent 31.161750 37.037125 i am the type that will always find an [laughter-emergency]
+Customer 34.699500 38.172750 [laughter-oh] me [laughter-too]
+Agent 37.037125 44.590750 but i have found that there were so many things that with a credit card you know i really did need
+Customer 38.172750 43.642250 [silence]
+Customer 43.642250 45.279625 uh-huh
+Agent 44.590750 53.930625 and with cash once you know it took me probably two years to get on a cash basis when i stopped charging
+Customer 45.279625 52.813875 [silence]
+Customer 52.813875 54.367250 um-hum
+Agent 53.930625 64.105250 but once once i did you know it it only takes me two or three months to be able to save up what i want to buy
+Customer 54.367250 62.951750 [silence]
+Customer 62.951750 64.527875 um-hum
+Agent 64.105250 67.902125 and i'm not paying the high interest rates
+Customer 64.527875 66.945875 [silence]
+Customer 66.945875 69.885375 that's what kills you on those credit cards
+Agent 67.902125 69.297875 [silence]
+Agent 69.297875 78.138000 because it's so easy you know you have these wonderful intentions of well i'll just pay off the whole balance and then i won't owe any
+Customer 69.885375 77.231500 [silence]
+Customer 77.231500 78.858875 uh-huh
+Agent 78.138000 85.632375 and then something comes up you know and well i'll just pay the minimum well you just do that forever
+Customer 78.858875 82.714375 [silence]
+Customer 82.714375 84.543125 um-hum
+Customer 84.543125 93.874750 oh and and with the interest charge on the credit cards you're not getting anywhere because you're paying your interest every month and that's all you're doing
+Agent 85.632375 89.778000 [silence]
+Agent 89.778000 92.001750 no you're paying interest
+Agent 92.001750 105.926125 [silence]
+Customer 93.874750 102.352250 and with our Visa that's really high interest we're in the process of transferring from one account to another to get the lower interest on one of the cards
+Customer 102.352250 105.044750 so that somehow we can get ahead on that
+Customer 105.044750 106.143250 but
+Agent 105.926125 114.508875 you know i've i've thought about going ahead and getting something like American Express where you have to pay within thirty days
+Customer 106.143250 110.276125 [silence]
+Customer 110.276125 111.673625 yes
+Customer 111.673625 113.271125 [silence]
+Customer 113.271125 117.651875 yes pay the balance at the end of the month um-hum
+Agent 114.508875 115.629125 [silence]
+Agent 115.629125 119.927750 right and just for ID purposes
+Customer 117.651875 118.758250 [silence]
+Customer 118.758250 120.378375 um-hum
+Agent 119.927750 123.570125 but it's become such a way of life
+Customer 120.378375 122.930125 [silence]
+Customer 122.930125 124.567625 oh it has
+Agent 123.570125 124.764250 [silence]
+Customer 124.567625 132.798125 [silence]
+Agent 124.764250 126.066750 and
+Agent 126.066750 129.276250 like i say it was so convenient
+Agent 129.276250 133.414000 and then pretty soon you get a consolidation loan
+Customer 132.798125 134.280000 um-hum
+Agent 133.414000 138.626500 to consolidate all your credit cards and then they send you another credit card
+Customer 134.280000 135.324625 [silence]
+Customer 135.324625 137.114250 um-hum
+Customer 137.114250 144.779125 they [laughter-i] [laughter-know] like you paid that one off now here's [laughter-another] when really you're paying a loan for the other one
+Agent 138.626500 140.505125 [silence]
+Agent 140.505125 142.580625 uh right
+Agent 142.580625 144.213125 [silence]
+Agent 144.213125 153.212000 so i i just finally figured out that for my way of life i did much better and i've
+Customer 144.779125 156.063875 [silence]
+Agent 153.212000 157.054125 i've been able to buy as much or more
+Customer 156.063875 157.654750 um-hum
+Agent 157.054125 165.175125 by just going cash and like i say it was tough because it's a really it's a habit
+Customer 157.654750 160.782250 [silence]
+Customer 160.782250 162.250875 um-hum
+Customer 162.250875 164.394000 [silence]
+Customer 164.394000 168.826500 it is because_1 you think oh i'll get this and just pay it off later
+Agent 165.175125 168.505500 [silence]
+Agent 168.505500 178.569500 or you know you'll think okay i've got x amounts to spend this month and then somebody has a birthday or get they get married or something
+Customer 168.826500 176.851875 [silence]
+Customer 176.851875 178.606625 um-hum
+Agent 178.569500 187.925125 you think well i'll just put this one thing on it well you don't do that once you start you know you're going to have a bill coming in anyway
+Customer 178.606625 181.736500 [silence]
+Customer 181.736500 184.050625 [laughter-uh-huh]
+Customer 184.050625 185.771750 no
+Customer 185.771750 187.125625 [silence]
+Customer 187.125625 188.586375 um-hum
+Agent 187.925125 194.656000 [silence]
+Customer 188.586375 195.290500 might as well just yeah like you said there's a lot of things that i could probably do without that i don't do without because i have the credit card
+Agent 194.656000 196.807000 right
+Customer 195.290500 197.601875 you know and uh
+Agent 196.807000 205.718000 and i i just you know for for me it was a trap that was too easy for me to get into
+Customer 197.601875 204.494875 [silence]
+Customer 204.494875 214.324375 uh-huh yeah uh my husband and i just moved from South Dakota to um Plano Texas and uh that was the thing that h[elped]- helped us get down here
+Agent 205.718000 224.999125 [silence]
+Customer 214.324375 225.556250 and that's what we're trying to get down on that because_1 the credit card helped us move because_1 we had just graduated from college and we felt that there was a lot of more opportunity down here and so it helped us out with the moving expenses
+Agent 224.999125 226.527625 uh-huh
+Customer 225.556250 231.207250 but um now we're in the process of trying to get that down too but it it did help in that kind of a situation
+Agent 226.527625 231.292125 [silence]
+Customer 231.207250 232.719750 but um
+Agent 231.292125 233.983625 well you know there are times when
+Customer 232.719750 241.056500 [silence]
+Agent 233.983625 238.001625 you know it is but i i've been
+Agent 238.001625 245.493875 laid off twice in the last four years and had i had a lot of credit cards
+Customer 241.056500 242.693125 oh really
+Customer 242.693125 245.228125 [silence]
+Customer 245.228125 246.801500 y[ou're]- you're stuck
+Agent 245.493875 246.502375 [silence]
+Agent 246.502375 259.041375 i w[ould]- well you know it it really helped that i didn't have that to pay for but in the other vein had i had them_1 i would have lived on them_1
+Customer 246.801500 252.122000 [silence]
+Customer 252.122000 253.583250 right
+Customer 253.583250 258.223250 [silence]
+Customer 258.223250 259.666875 um-hum
+Agent 259.041375 261.626125 [silence]
+Customer 259.666875 262.332250 yeah because_1 you didn't have any other income
+Agent 261.626125 263.465750 right
+Customer 262.332250 263.591125 yep
+Agent 263.465750 267.911750 and uh this way you know i i made do
+Customer 263.591125 267.015875 [silence]
+Customer 267.015875 268.483875 um-hum
+Agent 267.911750 269.844375 and uh
+Customer 268.483875 279.219500 [silence]
+Agent 269.844375 280.353000 when i was you know employed then i didn't have all that that i had to go back and say well i've got ten thousand dollars worth of credit cards to pay off now
+Customer 279.219500 284.406500 right and that that's good that's a good feeling not to know
+Agent 280.353000 282.557250 [silence]
+Agent 282.557250 293.320500 it really you know with the first like i say it took me over two years to pay mine off but the first time you know that i could go out and make a major purchase
+Customer 284.406500 286.833875 [silence]
+Customer 286.833875 287.996875 uh-huh
+Customer 287.996875 289.325875 uh-huh
+Customer 289.325875 293.110750 [silence]
+Customer 293.110750 294.994500 and pay cash
+Agent 293.320500 294.716250 [silence]
+Agent 294.716250 296.443625 and pay cash
+Customer 294.994500 298.361500 [silence]
+Agent 296.443625 299.330000 it was a real good feeling
+Customer 298.361500 299.330000 i bet

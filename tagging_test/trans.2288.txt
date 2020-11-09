@@ -1,0 +1,244 @@
+Agent 0.000000 1.976000 [silence]
+Customer 0.000000 0.360750 [silence]
+Customer 0.360750 1.157500 okay
+Customer 1.157500 4.671625 [silence]
+Agent 1.976000 7.070750 well budgeting is a sore subject in this [laughter-family]
+Customer 4.671625 8.444125 yeah me too i know exactly what [laughter-you] [laughter-mean]
+Agent 7.070750 20.592125 [laughter] we've actually uh uh tried uh budgeting is very important to us we we try it every month and um [vocalized-noise] i think it's good i mean it it gives us a sense of uh
+Customer 8.444125 31.428625 [silence]
+Agent 20.592125 31.979625 uh of of staying in some semblance of control but uh we we do have uh we we never seem to be able to stick with it
+Customer 31.428625 42.304375 no it's really hard to do that i mean it's [laughter] i don't know i guess um we do kind of have a budget um but it's kind of funny what we
+Agent 31.979625 52.392250 [silence]
+Customer 42.304375 50.853875 what we do i guess is we try to proportion uh who pays what according to the salary that we make
+Customer 50.853875 55.090000 uh do you not understand what i'm saying we we pay a percentage
+Agent 52.392250 53.469125 no
+Agent 53.469125 57.599500 [silence]
+Customer 55.090000 63.036625 um which is kind of strange [laughter] a lot of people don't do [laughter-that] but hey we find that it works you know
+Agent 57.599500 58.702875 [laughter]
+Agent 58.702875 61.495125 [silence]
+Agent 61.495125 64.406625 now i'm sorry what is what is this again [laughter]
+Customer 63.036625 77.422000 well okay um [laughter] like i pay a certain percentage of my pay check to the bills and he pays a certain percentage of his paycheck do you understand [laughter] okay i guess i didn't really explain that too [laughter-well]
+Agent 64.406625 68.936625 [silence]
+Agent 68.936625 70.934000 oh okay oh i see
+Agent 70.934000 72.050125 oh sure
+Agent 72.050125 72.930000 [silence]
+Agent 72.930000 75.122250 yeah okay yeah yeah that makes perfect sense [laughter]
+Agent 75.122250 76.172000 [laughter]
+Agent 76.172000 80.726125 yeah well yeah uh we ours is actually very detailed um
+Customer 77.422000 97.099875 [silence]
+Agent 80.726125 89.855625 we we've got categories for everything and uh we we figure out how much income the both of us are going to have in a month
+Agent 89.855625 97.962000 and we take every penny of that and we allocate it under all these different categories unfortunately there's a big category called miscellaneous
+Customer 97.099875 102.094125 oh [laughter] that one gets used up quick is that it [laughter]
+Agent 97.962000 100.265125 and uh misc[ellaneous]-
+Agent 100.265125 104.872000 that's the one that kills us every time miscellaneous is never what we
+Customer 102.094125 112.468375 [laughter]
+Agent 104.872000 112.709500 figure it's going to be it's never what it was last month and uh and uh you know it's it's the one that's always the killer
+Customer 112.468375 114.696500 that's [laughter]
+Agent 112.709500 121.125750 um but i uh you know it's uh in fact when uh we pay our check when we when we
+Customer 114.696500 127.196375 [silence]
+Agent 121.125750 129.632500 you know write our checks we even categorize our payments and i mean we even get into that kind of detail um s[o]- s[o]-
+Customer 127.196375 130.898750 oh wow that's really that is pretty detailed
+Agent 129.632500 135.963375 so we i mean we do uh when you know whenever we
+Customer 130.898750 145.567375 [silence]
+Agent 135.963375 146.109875 go through the process of paying the bills we know exactly what category we're paying it for and uh we have a pretty good sense of where our money's going we don't have any control over it
+Customer 145.567375 148.578875 [laughter]
+Agent 146.109875 149.595125 but we have a real good sense of where it's going [laughter]
+Customer 148.578875 155.574125 well but you know that's good too because i've been in the situation in the past where i didn't know where my money was going and that
+Agent 149.595125 155.433875 [silence]
+Agent 155.433875 156.304625 yeah
+Customer 155.574125 162.068125 that's hard to you know you can't keep up with it and it really gets you in trouble [laughter] you know and
+Agent 156.304625 159.588125 [silence]
+Agent 159.588125 160.590375 yeah
+Agent 160.590375 161.373000 well
+Agent 161.373000 165.790250 we're we're at a point where we're trying to accomplish a lot of things right now and uh like
+Customer 162.068125 176.983000 [silence]
+Agent 165.790250 169.410750 my wife's going back to school and i'm going to school
+Agent 169.410750 179.396375 and we're our kid we've got the kids who are at the stage where they need to take piano lessons and and uh you know play baseball and and do all those fun things
+Customer 176.983000 178.946750 oh yeah
+Customer 178.946750 182.942750 [silence]
+Agent 179.396375 185.848250 and uh i think i think we'd be totally bankrupt if we didn't do something um
+Customer 182.942750 185.401375 [laughter]
+Customer 185.401375 193.651125 [silence]
+Agent 185.848250 190.415875 and and what we've proven to ourselves what we prove to ourselves every month
+Agent 190.415875 198.964500 is that we're spending more than than we make [laughter] so it's it's kind of depressing to see it in black and white but uh yeah
+Customer 193.651125 195.763375 yeah
+Customer 195.763375 206.294500 that's easy to do it's very easy to do and it's [vocalized-noise] i don't [vocalized-noise] it do you find it easier to i mean do
+Agent 198.964500 210.443000 [silence]
+Customer 206.294500 212.027250 with a budget do you feel like you're you do i mean i know you said you have better control but
+Agent 210.443000 211.921625 right
+Agent 211.921625 215.341875 [silence]
+Customer 212.027250 216.245125 do you feel like you're really saving anything i mean [noise]
+Agent 215.341875 216.983625 um
+Customer 216.245125 218.437125 [silence]
+Agent 216.983625 226.442000 well no i- i- i think um i- i- i don't think we're saving anything i- i think what we're doing is we're we're we're making it possible to
+Customer 218.437125 221.069125 [noise]
+Customer 221.069125 230.979000 [silence]
+Agent 226.442000 233.335125 to well and the fact what it is is it's making it possible to live beyond our means um [vocalized-noise] because
+Customer 230.979000 234.140000 oh [laughter] well that's
+Agent 233.335125 241.539875 you know wh[at]- if we didn't track it we'd we'd totally blow it i think is what it would end up um um
+Customer 234.140000 261.546000 [silence]
+Agent 241.539875 247.861375 so you know we we do know that we can tell when we're getting to the point where we've just got to
+Agent 247.861375 254.701000 uh hold back on something uh we can we can see a cash flow that says
+Agent 254.701000 267.080875 this you know we can't do this right now because the money's just not there we we we're going to have to put it off for a week or a month or whatever the case so so yeah it [vocalized-noise] you know it's um
+Customer 261.546000 262.852500 um-hum
+Customer 262.852500 273.487250 [silence]
+Agent 267.080875 275.390125 we uh you know we're not going to get this budget isn't going to make us rich but it is going to prevent us from going into poverty uh but
+Customer 273.487250 274.827500 yeah
+Customer 274.827500 276.131500 which is easy to do
+Agent 275.390125 279.853125 yeah uh-huh but we look at it sort of as an investment in the future too
+Customer 276.131500 293.509125 [laughter]
+Agent 279.853125 285.152625 you know i'm going back to school my wife's going back to school too our lifestyle right now
+Agent 285.152625 296.379125 is meant to position ourselves so finan[cial]- uh the these financial problems won't be problems uh in the future and uh so
+Customer 293.509125 294.916250 yeah
+Customer 294.916250 305.466500 [silence]
+Agent 296.379125 306.458750 we've that's that's the we're look we look it as as yeah we're living like this now but it's a short term investment for for a better lifestyle later on
+Customer 305.466500 318.380125 right well that's good [laughter] i know what you mean about the school because_1 that's what i'm trying to do also and we're trying to build it enough so that i can go to school full time because_1 right now i'm going to school part time
+Agent 306.458750 307.542125 [silence]
+Agent 307.542125 309.398625 [laughter]
+Agent 309.398625 311.507500 [silence]
+Agent 311.507500 312.551375 yeah
+Agent 312.551375 316.095000 [silence]
+Agent 316.095000 317.167750 right
+Agent 317.167750 320.633125 we're going we're going through the exact same thing
+Customer 318.380125 319.695125 [silence]
+Customer 319.695125 327.217875 yeah [laughter] so you know trying to budget is again you know a[t]- at this point we're trying to budget enough so we can
+Agent 320.633125 321.987625 yeah
+Agent 321.987625 330.992000 [silence]
+Customer 327.217875 331.685125 save more um you know so i can go to school full time
+Agent 330.992000 332.012500 sure
+Customer 331.685125 336.315750 you know it's it's not easy to do but [laughter]
+Agent 332.012500 333.286250 [silence]
+Agent 333.286250 333.782750 and
+Agent 333.782750 334.594875 [silence]
+Agent 334.594875 335.443125 no
+Agent 335.443125 339.106375 i- i don't know that we'd ever be able to get to that point but uh
+Customer 336.315750 341.945750 [silence]
+Agent 339.106375 340.535000 um
+Agent 340.535000 343.497375 but it's something to work for [laughter]
+Customer 341.945750 353.057000 oh oh it definitely is and i tell you what if you work hard enough it'll happen [laughter-because] because i can we can see it you know i think it's going to be a couple of years before i can do that
+Agent 343.497375 346.545125 [silence]
+Agent 346.545125 347.999125 yeah yeah
+Agent 347.999125 351.199750 [silence]
+Agent 351.199750 352.237125 sure
+Agent 352.237125 354.907750 that's i think we're in probably in the same position
+Customer 353.057000 354.380125 but
+Customer 354.380125 363.997375 you know but at least i can see a little bit of the light just from you know doing this you know budgeting and stuff it really helps
+Agent 354.907750 361.022500 [silence]
+Agent 361.022500 362.059625 yeah
+Agent 362.059625 363.099875 right
+Agent 363.099875 364.407375 right yeah
+Customer 363.997375 365.055250 but
+Agent 364.407375 370.637625 yeah um and and and it also makes it possible
+Customer 365.055250 379.455375 [silence]
+Agent 370.637625 374.483500 you i think before we did any kind of budgeting
+Agent 374.483500 380.010500 w[e]- we we were in we were in a constant state of saying we can't afford anything
+Customer 379.455375 381.100000 right
+Agent 380.010500 384.958875 you know we can't do anything we can't afford anything and now
+Customer 381.100000 398.994250 [silence]
+Agent 384.958875 388.883375 we can at least say well we can fit this in
+Agent 388.883375 399.580125 it's it doesn't really work very well but we can fit this expense in and so by being a little organized we can we can allow ourselves some things that we couldn't before
+Customer 398.994250 401.720250 yeah it really makes a world of difference doesn't it
+Agent 399.580125 400.974750 [silence]
+Agent 400.974750 402.015250 yeah
+Customer 401.720250 406.934000 it really does i know i've been in like i said the same situation you know where i've
+Agent 402.015250 411.398625 [silence]
+Customer 406.934000 418.717625 i've been in a situation where i didn't budget anything just spent money and spent money and spent [laughter-money] and it doesn't work [laughter] it doesn't it really doesn't uh makes a big difference
+Agent 411.398625 412.567375 right
+Agent 412.567375 413.739000 [silence]
+Agent 413.739000 416.956250 that's right that's right [laughter] it it it
+Agent 416.956250 418.998625 [silence]
+Customer 418.717625 430.932875 [silence]
+Agent 418.998625 421.637250 yeah i we i think that uh
+Agent 421.637250 428.071375 part of the uh the reason we we we got so almost fanatical about budgeting is that
+Agent 428.071375 431.566250 that there were those years where we lived that way
+Customer 430.932875 432.479250 yes
+Agent 431.566250 433.142000 and we're still paying for it
+Customer 432.479250 436.441625 oh definitely [laughter]
+Agent 433.142000 437.006375 [laughter-you] [laughter-know] and so the only way to get out
+Customer 436.441625 440.512625 [silence]
+Agent 437.006375 440.645000 from under that is to is to do some kind of budgeting
+Customer 440.512625 441.522125 yeah
+Agent 440.645000 441.864250 um
+Customer 441.522125 449.437375 [silence]
+Agent 441.864250 444.426875 yeah you don't want to
+Agent 444.426875 447.167500 especially when it comes time and the kids are grown up
+Agent 447.167500 455.678250 and they're they want to do things like go to college uh you don't want to say well we're still paying for the mistake we made twenty years ago you know and
+Customer 449.437375 451.479500 [laughter]
+Customer 451.479500 453.497250 [silence]
+Customer 453.497250 454.876500 right
+Customer 454.876500 461.527500 yeah well that's that's a big that's really important because i do have a college fund set aside for my kids
+Agent 455.678250 460.842500 [silence]
+Agent 460.842500 461.935500 yeah
+Customer 461.527500 474.457125 you know and my oldest one is um alm[ost]- going on nine so you know it's not that many years you know [laughter] before she's going to be going so i hope that you know i can continue the college fund because it's
+Agent 461.935500 465.300000 [silence]
+Agent 465.300000 466.520500 yeah
+Agent 466.520500 468.364000 that's right that's right
+Agent 468.364000 469.354625 [silence]
+Agent 469.354625 470.327500 i know
+Agent 470.327500 477.928250 [silence]
+Customer 474.457125 480.242250 it's important that they go to college when they get out of high [laughter-school] [laughter-yeah]
+Agent 477.928250 485.479250 [laughter-right] well you know i we're we're we're trying to put money away for that too and uh um
+Customer 480.242250 490.749000 [silence]
+Agent 485.479250 489.731625 um you know you just can't count on them being totally brilliant
+Agent 489.731625 499.483250 though though they are but you can't count on them being totally brilliant uh so that they can get scholarships and and things like that um it's you know
+Customer 490.749000 497.487250 [laughter]
+Customer 497.487250 498.959625 right
+Customer 498.959625 501.018875 no that's true i mean
+Agent 499.483250 502.352875 it doesn't always work that way [laughter]
+Customer 501.018875 513.863625 you hope you hope that they can but [laughter] you know you can't plan [laughter-right] yeah that's right right [laughter] that's that's the way you have to do it right no [laughter]
+Agent 502.352875 503.438125 right
+Agent 503.438125 510.033625 right or at least loans [laughter] that they pay off [laughter]
+Agent 510.033625 512.600000 [laughter]
+Agent 512.600000 514.659375 yeah yeah well
+Customer 513.863625 523.609375 no that's that's an important thing to me and that's why it was very important for me because i didn't go to college out of high school it was important for me to budget in
+Agent 514.659375 521.887250 [silence]
+Agent 521.887250 524.018250 uh yeah
+Customer 523.609375 525.545625 a um
+Agent 524.018250 526.989125 [silence]
+Customer 525.545625 532.300000 college fund for them because it was just so important i said i don't want them to go through what i went through
+Agent 526.989125 527.986500 sure
+Agent 527.986500 531.515625 [silence]
+Agent 531.515625 532.574875 right
+Customer 532.300000 535.509500 they have to have a college [laughter-fund] so
+Agent 532.574875 534.040000 [silence]
+Agent 534.040000 535.449250 well you know the the
+Agent 535.449250 540.227750 i'm i'm also hoping that this budget process will rub off on them
+Customer 535.509500 540.276000 [silence]
+Agent 540.227750 543.940625 because uh when i grew up i had no
+Customer 540.276000 541.359375 right
+Customer 541.359375 543.649500 [noise]
+Customer 543.649500 544.950750 exactly
+Agent 543.940625 551.599625 no involvement in finances whatsoever you know and so when i became an adult and i was responsible for
+Customer 544.950750 546.431000 [silence]
+Customer 546.431000 547.341375 yeah
+Customer 547.341375 553.985250 [noise]
+Agent 551.599625 562.120875 for the money i had no skills and no background and no tools and and uh so we had to learn it the hard way and and um
+Customer 553.985250 555.237375 right
+Customer 555.237375 559.355000 [silence]
+Customer 559.355000 563.262625 yes i know exactly [laughter] i was the same way
+Agent 562.120875 570.596250 so we we're trying to get the kids involved with that that you know when they get an allowance uh part of that's supposed to go to savings for instance
+Customer 563.262625 569.509875 [silence]
+Customer 569.509875 571.148625 very good yeah
+Agent 570.596250 576.132000 and uh um yeah and they understand our eh the pro[cess]- our process [vocalized-noise]
+Customer 571.148625 572.334250 [silence]
+Customer 572.334250 573.420000 uh-huh you're
+Customer 573.420000 575.339750 [silence]
+Customer 575.339750 578.127500 that's that's that's strange because ours
+Agent 576.132000 581.978750 [silence]
+Customer 578.127500 582.420875 all of their money goes in savings if they need something we buy it for them_1
+Agent 581.978750 583.050375 oh yeah
+Customer 582.420875 585.426250 and all their money has to go in their savings account
+Agent 583.050375 584.788125 [silence]
+Agent 584.788125 585.785500 oh
+Customer 585.426250 590.860625 you know which maybe i'm being a little bit too harsh [laughter-but] but if they need something i buy it for them_1
+Agent 585.785500 587.782375 [silence]
+Agent 587.782375 588.511250 yeah
+Agent 588.511250 590.532625 [silence]
+Agent 590.532625 591.355000 yeah
+Customer 590.860625 592.913250 you know i mean if it's an absolute need
+Agent 591.355000 592.544750 [silence]
+Agent 592.544750 593.293250 sure
+Customer 592.913250 599.009375 you know if i mean if they want something occasionally but most of the time if it's a need i just get it
+Agent 593.293250 596.256125 [silence]
+Agent 596.256125 597.508000 right
+Agent 597.508000 599.009375 yeah

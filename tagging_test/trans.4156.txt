@@ -1,0 +1,150 @@
+Agent 0.000000 0.499000 [noise]
+Customer 0.000000 0.050000 [noise]
+Customer 0.050000 3.998250 so uh do you keep a monthly budget or anything like that oh yeah
+Agent 0.499000 1.999750 [silence]
+Agent 1.999750 3.294750 yeah
+Agent 3.294750 7.695625 i i'm one of those people who keep a record of everything [laughter]
+Customer 3.998250 6.486875 [silence]
+Customer 6.486875 8.259125 oh
+Agent 7.695625 9.262625 [laughter]
+Customer 8.259125 13.498125 so you you keep record of all the checks you write and all the credit card
+Agent 9.262625 11.282125 [silence]
+Agent 11.282125 12.745125 yeah
+Agent 12.745125 19.491750 and all the A T M transactions and everything and i've got a file for each of them_1 and
+Customer 13.498125 15.489375 [silence]
+Customer 15.489375 16.726500 uh-huh
+Customer 16.726500 18.986500 [silence]
+Customer 18.986500 25.237250 how do you categorize these things that's what always sort of stumped me when i sat down to do it right huh
+Agent 19.491750 23.284375 [silence]
+Agent 23.284375 32.497750 i- i have a file box and each file has a little piece of paper on it and each file there i have a file for each month of the year
+Customer 25.237250 31.499375 [silence]
+Customer 31.499375 32.972375 okay
+Agent 32.497750 42.996000 and then i also have files for like credit card receipts and when the bills come in for the credit cards they go in the month that they have to be paid for
+Customer 32.972375 41.971500 [silence]
+Customer 41.971500 49.636375 okay um so this insures that you know what your bills are and that they get paid
+Agent 42.996000 47.491125 [silence]
+Agent 47.491125 48.813250 right
+Agent 48.813250 62.252750 unless i get paid on time like like for instance if a bill is due on March fourth i'll just i'll put it in the folder with March and that way when i get paid in March i know that whatever bill is in there have to be paid in that month
+Customer 49.636375 50.655125 [silence]
+Customer 50.655125 51.720125 uh-huh
+Customer 51.720125 54.305625 [silence]
+Customer 54.305625 55.727750 uh-huh
+Customer 55.727750 61.310750 [silence]
+Customer 61.310750 68.024500 okay so that insures that the bills get paid before other things get paid for now do you uh-huh go ahead
+Agent 62.252750 64.996250 [silence]
+Agent 64.996250 67.496875 right and that
+Agent 67.496875 75.778000 and that way i keep a running list of what bills i do have and that way i know if i have any extra money or not
+Customer 68.024500 71.983375 [silence]
+Customer 71.983375 73.495125 uh-huh
+Customer 73.495125 75.295875 [silence]
+Customer 75.295875 79.691500 okay and uh what happens then when you don't
+Agent 75.778000 79.779750 [silence]
+Customer 79.691500 80.769000 [silence]
+Agent 79.779750 81.493625 when i don't what
+Customer 80.769000 82.494500 have extra money [laughter]
+Agent 81.493625 82.497000 [silence]
+Customer 82.494500 83.993250 [silence]
+Agent 82.497000 86.288750 [laughter] then i don't do anything [laughter] i've got two little boys
+Customer 83.993250 85.498500 oh okay
+Customer 85.498500 87.482125 oh uh-huh
+Agent 86.288750 88.986750 so i'm at home most of the time anyways but
+Customer 87.482125 98.989625 [silence]
+Agent 88.986750 103.460875 like once in a while like when my taxes came back i had extra money so i paid a babysitter to watch my kids for the day and i went to i went to goofing off and you know just something little like that but it's something that you really got to keep an eye on when you have kids
+Customer 98.989625 100.487000 uh-huh
+Customer 100.487000 102.498500 [silence]
+Customer 102.498500 103.996250 uh-huh
+Agent 103.460875 106.491375 because_1 you're always got to have money when you have [laughter-kids]
+Customer 103.996250 105.756750 [silence]
+Customer 105.756750 113.985000 oh yeah so do you do anything about you know saying hey i'm willing to spend this much a month on food and this much a month on
+Agent 106.491375 113.776000 [silence]
+Agent 113.776000 117.291375 well i have a i have a running budget for every month
+Customer 113.985000 115.796500 clothing or
+Customer 115.796500 116.797125 [silence]
+Customer 116.797125 117.996000 uh-huh
+Agent 117.291375 130.476375 and on that budget i type up a budget for every month in the year and it has the bills that i know i have every month electric phone food the kid's pediatrician
+Customer 117.996000 120.996500 [silence]
+Customer 120.996500 122.492750 uh-huh
+Customer 122.492750 124.991000 [silence]
+Customer 124.991000 126.187250 uh-huh
+Customer 126.187250 129.493250 uh-huh uh-huh
+Customer 129.493250 130.782250 uh-huh
+Agent 130.476375 136.000500 uh my Visa bill yo[u]- you know all the bills i know i have every month are on that budget
+Customer 130.782250 134.996625 [silence]
+Customer 134.996625 136.499500 uh-huh
+Agent 136.000500 143.498625 and so once all of those get paid i go through my file and see if there is anything else and if there's not then i know that m[oney]- the rest of the money is mine
+Customer 136.499500 142.989000 [silence]
+Customer 142.989000 147.985250 so is food in that list also and so you have a certain amount you spend on
+Agent 143.498625 144.499500 [silence]
+Agent 144.499500 145.787250 oh yes
+Agent 145.787250 148.281250 [silence]
+Customer 147.985250 150.721250 groceries that you expect to spend for each month
+Agent 148.281250 149.789625 right
+Agent 149.789625 151.233000 right
+Customer 150.721250 159.221125 okay and things like um now some some expenses come up you know twice a year or once a year like insurance
+Agent 151.233000 158.241500 [silence]
+Agent 158.241500 165.497500 right or well that comes up every six months for me or like tags come up once a year and you've got to figure that in too
+Customer 159.221125 160.735375 [silence]
+Customer 160.735375 162.497750 uh-huh
+Customer 162.497750 163.837375 uh-huh
+Customer 163.837375 164.850000 [silence]
+Customer 164.850000 168.472875 so you have an entry for each month for those things
+Agent 165.497500 167.767625 [silence]
+Agent 167.767625 182.504375 right whenever my tags come up uh there is an entry right there that says tags and then i just leave the space blank until i find out how much i owe for my tags and then i get them_1 and that way i know i know that they have to be paid in that month so i'm expecting it
+Customer 168.472875 169.806125 uh-huh
+Customer 169.806125 180.756625 [silence]
+Customer 180.756625 182.321875 uh-huh
+Customer 182.321875 189.008625 and and so you i mean each month before that do you put away you know one tenth one twelfth of it or
+Agent 182.504375 183.985875 [laughter]
+Agent 183.985875 188.275125 [silence]
+Agent 188.275125 201.715625 no usually i just pay it out of whatever paycheck uh is in that month because_1 after i pay my regular bills i usually have approximately a hundred and fifty dollars and with that hundred and fifty dollars i pay things that come up like insurance
+Customer 189.008625 192.494625 [silence]
+Customer 192.494625 193.675500 uh-huh
+Customer 193.675500 196.830000 [silence]
+Customer 196.830000 198.169625 uh-huh
+Customer 198.169625 200.997500 [silence]
+Customer 200.997500 202.491625 uh-huh
+Agent 201.715625 206.463500 or tags or whatever happens to come up in that month
+Customer 202.491625 205.493625 [silence]
+Customer 205.493625 206.701625 uh-huh
+Agent 206.463500 212.481500 i could pay with that hundred and fifty dollars and then what's [vocalized-noise] left i can do wha[t]- what i want with
+Customer 206.701625 211.477625 [silence]
+Customer 211.477625 218.786000 uh-huh so now what about the uh long term considerations like retirement and college and stuff
+Agent 212.481500 216.998750 [silence]
+Agent 216.998750 225.029375 well i've got an annuity fund set up because_1 i don't know uh just the way i was raised i look toward the future
+Customer 218.786000 220.209875 uh-huh
+Customer 220.209875 223.992250 [silence]
+Customer 223.992250 225.489750 uh-huh
+Agent 225.029375 233.470500 not only for my kids but for myself and i've got an annuity for me and every two months i buy my boys each a savings bond
+Customer 225.489750 231.990500 [silence]
+Customer 231.990500 233.996875 uh-huh
+Agent 233.470500 236.720250 every since they have been born i've been doing that
+Customer 233.996875 235.497250 [silence]
+Customer 235.497250 236.996750 that sounds great
+Agent 236.720250 238.242125 so
+Customer 236.996750 241.991500 um so now what exactly in an annuity i've always found those a little confusing
+Agent 238.242125 241.479000 [silence]
+Agent 241.479000 254.012875 an annuity is an account it's like a uh it['s]- it's a type of savings account okay but you don't touch it you just deposit money into it but you don't touch it other than that and it just sits there and gains interest until your retirement
+Customer 241.991500 245.990750 [silence]
+Customer 245.990750 247.525500 okay
+Customer 247.525500 253.723375 [silence]
+Customer 253.723375 257.262750 okay now do you pay taxes on the interest
+Agent 254.012875 257.726125 [silence]
+Customer 257.262750 258.999250 [silence]
+Agent 257.726125 259.492500 not right now
+Customer 258.999250 261.499250 okay only when you draw it out
+Agent 259.492500 260.747000 if
+Agent 260.747000 261.998375 right
+Customer 261.499250 262.994875 okay
+Agent 261.998375 271.975000 and like if elderly people they have a choice of having an IRA account and they get special discounts on like the um
+Customer 262.994875 265.994500 [silence]
+Customer 265.994500 267.517625 uh-huh
+Customer 267.517625 277.984875 [silence]
+Agent 271.975000 278.998875 what's the word i'm trying to think of the interest charges and stuff if they have an IRA they get special rates on it and stuff
+Customer 277.984875 283.458875 [noise] you mean from the you mean from taxes or fr[om]- from the federal government you mean uh-huh
+Agent 278.998875 280.256375 [silence]
+Agent 280.256375 281.825125 right
+Agent 281.825125 290.231500 right for the elderly people and stuff that have IRAs set up and they get special discounts on that but an an annuity is
+Customer 283.458875 295.461750 [silence]
+Agent 290.231500 296.485000 it's a savings account that you don't withdraw anything out of you just keep depositing money into it
+Customer 295.461750 299.074000 okay now i guess the question is is it better than an
+Agent 296.485000 299.074000 [silence]

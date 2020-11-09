@@ -1,0 +1,112 @@
+Agent 0.000000 1.102750 [noise]
+Customer 0.000000 5.433250 [noise] so uh how do you feel about the taxes you pay do you feel you pay uh too much or
+Agent 1.102750 5.563750 [silence]
+Customer 5.433250 7.458750 about right or
+Agent 5.563750 11.364125 well it it it's the type of thing of what exactly am i getting out of the taxes and
+Customer 7.458750 9.715500 [silence]
+Customer 9.715500 11.127250 yeah
+Customer 11.127250 25.230500 [silence]
+Agent 11.364125 14.326500 to some extent there is definitely
+Agent 14.326500 27.248125 you know you can say all right i'm paying this money for this and this is what i'm getting back in terms of roads and highways and you know i guess quote unquote retirement if it's actually there when we actually end up retiring
+Customer 25.230500 27.718375 [laughter] [laughter-yeah] it's hard to tell
+Agent 27.248125 33.535250 there there seems to be some prob[lem]- you know some question on whether there will be actually money there or not
+Customer 27.718375 31.985125 [silence]
+Customer 31.985125 33.321500 uh-huh
+Customer 33.321500 38.579875 [silence]
+Agent 33.535250 39.372125 what i don't like about the taxes is i was looking through the IRS forms like uh the other day
+Customer 38.579875 39.915625 uh-huh
+Agent 39.372125 48.743250 i noticed that fourteen percent of the amount of money that we pay in for taxes each year is just going to pay the national debt
+Customer 39.915625 45.857875 [silence]
+Customer 45.857875 47.234375 um-hum
+Customer 47.234375 49.054125 [silence]
+Agent 48.743250 51.382250 [silence]
+Customer 49.054125 53.117125 now is that the debt [vocalized-noise] or is that just the interest on the debt
+Agent 51.382250 54.155750 that that is the interest on the debt
+Customer 53.117125 61.690500 yes [vocalized-noise] you know i really don't understand this completely i've always been a little mystified who who are we paying it to
+Agent 54.155750 60.812250 [silence]
+Agent 60.812250 62.067250 ourselves
+Customer 61.690500 63.592375 okay
+Agent 62.067250 63.270375 [silence]
+Agent 63.270375 76.571500 um to a large extent i mean one of the i think i'm not sure if it's the largest but i know a large segment of the national debt is um you know things like savings bonds and other government obligations
+Customer 63.592375 76.139375 [silence]
+Customer 76.139375 83.282625 okay so it's to private individuals who own government instruments of some sort
+Agent 76.571500 82.572000 [silence]
+Agent 82.572000 92.060125 well not not just private but there's you know lot of public institutions that are holding money as well as a lot of um foreign companies and foreign persons
+Customer 83.282625 91.017750 [silence]
+Customer 91.017750 92.900625 uh-huh
+Agent 92.060125 94.940250 that are holding that but
+Customer 92.900625 96.118875 okay so but these are nongovernmental entities
+Agent 94.940250 97.677750 yeah nongovernmental
+Customer 96.118875 99.100500 okay who are holding bonds and whatever
+Agent 97.677750 102.436000 yeah you know Treasury Certificates and US Savings Bonds and whatever
+Customer 99.100500 101.578625 [silence]
+Customer 101.578625 103.078875 okay
+Agent 102.436000 117.407625 [silence]
+Customer 103.078875 107.117125 yeah that is uh i mean well what what can they i mean
+Customer 107.117125 118.277625 what's to be done at this point increase that amount for sometime so it will eventually go down or i mean i imagine if you're just servicing the debt you're not really making any progress right
+Agent 117.407625 130.914000 right well it's actually uh you also looking at the same form they had that we are borr[owing]- the US is borrowing eighteen percent of the amount of of h[ow]- how of whatever it's spending every year
+Customer 118.277625 130.324875 [silence]
+Customer 130.324875 135.891625 so we're increasing the debt by an amount equal to eighteen percent of the annual budget
+Agent 130.914000 134.990375 [silence]
+Agent 134.990375 146.802625 yeah so we're borrowing eighteen percent and fourteen percent of what we're paying out is going to pay the eight[een]- the uh debt so to some extent we're borrowing money to pay
+Customer 135.891625 143.440250 [silence]
+Customer 143.440250 145.036000 so
+Customer 145.036000 151.817750 [silence]
+Agent 146.802625 152.854625 you know fourteen percent that we're borrowing goes directly paying out to the debt
+Customer 151.817750 153.796500 which is only increasing
+Agent 152.854625 166.567500 yeah so we're you know net we're doing a net borrowing of four percent each year and then we're doing a borrowing on top of that of fourteen percent that just goes to pay interest on the debt
+Customer 153.796500 165.776250 [silence]
+Customer 165.776250 168.174000 right and uh
+Agent 166.567500 172.768000 [silence]
+Customer 168.174000 173.525750 then the question i mean do other countries do this or is this a distinctly American phenomenon
+Agent 172.768000 184.463250 that i don't know i don't know if uh other countries work as a deficit or not i from what i can understand it's only recent within maybe the last fifty years or so
+Customer 173.525750 178.608375 [silence]
+Customer 178.608375 180.033125 uh-huh
+Customer 180.033125 186.458500 [silence]
+Agent 184.463250 189.650000 you know except for wartimes that the U S has had a peacetime debt
+Customer 186.458500 187.739750 uh-huh
+Customer 187.739750 189.440875 [silence]
+Customer 189.440875 195.447000 well and i guess fifty years would pretty much jive with the last big wartime debt
+Agent 189.650000 194.934375 [silence]
+Agent 194.934375 196.103250 yeah
+Customer 195.447000 199.790875 and they just seemed like it's a good idea why stop [laughter]
+Agent 196.103250 198.903375 [silence]
+Agent 198.903375 209.782625 yeah i- i think if you look at some of the uh government spending curves um you know the the curve always went up around wartime and then dropped back down
+Customer 199.790875 209.154000 [silence]
+Customer 209.154000 210.422125 uh-huh
+Agent 209.782625 217.641250 after World War Two it never dropped back down or it was [vocalized-noise] World War Two or uh Korea i think it never dropped back down
+Customer 210.422125 215.105375 [silence]
+Customer 215.105375 216.711250 uh-huh
+Customer 216.711250 219.322250 so what do you think is the uh
+Agent 217.641250 225.993125 [silence]
+Customer 219.322250 222.482750 you know if you were in charge what would you
+Customer 222.482750 226.101625 what parts would you change to fix this problem
+Agent 225.993125 231.821125 well you know definitely one thing is to say hey we have to have a year to year balanced budget
+Customer 226.101625 231.273250 [silence]
+Customer 231.273250 235.492250 so at least we wouldn't have that additional uh
+Agent 231.821125 237.252250 [silence]
+Customer 235.492250 239.054000 what was it eighteen percent or yeah
+Agent 237.252250 246.424125 yeah so you know you know maybe raise taxes for a few years until that debt gets paid off and then say you know unless there is a
+Customer 239.054000 242.149250 [silence]
+Customer 242.149250 243.458625 uh-huh
+Customer 243.458625 254.651250 [silence]
+Agent 246.424125 254.014250 tremendously bad circumstances like a war or something we should not be running a deficit economy
+Agent 254.014250 265.761375 you know that's i mean if you look on the individual level if i were to borrow eighteen percent of what i was spending every year year after year i very quickly get in trouble with creditors
+Customer 254.651250 255.977250 uh-huh
+Customer 255.977250 260.911625 [silence]
+Customer 260.911625 262.927375 [laughter]
+Customer 262.927375 264.607750 [silence]
+Customer 264.607750 272.137250 well it does seem like the uh the quality of the bonds that United States sell would eventually be downgraded doesn't it
+Agent 265.761375 272.282125 [silence]
+Customer 272.137250 276.261750 [silence]
+Agent 272.282125 282.261000 um yeah well that's you know the post wartime Germany they just kept printing up money and you know it became worthless so that's one danger
+Customer 276.261750 277.587625 uh-huh
+Customer 277.587625 279.043750 [silence]
+Customer 279.043750 280.811375 uh-huh
+Customer 280.811375 282.552625 um-hum
+Agent 282.261000 286.269875 but you know it's that that's a very large chunk of
+Customer 282.552625 288.839875 [silence]
+Agent 286.269875 289.162750 the money we pay in for taxes each year
+Customer 288.839875 293.477125 it is shocking but apparently no one's willing to
+Agent 289.162750 298.082000 [silence]
+Customer 293.477125 298.082000 oh i'm not no one but by the time it all ends up in Congress seems

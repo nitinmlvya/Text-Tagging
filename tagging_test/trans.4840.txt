@@ -1,0 +1,111 @@
+Agent 0.000000 1.034875 [noise]
+Customer 0.000000 2.425250 [noise] okay uh [laughter]
+Agent 1.034875 6.387875 [silence]
+Customer 2.425250 8.298125 well we just got our income tax return and i'm perfectly happy what about you [laughter]
+Agent 6.387875 13.136625 well let's see um i haven't gotten mine yet because my parents are getting all that stuff at um at home in the Bay area
+Customer 8.298125 10.903250 [silence]
+Customer 10.903250 12.373125 uh-huh
+Customer 12.373125 13.897625 uh-huh
+Agent 13.136625 19.932625 so i'm not sure how much i'm getting back but i'm pretty sure should get back a little bit since i'm still a student so not too much
+Customer 13.897625 16.754875 [silence]
+Customer 16.754875 18.205125 yeah
+Customer 18.205125 19.375000 [silence]
+Customer 19.375000 20.641875 yeah
+Agent 19.932625 21.625750 not too bad though
+Customer 20.641875 21.680875 [silence]
+Agent 21.625750 34.715250 [silence]
+Customer 21.680875 35.836875 but as far as writing checks out and paying taxes i think it's pretty high but i i'm uh you know i i guess that's where we have to be where it we have to keep raising them_1 for to keep some of the things that that we have and
+Agent 34.715250 42.130875 yeah it it's one of [noise] those necessities of life that we all have to you know pay taxes but uh although it is kind of a pain sometimes though
+Customer 35.836875 41.168875 [silence]
+Customer 41.168875 48.216750 it's just scary though about you know how high are the taxes gonna be when my children are my age
+Agent 42.130875 47.509250 [silence]
+Agent 47.509250 48.826250 um-hum
+Customer 48.216750 56.583250 you know that that's that's scary too because_1 it's not anything like the way it was when i was young and small and a child so
+Agent 48.826250 50.299000 [silence]
+Agent 50.299000 51.562750 uh-huh
+Agent 51.562750 59.737125 [silence]
+Customer 56.583250 59.898750 you know that that's a scary part too that you have to think about
+Agent 59.737125 73.820375 yeah and and like as as time goes on you know things get more expensive and because we're [vocalized-noise] we're increasingly complex society that day by day things get more um things get more expensive as well as more complex
+Customer 59.898750 61.575250 [noise]
+Customer 61.575250 67.312125 [silence]
+Customer 67.312125 69.032125 um-hum
+Customer 69.032125 72.998625 [silence]
+Customer 72.998625 74.238875 yeah
+Agent 73.820375 79.810375 and you know taxes are one of the ways that help pay for a lot of the things that are needed in this society
+Customer 74.238875 79.123250 [silence]
+Customer 79.123250 80.484875 yeah
+Agent 79.810375 94.251500 i mean everything from you know from Medicare to um to Social Security to um to feeding the ho[meless]- to um to you know feeding the homeless to uh maintaining prisons to maintaining polices or fire departments and things like that
+Customer 80.484875 98.779000 [silence]
+Agent 94.251500 99.217125 and it's now there's more and more things that need attending to and that sort of thing and
+Customer 98.779000 100.211625 um-hum
+Agent 99.217125 105.546875 you know it's it's becoming a a large responsibility but s[omeone]- someone has to pay for it and that's us
+Customer 100.211625 104.589250 [silence]
+Customer 104.589250 119.367875 yeah and then you find out about all these things about are your taxes you know the taxpayers are your m[oney]- is your money going to where you want it to go and there's gonna be a special this week i i can't i can't remember if it's Twenty Twenty or one of those things where um
+Agent 105.546875 133.386625 [silence]
+Customer 119.367875 127.233625 i think it's one of the local news i think they're having an a documentary something about that about they're trying to catch some people about
+Customer 127.233625 133.958875 not spending your tax p[ay]- monies right and fraud and that kind of thing you know and that's kind of scary too
+Agent 133.386625 134.479125 um-hum
+Customer 133.958875 138.037500 and uh so that would be interesting to see i wanted to see that program
+Agent 134.479125 137.783000 [silence]
+Agent 137.783000 150.575250 yeah and and even even today it's like you know there's still a considerable amount of taxes that you know we're paying for but you'd think that we're still in thi[s]- this this uh deficit state that we're still not able to pay off things just because
+Customer 138.037500 149.999375 [silence]
+Customer 149.999375 151.506625 i [laughter-know]
+Agent 150.575250 153.408500 the budget's not big enough as it is
+Customer 151.506625 152.641250 [silence]
+Customer 152.641250 154.013750 yeah
+Agent 153.408500 161.169375 and makes you wonder when there's [vocalized-noise] you know uh countries out there that have you know tax rates also like close to fifty percent or higher
+Customer 154.013750 160.489875 [silence]
+Customer 160.489875 162.028875 um-hum
+Agent 161.169375 169.363125 you know it's like fifty percent of everything you make is already gone before you can get it and that that's kind of a scary thought and i hope it doesn't come down to that
+Customer 162.028875 164.943250 [silence]
+Customer 164.943250 166.395875 um-hum
+Customer 166.395875 169.558500 [silence]
+Agent 169.363125 171.006750 [silence]
+Customer 169.558500 172.317875 yeah [laughter]
+Agent 171.006750 181.751000 but on the other hand they also whi[le]- while those countries that have high taxes also have things like um like socialized medicine and things like that too which are nice fringe benefits of it
+Customer 172.317875 187.707625 [silence]
+Agent 181.751000 192.558000 so everyone has everyone has the access to medical facilities as well as the doctors that sort of thing and it's good but it's it's the price they pay [laughter]
+Customer 187.707625 189.064000 um-hum
+Customer 189.064000 191.414375 [silence]
+Customer 191.414375 192.797250 yeah
+Agent 192.558000 205.081000 i mean it it can be argued one way or another whether the economically it's actually good for the country or good for any given country to have that because tho[se]- those countries tend to be um as far as cash flow a a lot
+Customer 192.797250 208.366875 [silence]
+Agent 205.081000 211.591500 um have a be tend to have a much slower cash flow and don't try and generate a larger um
+Customer 208.366875 209.714375 um-hum
+Customer 209.714375 218.620250 [silence]
+Agent 211.591500 218.802125 a large amount of revenue because there's so little um currency flow through out the economic system
+Customer 218.620250 219.879625 hm
+Agent 218.802125 223.275000 [silence]
+Customer 219.879625 221.125000 well
+Customer 221.125000 224.687500 you sure do know a lo[t]- know a lot [laughter]
+Agent 223.275000 226.143375 uh just keeping up with the times that's all
+Customer 224.687500 226.974250 yeah yeah
+Agent 226.143375 235.292375 as i[t]- as it turns out you know it's one of those one of those interests that you know i kind of like to keep up on because_1 well it's nice to know that when i'm actually you know i do start working that
+Customer 226.974250 237.543625 [silence]
+Agent 235.292375 243.002625 i'll like to know like where my tax dollars are going too [vocalized-noise] i work hard to to get you know i like to know where it's going to
+Customer 237.543625 239.038125 um-hum
+Customer 239.038125 242.331750 [silence]
+Customer 242.331750 243.734875 yeah
+Agent 243.002625 246.070875 [silence]
+Customer 243.734875 245.090750 yeah
+Customer 245.090750 246.719000 that's true
+Agent 246.070875 247.316875 um-hum
+Customer 246.719000 253.593875 what do you think about these items that are gonna be um taxed even more like um tobacco and that kind of thing
+Agent 247.316875 253.015750 [silence]
+Agent 253.015750 265.565375 i think in a in a way it's good in a way it's not um but i think in general it's probably good i mean a lot of things like tobacco and alcohol and things like that have been have been in the past
+Customer 253.593875 262.685250 [silence]
+Customer 262.685250 264.001750 um-hum
+Customer 264.001750 270.137875 [silence]
+Agent 265.565375 274.145500 um have been not taxed because there's been such a large lobby against them against the taxes for them you know sponsored by alcohol and tobacco companies
+Customer 270.137875 271.481375 um-hum
+Customer 271.481375 273.234875 [silence]
+Customer 273.234875 274.589250 um-hum
+Agent 274.145500 283.191000 and it's things like tobacco are um they're they're a proven health hazard to smokers as well as nonsmokers
+Customer 274.589250 280.603000 [silence]
+Customer 280.603000 282.380500 yeah
+Customer 282.380500 284.000000 right
+Agent 283.191000 292.608500 and it's as far as a safety thing in like in San Luis Obispo for example there's an ordinance which states that um there's no smoking in any public areas
+Customer 284.000000 297.132125 [silence]
+Agent 292.608500 297.640875 and so if you walk into any restaurant or any hotel there's no smoking allowed anywhere
+Customer 297.132125 298.850000 oh really
+Agent 297.640875 298.850000 um-hum

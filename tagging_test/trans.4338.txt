@@ -1,0 +1,89 @@
+Agent 0.000000 1.009125 [noise]
+Customer 0.000000 0.161750 [noise]
+Customer 0.161750 3.217500 so Cathy um do you keep a monthly budget
+Agent 1.009125 2.650875 [silence]
+Agent 2.650875 15.157375 well we we do of sorts it's not a it's not a family budget both my my husband and i work and what we do is basically treat each income as separate uh
+Customer 3.217500 30.686750 [silence]
+Agent 15.157375 24.889625 partly we didn't want to fall into the trap of arguing over the family money oh yeah well you know i earned this much and therefore i have the right to spend that
+Agent 24.889625 31.033625 and well you know you overspent the the total budget this way each of us knows what's in our own bank accounts
+Customer 30.686750 32.008625 um-hum
+Agent 31.033625 38.852500 so you can if you want to write a check for somebody's birthday present you don't have to worry about the other person seeing it that sort of thing
+Customer 32.008625 49.465875 [silence]
+Agent 38.852500 50.800375 but uh what's unique is that uh my husband keeps a spreadsheet of uh the income and he submits a bill to me every month an itemized bill and i pay that
+Customer 49.465875 51.000000 wow
+Agent 50.800375 65.341875 and then so he has track of both of our expenses i pay part of the utilities he pays part of the utilities it takes a little bit more work but it does work for us i mean i[t]- it really does work very successfully for us
+Customer 51.000000 54.484250 [silence]
+Customer 54.484250 55.695500 hum
+Customer 55.695500 65.496000 [silence]
+Agent 65.341875 66.419625 [silence]
+Customer 65.496000 66.810500 do you have any kids
+Agent 66.419625 69.961000 yes i'm [laughter-i] am juggling one right now on my lap
+Customer 66.810500 74.892625 [silence]
+Agent 69.961000 83.989000 uh we have a uh almost one he he'll be one on on April second you can hear him and the one is four and he's off taking a bath [laughter] so uh yeah we've got two kids and uh
+Customer 74.892625 76.574750 well i can hear him right there
+Customer 76.574750 82.585250 [silence]
+Customer 82.585250 85.015375 so how does that work into your budget
+Agent 83.989000 86.350500 uh well what
+Customer 85.015375 87.907750 as far as planning for expenses and so forth
+Agent 86.350500 87.369750 [silence]
+Agent 87.369750 96.619500 well in terms of of immediate expenses like clothing um i purchase those out of my income and i get reimbursed
+Customer 87.907750 118.823875 [silence]
+Agent 96.619500 106.717875 fifty percent of that by my husband so again i submit bills to him [laughter] receipts to him uh for the day care uh what we do is actually take that directly out of my income
+Agent 106.717875 117.420750 um and my my company has a uh a pretax medical deduction uh medical and uh child care uh all together so
+Agent 117.420750 120.633125 um that that helps f[or]- for that planning
+Customer 118.823875 122.530375 hum until they you wouldn't happen to work for Liberty Mutual would you
+Agent 120.633125 122.115250 [silence]
+Agent 122.115250 127.285875 excuse me no no no a a biotech company as a [laughter-matter] of fact
+Customer 122.530375 123.962875 Liberty Mutual
+Customer 123.962875 125.681375 [laughter-okay]
+Customer 125.681375 129.172250 that that's [vocalized-noise] my company and that's exactly what we have
+Agent 127.285875 128.358500 [silence]
+Agent 128.358500 135.387750 yeah and it it works out it works out really well now in terms of long term like college expenses
+Customer 129.172250 130.483250 [noise]
+Customer 130.483250 145.722125 [silence]
+Agent 135.387750 146.238125 uh right now we don't have something that's set up that's labeled college we have uh more along the lines of um uh sort of investment plans in each of the children's names
+Customer 145.722125 146.941750 um-hum
+Agent 146.238125 157.810000 and they were set up as as first birthday presents or or or even newborn presents from the grandparents just you know the the actually assembled and set up
+Customer 146.941750 180.776000 [silence]
+Agent 157.810000 161.512750 uh all the investment decisions are are now ours
+Agent 161.512750 169.992500 but in terms of retirement that's the one area that that is is still a little sticky because yo[u]- yo[u]- you sort of have your retirement plans through your companies
+Agent 169.992500 176.083250 and we spent so much time trying to to make sure that the boys are okay [laughter] that
+Agent 176.083250 186.271625 an[d]- you know for our own retirement there's not a whole lot actually organized but we do have uh the things through our companies so that's that's a start anyway
+Customer 180.776000 182.031375 um-hum
+Customer 182.031375 187.090125 [silence]
+Agent 186.271625 192.892250 [silence]
+Customer 187.090125 193.765000 yeah this is uh the first year that actually the first month that i've actually instituted a budget uh for my wife and i
+Agent 192.892250 194.276000 um-hum
+Customer 193.765000 202.587375 for the previous nine years or so we've just pretty much let it slide um there really wasn't much problem as far as income versus expenses
+Agent 194.276000 198.188750 [noise]
+Agent 198.188750 206.689125 [silence]
+Customer 202.587375 204.852375 uh things are getting a little bit tighter
+Customer 204.852375 215.311000 uh we bought a house last year we bought a new vehicle things that which weren't a problem before have have all sudden we noticed our cash flow is starting to decline a little bit
+Agent 206.689125 208.265625 um
+Agent 208.265625 214.795250 [silence]
+Agent 214.795250 216.535625 [noise]
+Customer 215.311000 217.948625 you know with all the monthly bills and uh
+Agent 216.535625 227.954375 [silence]
+Customer 217.948625 222.731500 uh so far it's working out pretty well you know we're keeping an eye on what we spend each week
+Customer 222.731500 228.516125 but like i said being one of the first months we really won't know for a few more months down the road how well we're doing
+Agent 227.954375 229.235125 um
+Customer 228.516125 232.702875 but your plan where you you submit bills that's the most
+Agent 229.235125 235.396875 [silence]
+Customer 232.702875 237.269500 itemized plan i've ever seen or heard anyone talk about as far as married couples
+Agent 235.396875 236.770000 yeah
+Agent 236.770000 248.070250 well it's not it's not actually too bad once you get the s[preadsheet]- the spreadsheet set out by my husband has categories for things like utilities uh you know other expenses
+Customer 237.269500 238.424000 [silence]
+Customer 238.424000 240.006375 interesting
+Customer 240.006375 253.069500 [silence]
+Agent 248.070250 253.619375 uh the rent and my contribution i don't make as much financially as he does
+Customer 253.069500 254.396750 um-hum
+Agent 253.619375 265.093375 so my contribution is prorated it doesn't come it doesn't come fifty percent out of my pocket when i don't make fifty percent of the income uh you know which is nice it's fair
+Customer 254.396750 263.507500 [silence]
+Customer 263.507500 264.904375 fair enough
+Customer 264.904375 294.333625 [silence]
+Agent 265.093375 273.336500 uh so actually what it what happens is that we gather all the bills and then write them down and then uh
+Agent 273.336500 284.814750 w[ell]- uh after that it's just a question of putting them into the computer and the computer generates you know i mean it it takes the percentage that's necessary and he prints out a bill and i write a check and that's it
+Agent 284.814750 288.524000 um once it's set up it works it works reasonable well
+Agent 288.524000 300.226000 so i[t]- it most of my friends though when they find out about it the[y]- the[y]- they think your husband submits a bill to you that's that's that's weird [laughter] that's really weird but we don't i mean i
+Customer 294.333625 296.362000 [laughter]
+Customer 296.362000 300.226000 [silence]

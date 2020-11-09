@@ -1,0 +1,101 @@
+Agent 0.000000 0.610500 [noise]
+Customer 0.000000 1.306000 [noise] and
+Agent 0.610500 2.354500 all right well
+Customer 1.306000 4.469375 i mean short term i don't think anything's gonna be done about it
+Agent 2.354500 4.278625 [silence]
+Agent 4.278625 5.683500 well i
+Customer 4.469375 6.299750 or probably should be done about it
+Agent 5.683500 9.971875 uh are you saying you didn't think anything should be done in the short term
+Customer 6.299750 9.319500 [silence]
+Customer 9.319500 14.209375 uh the short term the recession is getting getting top attention
+Agent 9.971875 14.432000 [silence]
+Customer 14.209375 26.991000 [silence]
+Agent 14.432000 19.839125 yeah well i i think that you're absolutely right there the other thing is is that we've got these um
+Agent 19.839125 26.359750 these all these bank defaults going on and and savings and loan defaults and and uh
+Agent 26.359750 27.593375 uh
+Customer 26.991000 30.896250 and that effectively adds to it whether it's officially on the books or not
+Agent 27.593375 30.370875 [silence]
+Agent 30.370875 32.671125 right exactly
+Customer 30.896250 33.169625 [silence]
+Agent 32.671125 34.308625 um
+Customer 33.169625 35.064000 and that's got to be paid
+Agent 34.308625 45.189000 exactly and and uh so this creates a pretty serious problem that's going to continue to be with us for a while to come um i'm not really
+Customer 35.064000 67.624375 [silence]
+Agent 45.189000 55.969500 uh sure that i even understand why the administration is proposing for instance tax reductions because it seems to me that if if if they're talking about reducing
+Agent 55.969500 68.848375 uh the tax that needs to be paid or the t[axes]- taxes currently being paid then that can't it seems to me it can't possibly [vocalized-noise] you know help with the the deficit picture
+Customer 67.624375 69.782250 it can only hurt the deficit picture
+Agent 68.848375 70.887875 yeah exactly
+Customer 69.782250 71.423625 um
+Agent 70.887875 86.606625 [silence]
+Customer 71.423625 76.133500 and the the severity of the deficit picture already
+Customer 76.133500 77.834625 limits
+Customer 77.834625 87.026750 the options available or limits the degree of tax cutting you can do without uh bringing on on serious problems for the longer term
+Agent 86.606625 88.246875 yeah exactly
+Customer 87.026750 89.625250 so that that that's the current predicament
+Agent 88.246875 89.503250 [silence]
+Agent 89.503250 94.852750 yeah it see[ms]- seems like it's it's a kind of a catch twenty two i mean it's it's the um
+Customer 89.625250 145.142250 [silence]
+Agent 94.852750 103.073375 my understanding is what they're trying t[o]- what what supposedly they're trying to do by reducing taxes is to kind of jump start the economy the idea being that
+Agent 103.073375 114.481125 if people have to pay less money in taxes they'll have more money to spend uh and if they have more money to spend then that will be a a spur to productivity particularly commercial productivity
+Agent 114.481125 119.873375 uh which in turn will generate revenue but it it seems like like uh
+Agent 119.873375 130.628125 it's sort of a uh a sp[iral]- an unending spiral and it it uh i'm i'm not sure that there's any real genuine truth to the uh the idea that that uh
+Agent 130.628125 141.114375 that decreasing taxes particularly the kinds that are are being recommended by by the Bush administration and things like capital gains taxes and so forth is going to uh result
+Agent 141.114375 146.207625 in substantial amounts of money you know for consumers to spend
+Customer 145.142250 146.372625 [noise]
+Agent 146.207625 147.749500 and uh
+Customer 146.372625 147.381625 [silence]
+Customer 147.381625 149.581250 yeah i'm not sure how i feel about
+Agent 147.749500 157.107125 [silence]
+Customer 149.581250 151.724500 tagging them_1 to share the cost of
+Customer 151.724500 157.986625 yeah th[e]- the long term quests that tax cuts are worth at this point it's partly a judgment of how bad the recession is
+Agent 157.107125 164.094500 yeah it uh it would seem to me th[at]- that there are other things that the administration could do
+Customer 157.986625 163.123250 [silence]
+Customer 163.123250 169.011250 well look first of all you look to the fed to fight the recession as indeed it has with interest rates
+Agent 164.094500 166.117000 [silence]
+Agent 166.117000 167.411750 um-hum
+Agent 167.411750 168.427000 [silence]
+Agent 168.427000 175.331500 um-hum i think that's been a positive development i think what that's done is it's it's it's helped keep inflation from
+Customer 169.011250 171.837875 [silence]
+Customer 171.837875 172.899625 um-hum
+Customer 172.899625 176.360625 [silence]
+Agent 175.331500 177.498375 um uh
+Customer 176.360625 179.609375 well at the moment we're doing very well on inflation
+Agent 177.498375 178.813875 [silence]
+Agent 178.813875 182.996125 yeah exactly and it's a sort of a piece of luck
+Customer 179.609375 185.043125 that's the sort of upside to the deficit th[at's]- that's the upside to the recession
+Agent 182.996125 184.404625 [silence]
+Agent 184.404625 186.950750 yeah um
+Customer 185.043125 189.969875 [silence]
+Agent 186.950750 192.383125 [noise] i don't know what kind of things do you think can be done in in uh in the long term
+Customer 189.969875 196.802125 [noise] and the longer well can be done or will be done are two different things um
+Agent 192.383125 204.919625 [silence]
+Customer 196.802125 205.374125 at various places to look for for cutting the budget first of all i consider more defense cuts than are already planned
+Agent 204.919625 206.222500 sure
+Customer 205.374125 207.703000 depending on the world situation
+Agent 206.222500 228.188000 [silence]
+Customer 207.703000 219.989875 but there are various other areas such as as farm subsidies that ought to be slashed ah a lot of entitlement programs like education aid i think ah
+Customer 219.989875 221.604875 [silence]
+Customer 221.604875 231.054875 they should've put a in the Reagan administrations took took took [vocalized-noise] layoff such entitlements to the to the poor but left them_1 for the middle class
+Agent 228.188000 229.485500 um-hum
+Agent 229.485500 244.096000 [silence]
+Customer 231.054875 244.338625 ah in the longer term ah we we we'd do well i think to make to make uh reductions there also somewhat related [vocalized-noise] is to collect money that's owed to the government from various loan programs that people have borrowed
+Agent 244.096000 249.897125 right i think that i i think that that i agree with you certainly in the second
+Customer 244.338625 257.482625 [silence]
+Agent 249.897125 258.557125 situation and i think certain entitlements i i'm inclined to agree with you too education happens to be one place where i think that we would be foolish to um uh
+Customer 257.482625 262.381875 a lot of the education aid has gone to so called trade schools
+Agent 258.557125 261.838625 [silence]
+Agent 261.838625 263.119250 uh-huh
+Customer 262.381875 265.574000 which are so there not colleges but schools that
+Agent 263.119250 267.168250 [silence]
+Customer 265.574000 275.754500 teach you trades you know beauticians whatever at more and often exists only because of the federal programs that they can take people and tell them they can get loans for their full tuition
+Agent 267.168250 269.527375 oh i see what you['re]- i see what you're saying
+Agent 269.527375 278.992625 [silence]
+Customer 275.754500 282.020375 ah and the school gets paid off immediately ah they don't provide very much education and uh
+Agent 278.992625 280.387625 and then the
+Agent 280.387625 281.396625 [silence]
+Agent 281.396625 283.878500 and then the people default on the loans
+Customer 282.020375 283.328000 yes
+Customer 283.328000 297.718125 [silence]
+Agent 283.878500 288.831000 well i i would have to agree with you if there are circumstances like that uh around
+Agent 288.831000 298.562000 uh and i i i can't confess to having any substantial knowledge of that sort of thing but but but taking what you're saying at face value then i would have to agree with you completely
+Customer 297.718125 298.562000 yeah

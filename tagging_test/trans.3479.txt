@@ -1,0 +1,118 @@
+Agent 0.000000 0.529500 [noise]
+Customer 0.000000 0.053500 [noise]
+Customer 0.053500 3.552000 well what do you uh [noise] how do you feel about your uh
+Agent 0.529500 4.721750 [silence]
+Customer 3.552000 5.227000 job benefits
+Agent 4.721750 12.015250 well i'm a contract person and uh so i don't have a lot of benefits and uh
+Customer 5.227000 23.575875 [silence]
+Agent 12.015250 24.651875 uh i do think they're very important my husband has medical insurance and he has a life insurance policy his company does not really have a retirement plan and i think that's something that's very important
+Customer 23.575875 24.981625 um-hum
+Agent 24.651875 30.246000 and uh i believe medical insurance and retirement are probably the two strongest
+Customer 24.981625 29.481750 [silence]
+Customer 29.481750 33.683500 yeah well i um [noise] i worked for a [noise]
+Agent 30.246000 32.387250 two most important
+Agent 32.387250 35.144625 [silence]
+Customer 33.683500 41.127250 a large oil company for ten years and then resigned in eighty four and went into business for myself
+Agent 35.144625 36.478750 uh-huh
+Agent 36.478750 48.508500 [silence]
+Customer 41.127250 43.746000 uh and what i discovered
+Customer 43.746000 48.876250 at one after i had resigned it was kind of amazing i had never really thought about that corporate umbrella
+Agent 48.508500 51.420750 yes [laughter] right
+Customer 48.876250 60.557250 wh[ile]- while it was there and after i resigned and i walked out from under it i really felt exposed and it was something that i had been completely you know you grow accustomed to having that behind you or or or over you
+Agent 51.420750 54.104625 [silence]
+Agent 54.104625 55.406375 uh-huh
+Agent 55.406375 58.669375 [silence]
+Agent 58.669375 61.116625 yeah you sort of take it for granted
+Customer 60.557250 70.776125 absolutely and it was i'll i'll tell you i was absolutely amazed at how at at the difference and then [laughter] plus whenever i had to start paying for my own health insurance
+Agent 61.116625 70.087750 [silence]
+Agent 70.087750 72.420250 oh i know isn't that a shock
+Customer 70.776125 80.272875 and and life insurance [noise] believe me it was it was a rude awakening [noise] so anyway i was in business for myself for six years and then i have gone back to work uh since uh
+Agent 72.420250 87.835375 [silence]
+Customer 80.272875 89.502375 nineteen ninety i'm back in Houston with another oil company so i'm back under that corporate umbrella and i will tell you i am glad to have the [laughter-coverage] [laughter-again] [noise]
+Agent 87.835375 91.696250 [laughter] well we uh kind of discovered it when uh
+Customer 89.502375 92.125500 [silence]
+Agent 91.696250 94.097125 the company my husband was with
+Customer 92.125500 93.734375 [noise]
+Customer 93.734375 98.997500 [silence]
+Agent 94.097125 103.652625 uh was in real estate and he had some nice benefits with it and all of a sudden when the market dropped out up here of course then you know everything kind of went downhill
+Customer 98.997500 100.701375 [noise]
+Customer 100.701375 102.877250 [noise]
+Customer 102.877250 104.215375 right
+Agent 103.652625 106.713125 and then he went with a steel company
+Customer 104.215375 112.542750 [silence]
+Agent 106.713125 113.606375 and they they folded but he was still under the uh COBRA plan on the medical insurance
+Customer 112.542750 113.987250 uh-huh
+Agent 113.606375 121.000250 and then all of a sudden the people that had taken it over went bankrupt well that ended COBRA p[lan]- plan and everything and uh
+Customer 113.987250 119.415875 [silence]
+Customer 119.415875 120.767125 yeah
+Customer 120.767125 127.854750 [silence]
+Agent 121.000250 126.260750 then we discovered [vocalized-noise] and our medical insurance for three months was running us uh
+Agent 126.260750 129.040625 i think it was nineteen hundred dollars
+Customer 127.854750 130.232000 {holy-moly}
+Agent 129.040625 136.269625 you know our age and uh i had some arthritis and stuff and man they socked it to us
+Customer 130.232000 132.452625 uh-huh [noise]
+Customer 132.452625 134.257875 uh-huh
+Customer 134.257875 135.317750 [silence]
+Customer 135.317750 136.998500 yeah
+Agent 136.269625 141.111750 and you know course now fortunately we we're back we have some medical insurance
+Customer 136.998500 138.479625 well
+Customer 138.479625 140.523250 [silence]
+Customer 140.523250 150.194000 well i feel like i'm i'm the luckiest person in the world on in several ways number one i had the opportunity to get out whenever i left um [noise]
+Agent 141.111750 156.832375 [silence]
+Customer 150.194000 159.101625 [noise] uh Houston in uh eighty four and resigned i had the opportunity to get out and do all those things that i thought would be so glamorous and exciting wording working for myself
+Agent 156.832375 164.855125 [laughter] yeah [laughter]
+Customer 159.101625 171.253750 and they were and they were for a while and then i found out that it was just as much work to do that as it is going into an office you know getting on a plane and flying around and all that kind of stuff [noise]
+Agent 164.855125 166.690250 [laughter]
+Agent 166.690250 169.678875 um-hum um-hum um-hum
+Agent 169.678875 171.479875 [laughter]
+Customer 171.253750 172.596875 and
+Agent 171.479875 173.426000 what did you do consulting work
+Customer 172.596875 180.374625 well no actually i was uh my brother and i had a architectural design firm we did uh retail tenant finish out all over the US and it was
+Agent 173.426000 175.463250 [silence]
+Agent 175.463250 177.045750 oh uh-huh
+Agent 177.045750 178.622625 [silence]
+Agent 178.622625 179.939750 um-hum
+Agent 179.939750 187.034375 [silence]
+Customer 180.374625 192.424125 you know very successful and a lot of fun and more work than i've ever done in my life and at the same time i got all of that out of my system and it is so it's so wonderful now and i'm so appreciative too of and and i know
+Agent 187.034375 189.399750 [laughter]
+Agent 189.399750 191.638500 [laughter]
+Agent 191.638500 199.914125 [silence]
+Customer 192.424125 197.605000 now i think so much better than some of my coworkers what it means
+Customer 197.605000 201.067250 to and have somebody that's providing
+Agent 199.914125 203.443375 [laughter] um-hum [laughter]
+Customer 201.067250 208.353375 some of this stuff for you and uh you know i'm real lucky my company has good uh health benefits and dental
+Agent 203.443375 206.799875 [silence]
+Agent 206.799875 208.615125 benefits um-hum
+Customer 208.353375 213.783625 and also uh retirement plan on a contributory thrift plan that i'm
+Agent 208.615125 211.977500 [silence]
+Agent 211.977500 213.443500 um-hum
+Agent 213.443500 218.950625 [silence]
+Customer 213.783625 219.721250 i was just thinking about that today i need to up my contribution to that if i can force myself to save a little bit more
+Agent 218.950625 229.182250 um-hum well i know that my husband the company he's with now has excellent uh hospitalization and prescription card and dental insurance but they have no retirement
+Customer 219.721250 228.708375 [silence]
+Customer 228.708375 231.138750 uh-huh yeah
+Agent 229.182250 237.579500 benefits and you know we definitely you know miss this i grew up in a family that had their own business you cannot pay me enough money
+Customer 231.138750 243.537000 [silence]
+Agent 237.579500 244.380250 to go into business for myself and my [laughter-husband] has watched my family and i don't believe you could pay him enough
+Customer 243.537000 257.278375 yeah well i tell you until you've done it you don't know what it's like you y[ou]- it's on your mind twenty four hours a day seven days a week and i'm i literally drove myself nearly insane i was at the office on Saturdays and Sundays i'd get up at
+Agent 244.380250 248.244250 [silence]
+Agent 248.244250 250.998875 um-hum um-hum um-hum
+Agent 250.998875 254.694750 [silence]
+Agent 254.694750 257.822375 um-hum um-hum you're always
+Customer 257.278375 263.961125 i'd get up at i'd be sitting around at at nine nine o'clock at night and get up and go to the office and work until one o'clock
+Agent 257.822375 263.466625 [silence]
+Agent 263.466625 264.856375 um-hum
+Customer 263.961125 266.075375 y[ou]- you know and
+Agent 264.856375 272.128750 well and you think you know okay [laughter] you know are the employees going to get paid this [laughter-week] you know are we going to meet our [vocalized-noise] i
+Customer 266.075375 268.942000 [silence]
+Customer 268.942000 276.104250 precisely precisely and then the employees get paid and you don't [laughter]
+Agent 272.128750 273.460750 [silence]
+Agent 273.460750 286.005750 that's right that's right i can remember my dad saying somebody saying they wished you know beef wasn't so high you know they could only afford chicken and my dad said if someone doesn't buy some beef i'm not gonna be able to afford the chicken
+Customer 276.104250 285.189125 [silence]
+Customer 285.189125 287.076625 yeah yeah
+Agent 286.005750 287.783250 you know and uh
+Customer 287.076625 292.068625 well i'll tell you i'll tell you the odds are definitely stacked against the small business person
+Agent 287.783250 291.167250 [silence]
+Agent 291.167250 294.658750 they they really are they really are c[old]- um
+Customer 292.068625 298.690000 uh the problem that we ran into is that you know we we [noise] got beyond just being a real t[ime]-
+Agent 294.658750 298.690000 [silence]

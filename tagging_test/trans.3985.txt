@@ -1,0 +1,104 @@
+Agent 0.000000 0.584500 [noise]
+Customer 0.000000 8.232500 [noise] -[o]kay Bill um as you think over the plans and so forth that the company you're working with now who do you work with this time
+Agent 0.584500 7.585750 [silence]
+Agent 7.585750 9.488375 well i own a company
+Customer 8.232500 11.222375 you own the company alright
+Agent 9.488375 12.466750 i'm the president and CEO of the company
+Customer 11.222375 13.148375 my goodness
+Agent 12.466750 16.095750 so uh i guess uh i determine what the benefits are
+Customer 13.148375 17.084375 [silence]
+Agent 16.095750 20.864750 [laughter]
+Customer 17.084375 19.344250 yeah i guess you do
+Customer 19.344250 20.810625 [silence]
+Customer 20.810625 22.042250 hum
+Agent 20.864750 26.047750 but uh y[ou]- so what are you asking me what [vocalized-noise] what benefits i think are most important
+Customer 22.042250 25.028125 [silence]
+Customer 25.028125 34.569750 well what what do you think of the let's put it this way what do you think are the most important benefits for those working for you other than other than their present salary
+Agent 26.047750 33.774625 [silence]
+Agent 33.774625 44.483250 um i'd say in today's economy uh besides basic benefits uh such as um health insurance and life insurance and the uh some type of retirement plan
+Customer 34.569750 44.002625 [silence]
+Customer 44.002625 45.237625 um-hum
+Agent 44.483250 48.430750 i'd say that uh most of the employees uh um
+Customer 45.237625 52.523000 [silence]
+Agent 48.430750 52.602500 that we have really like a a profit sharing plan
+Customer 52.523000 55.494375 a profit sharing plan that's interesting um-hum
+Agent 52.602500 54.542250 [silence]
+Agent 54.542250 62.440250 they like to participate in the profits of the company like they're p[art]- like you know because they feel like well we're contributing to it so we'd like to participate in it
+Customer 55.494375 64.545375 [silence]
+Agent 62.440250 70.428625 and so that means i make a little bit less but the thing is that really you make a little more because everybody has a interest in in it working
+Customer 64.545375 65.499875 [noise]
+Customer 65.499875 70.355500 [silence]
+Customer 70.355500 77.822125 yes because they [noise] they have a specific reason to do so because they themselves benefit from doing a better job
+Agent 70.428625 76.983000 [silence]
+Agent 76.983000 78.203125 right
+Customer 77.822125 87.961625 [silence]
+Agent 78.203125 86.305375 i think most people uh don't want money um it's been my experience most people want uh to feel like they're participating in something that uh
+Agent 86.305375 91.598000 that is not a drudgery you know that they ca[n]- enjoy and that they can get some benefits out of
+Customer 87.961625 89.159625 um-hum
+Customer 89.159625 89.640000 [noise]
+Customer 89.640000 90.643875 [silence]
+Customer 90.643875 92.316250 and it's a contribution
+Agent 91.598000 93.093125 right
+Customer 92.316250 102.371750 well Bill uh that idea fits me exactly i just retired from uh the university here and that's been the goal of my life was to
+Agent 93.093125 124.028000 [silence]
+Customer 102.371750 109.267500 contribute and u[m]- to the work that i was doing in my research and that's what made me happy
+Customer 109.267500 116.945375 and uh that's the type of goal i think most people ought to look for and i'm sure a lot of them_1 don't you can't stand in front of a counter and
+Customer 116.945375 124.509375 do that kind of stuff all day and feel like that you're contributing something to a scientific [laughter-level] of knowledge or so forth
+Agent 124.028000 129.675500 yeah well uh our people get a lot of satisfaction um we're a financial planning firm
+Customer 124.509375 125.846875 [laughter]
+Customer 125.846875 128.723000 [silence]
+Customer 128.723000 131.587875 you're a financial planning firm how many uh
+Agent 129.675500 136.769875 uh yes so you said you retired i just happen to have a person that i happened to do some planning for this morning but anyway uh
+Customer 131.587875 134.830500 [silence]
+Customer 134.830500 136.069250 uh-huh
+Customer 136.069250 142.895125 [silence]
+Agent 136.769875 142.089625 uh we do we deal with a lot of people that are uh retired or trying to
+Agent 142.089625 144.314250 retire [laughter]
+Customer 142.895125 145.541250 um-hum oh
+Agent 144.314250 152.373625 and uh it's real important uh that their benefit plans that they get from their companies and from their work that where they were that uh
+Customer 145.541250 157.803375 [silence]
+Agent 152.373625 158.052375 um that it take care of them_1 they don't none of them_1 really want to be rich but they like to have enough to be comfortable
+Customer 157.803375 169.941000 well what what changes would you ha[ve]- have you considered uh in in doing it to you[r]- to your company that might benefit the employees or perhaps the company itself better
+Agent 158.052375 169.460625 [silence]
+Agent 169.460625 176.109000 well um we considering instead of tying a profit sharing plan to a a salary
+Customer 169.941000 192.985250 [silence]
+Agent 176.109000 179.033625 is uh is tie um
+Agent 179.033625 181.523000 uh a percentage
+Agent 181.523000 187.510625 um of business that uh that a person would participate and bring into the company
+Agent 187.510625 194.162375 uh pay them uh based on the percentage of business they bring instead of based on their salary and the re[sult]-
+Customer 192.985250 200.354375 when you say bring in do you mean that they negotiated with people to to come in and uh ask for your support
+Agent 194.162375 199.945125 [silence]
+Agent 199.945125 206.562000 no not necessarily um it can be in house people who help you handle X amount of dollars
+Customer 200.354375 204.746500 [silence]
+Customer 204.746500 209.725875 oh okay um-hum even though they didn't bring it in they help it once it's there
+Agent 206.562000 208.980750 [silence]
+Agent 208.980750 214.377875 right well see we have diff[erent]- we have marketing people and then we have uh financial planners
+Customer 209.725875 210.931375 yeah
+Customer 210.931375 229.842500 [silence]
+Agent 214.377875 219.054125 and uh then we have uh staff secretaries and administrative assistants
+Agent 219.054125 230.549875 and these secretaries and administrative assistants um you know th[at]- if we don't have their cooperation and they're not participating in the profit of the company they they can get very dissatisfied very quickly
+Customer 229.842500 231.055500 um-hum
+Agent 230.549875 236.684625 and so uh we're thinking about paying them instead of a percentage on salary paying them a percentage on the business they handle so
+Customer 231.055500 244.921750 [silence]
+Agent 236.684625 244.543625 administrative assistant that would handle two million dollars worth of business is a lot more valuable than a person that handles a hundred thousand dollars worth of business
+Agent 244.543625 246.117625 and uh
+Customer 244.921750 254.612750 yes but it it might not be necessarily because he did a good or bad job but it might be whether the lo[cality]- locality there those people want that kind of support
+Agent 246.117625 255.250875 [silence]
+Customer 254.612750 265.443250 [silence]
+Agent 255.250875 261.989500 well and an[d]- and but to see the thing is that they give support to the financial planner that they're the assistant to
+Agent 261.989500 267.266875 or that they usually have several people they report to that you know that they work together with
+Customer 265.443250 266.676750 um-hum
+Customer 266.676750 267.925750 um-hum
+Agent 267.266875 270.645625 uh it encourages them not to uh complain
+Customer 267.925750 278.679500 [silence]
+Agent 270.645625 279.284250 when they realize that they get a part of the of the action based on their efforts not based on being sitting back saying well make me do it
+Customer 278.679500 279.997000 um-hum
+Agent 279.284250 284.657875 see we don't want anybody around here that says make me do it i don't think anybo[dy]- any i think most people want to be
+Customer 279.997000 282.098375 [silence]
+Customer 282.098375 283.448875 yeah
+Customer 283.448875 295.015000 [silence]
+Agent 284.657875 295.148125 lack a better termi[nology]- terminology they want to be self employed but they don't want to take the risk in other words they like to control their own future but they also want to be somewhat content to go and come as they please
+Customer 295.015000 296.484750 that's true
+Agent 295.148125 298.754000 without some real strict adherence which that's what we have
+Customer 296.484750 297.540375 [silence]
+Customer 297.540375 298.754000 um-hum

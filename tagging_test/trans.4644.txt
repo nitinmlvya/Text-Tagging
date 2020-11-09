@@ -1,0 +1,116 @@
+Agent 0.000000 0.531750 [noise]
+Customer 0.000000 0.274125 [noise]
+Customer 0.274125 6.408875 well um preferred benefits um i worked for a large corporation in the past
+Agent 0.531750 54.603250 [silence]
+Customer 6.408875 12.425750 and i think large corporations can give better benefits than small corporations because
+Customer 12.425750 25.565375 right now i'm working for a very small corporation where the owner is right there and uh there's a lot of profit that's coming in but when it comes to uh small corporations they seem to
+Customer 25.565375 30.825625 pocket it a little bit quick quickly or whatever or however you wanna say it
+Customer 30.825625 32.260125 and uh
+Customer 32.260125 41.274750 the benefits aren't as great as when i worked for a big corporation because the big corporations seem to look at its employees and say
+Customer 41.274750 52.308000 okay we've got this amount of money let's put into this plan this plan you got Four O One K plans you have uh better vacation plans uh you have just
+Customer 52.308000 58.543375 in general maternity leave plans tha[t]- that kind of thing big corporations are able to do that versus
+Agent 54.603250 55.898625 um-hum
+Agent 55.898625 75.060125 [silence]
+Customer 58.543375 61.548250 small corporations uh
+Customer 61.548250 67.333625 you know they just don't have the money or just uh feel that there isn't a need for it
+Customer 67.333625 75.497000 so i've worked for both big and small so i've had a chance to kind of take a look at uh the pros and cons of both
+Agent 75.060125 76.484125 right
+Customer 75.497000 80.952750 [silence]
+Agent 76.484125 86.034750 well i've worked for uh well i worked for H and R Block here in Massachusetts for awhile and the only they even hate to give out unemployment
+Customer 80.952750 81.793625 sure
+Customer 81.793625 83.016500 um-hum
+Customer 83.016500 85.536000 [silence]
+Customer 85.536000 87.378125 sure um-hum
+Agent 86.034750 95.258625 at the end of tax season because they you know they're fairly even though they're a large scale company they're very the offices individual offices are very small
+Customer 87.378125 88.411000 [vocalized-noise]
+Customer 88.411000 91.776625 [silence]
+Customer 91.776625 92.820250 sure
+Customer 92.820250 94.505375 [silence]
+Customer 94.505375 95.853250 uh-huh
+Agent 95.258625 105.130500 and now i work for the Framingham school tea[cher]- uh school system because i'm a teacher and uh we have much better benefits
+Customer 95.853250 100.244750 [silence]
+Customer 100.244750 101.754500 uh-huh sure
+Customer 101.754500 106.699375 [silence]
+Agent 105.130500 113.422875 you know in the system we have a good pension plan um let me see we have a profit sharing plan to a degree
+Customer 106.699375 107.806750 uh-huh
+Customer 107.806750 112.693000 [silence]
+Customer 112.693000 117.605125 that's pretty good for you know being a a school district type program
+Agent 113.422875 116.832000 [silence]
+Agent 116.832000 126.156500 right and we have the eye glasses the health care and the whole kit and caboodle because what they did is they threw the all the town employees in together
+Customer 117.605125 120.272875 [silence]
+Customer 120.272875 121.479750 um-hum
+Customer 121.479750 122.533125 [silence]
+Customer 122.533125 123.991125 wow
+Customer 123.991125 126.042875 [silence]
+Customer 126.042875 127.957500 that's extremely good
+Agent 126.156500 127.688625 [silence]
+Agent 127.688625 129.810375 yeah [vocalized-noise]
+Customer 127.957500 137.667000 because like like the small corporation that i work for there's no pension plan there's no type of uh savings of any sort that the company will reimburse you for
+Agent 129.810375 131.694875 [silence]
+Agent 131.694875 133.091125 really
+Agent 133.091125 145.831250 [silence]
+Customer 137.667000 146.106625 there's really i think you're allowed so many times uh i think two or three days a w[eek]- a year it's not accumulative type of sick leave
+Agent 145.831250 147.061000 oh
+Customer 146.106625 155.555000 um you know things like that so i've been looking at big corporations and saying the big corporation that i've worked for in the past had the pension plans had the big health
+Agent 147.061000 169.275000 [silence]
+Customer 155.555000 162.345125 health care uh you had your insurance and you didn't have to pay in as much as if you go to a a very small place
+Customer 162.345125 169.395750 um they don't have as good as insurance packages as big corporations
+Agent 169.275000 180.450750 right the only trouble we've had here in Massachusetts is the town and state employees have run into problem especially the retired ones my father's retired from the town of Framingham
+Customer 169.395750 170.549125 an[d]-
+Customer 170.549125 174.154750 [silence]
+Customer 174.154750 175.530000 um-hum
+Customer 175.530000 179.762125 [silence]
+Customer 179.762125 180.994375 sure
+Agent 180.450750 185.971500 and he said that they haven't gotten a a cost of living raise in over five years
+Customer 180.994375 184.172500 [silence]
+Customer 184.172500 187.469625 no yeah yeah
+Agent 185.971500 193.736875 and he said that's the only thing that really stinks as far as being retired an[d]- but i hear that bill is in the Senate right now and it's
+Customer 187.469625 190.003625 [silence]
+Customer 190.003625 190.994250 uh-huh
+Customer 190.994250 193.027750 [silence]
+Customer 193.027750 195.204375 sure sure
+Agent 193.736875 195.899375 hopefully will go through
+Customer 195.204375 196.761250 yeah yeah
+Agent 195.899375 208.183000 but um you know i think the schools are at where the schools isn't just the school system and not just the teachers they took in the whole town plus all you know
+Customer 196.761250 201.871875 [silence]
+Customer 201.871875 203.195125 um-hum
+Customer 203.195125 206.342000 [silence]
+Customer 206.342000 207.871750 is it a union
+Customer 207.871750 210.041125 [silence]
+Agent 208.183000 214.983625 uh we have the teachers union which helps out a lot but the town of Framingham pays the benefits and
+Customer 210.041125 211.437875 um-hum
+Customer 211.437875 213.909750 [silence]
+Customer 213.909750 215.642375 oh that's pretty good
+Agent 214.983625 223.540500 that's all the town workers water and sewer and where it's a very large town it's actually should be a city but they kept it a town
+Customer 215.642375 217.296750 [silence]
+Customer 217.296750 218.592250 um-hum
+Customer 218.592250 222.959375 [silence]
+Customer 222.959375 224.169250 sure
+Agent 223.540500 228.403375 um where it's extremely large they were able to offer a little bit more
+Customer 224.169250 228.569125 [silence]
+Agent 228.403375 234.315250 which was really great because_1 we don't have to pay a mayor [laughter]
+Customer 228.569125 229.797000 yeah
+Customer 229.797000 230.986500 [silence]
+Customer 230.986500 240.323250 uh-huh yeah yeah i know what you mean and that's true i mean yeah i[t]- it does end up being quite a bit when you have to hire somebody for that position sure
+Agent 234.315250 239.593625 [silence]
+Agent 239.593625 246.137000 right because_1 most of our you know the town employees as far as uh electoral positions are part time
+Customer 240.323250 245.499250 [silence]
+Customer 245.499250 246.730625 uh-huh
+Agent 246.137000 251.945625 so it [laughter-works] [laughter-out] [laughter-good] [laughter-because] we reap the benefits of it and um
+Customer 246.730625 247.731125 [silence]
+Customer 247.731125 248.869000 sure
+Customer 248.869000 249.923250 [silence]
+Customer 249.923250 251.131875 uh-huh
+Customer 251.131875 256.388875 [silence]
+Agent 251.945625 256.901125 but as far as shopping for a job i'd rather shop for the benefits than the salary [laughter]
+Customer 256.388875 267.392250 well that's it you know and and i've kind of looked around uh at that uh too because uh salary wise i don't think i'm making as much with a big corporation because i think when you look at big corps
+Agent 256.901125 275.477875 [silence]
+Customer 267.392250 271.689750 or large i'm talking like huge companies like Three M
+Customer 271.689750 282.686875 um i'm Honeywell uh uh Texas Instruments [laughter] i know people that are that have vacation times and bene[fits]- benefits that
+Agent 275.477875 278.178500 right [laughter]
+Agent 278.178500 291.949000 [silence]
+Customer 282.686875 292.394500 i wouldn't even dream of in this small corporation you bring it up to the owner and it's like come on you know partly it's because the owner wants to keep getting richer and richer
+Agent 291.949000 293.407625 right
+Customer 292.394500 298.423000 and and of course when it's a small corporation it also wants to expand so that money's spent
+Agent 293.407625 298.946000 [silence]
+Customer 298.423000 298.946000 in a

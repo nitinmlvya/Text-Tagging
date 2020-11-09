@@ -1,0 +1,101 @@
+Agent 0.000000 1.062500 [noise]
+Customer 0.000000 3.725500 [noise] yeah they just raised our taxes up here about a year ago
+Agent 1.062500 4.497875 [silence]
+Customer 3.725500 23.664500 [silence]
+Agent 4.497875 16.451000 well they've uh statewide raises they raise ours it seems like constantly we just uh passed a new one
+Agent 16.451000 24.376875 uh fortunately or unfortunately it doesn't go into effect because we did not get the United Airlines
+Customer 23.664500 27.016750 oh right Indianapolis got that didn't they
+Agent 24.376875 25.823375 [silence]
+Agent 25.823375 31.331125 right and uh we had passed a
+Customer 27.016750 43.848625 [silence]
+Agent 31.331125 39.027875 a provisional one that if if it did if they did locate here we would raise our taxes
+Agent 39.027875 45.164375 but uh at least we thought we'd get something back from that
+Customer 43.848625 45.345375 yeah
+Agent 45.164375 48.423250 uh how do you feel about taxes
+Customer 45.345375 48.189625 [silence]
+Customer 48.189625 55.068500 oh it seems like a big politics game like up here last year the governor's up for reelection so
+Agent 48.423250 63.188125 [silence]
+Customer 55.068500 64.070500 he said the budget was fine an[d]- tha[t]- the state didn't have any money and then right after he won the election he said we owed a lot of money so they raised all our taxes
+Agent 63.188125 65.265250 [laughter]
+Customer 64.070500 68.727000 and now it's election time again so they're trying to lower them_1
+Agent 65.265250 68.150625 [silence]
+Agent 68.150625 69.760750 oh
+Customer 68.727000 73.172250 so they're just talk about lowering them_1 but they never do they just keep raising them_1
+Agent 69.760750 72.901125 [silence]
+Agent 72.901125 76.463000 i've never seen taxes really go down
+Customer 73.172250 75.539250 [silence]
+Customer 75.539250 88.150000 yeah me neither well actually they're going to here because they didn't have a budget for so long so they raised the tax rate real high for the last three months of this year and they're gonna lower it for next year
+Agent 76.463000 89.280000 [silence]
+Customer 88.150000 89.280375 [silence]
+Agent 89.280000 91.364125 oh [noise]
+Customer 89.280375 93.700625 i guess they figure they're gonna make up for all they didn't get when they should've had a budget
+Agent 91.364125 93.973375 [silence]
+Customer 93.700625 96.074000 [silence]
+Agent 93.973375 99.363125 i hope they put that in [laughter-writing] [laughter]
+Customer 96.074000 101.076875 yeah [laughter] yeah they say they're gonna lower but i'll see
+Agent 99.363125 100.699375 [silence]
+Agent 100.699375 111.987625 i feel like the middle class people are supporting the nation [noise] and uh that the rich are not paying their share and of course the poor
+Customer 101.076875 129.498250 [silence]
+Agent 111.987625 113.730250 [silence]
+Agent 113.730250 123.089875 can't afford it either but uh i really feel like and and i feel like you know i'm a middle class person
+Agent 123.089875 130.194250 i[ncome]- {incomewise} anyway and uh i get tired of supporting the whole country
+Customer 129.498250 138.053750 yeah so do i- i mean i'm a a middle class barely but uh i don't think the rich are paying more [let/less] not enough i think they're paying too much
+Agent 130.194250 137.674500 [silence]
+Agent 137.674500 141.137750 [noise] you think the rich are paying too much
+Customer 138.053750 140.413500 [silence]
+Customer 140.413500 149.125250 yeah i mean if you're in the the three three percent bracket and they take a third of your check every month well that's ridiculous why bother working
+Agent 141.137750 148.608500 [silence]
+Agent 148.608500 158.451875 [noise] well i don't know many rich that don't have enough tax breaks to i mean i'm talking about the really rich
+Customer 149.125250 157.629375 [silence]
+Customer 157.629375 162.103000 well they should just tax everybody the same amount no matter what you make
+Agent 158.451875 161.304375 [silence]
+Agent 161.304375 163.094250 right
+Customer 162.103000 163.821375 that'd be fair
+Agent 163.094250 166.948250 now i'll go along with that i you know
+Customer 163.821375 164.970000 [silence]
+Customer 164.970000 170.331500 yeah no loopholes or anything everybody pays ten percent or fifteen or whatever
+Agent 166.948250 169.691875 [silence]
+Agent 169.691875 176.596750 right now i think that would be fair and i you know [noise]
+Customer 170.331500 172.986000 [silence]
+Customer 172.986000 174.382625 right
+Customer 174.382625 198.451375 [silence]
+Agent 176.596750 189.292500 no no ifs ands and buts you know no big elaborate laws that say uh you know call for a lot of enforcement or a lot of review it's just
+Agent 189.292500 199.271125 you know you make this you pay ten percent [noise] if you make a hundred dollars you pay ten percent if you make a million dollars you pay ten percent
+Customer 198.451375 201.163125 yeah that's the way our state tax is here
+Agent 199.271125 203.920250 [silence]
+Customer 201.163125 202.497000 [silence]
+Customer 202.497000 204.349875 i think it's pretty fair
+Agent 203.920250 208.938125 [noise] our state taxes are somewhat based on the federal
+Customer 204.349875 208.458000 [silence]
+Customer 208.458000 209.682125 hm
+Agent 208.938125 219.553375 [noise] and uh [noise] they have not gotten it [noise] where the withholding is accurate [noise]
+Customer 209.682125 218.188375 [silence]
+Customer 218.188375 220.265875 oh [laughter]
+Agent 219.553375 229.546875 so and and you withhold no matter what you do they withhold what they're supposed to and at the end of the year it's not enough
+Customer 220.265875 228.940500 [silence]
+Customer 228.940500 234.009375 oh great so you ought to be saving up some every month to make up for all what they should be taking out
+Agent 229.546875 233.171000 [silence]
+Agent 233.171000 246.079750 right so now you know when you sign your W-4 form or whatever W-2 whatever that is then they always say do you want a extra amount for state
+Customer 234.009375 238.921625 [silence]
+Customer 238.921625 240.285125 um-hum
+Customer 240.285125 245.278750 [silence]
+Customer 245.278750 246.545500 [laughter]
+Agent 246.079750 253.247000 [noise] which is ridiculous but it's been that way for the last probably ten years
+Customer 246.545500 252.379000 [silence]
+Customer 252.379000 257.100875 yeah i guess you you have to check yes or you come down to the end of the year and you don't have it to give it to them_1
+Agent 253.247000 256.320500 [silence]
+Agent 256.320500 266.447125 right unless you have a lot of deductions but you know if you have a lot of federal deduction it ends up hurting you {statewise}
+Customer 257.100875 259.979625 [silence]
+Customer 259.979625 261.458750 yeah
+Customer 261.458750 265.842250 [silence]
+Customer 265.842250 267.241125 really
+Agent 266.447125 275.747375 [noise] and you end up owing [noise] you know you may get nine hundred dollars back from federal and you're gonna owe [noise] fifteen hundred in the state
+Customer 267.241125 274.740750 [silence]
+Customer 274.740750 276.576250 ouch [laughter]
+Agent 275.747375 289.364375 [noise] and uh it's it's just ridiculous but i- i don't know i've they just came up with a twenty five percent increase on personal property in in Oklahoma county
+Customer 276.576250 292.986625 [silence]
+Agent 289.364375 294.278250 [noise] and that is a chunk
+Customer 292.986625 295.455000 yeah i'll say [laughter]
+Agent 294.278250 298.626000 [noise] i mean twenty five percent increase
+Customer 295.455000 297.900250 [silence]
+Customer 297.900250 298.626000 ye[ah]-

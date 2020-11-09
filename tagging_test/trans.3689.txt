@@ -1,0 +1,117 @@
+Agent 0.000000 2.959625 [silence]
+Customer 0.000000 0.829250 [silence]
+Customer 0.829250 3.415125 do you do you have a lot of credit cards
+Agent 2.959625 7.336500 um no i have i have two actually
+Customer 3.415125 7.015750 [silence]
+Customer 7.015750 8.877625 well that's all i have too
+Agent 7.336500 8.444250 [silence]
+Agent 8.444250 13.222750 yeah i um one of them_1 one of them_1 i use one of them_1 i don't
+Customer 8.877625 17.490250 [silence]
+Agent 13.222750 18.142250 uh one of them_1 is like an American Airlines thing where you get free mileage
+Customer 17.490250 21.014000 oh yeah i've heard about those
+Agent 18.142250 19.631000 i
+Agent 19.631000 25.747875 yeah it's pretty good i use that and i got i'm close to a free plane ticket anywhere in the United States
+Customer 21.014000 24.443500 [silence]
+Customer 24.443500 26.729875 oh that's nice
+Agent 25.747875 28.807750 and and the other one is uh um
+Customer 26.729875 33.971125 [silence]
+Agent 28.807750 37.342000 a credit card i got it was a while ago i got it like a free gold card and it's good if i ever rent a car it pays for uh it pays for the insurance
+Customer 33.971125 35.481500 oh really
+Customer 35.481500 36.703000 [silence]
+Customer 36.703000 37.814875 [laughter]
+Agent 37.342000 48.305625 so i keep that i never use that one but i happen to be going on vacation soon and i'm going to be renting a car so i'll put it on that card and then if i got an accident they would pay for the insurance yeah they would pay for the accident
+Customer 37.814875 38.964000 really
+Customer 38.964000 46.188000 [silence]
+Customer 46.188000 48.197375 really
+Customer 48.197375 57.533625 yeah i only have two one of mine's a gas card that i use just for my gas to and from work and the other one's a Visa for emergencies only
+Agent 48.305625 55.972250 [vocalized-noise]
+Agent 55.972250 57.176125 [noise]
+Agent 57.176125 59.026875 yeah
+Customer 57.533625 65.811375 like if i go on trips and stuff i take it with me in case my car breaks down or something but other than that i keep it locked up [laughter]
+Agent 59.026875 64.932875 [silence]
+Agent 64.932875 75.542625 yeah i never i never uh like i always pay you know like sometimes i use it out of convenience but i don't i don't run like on a a monthly balance you know i always pay whatever it is that that month
+Customer 65.811375 75.187125 [silence]
+Customer 75.187125 82.160375 yeah i just i make it a habit not even to carry my Visa because i've seen too many of my friends get in deep financial trouble with it
+Agent 75.542625 76.990625 um
+Agent 76.990625 81.244375 [silence]
+Agent 81.244375 90.961000 yeah well [laughter-you] [laughter-can't] it sometimes it easy i live in in in New York City and uh if you're going to go out and buy something for a hundred two hundred dollars
+Customer 82.160375 95.620250 [silence]
+Agent 90.961000 102.587500 not that it's such a dangerous place but you know i just sometimes i don't feel that comfortable carrying a lot of money around so it's good to have a credit card to pay for it with that um i use it for that where you live in LA
+Customer 95.620250 97.092625 yeah
+Customer 97.092625 101.989250 [silence]
+Customer 101.989250 107.695875 no thank heavens i live in National City which is almost as bad
+Agent 102.587500 106.432625 [silence]
+Agent 106.432625 108.273500 where is that
+Customer 107.695875 110.875000 National City it's outside of San Diego
+Agent 108.273500 109.892875 [silence]
+Agent 109.892875 111.888250 oh okay okay
+Customer 110.875000 113.431125 and unfortunately
+Agent 111.888250 117.968750 [silence]
+Customer 113.431125 118.962500 there's a lot of gangs around here so it's like i don't carry money and i don't carry credit cards
+Agent 117.968750 119.695375 right
+Customer 118.962500 132.262875 [silence]
+Agent 119.695375 122.342875 uh yeah it's probably a good idea
+Agent 122.342875 133.002500 but uh yeah but i- i don't mind i- i don't see what the big deal is with um i- i- i couldn't see spending more than i had to pay the bill with because eventually it's going to catch up with you
+Customer 132.262875 142.472250 i know i don't see how people can do that either but i know a lot of my friends have gotten in tr[ouble]- deep trouble with them and it's like well why'd you guys do it oh well it's so easy to use [laughter]
+Agent 133.002500 141.371000 [silence]
+Agent 141.371000 143.247125 right
+Customer 142.472250 149.636750 and it's like yeah it's easy to use but you have to pay for it you know [laughter] didn't this dawn on you but
+Agent 143.247125 145.563625 [silence]
+Agent 145.563625 148.113500 sure sure
+Agent 148.113500 153.071000 [silence]
+Customer 149.636750 154.683500 i got my credit cards through a guarantee agency do you know what that is
+Agent 153.071000 155.177750 right uh no
+Customer 154.683500 159.178125 you give them you put so much money in an annuity
+Agent 155.177750 163.461625 [silence]
+Customer 159.178125 167.510250 and it guarantees your credit card like say if something happened to you they could still pay off the balance with what's in there
+Agent 163.461625 164.872750 right
+Agent 164.872750 167.267125 [silence]
+Agent 167.267125 168.278000 that's cool
+Customer 167.510250 171.545375 and whatever your limit is you keep that much in your annuity fund
+Agent 168.278000 180.341125 [silence]
+Customer 171.545375 176.803750 and it's worked pretty good for what i've had it for about five years now
+Customer 176.803750 184.553375 and you can take the annuity out the money out of the annuity if you want to but it's just there like you know in case you died suddenly or something
+Agent 180.341125 181.731625 right
+Agent 181.731625 184.007375 [silence]
+Agent 184.007375 184.677750 right
+Customer 184.553375 187.311625 you know they wouldn't be stuck with the bill
+Agent 184.677750 187.217125 [silence]
+Agent 187.217125 189.728250 cool cool th[at]- that's
+Customer 187.311625 190.112500 so i like it that way
+Agent 189.728250 193.521125 yeah you know they get paid for if you're dead right you know [laughter]
+Customer 190.112500 191.954625 [silence]
+Customer 191.954625 199.342500 yeah at least they won't be coming after my husband you know saying hey your wife's charged so much money on this credit card we want the money [laughter]
+Agent 193.521125 198.473750 [silence]
+Agent 198.473750 202.335375 that's true but then again you don't have to deal with him if you're dead so
+Customer 199.342500 201.717750 [silence]
+Customer 201.717750 203.703875 no but [noise]
+Agent 202.335375 203.419250 [laughter]
+Agent 203.419250 206.546000 [silence]
+Customer 203.703875 207.981875 i don't know i wouldn't want to leave him and my kids in that kind of a situation
+Agent 206.546000 208.786625 that's true that's true
+Customer 207.981875 212.611125 but i'll tell you what it comes in real handy when you've got kids [laughter]
+Agent 208.786625 213.237750 [silence]
+Customer 212.611125 222.445000 cause we went we went on a trip to Arizona we drove there and the car broke down and it was me and my husband and our two kids in that car and Arizona is really hot
+Agent 213.237750 214.126125 [vocalized-noise]
+Agent 214.126125 215.498000 [silence]
+Agent 215.498000 216.469750 right
+Agent 216.469750 228.664375 [silence]
+Customer 222.445000 229.767375 and it's like you know if we didn't have that Visa we would've been stuck there in that heat for heaven knows how long
+Agent 228.664375 237.042750 yeah that was like yeah li[ke]- like the first time i ever got a credit card was for that reason because i was in uh where the heck was i
+Customer 229.767375 257.301625 [silence]
+Agent 237.042750 239.829375 [silence]
+Agent 239.829375 251.145625 i forget where i was i know i was in Europe one time and they ran out of money but i couldn't get money on my credit card eith[er]- oh i was up i was dating a woman upstate New York and i was up in uh upstate and i
+Agent 251.145625 264.075125 had been in college and i guess i took like a hundred two hundred dollars with me or whatever at that ti[me]- time maybe fifty bucks was enough to live on for a week but i [laughter] i took some money with me and i ran out of money like at the end of the first weekend i was supposed to be there for a week
+Customer 257.301625 258.470500 yeah
+Customer 258.470500 263.915250 [silence]
+Customer 263.915250 265.007375 huh
+Agent 264.075125 271.906250 and i needed to i called up my father and i said dad you know go to my bank account and withdraw a couple of hundred bucks or whatever it was and could you
+Customer 265.007375 277.866500 [silence]
+Agent 271.906250 282.306125 send it Western Union and it was a pain in the neck i had to like wait till Monday and you know wait till the office opened and it took time and everything became a pain so what i did was i uh
+Customer 277.866500 279.224375 yeah
+Customer 279.224375 288.623625 [silence]
+Agent 282.306125 291.902000 so what i did right after that is i got myself a credit card in case it ever happened again i can always you know buy something on the credit card and and not have to worry about carrying cash around
+Customer 288.623625 290.157375 yeah
+Customer 290.157375 299.458000 [silence]
+Agent 291.902000 297.623750 so that was about ten ten twelve years ago and i've always had one since and like you said for that reason it's it's easy
+Agent 297.623750 299.458000 you know if you need the cash i couldn't imagine

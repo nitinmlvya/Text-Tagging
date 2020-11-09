@@ -1,0 +1,112 @@
+Agent 0.000000 0.520125 [noise]
+Customer 0.000000 0.647250 [noise]
+Agent 0.520125 4.017500 [silence]
+Customer 0.647250 4.878125 wha[t]- wha[t]- what sort of company do you work for do you work for a big place or a little place
+Agent 4.017500 8.899000 uh i work for Georgia Tech yes sir i work for the research facility
+Customer 4.878125 18.571375 [silence]
+Agent 8.899000 19.137875 um and it's it's kind of small in a sense but it it does have about uh i guess two thousand civil employees
+Customer 18.571375 20.090875 um-hum
+Agent 19.137875 26.899500 and on a a scale i guess it's still considered small it just have a lot of different laboratories
+Customer 20.090875 26.168750 [silence]
+Customer 26.168750 27.636875 um-hum
+Agent 26.899500 33.469000 the area i work in it it primarily have maybe a hundred people or so
+Customer 27.636875 32.541000 [silence]
+Customer 32.541000 34.112125 um-hum
+Agent 33.469000 38.210750 so that's make up most of the laboratory
+Customer 34.112125 42.166500 [silence]
+Agent 38.210750 45.553875 so from from that standpoint it's pretty small it's pretty small what about yourself
+Customer 42.166500 43.664875 um-hum
+Customer 43.664875 44.974750 hm
+Customer 44.974750 51.377625 well i- i work for uh actually probably similar kind of place i work for uh Lincoln Laboratory
+Agent 45.553875 50.462875 [silence]
+Agent 50.462875 52.387250 oh okay
+Customer 51.377625 56.413875 uh yeah we actually we do some work with some people down at Georgia Tech
+Agent 52.387250 55.357125 [silence]
+Agent 55.357125 57.127875 oh okay
+Customer 56.413875 67.733250 um and uh so we're we're part we're actually part of MIT so it's very much the same kind of place and a technical institution
+Agent 57.127875 58.007375 [silence]
+Agent 58.007375 59.113000 yes
+Agent 59.113000 63.799375 [silence]
+Agent 63.799375 65.577500 oh okay
+Agent 65.577500 66.941625 [silence]
+Agent 66.941625 68.434500 right
+Customer 67.733250 80.801125 uh while i was sitting here waiting while they tried to find somebody for me to talk to trying to think of what uh uh what things were important uh besides salary and a and a job i guess uh
+Agent 68.434500 69.627500 uh
+Agent 69.627500 87.548375 [silence]
+Customer 80.801125 91.627750 some of the list i had scribbled down was the people you work with and maybe the uh the challenge of the work and uh the working conditions things like that
+Agent 87.548375 88.843875 um-hum
+Agent 88.843875 90.661500 [silence]
+Agent 90.661500 92.432125 right [noise]
+Customer 91.627750 96.964750 i don't know what are your uh what sorts of things would you consider important
+Agent 92.432125 96.247750 [silence]
+Agent 96.247750 107.694250 well those and probably the security aspect of it because a lot of time nowadays even though you're working uh you're treated
+Customer 96.964750 100.620125 [silence]
+Customer 100.620125 102.123750 um-hum
+Customer 102.123750 114.152625 [silence]
+Agent 107.694250 114.855250 and it may not be true in every place in a lot of cases i think you're treated more like a number instead of a a person
+Customer 114.152625 115.487375 um-hum
+Agent 114.855250 119.693125 because when it come down to layoff they don't really consider people and
+Customer 115.487375 127.563875 [silence]
+Agent 119.693125 128.148500 and you know their well being as far as you know how they go[ing]- their next dollars gonna come in how they gonna pay them bills they just lay them_1 off
+Customer 127.563875 128.947250 yeah
+Agent 128.148500 132.404000 and i was reading this book one time about this guy that had
+Customer 128.947250 142.218375 [silence]
+Agent 132.404000 137.753125 uh i think the company still exists what they used to do is they used to
+Agent 137.753125 143.026125 cut the number of hours for everybody as [noise] opposed to just laying people off
+Customer 142.218375 143.642875 um-hum
+Agent 143.026125 149.510625 you know that way that you know one person wouldn't get one big blunt [flow/blow] at one time
+Customer 143.642875 148.841875 [silence]
+Customer 148.841875 150.542625 um-hum
+Agent 149.510625 155.610875 and uh you know i think if they had programs that set up to subsidize people
+Customer 150.542625 192.712500 [silence]
+Agent 155.610875 164.230125 that do get laid off a little bit better you know other than s[omething]- you know something like unemployment is good but i mean the company as a whole because
+Agent 164.230125 167.495000 you as an employee even though the company
+Agent 167.495000 178.898500 is making money they paying you a salary but you are responsible for that company growth you're responsible also for helping that company get to the [par[t]-/point] point that it's at at making profits
+Agent 178.898500 181.576875 so there should be something
+Agent 181.576875 182.585750 [silence]
+Agent 182.585750 193.243750 in there or some kind of clause that will subsidize people if they did lose their job other than you know uh neglect or something like that
+Customer 192.712500 194.269250 um-hum
+Agent 193.243750 200.115000 you know because it's not a person's fault that you know people not buying or [binesses/businesses] are
+Customer 194.269250 212.862875 [silence]
+Agent 200.115000 213.327250 are not on the up and up all the time you know i don't see how one or two people maybe more one or two but you know a number of people can can be the downfall of company a company situation
+Customer 212.862875 215.590750 now how do you mean that i know it
+Agent 213.327250 214.866250 [silence]
+Agent 214.866250 223.865000 well in a sense that say how do you make a a conclusion that you're gonna lay off these ten people
+Customer 215.590750 223.067875 [silence]
+Customer 223.067875 224.570375 um-hum
+Agent 223.865000 232.898625 uh for the bad times of the company what about the the work effort those ten people did when the company was doing well
+Customer 224.570375 232.129875 [silence]
+Customer 232.129875 233.716125 um-hum
+Agent 232.898625 235.920000 you know in that standpoint
+Customer 233.716125 234.943875 [silence]
+Customer 234.943875 242.471000 well you you think it's better than to to try to spread the the effort equally among all the employees of the company or t[o]-
+Agent 235.920000 240.803000 [silence]
+Agent 240.803000 245.851875 ye[s]- yes i do i really do i think it'd be better that way
+Customer 242.471000 244.160375 hm
+Customer 244.160375 250.618125 [silence]
+Agent 245.851875 255.746625 and even at that it would at least give the person time to look for another job because they know that you know that there are problems and you know
+Customer 250.618125 251.913625 um-hum
+Customer 251.913625 258.896375 [silence]
+Agent 255.746625 262.710875 there are reason to look for another job instead of just dumping it on them_1 all at one time
+Customer 258.896375 260.180000 yeah
+Customer 260.180000 261.959500 [silence]
+Customer 261.959500 263.527375 um-hum
+Agent 262.710875 266.470375 you know that's just that's my views you know
+Customer 263.527375 265.688875 [silence]
+Customer 265.688875 276.263875 yeah i've heard of a couple of companies that have done that i think uh back about a few years ago when things were tough Hewlett Packard did that for awhile they went to a uh
+Agent 266.470375 279.660125 [silence]
+Customer 276.263875 278.123250 uh
+Customer 278.123250 284.406625 a four and a half day work week rather than cut yeah just cut everybody back ten percent
+Agent 279.660125 281.016625 right
+Agent 281.016625 283.663625 [silence]
+Agent 283.663625 285.231625 right
+Customer 284.406625 288.159125 and uh have gave everybody a half day a week off
+Agent 285.231625 287.489875 [silence]
+Agent 287.489875 289.055000 right
+Customer 288.159125 292.005375 and i think you can do that for a little while but i'm
+Agent 289.055000 291.066375 [silence]
+Agent 291.066375 295.183000 well at least that would give a person a chance to look
+Customer 292.005375 294.405875 [silence]
+Customer 294.405875 295.851375 yeah
+Agent 295.183000 299.074000 you know because the way it is a person really don't have a chance
+Customer 295.851375 299.074000 [silence]

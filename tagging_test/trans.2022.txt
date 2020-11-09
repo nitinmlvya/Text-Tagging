@@ -1,0 +1,126 @@
+Agent 0.000000 8.154250 [silence]
+Customer 0.000000 0.816750 [noise]
+Customer 0.816750 7.773125 okay so um yes we do keep uh well we started out keeping a budget about two years ago we have a
+Customer 7.773125 19.043000 computer here at the house and i made a Lotus spreadsheet and went through the year using all of our our checkbook to figure out what we spent each time and whether we were over or under for each month
+Agent 8.154250 9.863500 uh-huh
+Agent 9.863500 14.219000 [silence]
+Agent 14.219000 15.577500 uh-huh
+Agent 15.577500 43.149250 [silence]
+Customer 19.043000 26.218750 and then basically since then what i've done is is keep track of it through the checkbook so that based on
+Customer 26.218750 34.879125 whatever we've got coming in check coming in and how much i'm spending each half of the month and then trying to also sp[end]-
+Customer 34.879125 46.290500 and because_1 our house payment is once a month that's our our biggest uh expense so i take half of that amount out of my checkbook each with each paycheck even though it's really still there
+Agent 43.149250 45.244750 uh-huh
+Agent 45.244750 47.197750 uh-huh
+Customer 46.290500 53.668500 so that i can keep a a good balance running total yeah through the month what do y'all do
+Agent 47.197750 48.264375 [silence]
+Agent 48.264375 50.297750 a running total
+Agent 50.297750 52.605000 yeah
+Agent 52.605000 57.342000 uh we've we've uh taken how much we have you know write down how much
+Customer 53.668500 85.433625 [silence]
+Agent 57.342000 67.020125 we have coming in each month and then uh we've at the beginning of the year we sat down and determined how much we could spend we sat d[own]- made up different accounts like
+Agent 67.020125 72.403375 you know we've set a budget for each you know household expenses or food and clothing and
+Agent 72.403375 86.833000 entertainment and then our our own fun money and just stuff like that and then we write down each each time we spend something we write down in a book and end of the month we tally it up to see if how close we've you know we we try to stay within a certain budget so
+Customer 85.433625 90.906875 um-hum is it is it hard to keep track of it or does it work out pretty well
+Agent 86.833000 89.859250 [silence]
+Agent 89.859250 97.954375 um it takes some it takes some dedication to do it but it it works out real well so
+Customer 90.906875 94.794625 [silence]
+Customer 94.794625 100.553125 um-hum and and you're staying within your budget and keep everything is working pretty good
+Agent 97.954375 99.312375 uh-huh
+Agent 99.312375 103.740250 yeah yeah i stay w[ithin]- i have to stay within it so i
+Customer 100.553125 102.154000 [silence]
+Customer 102.154000 104.627750 yeah i foun[d]-
+Agent 103.740250 115.019250 you know and then we have that you know if you can't stay if something comes up and you can't stay within it then we have uh you know a budget for you know like we call our slush fund or something and some[thing]- un[expected]- unexpected comes up then you're not
+Customer 104.627750 107.391125 [silence]
+Customer 107.391125 108.726250 um-hum
+Customer 108.726250 111.347750 [silence]
+Customer 111.347750 112.667125 yeah
+Customer 112.667125 117.321500 [silence]
+Agent 115.019250 115.631000 [noise]
+Agent 115.631000 118.513625 you know you don't feel it so strapped
+Customer 117.321500 121.006500 you don't have to go out and borrow it somewhere and and do that
+Agent 118.513625 125.587875 right yeah because_1 we don't you know we don't charge anything that we can't pay off by the end of the month
+Customer 121.006500 122.732375 [silence]
+Customer 122.732375 123.975875 yeah
+Customer 123.975875 125.022750 [silence]
+Customer 125.022750 130.225125 that's a good choice we've been trying we're trying to uh do that this year we've budgeted
+Agent 125.587875 137.030500 [silence]
+Customer 130.225125 142.611625 the money that we used to spend we were spending on a CODA account with TI and then money we were also buying stock with for that year we've taken that this year and said we're gonna pay off all of our credit cards and uh
+Agent 137.030500 140.270875 uh-huh <b_aside> you got paper under your table <e_aside>
+Agent 140.270875 141.630875 [silence]
+Agent 141.630875 143.027125 uh-huh
+Customer 142.611625 152.841375 we have a another loan with the bank and so we hope by the end of this year that by doing that we'll be free and clear
+Agent 143.027125 145.080875 [silence]
+Agent 145.080875 146.430250 uh-huh
+Agent 146.430250 147.495625 [silence]
+Agent 147.495625 149.770875 to be out of debt
+Agent 149.770875 151.833250 free
+Agent 151.833250 163.222625 yeah the only thing we have it to pay off is our is a automobile loan and our house payment and that's the only thing we ever we try to stay out of debt so
+Customer 152.841375 158.370250 [silence]
+Customer 158.370250 159.766250 yeah
+Customer 159.766250 164.339625 that's good to be in that kind of shape what are y'all trying to do long term
+Agent 163.222625 164.678500 [silence]
+Customer 164.339625 174.835875 [silence]
+Agent 164.678500 175.200250 uh-huh oh as long term [noise] we just he h[as]- you know his retirement plan and then to CODA and stuff like that that's all we've and you know we just have our life insurance for right now
+Customer 174.835875 175.742875 uh-huh
+Agent 175.200250 181.925000 so [noise] we don't have any long term you know in stocks or anything like that right now so
+Customer 175.742875 181.013375 [noise]
+Customer 181.013375 189.961250 yeah mostly what we're doing we've worked [noise] we've done the uh CODA account with TI where they we put in so much a month and then they or so much a paycheck and then they [noise] match it
+Agent 181.925000 189.433000 [silence]
+Agent 189.433000 193.167125 yeah that's what we're doing [noise] so
+Customer 189.961250 203.108250 [noise] and so that that has worked out pretty good and then i used to work for TI and i have when i retired from there or left i took the money that i had in mine and put it in an IRA and we had an out
+Agent 193.167125 194.695375 yeah
+Agent 194.695375 201.415750 [silence]
+Agent 201.415750 203.048875 uh-huh
+Agent 203.048875 211.544625 [silence]
+Customer 203.108250 209.632625 we had an existing IRA so we have both of us have some money in an IRA that we're also trying to figure to
+Customer 209.632625 217.715000 put it we're putting it in CDs right now and then we're also looking at it in possibly getting a [noise] mutual fund
+Agent 211.544625 213.318125 uh-huh
+Agent 213.318125 219.838750 yeah whenever we get enough saved we we stick it in a CD for a while and then uh
+Customer 217.715000 221.403375 [noise] um-hum
+Agent 219.838750 227.020000 you know [noise] and then when we if we need it we wait till it it's expired and then so
+Customer 221.403375 223.237500 [silence]
+Customer 223.237500 230.974000 yeah [noise] the other thing that we've done that that was really nice to see we had one of the financial companies um
+Agent 227.020000 249.488750 [silence]
+Customer 230.974000 241.946500 [noise] Han[cock]- oh [noise] John Hancock company came out and their agents did a long term analysis based on salary [noise] and uh what we were pla[nning]- what
+Customer 241.946500 250.136000 what what our uh goals were on a long [noise] term budget in terms of retirement kid's college paying off the house buying a different house
+Agent 249.488750 251.345375 uh-huh
+Customer 250.136000 258.837125 um special thing buying land and building our own house and they did an analysis for us based on what we were putting in and the time frame that we wanted to look at
+Agent 251.345375 258.275625 [silence]
+Agent 258.275625 259.771000 uh-huh
+Customer 258.837125 272.017125 and then gave us a good idea back you know some good information back on whether or not we were going to achieve those goals and yeah or not or what we needed to do so that we could achieve them and money we could put in at what time
+Agent 259.771000 264.928125 [silence]
+Agent 264.928125 266.880875 or not yeah
+Agent 266.880875 270.677125 [silence]
+Agent 270.677125 283.499250 uh-huh that sounds interesting we've never done any[thing]- we have you know just our our life insurance guy has come out you know and he's set up uh [noise] you know determined how much we need to
+Customer 272.017125 277.729000 [silence]
+Customer 277.729000 278.944250 um-hum
+Customer 278.944250 284.521250 [silence]
+Agent 283.499250 287.132375 you know we need if something were to happen
+Customer 284.521250 286.113375 um-hum
+Customer 286.113375 288.342500 yeah that
+Agent 287.132375 288.987500 you know
+Customer 288.342500 300.274625 that's the other financial thing i guess that we've done is with our life insurance is since i'm at home now is is figuring out uh what we would need if something happened to my husband or what he would need if something happened to me
+Agent 288.987500 290.707250 yeah
+Agent 290.707250 297.452125 [silence]
+Agent 297.452125 305.344500 right yeah y[ou]- you know if i would sell the you know if he something would happen to him i wouldn't stay in Texas i would uh
+Customer 300.274625 303.616750 that's a a big thing to think about
+Customer 303.616750 307.617875 [noise]
+Agent 305.344500 314.492750 sell the house and move back home you know to my home town and and uh i wouldn't stay here in Texas so
+Customer 307.617875 308.153500 um-hum
+Customer 308.153500 311.502500 [noise]
+Customer 311.502500 312.995750 yeah
+Customer 312.995750 315.095875 [silence]
+Agent 314.492750 317.442625 you know i don't know what he would do [noise] but
+Customer 315.095875 316.273750 okay
+Customer 316.273750 316.575375 [noise]
+Customer 316.575375 317.615000 [silence]
+Agent 317.442625 320.996750 [silence]
+Customer 317.615000 323.357375 i guess that's most of my um financial plans right now is is there anything you'd like to add
+Agent 320.996750 322.786125 yeah mine too
+Agent 322.786125 325.698375 nope that's about all for mine
+Customer 323.357375 324.577375 [silence]
+Customer 324.577375 327.106750 -[o]kay well it's been nice talking to you
+Agent 325.698375 328.979625 nice talking to you too bye-bye
+Customer 327.106750 328.812750 bye-bye
+Customer 328.812750 330.779250 [noise]
+Agent 328.979625 330.779250 [noise]

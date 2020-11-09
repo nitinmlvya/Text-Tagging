@@ -1,0 +1,186 @@
+Agent 0.000000 0.497750 [silence]
+Customer 0.000000 0.793000 get us going
+Agent 0.497750 1.771125 okay
+Customer 0.793000 1.284125 [noise]
+Customer 1.284125 3.993000 are are you at TI Austin or
+Agent 1.771125 3.492375 [silence]
+Agent 3.492375 8.765500 well i left TI in January but i signed up for this before i did
+Customer 3.993000 7.453875 [silence]
+Customer 7.453875 17.468875 oh that's great no uh uh my daughter has talked to my daughter up here with us i have another one and she's talked to students uh so i guess they have uh
+Agent 8.765500 25.972125 [silence]
+Customer 17.468875 29.981250 sent this to their customers and people in colleges and things so they're if you're a computer user so my daughter has talked to two students uh that were non TIers so i guess oh yeah
+Agent 25.972125 29.498375 oh i think that's a that's a good idea
+Agent 29.498375 31.208250 all right
+Customer 29.981250 33.735750 w[e're]- we're on finances have you have you retired or uh
+Agent 31.208250 32.748875 [silence]
+Agent 32.748875 43.494875 oh no no no no [laughter] actually i left TI um i had basically set my sights to leave TI when they announced there would be no salary increases in ninety one
+Customer 33.735750 35.479625 oh
+Customer 35.479625 46.977375 [silence]
+Agent 43.494875 52.444750 because i i def[initely]- definitely need to make a little more money and uh i haven't really accomplished that yet but i'm trying
+Customer 46.977375 48.521875 oh yeah
+Customer 48.521875 51.462375 [silence]
+Customer 51.462375 62.710875 oh yeah it's uh that's the finances i guess we're on the subject of finances it is tough uh i've been with TI i'm just going to be fifteen years this year and that's a tough thing uh
+Agent 52.444750 70.842125 [silence]
+Customer 62.710875 72.236625 the salary thing TI doesn't quite always do it right well what about our our our financial budget well you you should have a lot of information on a budget then if you're uh
+Agent 70.842125 80.784500 i wish i did i i hope you're you're a person who does things better than i- i don't have a budget that's one of my goals for this year is to try to get myself in a good
+Customer 72.236625 88.189625 [silence]
+Agent 80.784500 89.663000 oh long range planning budget mode um i'm a single mom and i've been just uh trying to get
+Customer 88.189625 93.171375 well you you you deserve an honor for that a gold star for that i guess [laughter]
+Agent 89.663000 90.762250 [silence]
+Agent 90.762250 95.488875 [laughter] thank you it's nice to have someone understand that
+Customer 93.171375 94.329500 [silence]
+Customer 94.329500 96.237500 right sure
+Agent 95.488875 99.682250 h[ow]- how about yourself do you have a budget you live by
+Customer 96.237500 97.978750 [silence]
+Customer 97.978750 110.970125 well i guess i do i do have a long term budget bec[ause]- i got a daughter in college and one going to be in college so that i've been thinking about that for quite a while now mo[nthly]- monthly no i'll tell you a funny story about budgeting uh
+Agent 99.682250 117.176250 [silence]
+Customer 110.970125 113.493500 i've been married twenty six years
+Customer 113.493500 124.731500 and i did you know that the macho thing the man always did the bills for i don't know fifteen years or more and i got so sick of it trying to balance the budget
+Agent 117.176250 118.994625 um-hum
+Agent 118.994625 132.481375 [silence]
+Customer 124.731500 133.362250 uh one and i always tried to show my wife you know here's how you once a year i'd say here's how you do the budget in case i get sick or here's how you do the checks you know
+Agent 132.481375 134.305625 right
+Customer 133.362250 140.180875 one day i gave her the checkbook and i said i'm not doing this anymore you do it you learn it and i've been happy ever since
+Agent 134.305625 139.492000 [silence]
+Agent 139.492000 141.990500 well that's great how about your
+Customer 140.180875 153.436125 she does it all now for about ten years and i don't even she complains to me about it she threatens me to give it back to me and i said i've been a happy man since i haven't fooled with that checkbook you know [laughter] so i know it's a big pain to try to do that
+Agent 141.990500 146.722625 [silence]
+Agent 146.722625 148.301250 [vocalized-noise]
+Agent 148.301250 152.226875 [laughter]
+Agent 152.226875 162.522000 it really is it it really is you know uh that was always a a major problem in our marriage what i have always identified is i am
+Customer 153.436125 167.451875 [silence]
+Agent 162.522000 176.287000 basically good with money it i don't really need a budget to tell me not to spend it i think that comes from never having enough you know i'm always afraid of [laughter] i'm going to need some and where will it be [noise]
+Customer 167.451875 169.281500 right
+Customer 169.281500 174.988750 [silence]
+Customer 174.988750 177.265375 right oh yeah
+Agent 176.287000 179.320375 so um no i i've
+Customer 177.265375 191.460625 [silence]
+Agent 179.320375 192.528375 i've finally worked myself into a spot where i can budget when i when i was first divorced i had um i sat down and budgeted and i had outgo that was wha[t]- much higher than what i had coming in
+Customer 191.460625 196.996375 yes i think uh that is a tough uh we all seems to th[ink]- seems to be that way
+Agent 192.528375 196.224250 [silence]
+Agent 196.224250 201.436125 i tried to hang onto a house that was way too expensive for me and
+Customer 196.996375 200.213250 [silence]
+Customer 200.213250 201.762250 yeah
+Agent 201.436125 211.764125 and so now that i've gotten you know i lost the house now that i've gotten past that i can sit down and say okay this is the reality this is how much money i have each month
+Customer 201.762250 223.449625 [silence]
+Agent 211.764125 224.012750 the scary thing is as far as long term i don't have anything i don't know if you have an IRA or uh you know and i've got two girls also and i haven't saved anything for their college and
+Customer 223.449625 227.235750 yeah that's you need to do that i'll i'll i'll give you a hint
+Agent 224.012750 232.476375 [silence]
+Customer 227.235750 233.270125 i don't know if you're a ta[lk]- a radio talk uh person listener do you listen to radio talk shows
+Agent 232.476375 234.486500 sometimes i have
+Customer 233.270125 234.496500 [silence]
+Agent 234.486500 237.947750 [silence]
+Customer 234.496500 244.982375 listen to Bruce Williams uh for financial advice he's on oh i don't know what he's going to be in Austin he's on five seventy here inter[national]- oh he's nationally famous
+Agent 237.947750 239.465625 um-hum
+Agent 239.465625 269.722125 [silence]
+Customer 244.982375 252.968500 he's a college graduate type guy he's been in all he's an entrepreneur and he gives very practical financial advice about
+Customer 252.968500 260.455125 cars very you know not not nothing college level basic stuff his name is Bruce Williams
+Customer 260.455125 272.719625 he's on national radio uh i don't know what it would be down there you might want to whatever your radio talk shows are down there he's on that channel it's uh it's five seventy up here
+Agent 269.722125 271.753125 well i'll check that out
+Agent 271.753125 272.999875 uh-huh
+Customer 272.719625 284.964750 and i'd listen to talk shows for everything for gardening and everything just when i'm doing chores and uh he gives a wealth of information very practical stuff a[nd]- and
+Agent 272.999875 279.990500 [silence]
+Agent 279.990500 282.185500 you've learned a lot
+Agent 282.185500 289.717875 [silence]
+Customer 284.964750 290.246000 he will help you avoid a lot of little things uh financially
+Agent 289.717875 293.016750 well that's that's good to know how
+Customer 290.246000 291.660375 he
+Customer 291.660375 300.997500 yeah there there's a lot of advice out there for how to get a budget and i i'm not expert again because i don't really do it monthly
+Agent 293.016750 298.680000 [silence]
+Agent 298.680000 299.994875 um-hum
+Agent 299.994875 305.546250 well you must have done something you're you're helping your children in school and you're you know
+Customer 300.997500 303.482500 [silence]
+Customer 303.482500 316.939375 right i did start a college fund i'm not uh i have one again at UT down there now her first year and she's almost gone through her whole college fund [laughter-you] [laughter-know]
+Agent 305.546250 310.701500 [silence]
+Agent 310.701500 312.823000 uh-hum uh-hum [noise]
+Agent 312.823000 314.989000 [silence]
+Agent 314.989000 319.970250 excuse me Jim could you hold on i have someone at the door i'll be right back
+Customer 316.939375 319.949375 sure go ahead sure
+Customer 319.949375 350.211375 [silence]
+Agent 319.970250 347.047625 [silence]
+Agent 347.047625 350.994500 thank you i think we might have just screwed up the computer but we'll find out
+Customer 350.211375 361.720750 oh no yeah right they give us ten minutes uh uh the only advice i give you on college would be there's a lot of scholarship money out there my daughter got a little bit not much only first year she got about two thousand dollars worth
+Agent 350.994500 352.263125 [silence]
+Agent 352.263125 354.176500 oh
+Agent 354.176500 371.989625 [silence]
+Customer 361.720750 373.997750 and you ought to as your daughters approach the college age uh start finding out about the scholarship money because there is a lot of money out there and uh
+Agent 371.989625 375.766250 [noise] and and how did your daughter get scholarship money on
+Customer 373.997750 375.266500 [silence]
+Customer 375.266500 379.804000 uh band she got you know five hundred dollars at a at a clip
+Agent 375.766250 399.660000 [silence]
+Customer 379.804000 389.200375 through bands through leadership uh there's all kinds of civic organ[izations]- organizations that will give you you know one shot money
+Customer 389.200375 395.463500 uh you get a president's award if you're you're in in high school doing cer[tain]- this up area in Arlington
+Customer 395.463500 403.201875 uh there's a lot of and of course you if you you score high on the SAT you can get you know two thousand a year you know or more
+Agent 399.660000 401.797375 um-hum
+Agent 401.797375 403.521125 wow
+Customer 403.201875 413.996125 you can get yearly money as long as you keep up your grades she she did very well in school and uh but she only got first year money she got about two thousand dollars it was only five hundred dollars at a clip from this organization
+Agent 403.521125 411.262125 [silence]
+Agent 411.262125 412.983875 uh-hum
+Agent 412.983875 424.705250 [silence]
+Customer 413.996125 425.493875 we called there were there were two or three people there was some little civic organization in Dallas that gave money away and only two or three people applied she applied and got five hundred dollars from that
+Agent 424.705250 430.394125 wow oh i'm definitely going to be uh actively looking into that
+Customer 425.493875 426.974500 so
+Customer 426.974500 429.273250 look into that bit
+Customer 429.273250 439.275750 the year that they graduate you know before though you know while they're graduating there's all kinds of little bitty money that little clubs will give away churches and everything
+Agent 430.394125 443.771125 [silence]
+Customer 439.275750 444.963000 and they don't even have a dozen applicants because uh uh the kids are going off after the big money
+Agent 443.771125 445.400125 um-hum
+Customer 444.963000 450.743125 uh of course you have to have some sort of record in high school uh of of achievement and everything but sometimes
+Agent 445.400125 460.195125 [silence]
+Customer 450.743125 461.272750 it's just uh like our band gave money away we're a band booster club we gave we give uh two five hundred dollar scholarships just to kids uh who we think were worthy you know so
+Agent 460.195125 462.661125 well that's great to know
+Customer 461.272750 463.276625 there's money out there
+Agent 462.661125 465.988250 yeah that's good
+Customer 463.276625 464.991875 [silence]
+Customer 464.991875 469.480375 go ahead you can talk i i don't want to i want to chew up the whole line here
+Agent 465.988250 468.494875 [silence]
+Agent 468.494875 477.769625 oh well you're doing you're doing just fine and and uh actually i when i talk i usually like to ask a lot of questions i was wondering what you do at TI
+Customer 469.480375 476.459875 [silence]
+Customer 476.459875 486.976750 oh i'm an engineer i'm uh in fact i'm working the night uh because of the cutbacks and everything uh my job there were three managers jobs that were just dissolved
+Agent 477.769625 490.140000 [silence]
+Customer 486.976750 497.777125 and so they put me on nights i i call this my recession job and i'm working nights just kind of covering uh shutdown equipment and everything and just being available here i don't mind
+Agent 490.140000 491.820750 oh goodness
+Agent 491.820750 494.985875 [silence]
+Agent 494.985875 497.213625 um-hum um-hum
+Agent 497.213625 499.492375 [silence]
+Customer 497.777125 507.460250 uh it beats being laid off and everything and uh you you got to be a little flexible uh in my old age i'm trying to just hang in there until i get my kids through school
+Agent 499.492375 501.991375 oh absolutely
+Agent 501.991375 503.309750 yeah
+Agent 503.309750 511.496000 [silence]
+Customer 507.460250 512.982125 and then i'd like to teach maybe mathematics or something i'm trying to study for that now
+Agent 511.496000 522.824625 oh i hope you can do that what what i did is i was approached and and i've i went to TI just right at the time that uh my marriage was ending i had been a
+Customer 512.982125 514.977875 right uh
+Customer 514.977875 524.481750 [silence]
+Agent 522.824625 536.975000 a stay at home mom and and i i [vocalized-noise] was very fortunate in starting and i really enjoyed it while i was at TI but you know the cutbacks were really getting to be rather frightening and i had less than five years
+Customer 524.481750 525.994125 um-hum
+Customer 525.994125 543.477000 [silence]
+Agent 536.975000 547.974750 and also i wanted to make a little bit more money so i decided i'd like to go out and try sales and uh i'm i'm out trying to sell
+Customer 543.477000 545.474250 oh yeah
+Customer 545.474250 549.756250 [silence]
+Agent 547.974750 557.009625 telephone systems to businesses and the potential there is fantastic the reality of it is it's tough [laughter]
+Customer 549.756250 551.219625 right
+Customer 551.219625 552.494375 [silence]
+Customer 552.494375 554.495375 oh sure
+Customer 554.495375 555.736875 [silence]
+Customer 555.736875 562.698750 well it's tough right now for everybody up here in the Dallas Metroplex it's awful hey i've got another clue for you for college
+Agent 557.009625 559.001750 exactly
+Agent 559.001750 561.748000 [silence]
+Agent 561.748000 563.481750 um-hum
+Customer 562.698750 566.778375 another clue for you for college money go to work for UT
+Agent 563.481750 565.494625 okay
+Agent 565.494625 571.812375 [silence]
+Customer 566.778375 575.486125 uh we have a friend who works who is a secretary for TCU you know up here they give you scholarship a hundred percent
+Agent 571.812375 573.301000 yes
+Agent 573.301000 578.492500 [silence]
+Customer 575.486125 579.221000 if you're if you work for TCU
+Agent 578.492500 580.488625 they do
+Customer 579.221000 583.707750 yes so check that one out you know
+Agent 580.488625 588.695375 i'm going to check that i've got i've got two friends that work at at UT i didn't know that at all definitely i will
+Customer 583.707750 584.824500 [silence]
+Customer 584.824500 597.477375 ask them about it call them and because it's full full scholarship now it's uh not room and board but it's tuition full tuition paid if your parent works at TCU
+Agent 588.695375 591.801875 [silence]
+Agent 591.801875 593.221000 uh-huh
+Agent 593.221000 596.479375 [silence]
+Agent 596.479375 598.792875 well that sounds fantastic
+Customer 597.477375 600.855500 and her her her uh mother went over there just for that
+Agent 598.792875 600.855500 [silence]

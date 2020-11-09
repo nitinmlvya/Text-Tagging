@@ -1,0 +1,256 @@
+Agent 0.000000 0.839875 [noise]
+Customer 0.000000 0.613250 [noise]
+Customer 0.613250 2.934875 okay uh
+Agent 0.839875 2.912625 [silence]
+Agent 2.912625 4.173625 [vocalized-noise]
+Customer 2.934875 9.826250 i think maybe that we could do better with the budget if we didn't buy so much stuff overseas
+Agent 4.173625 10.012000 [silence]
+Customer 9.826250 15.447750 [silence]
+Agent 10.012000 17.207125 well i don't know how much that would do for the budget though i mean that has helped the economy as a whole you know American jobs and all but
+Customer 15.447750 19.800625 well then maybe they wouldn't have to take so many taxes out and stuff like that
+Agent 17.207125 20.141375 [silence]
+Customer 19.800625 21.404875 well
+Agent 20.141375 24.511625 yeah if we bought more American stuff i guess that's more American taxes
+Customer 21.404875 39.643875 [silence]
+Agent 24.511625 32.367125 we[ll]- i guess you know it's like your own home budget you know you can either earn more money or you can uh
+Agent 32.367125 34.232375 spend less
+Agent 34.232375 39.700125 and you know just like you and i have to make choices like that i think the government has to do it too
+Customer 39.643875 44.106875 well i agree i think that's what i'm trying to [laughter-say]
+Agent 39.700125 42.474625 [silence]
+Agent 42.474625 49.084500 yeah the question is wh[ich]- which [noise] excuse me that's my little girl which one should they do
+Customer 44.106875 51.265000 [silence]
+Agent 49.084500 58.133125 [silence]
+Customer 51.265000 54.236625 spend less
+Customer 54.236625 58.841750 i think we [vocalized-noise] well i think we give too much money away
+Agent 58.133125 59.864000 to
+Customer 58.841750 61.639375 other countries yeah
+Agent 59.864000 61.496000 to other countries
+Agent 61.496000 62.518000 [silence]
+Customer 61.639375 68.718500 we don't ever get anything from anybody when we're having to fight to get money to help us with this war we were just in
+Agent 62.518000 65.656750 [noise] well that's that's the
+Agent 65.656750 67.617875 that's because_1
+Agent 67.617875 71.236500 we're supposed to be the rich ones with all the money to give away
+Customer 68.718500 70.353875 [silence]
+Customer 70.353875 74.160875 right well it's not true though we're not anymore
+Agent 71.236500 73.815750 [silence]
+Agent 73.815750 78.639375 [vocalized-noise] we're s[till]- we are still the biggest ones
+Customer 74.160875 84.215625 [silence]
+Agent 78.639375 84.148875 as you know as far as how much money we've got in the whole country we're still bigger than anybody else
+Agent 84.148875 87.814125 [silence]
+Customer 84.215625 88.297375 we can't even take care of the people that are hungry and homeless here
+Agent 87.814125 97.138000 yeah that's that's an important thing we've got we've got a lot of people who are getting money the from the government for this that and the other thing
+Customer 88.297375 90.392375 uh i mean
+Customer 90.392375 112.078750 [silence]
+Agent 97.138000 104.118750 and uh it would probably help if we could figure out how to get them to put money back into the system instead you know
+Agent 104.118750 112.181000 you take someone on welfare and you give them a job and they're paying income taxes all of a sudden you've changed it around and it's going in the other direction
+Customer 112.078750 116.459250 but see r[ight]- right now we're having a hard time finding people jobs
+Agent 112.181000 115.842750 [silence]
+Agent 115.842750 117.046875 yeah
+Customer 116.459250 129.734500 if you're a TI worker you how well you know are you are you a TI worker yeah so am i [noise] so we know you know that times are really tough right now and yet we're still sending money here and there i just know it
+Agent 117.046875 118.449500 [silence]
+Agent 118.449500 120.431000 [laughter]
+Agent 120.431000 121.734750 yes i am
+Agent 121.734750 125.164750 [silence]
+Agent 125.164750 126.574500 um-hum
+Agent 126.574500 131.734000 [silence]
+Customer 129.734500 132.661000 you know it's just crazy
+Agent 131.734000 132.982125 yeah
+Customer 132.661000 138.657875 and more and more people without i have several friends without jobs now that in this last riff
+Agent 132.982125 141.979000 [silence]
+Customer 138.657875 144.306125 went out looking for jobs and jobs are really hard to come by now really hard to come by
+Agent 141.979000 143.522625 yeah
+Agent 143.522625 145.755750 yeah that's what i don't understand
+Customer 144.306125 145.480500 [silence]
+Customer 145.480500 147.427500 and that's scary
+Agent 145.755750 147.407250 [silence]
+Agent 147.407250 150.528375 yeah you wonder you know when is it going to happen to me
+Customer 147.427500 149.674125 [silence]
+Customer 149.674125 151.233000 that's right
+Agent 150.528375 152.423625 [silence]
+Customer 151.233000 154.348250 it's already happened to me once but i was lucky
+Agent 152.423625 153.783875 yeah
+Agent 153.783875 155.248375 um-hum
+Customer 154.348250 159.991625 and i got to stay in TI but you know not everybody's that lucky anymore
+Agent 155.248375 159.142250 [silence]
+Agent 159.142250 160.508250 yeah
+Customer 159.991625 164.384125 and they're and i don't know the welfare system is just so abused
+Agent 160.508250 165.057250 [silence]
+Customer 164.384125 189.574375 [silence]
+Agent 165.057250 169.889250 well i- i- i don't think the problem so much is abuse
+Agent 169.889250 173.519125 i think the problem is is just the government is trying to do too much
+Agent 173.519125 181.383375 um i mean who where does it say that the government's supposed to be the one to take care of all of the people that are homeless or hungry or et cetera et cetera
+Agent 181.383375 188.735875 and and where does it say that that if someone is short that they can go to the government and and get a handout
+Agent 188.735875 194.865250 [silence]
+Customer 189.574375 195.839125 well i know but then okay but that's here but then other countries are doing it to us
+Agent 194.865250 196.226500 yeah
+Customer 195.839125 203.795500 their when their people are hungry and all they're asking us for handouts so why shouldn't our own people be able to ask for a handout
+Agent 196.226500 197.877125 [silence]
+Agent 197.877125 199.178375 um-hum
+Agent 199.178375 202.306125 [silence]
+Agent 202.306125 203.705750 yeah
+Agent 203.705750 206.724750 [silence]
+Customer 203.795500 214.088250 i mean i think we should take care of our own things right here in our own country and then if we have anything left over to share with other countries then maybe we should consider sharing
+Agent 206.724750 208.152250 um-hum
+Agent 208.152250 214.217500 [silence]
+Customer 214.088250 223.589000 but i just don't i think we're and then they keep raising the taxes boy i'll tell you what i barely make ends meet and they raise taxes and
+Agent 214.217500 215.613000 uh-huh
+Agent 215.613000 224.964875 [silence]
+Customer 223.589000 227.987625 wages aren't going up that [laughter-much] and it's hard
+Agent 224.964875 226.656125 no they're not
+Agent 226.656125 227.658500 [silence]
+Agent 227.658500 229.070625 yeah
+Customer 227.987625 239.441500 i mean you know especially if you're alone it's on one salary it's terribly hard to pay the bills and pay your house payment and a car payment and insurance is ridiculous
+Agent 229.070625 233.138875 [silence]
+Agent 233.138875 234.415000 yeah
+Agent 234.415000 239.148125 [silence]
+Agent 239.148125 240.520750 yeah
+Customer 239.441500 241.540625 you know [noise] and
+Agent 240.520750 254.105750 you know i think you know i've got a fairly decent job here at TI but uh when i think of y[ou]- you go to the the grocery store and you see someone working as a cashier and you think y[ou]- you know how much a cashier makes and you go how do these people get by
+Customer 241.540625 251.246875 [silence]
+Customer 251.246875 253.615875 not very much
+Customer 253.615875 255.150750 they
+Agent 254.105750 256.854250 because i know how hard it is for me to get by
+Customer 255.150750 257.570500 [silence]
+Agent 256.854250 260.579625 [silence]
+Customer 257.570500 262.014000 yep it's hard it's really hard i
+Agent 260.579625 261.855625 yeah
+Agent 261.855625 265.382875 [silence]
+Customer 262.014000 266.488250 well uh no i don't know i guess if we had the answers we'd
+Agent 265.382875 267.768625 [laughter]
+Customer 266.488250 269.051000 we could save the country but
+Agent 267.768625 270.607500 we could go run for office
+Customer 269.051000 274.816500 yeah [laughter] well they all say great things when they run for office
+Agent 270.607500 272.702125 [silence]
+Agent 272.702125 273.927000 um-hum
+Agent 273.927000 279.125875 well the thing is um you know who's really in charge of deciding how the money gets spent
+Customer 274.816500 315.273625 [silence]
+Agent 279.125875 287.259750 and and it's you know it's not the president the president just suggests it the ones who actually you know debate it and decide it is the is the Congress
+Agent 287.259750 290.152625 and you know what the Congress is out for they're
+Agent 290.152625 298.008625 they're going to do whatever it takes to make their voters happy which means bring more jobs and more federal spending to their little area
+Agent 298.008625 300.015875 and uh
+Agent 300.015875 310.659250 uh and that means every Congressman is sitting there working for money going to his area nobody's working on less money going to his area or on anybody else's area
+Agent 310.659250 315.400250 and if you just if you just looked at how much Congress spends on itself it's ridiculous
+Customer 315.273625 317.611375 yeah i know that
+Agent 315.400250 323.785250 [silence]
+Customer 317.611375 326.502750 you know and then they cut their defense i- i'm not sure if that was such a great idea that cut us really [laughter-bad] [laughter-i] just i hated to see that
+Agent 323.785250 325.563500 [laughter]
+Agent 325.563500 327.470000 well now the thing is
+Customer 326.502750 363.159375 [silence]
+Agent 327.470000 340.876625 yeah they're cutting defense which is you know there are people out there working for defense contractors who are losing money but i d[on't]- i don't mind because i think you know government is not there to give me a job Government
+Agent 340.876625 351.565375 the defense is there to defend our country and they do it for whatever you know they spend whatever money they need to to do that but i don't want them to to break the budget just so that i can have a job
+Agent 351.565375 355.125500 [noise] i would rather have the the government stable
+Agent 355.125500 361.606375 so that i can go get a good job with someone who's not work[ing]- you know not making defense stuff
+Agent 361.606375 363.387250 [silence]
+Customer 363.159375 371.380375 well yeah yeah i do but i still hated to see it [laughter] i mean one of the reasons i voted for Bush was because
+Agent 363.387250 365.281875 if you know what i mean
+Agent 365.281875 368.118625 [silence]
+Agent 368.118625 369.390125 yeah
+Agent 369.390125 377.253250 [silence]
+Customer 371.380375 382.532375 Reagan was so defense conscious and we were doing so well and i thought well Bush is going to just carry right on [laughter] he didn't [laughter] was i [laughter-surprised] i uh
+Agent 377.253250 378.737500 um-hum
+Agent 378.737500 381.231125 [silence]
+Agent 381.231125 383.928125 well he didn't have much choice really
+Customer 382.532375 384.463250 [silence]
+Agent 383.928125 384.992750 [silence]
+Customer 384.463250 387.215500 well i don't know
+Agent 384.992750 386.651000 yeah
+Agent 386.651000 394.962000 but but defense is not the biggest part of the federal budget either the biggest part of the budget are things like Medicare and Social Security
+Customer 387.215500 396.360750 [silence]
+Agent 394.962000 396.856250 and uh
+Customer 396.360750 407.865750 [noise] but those are things that we we really need i hate to see the old people that don't have anybody and h[ey]- you know there are [noise] people out there that have no family or and they really depend on their Medicare
+Agent 396.856250 398.368125 [silence]
+Agent 398.368125 399.775875 w[ell]-
+Agent 399.775875 401.103750 [silence]
+Agent 401.103750 402.440250 um-hum
+Agent 402.440250 405.435125 [silence]
+Agent 405.435125 406.930375 yeah
+Agent 406.930375 408.512875 um-hum
+Customer 407.865750 414.030875 and their Social Security and maybe they're in a nursing home somewhere and they cut some of this stuff and what happens to them
+Agent 408.512875 410.583250 [silence]
+Agent 410.583250 411.854125 yeah
+Agent 411.854125 413.278000 [silence]
+Agent 413.278000 417.774250 yeah w[ell]- you know how fast your TI medical insurance has been going up right
+Customer 414.030875 416.950125 [silence]
+Customer 416.950125 419.228500 yeah [laughter]
+Agent 417.774250 424.439500 well just think the federal government's insurance bill has Medicare and that's been going through the roof
+Customer 419.228500 428.553875 [silence]
+Agent 424.439500 429.447500 and that's why f[ederal]- you know that's that's the biggest increase in federal spending right there
+Customer 428.553875 430.772625 so what's the answer
+Agent 429.447500 431.689000 [silence]
+Customer 430.772625 433.683875 [noise]
+Agent 431.689000 436.572125 think we need to figure out a way to uh to make medical care cheaper
+Customer 433.683875 444.925375 [silence]
+Agent 436.572125 441.771250 why is this stuff so expensive why is the cost going up so incredibly fast
+Agent 441.771250 442.780375 [silence]
+Agent 442.780375 448.285625 you know because_1 it's it's coming out of my paycheck it's coming out of your paycheck and it's coming out of our taxes too
+Customer 444.925375 446.743500 yes yeah
+Customer 446.743500 452.270125 [silence]
+Agent 448.285625 451.853625 why why is these hospitals making so much money
+Agent 451.853625 455.674125 [silence]
+Customer 452.270125 456.904375 isn't it England that has it all state run or something
+Agent 455.674125 460.419000 oh there's a whole lot of countries in Europe that do that Sweden Denmark Norway
+Customer 456.904375 458.036750 but
+Customer 458.036750 460.081500 [silence]
+Customer 460.081500 464.506500 they what is it is it free to the pe[ople]- to people or how do they work that
+Agent 460.419000 463.092750 [silence]
+Agent 463.092750 465.605125 it's it's free for everybody
+Customer 464.506500 465.709000 [silence]
+Agent 465.605125 468.263875 [noise]
+Customer 465.709000 467.183625 in the state
+Customer 467.183625 468.899375 or the country
+Agent 468.263875 471.920125 everybody in the count[ry]- like i- i lived in Denmark for a couple of years
+Customer 468.899375 471.446375 [silence]
+Customer 471.446375 472.859750 uh-huh
+Agent 471.920125 481.027625 and medical care there is free you just go and say i want your help and they'll help you there's couple of things though first of all it's not
+Customer 472.859750 492.174875 [silence]
+Agent 481.027625 487.537000 as high a quality as we expect here because it's paid for by the government instead of by us
+Agent 487.537000 492.887375 and second um your taxes are a lot higher
+Customer 492.174875 493.867625 oh okay
+Agent 492.887375 496.740000 an awful lot higher we're talking fifty percent something like that
+Customer 493.867625 496.625125 [silence]
+Customer 496.625125 502.358000 so they are paying for it okay well the way i you know it was talked about
+Agent 496.740000 498.006125 [silence]
+Agent 498.006125 499.846750 they are paying for it
+Agent 499.846750 504.084125 and and the and the just the quality of care is not as good either
+Customer 502.358000 504.256000 [silence]
+Agent 504.084125 506.384875 [silence]
+Customer 504.256000 506.550375 well then that's not the answer
+Agent 506.384875 511.446625 there has got to be a middle ground i think Canada's got a good answer but i don't know many details about it
+Customer 506.550375 507.836125 [silence]
+Customer 507.836125 509.149250 yeah
+Customer 509.149250 512.474250 [silence]
+Agent 511.446625 514.016375 [silence]
+Customer 512.474250 514.132250 what do they do
+Agent 514.016375 520.235250 it's it's some sort of government program i've heard a lot of people say good things about it but i just don't know the details on it
+Customer 514.132250 519.015625 [silence]
+Customer 519.015625 520.787625 oh okay
+Agent 520.235250 527.174125 [silence]
+Customer 520.787625 528.563000 i don't know i don't know if anything will ever happen t[o]- to ch[ange]- ch[ange]- change things i- i guess it's going to have to change
+Agent 527.174125 533.530125 well something's going to have to change but you look at the Congress and you look how many of them_1 get reelected and they're the one's that have got to make the changes
+Customer 528.563000 538.009000 [silence]
+Agent 533.530125 537.692000 i mean i don't see anything changing because you've got the same old people in there
+Agent 537.692000 545.673125 [silence]
+Customer 538.009000 546.198625 and the other thing that concerns me terribly is automobile insurance now i don't know how much longer i'm going to be able to afford it at all
+Agent 545.673125 546.974250 yeah
+Customer 546.198625 551.664875 it's eating me alive because i- i might be almost fifty but i'm single
+Agent 546.974250 553.111000 [silence]
+Customer 551.664875 561.980750 and [laughter-i] [laughter-don't] [laughter-think] and this company's that just becau[se]- and i own my own home and i have a garage [laughter] and because i'm single there's companies that won't take me no matter how old you are
+Agent 553.111000 554.433250 single
+Agent 554.433250 560.443750 [silence]
+Agent 560.443750 561.823750 yeah
+Agent 561.823750 566.195875 [silence]
+Customer 561.980750 570.541500 they won't take you because they say you're a risk you go out and party i said i don't even drink i mean i don't even go out but they won't take you i mean i was turned down this year
+Agent 566.195875 567.620750 hum
+Agent 567.620750 573.563125 [silence]
+Customer 570.541500 584.035250 by an agent who represented i'm not sure of the companies he represented but i was told because you're single they absolutely won't take you i said that is that's prejudicial that's terrible what's going to happen if they all start doing this
+Agent 573.563125 575.203500 um-hum
+Agent 575.203500 580.581625 [silence]
+Agent 580.581625 582.537375 yeah
+Agent 582.537375 592.859375 um-hum what's really terrible is they can do this to you you know and you don't really have that much of a choice as to whether or not you take it because the g[overnment]- government says if you're going to drive a car you've got to have the insurance
+Customer 584.035250 592.285625 [silence]
+Customer 592.285625 595.452625 but yet they're not helping us with the companies
+Agent 592.859375 593.860000 [silence]
+Agent 593.860000 598.891625 they're they're not helping you uh be able to afford the insurance that they're making you buy
+Customer 595.452625 598.506250 [silence]
+Customer 598.506250 599.895500 that's right
+Agent 598.891625 599.895500 [silence]

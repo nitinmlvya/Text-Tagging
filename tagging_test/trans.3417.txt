@@ -1,0 +1,98 @@
+Agent 0.000000 1.122625 [noise]
+Customer 0.000000 0.045250 [silence]
+Customer 0.045250 1.847000 yes
+Agent 1.122625 56.654125 [silence]
+Customer 1.847000 3.775500 [noise] um
+Customer 3.775500 6.024000 i guess my [noise]
+Customer 6.024000 8.068875 initial view is
+Customer 8.068875 15.244875 our tax burden hasn't gone down in recent years despite our total tax burden despite tax cuts but
+Customer 15.244875 18.905375 among industrialized nations we have one of the
+Customer 18.905375 29.862500 lowest in in the world and in part of the matter you get what you pay for we're gonna have national health insurance which seems likely it's necessarily gonna involve more taxes
+Customer 29.862500 41.716125 uh i suspect they take the view that cutting income tax rates has been good for the the economy that most other countries have a higher share of the tax burden
+Customer 41.716125 46.987875 in various kinds of sales taxes uh
+Customer 46.987875 56.558750 [noise] energy taxes particularly and that to the extent we need to raise more taxes that's the direction we should look
+Customer 56.558750 60.714375 [silence]
+Agent 56.654125 62.006375 right well i guess i kind of have mixed feelings [laughter]
+Customer 60.714375 62.242875 [laughter]
+Agent 62.006375 72.721250 um you know you always sit there and out of each pay check so much comes out of it and you wonder you know where's it all going and we have such a huge uh national deficit and
+Customer 62.242875 67.424875 [silence]
+Customer 67.424875 69.223375 where it's all going
+Customer 69.223375 85.805625 [silence]
+Agent 72.721250 80.808250 and i guess a lot of times there's questions wondering well if it's doing a whole lot of good i know there's a lot of social programs out there that need help
+Agent 80.808250 85.386625 but you kind of always wonder well where where's the money going [laughter]
+Agent 85.386625 91.264500 [silence]
+Customer 85.805625 96.382500 well one one one of the big tax that has gone up a lot in this year is the social security tax which in principle is going in[to]- into a big trust fund but
+Agent 91.264500 92.689375 um-hum
+Agent 92.689375 112.253500 [silence]
+Customer 96.382500 104.116625 that is a particularly regressive tax uh it's a tax on the first dollar earnings
+Customer 104.116625 112.652875 an[d]- Senator Moynihan's uh proposal to to to cut there i think wou[ld]- makes a lot of sense
+Agent 112.253500 114.562750 i'm sorry i c[ouldn't]- i couldn't hear that
+Customer 112.652875 124.117250 i think Senator Moynihan's proposal to to cut the social security tax which isn't really going to going to beef up up up the social security program could make a lot of sense
+Agent 114.562750 123.227875 [silence]
+Agent 123.227875 127.370000 right right yeah i agree with that [noise]
+Customer 124.117250 135.065875 [silence]
+Agent 127.370000 140.433375 as far as other countries i'm not um i don't keep up on it too much just as [laughter-far] as what you know as what they're doing i know we were in Ireland last year and i know that the tax there is extremely high much higher than we pay here but
+Customer 135.065875 136.284125 um-hum
+Customer 136.284125 139.359000 [silence]
+Customer 139.359000 140.805500 oh yes
+Agent 140.433375 146.155000 but as far as other countries i'm not uh up to par on [laughter]
+Customer 140.805500 143.620375 [silence]
+Customer 143.620375 148.323000 i think Japan i think Japan is probably about equal to ours
+Agent 146.155000 147.723750 [silence]
+Agent 147.723750 149.139000 uh-huh
+Customer 148.323000 158.733250 and other major countries are higher i had friends were amazed at the sales taxes the classes of things when they went to Canada [vocalized-noise] not so long ago
+Agent 149.139000 158.011750 [silence]
+Agent 158.011750 159.461500 uh-huh
+Customer 158.733250 160.733125 [silence]
+Agent 159.461500 169.829250 [silence]
+Customer 160.733125 169.437250 and as a whole most other countries have a higher level of cradle to grave government services
+Customer 169.437250 173.596375 and it's a real real they're they're real trade-offs there
+Agent 169.829250 171.368750 right
+Agent 171.368750 172.904750 [silence]
+Agent 172.904750 174.258875 right
+Customer 173.596375 188.492375 [silence]
+Agent 174.258875 176.187750 [silence]
+Agent 176.187750 179.765250 yeah but and and you sit there and wonder um
+Agent 179.765250 189.107875 i guess this doesn't really have to do with taxes but just money in general and and um wondering if you're gonna have enough when you retire [laughter] to live on
+Customer 188.492375 193.691375 uh i that that's a scary thing with this
+Agent 189.107875 201.252500 [silence]
+Customer 193.691375 202.086750 no no real knowing about uh the the there's a lot of inflation risk that isn't taken care of in most private pension plans
+Agent 201.252500 202.714250 um-hum
+Customer 202.086750 211.682125 [silence]
+Agent 202.714250 204.239750 [silence]
+Agent 204.239750 206.182000 yeah that's true
+Agent 206.182000 207.858375 [silence]
+Agent 207.858375 213.408250 but um are you involved with the legislature up there or since
+Customer 211.682125 217.817125 [noise] no i'm at the National Institute of Standards and Technology
+Agent 213.408250 216.972625 [silence]
+Agent 216.972625 218.239750 uh-huh
+Customer 217.817125 221.879375 uh th[ey're]- part of the Commerce Department
+Agent 218.239750 227.357250 [silence]
+Customer 221.879375 224.702500 [silence]
+Customer 224.702500 227.977250 here in [vocalized-noise] here in in Gaithersburg Maryland
+Agent 227.357250 237.192250 uh-huh i was just wondering since you said Washington DC and you and you picked this topic i was [laughter-just] kind of curious [noise]
+Customer 227.977250 233.414125 [silence]
+Customer 233.414125 235.434625 we[ll]- we[ll]-
+Customer 235.434625 238.370000 i- i- i didn't pick it uh
+Agent 237.192250 239.273125 oh you didn't
+Customer 238.370000 249.237750 i um i like i don't really recall what i may have filled out on the on the form but i- i certain[ly]- think certainly been given topics different from the ones that i'd mentioned before
+Agent 239.273125 247.497625 [silence]
+Agent 247.497625 253.121000 oh did you see i haven't placed any calls did they automatically assign the topic
+Customer 249.237750 251.870750 [silence]
+Customer 251.870750 255.570125 yes yes when you place a call topic is given to you
+Agent 253.121000 261.331625 oh i didn't know that i thought whoever made the call could choose what topic because_1 i haven't made any calls yet i've just received some
+Customer 255.570125 259.397125 [silence]
+Customer 259.397125 261.475250 oh you should try it
+Agent 261.331625 268.764000 oh i didn't realize that [laughter] okay [laughter]
+Customer 261.475250 264.383500 [silence]
+Customer 264.383500 265.697875 hm
+Customer 265.697875 274.768625 [silence]
+Agent 268.764000 276.683250 yeah because_1 it's kind of a it can be a rather controversial subject depending on who you're talking to [laughter]
+Customer 274.768625 279.179750 uh many of the subjects are uh
+Agent 276.683250 295.640750 [silence]
+Customer 279.179750 282.845625 [silence]
+Customer 282.845625 285.003000 and taxes
+Customer 285.003000 296.418625 taxes especially um one thing that has k[ept]- kept our tax burden high and this will change somewhat in the next few years is the is the level of defen[se]- of the defense budget
+Agent 295.640750 297.298375 exactly
+Customer 296.418625 298.466000 and that's that same subject
+Agent 297.298375 298.466000 [silence]

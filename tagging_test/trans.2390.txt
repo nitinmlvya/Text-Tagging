@@ -1,0 +1,282 @@
+Agent 0.000000 0.268875 [noise]
+Customer 0.000000 0.322875 [noise]
+Agent 0.268875 2.138500 [silence]
+Customer 0.322875 3.188375 okay um do you have a credit card
+Agent 2.138500 7.860750 oh [laughter] who doesn't have credit [laughter-cards]
+Customer 3.188375 4.007000 [laughter]
+Customer 4.007000 5.016875 [silence]
+Customer 5.016875 10.032250 i know i've got one um i i did have two and
+Agent 7.860750 17.861000 [silence]
+Customer 10.032250 21.430500 the i found that um it just made me spend a little more so when i paid one of them off i got rid of it now i have two only have one
+Agent 17.861000 19.300875 yeah
+Agent 19.300875 26.991375 [silence]
+Customer 21.430500 22.666375 um
+Customer 22.666375 27.633250 i don't know i always used to be the person that would put something on and pay the bill right up
+Agent 26.991375 28.502375 yeah
+Customer 27.633250 35.876250 and now i've after every Christmas it seems the last few Christmases i used it for Christmas and i'm still paying it off
+Agent 28.502375 35.159625 [silence]
+Agent 35.159625 44.315500 oh i know it's it's Christmas is the worst time f[or]- i just have to leave them at home uh because the impulse buying is just terrible
+Customer 35.876250 44.864875 [silence]
+Agent 44.315500 55.354125 [silence]
+Customer 44.864875 56.746250 i don't know i consider myself pretty good but sometimes i can go out and i can i can over overspend my budget i guess i can afford it but it is it's a pain paying it off
+Agent 55.354125 56.865500 oh yeah uh-huh
+Customer 56.746250 59.608625 i i don't i don't know um
+Agent 56.865500 57.309125 [laughter]
+Agent 57.309125 65.888125 [silence]
+Customer 59.608625 69.143000 i had uh i have seven hundred dollars in mine now and i've p[ut]- saved up enough money where i'm going to bring it down to two hundred and hopefully i can keep it around there
+Agent 65.888125 67.357125 yeah
+Agent 67.357125 68.371000 [silence]
+Agent 68.371000 71.941625 oh that's good that's really good
+Customer 69.143000 70.173875 [silence]
+Customer 70.173875 75.949750 yeah i know a lot of people have i mean fifteen hundred dollars two thousand dollars
+Agent 71.941625 73.856875 [silence]
+Agent 73.856875 75.614000 oh i know i know
+Agent 75.614000 81.133250 [silence]
+Customer 75.949750 77.053000 but um
+Customer 77.053000 90.391375 i don't know i never i never liked loans a lot so i'm not a heavy credit card user i have a girl friend that she probably has two thousand dollars on couple credit cards so
+Agent 81.133250 82.968375 no
+Agent 82.968375 89.445750 [silence]
+Agent 89.445750 95.498250 oh i i i know i know people that are just uh uh uh are addicted to their credit cards
+Customer 90.391375 103.717000 [silence]
+Agent 95.498250 101.102125 and they've just gotten themselves so much in trouble financially with with them
+Agent 101.102125 103.507000 it's it it's just unreal
+Agent 103.507000 104.630500 i guess
+Customer 103.717000 110.829625 i know it's easy to do especially if you if you have a job where you have to buy nice clothes and things
+Agent 104.630500 110.047875 [silence]
+Agent 110.047875 111.870125 oh yeah
+Customer 110.829625 115.792875 it it i think that is the biggest problem when you really not you don't
+Agent 111.870125 121.185125 [silence]
+Customer 115.792875 123.351250 don't really need the stuff but the nicer looking clothes are the more expensive nicely tailored clothes
+Agent 121.185125 122.995000 oh of course
+Agent 122.995000 126.717000 [silence]
+Customer 123.351250 129.084500 even though you could probably get away with a cotton dress you got to go out and buy the rayon dress or something you know
+Agent 126.717000 128.608125 [laughter]
+Agent 128.608125 132.242875 [silence]
+Customer 129.084500 133.159750 you got to be they say you have to dress for success [laughter]
+Agent 132.242875 138.087500 yeah plus uh uh when you get uh uh credit card companies send you things in the mail all the time
+Customer 133.159750 142.543875 [silence]
+Agent 138.087500 144.299625 you know uh ge[t]- please ge[t]- ge[t]- ge[t]- and you're already preapproved and all this other kind of stuff
+Customer 142.543875 143.892625 yeah
+Customer 143.892625 153.255750 [silence]
+Agent 144.299625 155.285000 you know they just try to uh to to get you to ge[t]- uh have their credit card and um you know uh si[x]- half a dozen isn't enough [laughter]
+Customer 153.255750 156.212875 [laughter] how many credit cards do you have
+Agent 155.285000 160.119625 oh i have one we well we ha[ve]- we have one one Master Card
+Customer 156.212875 157.872000 that's pretty good
+Customer 157.872000 159.377750 [silence]
+Customer 159.377750 164.468500 yeah my oh my husband won't even put his name on it i don't believe in those
+Agent 160.119625 160.948875 and
+Agent 160.948875 163.434875 [silence]
+Agent 163.434875 165.226625 [laughter]
+Customer 164.468500 170.238000 it's like but but the time we went to Florida and needed to rent a car you know he believed in it
+Agent 165.226625 169.633000 [silence]
+Agent 169.633000 171.107125 yeah [laughter]
+Customer 170.238000 173.001375 because you've got to have a credit card to rent a car
+Agent 171.107125 174.622125 yes you do uh-huh yes you do yes you do and tha[t]- tha[t]-
+Customer 173.001375 184.893250 [silence]
+Agent 174.622125 179.560250 uh down here uh you have to have a cre[dit]- uh you just can't live without it
+Agent 179.560250 185.744375 because down here they don't take a check unless you got credit card and driver's license identification
+Customer 184.893250 192.843000 yep that's ri[ght]- up here at some sto[res]- if it's if you're not in your home town you have to show them a credit card
+Agent 185.744375 191.998250 [silence]
+Agent 191.998250 197.297500 yeah uh it's it's just a another form of identification you know just to
+Customer 192.843000 197.148750 [silence]
+Customer 197.148750 207.501000 well actually if your check bounces i guess they could legally take it off your credit card if that's why they're taking it i mean i don't know how fair that is
+Agent 197.297500 201.458250 [silence]
+Agent 201.458250 204.333125 oh yes oh yeah they can
+Agent 204.333125 205.376250 yeah
+Agent 205.376250 213.212125 [silence]
+Customer 207.501000 210.101750 but i don't know um
+Customer 210.101750 214.338375 yeah i guess that percentage rates are like eighteen percent
+Agent 213.212125 219.726750 uh they're all well ours is ours is through our our credit union and it's thirteen so it's
+Customer 214.338375 218.147875 [silence]
+Customer 218.147875 220.967875 yeah thirteen that's not bad
+Agent 219.726750 228.330875 that's not that's really good compared to eighteen and twenty one which some of them are uh uh some of them are really ex[treme]- high
+Customer 220.967875 222.459500 yeah
+Customer 222.459500 229.383375 [silence]
+Agent 228.330875 229.639750 it's it's uh
+Customer 229.383375 241.227000 and yeah then you have to pay your fee and American Express you're really it's not a credit card because you have to pay it off at the end of the month but the fee for that it's really expensive isn't it
+Agent 229.639750 235.833250 [silence]
+Agent 235.833250 237.322875 yeah
+Agent 237.322875 240.047250 [silence]
+Agent 240.047250 243.049375 is it i i don't know we do[n't]- uh we don't
+Customer 241.227000 242.543125 [silence]
+Customer 242.543125 244.226375 i've never had one
+Agent 243.049375 244.171750 [silence]
+Agent 244.171750 248.054000 my husband has one for t[o]- for uh for business
+Customer 244.226375 251.623125 [silence]
+Agent 248.054000 249.659250 it's a company card
+Agent 249.659250 254.705250 but he's never had to use it so we don't get any get anything uh for it
+Customer 251.623125 252.564125 oh
+Customer 252.564125 253.806125 [laughter]
+Customer 253.806125 255.634375 that's good [laughter]
+Agent 254.705250 266.709875 i mean we w[e]- we would if we used it we would get it and then uh the company would reimburse any company expenses on it but but so far he's never had to use it so we don't know anything about the billing
+Customer 255.634375 266.549250 [silence]
+Customer 266.549250 270.524750 yeah if he they they they have you pay it right out every month
+Agent 266.709875 269.855625 [silence]
+Agent 269.855625 273.434250 do they uh uh ooh [laughter]
+Customer 270.524750 272.159500 [silence]
+Customer 272.159500 273.940250 yeah because it's uh
+Agent 273.434250 276.653250 that could get you in awful lot of trouble [laughter]
+Customer 273.940250 274.996125 [silence]
+Customer 274.996125 276.807875 i know especially if your uh
+Agent 276.653250 279.289625 [silence]
+Customer 276.807875 279.937125 your reimbursement didn't come through [laughter]
+Agent 279.289625 280.305750 yeah
+Customer 279.937125 287.891125 from your company because i know they i don't know why but you can use American Express and they give you an itemized bill and
+Agent 280.305750 287.025000 [silence]
+Agent 287.025000 288.894500 yeah
+Customer 287.891125 292.953875 you can use that i don't know why you can't use other credit cards for business that way
+Agent 288.894500 292.972875 [silence]
+Customer 292.953875 296.651875 [silence]
+Agent 292.972875 297.917750 i do[n't]- i don't know i think it's uh just a lot of companies prefer American
+Customer 296.651875 298.576375 American Express
+Agent 297.917750 304.236750 yeah i i don't know if it's easy for them to get or or or what but um
+Customer 298.576375 308.075375 [silence]
+Agent 304.236750 308.632750 uh but i guess it's it's run so much different from the other ones
+Customer 308.075375 314.481000 yep this is this is it actually kind a boring subject in credit cards
+Agent 308.632750 310.757375 [silence]
+Agent 310.757375 311.734875 hum
+Agent 311.734875 313.929250 [silence]
+Agent 313.929250 315.417625 [laughter]
+Customer 314.481000 322.484750 [vocalized-noise] you really you just know some people abuse them but not a joke about the person who pays their Master Card off with their Visa
+Agent 315.417625 321.951125 [silence]
+Agent 321.951125 323.864625 yeah [laughter]
+Customer 322.484750 325.549500 i bet you th[ere]- i bet you there are people that do that
+Agent 323.864625 325.449125 [silence]
+Agent 325.449125 329.032000 oh i i i'm sure there are i mean uh
+Customer 325.549500 327.795750 [silence]
+Customer 327.795750 333.125875 [laughter] you go get a cash advance on one credit card to pay the other
+Agent 329.032000 330.500875 you take
+Agent 330.500875 332.159750 [silence]
+Agent 332.159750 334.339750 oh gee oh gee oh
+Customer 333.125875 336.942250 th[ey]- i think they charge more for cash advances so
+Agent 334.339750 336.675750 [silence]
+Agent 336.675750 343.236875 do they um it's it's some cards y[ou]- you can do that and some cards you can't down here
+Customer 336.942250 347.014375 [silence]
+Agent 343.236875 347.005500 i think it just depends on what the what the banks will take
+Agent 347.005500 348.123500 plus
+Customer 347.014375 350.429875 well it yeah you can't get cash advances
+Agent 348.123500 350.334250 [silence]
+Agent 350.334250 353.741375 oh so on on uh on some cards
+Customer 350.429875 353.045125 [silence]
+Customer 353.045125 354.280125 oh
+Agent 353.741375 363.159625 uh-huh well i saying through my bank [vocalized-noise] they they since they have their own card they don't like to give advances through other for other cards
+Customer 354.280125 362.633000 [silence]
+Customer 362.633000 374.901500 oh well no uh it [laughter] i think that's a really bad plan in your budgeting if you have to pay one card off with another oh even[tually]- eventually
+Agent 363.159625 371.641500 [silence]
+Agent 371.641500 373.265500 [vocalized-noise]
+Agent 373.265500 376.170500 that that doesn't solve anything
+Customer 374.901500 376.668000 no it doesn't
+Agent 376.170500 378.396750 that just [laughter]
+Customer 376.668000 377.669250 [silence]
+Customer 377.669250 381.966125 [laughter] be solid for a couple of weeks then you get both bills back
+Agent 378.396750 379.456125 [silence]
+Agent 379.456125 381.051125 yeah [vocalized-noise]
+Agent 381.051125 385.291500 because_1 it's still there [laughter]
+Customer 381.966125 388.158750 [silence]
+Agent 385.291500 389.340250 it's just some place else [laughter-now]
+Customer 388.158750 389.814625 i know i don't
+Agent 389.340250 396.184250 [silence]
+Customer 389.814625 396.881625 credit cards almost seem unfair to a person who's who's got a victim of impulse buying
+Agent 396.184250 398.681250 oh yeah store credit cards
+Customer 396.881625 400.365000 like unfair advertising or something
+Agent 398.681250 400.071500 [silence]
+Agent 400.071500 406.130750 store credit cards are even higher interest rate than say Master Card or Visa
+Customer 400.365000 409.945750 [silence]
+Agent 406.130750 410.730000 because i i had a i had a Neiman Marcus card for a while
+Customer 409.945750 411.479875 [laughter]
+Agent 410.730000 416.500250 and i used it once and then i cut up because the interest rate was like almost twenty three percent
+Customer 411.479875 416.504000 [silence]
+Agent 416.500250 417.502750 [silence]
+Customer 416.504000 418.456625 oh wow
+Agent 417.502750 421.558750 so i i cu[t]- i cut that thing up [laughter]
+Customer 418.456625 420.511750 [silence]
+Customer 420.511750 426.578750 so also when you give give someone a credit card like a normal credit card like a Visa or something
+Agent 421.558750 425.755750 [silence]
+Agent 425.755750 426.888875 uh-huh
+Customer 426.578750 437.455875 that that um business person loses four percent because i used to work in a business and we al[ways]- and we used to lose four percent on the credit card orders
+Agent 426.888875 433.401000 [silence]
+Agent 433.401000 434.767500 oh really
+Agent 434.767500 436.615500 [silence]
+Agent 436.615500 438.369250 ooh
+Customer 437.455875 448.698125 yeah it's it's the thing if if a business is taking a credit card they're really they sacrificing something too it seems the credit card company makes money all the way around
+Agent 438.369250 447.785500 [silence]
+Agent 447.785500 451.227500 yeah i also was going to say they get it from both ends
+Customer 448.698125 450.292250 [silence]
+Customer 450.292250 453.444875 because it is a four percent that they take
+Agent 451.227500 452.292000 [silence]
+Agent 452.292000 454.172750 uh i didn't know
+Customer 453.444875 455.812375 three or four percent
+Agent 454.172750 456.954500 [silence]
+Customer 455.812375 461.723125 i don't know which put you in better rating yep because when i used to go to the bank
+Agent 456.954500 458.232125 wow
+Agent 458.232125 464.163500 [silence]
+Customer 461.723125 464.229500 i used to take it off the deposit
+Agent 464.163500 465.832125 oh how awful
+Customer 464.229500 467.357875 [vocalized-noise] you do have to take it off your deposit
+Agent 465.832125 466.978000 [silence]
+Agent 466.978000 468.023125 [laughter]
+Customer 467.357875 470.999125 yeah so it is a a service that they're offering
+Agent 468.023125 470.298500 [silence]
+Agent 470.298500 475.060750 yeah oh boy those people are making money hand over fist
+Customer 470.999125 474.663625 [silence]
+Customer 474.663625 478.389375 i i know should own stock
+Agent 475.060750 476.175875 [silence]
+Agent 476.175875 477.206250 [laughter]
+Agent 477.206250 478.218375 [silence]
+Agent 478.218375 480.569250 [laughter]
+Customer 478.389375 479.458125 [silence]
+Customer 479.458125 481.834125 there instead of these uh
+Agent 480.569250 484.310125 [silence]
+Customer 481.834125 485.538250 uh banks going that are folding but
+Agent 484.310125 491.274875 well but everybody's really trying to you know it's become a real national problem credit card debt
+Customer 485.538250 493.449500 [silence]
+Agent 491.274875 495.958750 and and i we've really cut
+Customer 493.449500 499.802000 i wonder how much is numbers how many billions of dollars it's got to be billions of dollars
+Agent 495.958750 497.423000 oh
+Agent 497.423000 498.520750 [silence]
+Agent 498.520750 507.670000 it it is it is it th[ey]- uh you hear a lot about how much uh uh shaky the economy is just because of personal debt
+Customer 499.802000 509.474875 [silence]
+Agent 507.670000 510.027750 and what they're talking about is credit cards
+Customer 509.474875 510.865750 yeah
+Agent 510.027750 517.128125 [silence]
+Customer 510.865750 512.955000 that's uh probably true
+Customer 512.955000 517.790750 i mean you have the principal debt the car loan and your house loan
+Agent 517.128125 518.560250 yeah
+Customer 517.790750 520.899000 and then there's all the merchandise you buy on your credit cards
+Agent 518.560250 520.274125 [silence]
+Agent 520.274125 521.289625 uh-huh
+Customer 520.899000 522.851125 [laughter]
+Agent 521.289625 522.308625 [silence]
+Agent 522.308625 524.660000 i don't know if they count uh
+Customer 522.851125 525.629875 [silence]
+Agent 524.660000 527.786500 mortgages as personal debt
+Customer 525.629875 527.680375 that's personal [vocalized-noise]
+Customer 527.680375 529.332250 maybe they don't
+Agent 527.786500 528.803250 [silence]
+Agent 528.803250 532.348250 i don't i'm not sure that they do i think uh
+Customer 529.332250 539.487500 [silence]
+Agent 532.348250 541.211000 what they're talking about like [vocalized-noise] is uh credit cards and other junk [vocalized-noise] and loan car loans things like that
+Customer 539.487500 540.823500 yeah
+Customer 540.823500 558.469625 [silence]
+Agent 541.211000 542.799375 because uh
+Agent 542.799375 550.097500 boy i know people who ki[ds]- people right out of college the credit card people like to get you
+Agent 550.097500 558.545125 because because they uh they spend they use the credit cards real easily and real freely and then they get in real [laughter-trouble]
+Customer 558.469625 566.143000 i know i had a girl friend she just got married out of college and the husband had t[aken]- confiscate her credit cards [vocalized-noise]
+Agent 558.545125 564.909125 [silence]
+Agent 564.909125 566.216000 yeah
+Customer 566.143000 572.050125 i mean i don't know it's probably they're always saying the women are doing [vocalized-noise] are the spending ones
+Agent 566.216000 576.235625 [silence]
+Customer 572.050125 578.038750 but i haven't heard o[ne]- uh a single woman taking their credit card away from the man [laughter]
+Agent 576.235625 578.820250 [laughter]
+Customer 578.038750 584.896500 well i don't know um i i definitely want to get mi[ne]- up mine paid off month to month like i used to
+Agent 578.820250 584.176125 [silence]
+Agent 584.176125 585.884875 yeah
+Customer 584.896500 585.904375 [silence]
+Agent 585.884875 589.738000 [silence]
+Customer 585.904375 591.274125 and just as soon as i get it paid off i'll probably get laid off [laughter]
+Agent 589.738000 591.682625 [laughter]
+Customer 591.274125 592.278500 [silence]
+Agent 591.682625 595.352750 [silence]
+Customer 592.278500 596.619625 terrible can't afford my credit card anymore
+Agent 595.352750 599.849625 oh i know it you become a slave to your plastic
+Customer 596.619625 599.849625 [silence]

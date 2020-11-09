@@ -1,0 +1,117 @@
+Agent 0.000000 1.988250 [noise]
+Customer 0.000000 1.844750 [noise]
+Customer 1.844750 8.916500 hello hello hi boy it took forever to find somebody [laughter]
+Agent 1.988250 3.315875 hello
+Agent 3.315875 4.923000 hello
+Agent 4.923000 7.026625 [silence]
+Agent 7.026625 9.888125 oh [laughter] well i'm glad you found me
+Customer 8.916500 13.045375 good well i'm my name's Gail and i guess we have to talk about credit cards
+Agent 9.888125 11.083750 [silence]
+Agent 11.083750 12.542000 [noise]
+Agent 12.542000 15.685375 yes my name is Carolyn
+Customer 13.045375 15.079750 [silence]
+Customer 15.079750 18.403375 okay well if you're ready then uh
+Agent 15.685375 17.507000 [silence]
+Agent 17.507000 20.313000 okay i'll just let you start
+Customer 18.403375 19.670000 i'll [vocalized-noise]
+Customer 19.670000 21.372375 okay i'll press one
+Agent 20.313000 42.385125 [silence]
+Customer 21.372375 22.509000 [noise]
+Customer 22.509000 23.513625 [silence]
+Customer 23.513625 30.571625 okay well i'm not [laughter] this is kind of an interesting subject to come up for me because credit cards are my downfall [laughter]
+Customer 30.571625 39.125250 [noise] i just find it so easy to to charge something when i don't have the money to pay for it and really trying to get out of that habit so
+Customer 39.125250 40.127625 [silence]
+Customer 40.127625 42.094000 i think they're kind of dangerous
+Customer 42.094000 55.842375 [silence]
+Agent 42.385125 45.727375 i think they are too and unfortunately um
+Agent 45.727375 55.202750 we use ours in we don't use them_1 all the time but we use them_1 like at Christmas time and then it seems like it takes all year to pay them off when you use them_1
+Agent 55.202750 62.490000 like that [laughter] but um i would love to just take some scissors and cut them_1 in half
+Customer 55.842375 57.445500 um-hum
+Customer 57.445500 60.491750 [silence]
+Customer 60.491750 62.883000 [laughter]
+Agent 62.490000 64.626000 [silence]
+Customer 62.883000 66.013250 yeah me too [laughter]
+Agent 64.626000 68.958375 i think sometimes when you look at the interest that you're paying on them_1
+Customer 66.013250 81.435000 [silence]
+Agent 68.958375 73.230375 um that's what gets to be the really scary part you know if you think
+Agent 73.230375 79.841375 when it comes around to income tax time and you look at how much money you paid out just in interest all year you could really
+Agent 79.841375 82.700375 get a lot more stuff [laughter]
+Customer 81.435000 83.013625 um-hum
+Agent 82.700375 85.483000 if you were just able to pay outright for it
+Customer 83.013625 84.699500 [silence]
+Customer 84.699500 90.341375 yeah that's true that's true seems just like our society is so um
+Agent 85.483000 101.479000 [silence]
+Customer 90.341375 103.448750 pushes so hard for you can have it you know and then no interest no payments for a year and stuff like this they're really trying to get you into that uh situation because_1 they know they've really got you then
+Agent 101.479000 103.429000 that's right
+Agent 103.429000 104.448625 [silence]
+Customer 103.448750 105.067000 so
+Agent 104.448625 107.958500 yeah all i know is some of my credit cards like um
+Customer 105.067000 112.108875 [silence]
+Agent 107.958500 116.878750 we have a Sears one and we always get a maintenance agreement every year and it's just easier to say you know just put that on my credit card well that's
+Customer 112.108875 113.579125 uh-huh
+Customer 113.579125 121.441125 [silence]
+Agent 116.878750 120.454500 probably four or five hundred dollars you know that goes on
+Agent 120.454500 123.589375 at that point and then it seems like
+Customer 121.441125 122.959000 uh-huh
+Customer 122.959000 124.966250 [silence]
+Agent 123.589375 127.081000 [noise] takes forever to pay that off [laughter]
+Customer 124.966250 132.175250 [laughter] it's funny that uh we've got a Sears card and we bought a washer and dryer on it four years ago
+Agent 127.081000 128.500625 [noise]
+Agent 128.500625 131.599125 [silence]
+Agent 131.599125 132.977750 um-hum
+Customer 132.175250 139.256500 and we still owe i mean i- i think like half [noise] of the amount that they cost in the first place
+Agent 132.977750 138.470375 [silence]
+Agent 138.470375 140.001125 wow
+Customer 139.256500 144.435000 it's just uh you know you just never never get get it out
+Agent 140.001125 146.744250 [silence]
+Customer 144.435000 149.939000 and uh that's that's real irritating to have [laughter]
+Agent 146.744250 148.509750 it sure is
+Agent 148.509750 155.234625 we eventually did one time we just borrowed you know took a personal loan and paid off all our credit cards
+Customer 149.939000 157.870500 [silence]
+Agent 155.234625 160.180125 and the interest on the loan was cheaper [noise] than it was you know to just have that
+Customer 157.870500 159.207250 uh-huh
+Customer 159.207250 162.611125 [silence]
+Agent 160.180125 163.665000 we haven't done it lately we probably need to do it again
+Customer 162.611125 173.360000 well we did you know one time we wanted to buy a truck a used truck and so we went down to the bank and they said sure we'll give you a personal loan it was only a thousand dollars that we needed
+Agent 163.665000 172.988250 [silence]
+Agent 172.988250 174.346125 um-hum
+Customer 173.360000 178.872125 for the truck and they said sure that's no problem but you know why don't we consolidate your bills
+Agent 174.346125 188.460625 [silence]
+Customer 178.872125 192.082250 and at the time we thought oh that would be great you know we could and it's gonna be a lower payment than it was for all of them_1 you only have to write one check a month not all those you never miss one or whatever and we did that but we didn't realize at the time
+Agent 188.460625 189.880750 um-hum
+Agent 189.880750 208.180875 [silence]
+Customer 192.082250 194.477125 uh until several months later that
+Customer 194.477125 198.731375 we we were real i mean this was four year three years ago we were
+Customer 198.731375 208.964125 pretty young and we were just kind of like well i guess that means these credit cards are closed and we didn't you know about six months later we realized we could use them_1 and so we charged them_1 all up again
+Agent 208.180875 209.571875 oh no
+Customer 208.964125 219.042250 [laughter-yeah] so then we were not only paying those bills regular like we were before but also adding the lower payment problem [noise] so we were paying like twice
+Agent 209.571875 211.291875 [laughter]
+Agent 211.291875 218.908625 [silence]
+Agent 218.908625 220.731250 [noise] oh
+Customer 219.042250 225.584875 um [noise] so we didn't ever made that mistake again luckily [noise] but uh we're
+Agent 220.731250 240.426000 [silence]
+Customer 225.584875 239.248250 definitely working on not doing that credit thing we just as a matter of fact this it's real interesting the subjects i get they always seem to be so pertinent but we just discussed this last night at church [laughter-talking] about debt and things like that i just it's so
+Customer 239.248250 245.249250 so alluring and uh so easy to get uh sometimes
+Agent 240.426000 241.902250 um-hum
+Agent 241.902250 244.063125 [silence]
+Agent 244.063125 250.482625 i know they really encourage you not to go into debt for anything except for maybe your house and your car
+Customer 245.249250 248.264625 [silence]
+Customer 248.264625 249.766500 um-hum
+Customer 249.766500 250.885375 yeah
+Agent 250.482625 259.934250 and uh if you could stick to that you know we'd get rid of a lot of indigestion [laughter] and everything else
+Customer 250.885375 252.844500 yeah [noise]
+Customer 252.844500 256.507500 [silence]
+Customer 256.507500 257.488250 [noise]
+Customer 257.488250 259.024125 [noise] yep
+Customer 259.024125 268.532500 [laughter] sure that's true oh i just picked up my daughter and she was eating a cupcake and there are crumbs all over her yeah what a mess you are
+Agent 259.934250 264.562125 [silence]
+Agent 264.562125 266.207375 [noise] oh dear
+Agent 266.207375 282.292500 [silence]
+Customer 268.532500 278.200875 oh so i don't know if i if i- i just feel kind of i my big thing was my husband really wanted to get rid of our Visa card and i just thought
+Customer 278.200875 288.031000 you know if we ever had something go wrong with our refrigerator or something you know and we had to had to buy one and we would really need that and
+Agent 282.292500 283.712250 um-hum
+Agent 283.712250 293.983375 [silence]
+Customer 288.031000 295.008875 so he said okay we'll keep it and then we weren't smart enough to not use it so [noise]
+Agent 293.983375 298.562000 you know one thing you might do with in a situation like that though it's just like keep
+Customer 295.008875 296.672375 now we just don't
+Customer 296.672375 298.562000 [silence]

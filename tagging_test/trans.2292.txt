@@ -1,0 +1,203 @@
+Agent 0.000000 0.716500 [noise]
+Customer 0.000000 1.496625 [silence]
+Agent 0.716500 1.995875 hi Kay
+Customer 1.496625 2.690000 hi
+Agent 1.995875 11.998625 i uh was thinking about salaries and benefits and uh was wondering what's the most important thing to you besides a salary in a job
+Customer 2.690000 6.315250 [silence]
+Customer 6.315250 7.488875 uh-huh
+Customer 7.488875 12.272125 [silence]
+Agent 11.998625 32.497750 [silence]
+Customer 12.272125 23.926625 well um i we just recently graduated from Rice University and uh we were going through a lot of job interviews and things and some of the things that were important to me
+Customer 23.926625 27.385000 m[y]- uh when my husband was looking for his job was um
+Customer 27.385000 37.330875 hours you know we he had been in graduate school so i was used to his not being home at all [laughter] so i was you know didn't want him to have a job that
+Agent 32.497750 34.981500 [laughter] yeah [laughter]
+Agent 34.981500 41.989875 [silence]
+Customer 37.330875 48.780250 would make him kind of be on call all the time and have to go in at any time and you know even on the weekends and and um and things so that was important to me and also insurance
+Agent 41.989875 43.297000 uh-huh
+Agent 43.297000 50.482625 [silence]
+Customer 48.780250 59.473625 for the fa[mily]- our family because we'd like to be able to take care of our medical needs and not be thinking so much about whether or not you can afford it
+Agent 50.482625 51.995500 sure
+Agent 51.995500 57.773500 [silence]
+Agent 57.773500 66.171250 yeah i don't ever want to have to worry about that that's real important to me um you know we have that that Aetna
+Customer 59.473625 65.774250 [silence]
+Customer 65.774250 67.487625 uh-huh
+Agent 66.171250 75.399000 um that's what we the insurance that we have right now when we were in Colorado they had um a different type of HMO there that i really liked a lot
+Customer 67.487625 68.497125 [silence]
+Customer 68.497125 70.499500 um-hum us too
+Customer 70.499500 74.491000 [silence]
+Customer 74.491000 76.226750 um-hum
+Agent 75.399000 86.786750 it was um not that kind of HMO's where you have to go to their they're sort of like clinics you know uh but this was just an HMO where you could go to private practice doctors and to the regular
+Customer 76.226750 80.497250 [silence]
+Customer 80.497250 82.209000 um-hum
+Customer 82.209000 93.478375 [silence]
+Agent 86.786750 95.553375 hospitals and all that but it was with a certain list of of doctors that you know participated in the HMO
+Customer 93.478375 94.990000 um-hum
+Customer 94.990000 96.280500 [silence]
+Agent 95.553375 104.703750 and um you know then you only had to pay the it for us it was a five dollar copayment every time you went to the doctor and uh three dollars for the prescriptions
+Customer 96.280500 97.992625 well that's nice
+Customer 97.992625 103.988250 [silence]
+Customer 103.988250 107.209125 uh-huh that's good
+Agent 104.703750 114.978750 and uh i especially liked the prescription especially since my children tend to have ear infections all the time [laughter] that those prescriptions can be very expensive
+Customer 107.209125 110.277875 [silence]
+Customer 110.277875 112.378875 um-hum
+Customer 112.378875 114.201375 [silence]
+Customer 114.201375 117.755625 oh i know we just went through that ourselves
+Agent 114.978750 121.757875 [silence]
+Customer 117.755625 123.176375 we just you know were like fifty dollars for this series of antibiotics and things
+Agent 121.757875 130.290250 oh i know especially if you get what is it Seclor i think [laughter-that] that just about breaks the bank [laughter-right] [laughter-there]
+Customer 123.176375 125.484000 [silence]
+Customer 125.484000 127.746875 um-hum the
+Customer 127.746875 129.692250 yes
+Customer 129.692250 143.827625 yes it's pretty bad well yeah and we um we were interested in having de[ntal]- dental insurance too because um we[ll]- having been in school we kind of put things off and only went in when we knew there was a problem somewhere and stuff and
+Agent 130.290250 139.492625 [silence]
+Agent 139.492625 141.293625 um-hum
+Agent 141.293625 143.717625 [silence]
+Agent 143.717625 144.996625 do y[ou]-
+Customer 143.827625 149.992000 we wanted to be able to go in and have our teeth cleaned and just checked all over and
+Agent 144.996625 148.989125 [silence]
+Agent 148.989125 153.472375 do you have the basic plan or do you have the the other one
+Customer 149.992000 152.478125 [silence]
+Customer 152.478125 157.751625 we have um you know we're at Aetna with uh an [vocalized-noise] we have like the
+Agent 153.472375 160.771750 [silence]
+Customer 157.751625 165.273500 medi[cal]- the dental insurance is separate is that what you mean and i don't think it's the basic i think it's the other one
+Agent 160.771750 162.271750 right
+Agent 162.271750 163.988250 [silence]
+Agent 163.988250 172.192500 the one that's like you get additional they'll pay a little bit more i think for the different procedures we just have the basic right now and
+Customer 165.273500 166.990375 [silence]
+Customer 166.990375 171.203875 um-hum uh-huh
+Customer 171.203875 189.798125 [silence]
+Agent 172.192500 181.021750 for most things it tends to cover it we don't have too many major um expenses at this point but we have been able to find
+Agent 181.021750 192.230500 do[ctors]- dentists that will accept [noise] pretty much whatever the basic plan pays a couple of times we've had to pay oh i don't know three to five dollars but that's not that bad
+Customer 189.798125 197.926875 uh-huh no that's great yeah we need to go shopping for dentists and things like that too
+Agent 192.230500 208.208500 [silence]
+Customer 197.926875 205.594125 yes and let's see besides insurance other things that we looked at um
+Customer 205.594125 215.996125 well my husband does not like to commute very far and and we don't like him to be you know having to drive an hour to work or [laughter-something]
+Agent 208.208500 209.485375 um-hum
+Agent 209.485375 214.281000 [silence]
+Agent 214.281000 217.270750 no we don't like that either [laughter]
+Customer 215.996125 227.904750 [noise] so we kind of looked for where where the uh his office would be located and how far well he's uh you know he's at the one that's at um
+Agent 217.270750 221.982875 [silence]
+Agent 221.982875 224.481750 is his office in Plano
+Agent 224.481750 229.812625 [silence]
+Customer 227.904750 237.835875 seventy five at uh six thirty five and so we[ll]- by living in Plano we're just about fifteen minutes away and
+Agent 229.812625 231.756375 uh-huh uh-huh
+Agent 231.756375 234.999750 [silence]
+Agent 234.999750 236.714000 oh that's not bad
+Agent 236.714000 240.791750 [silence]
+Customer 237.835875 251.497375 e[specially]- especially when they finish all the construction out here and we didn't want him to let you know to like we had some job offers in the New York area and we thought well you know he would be really commuting [laughter]
+Agent 240.791750 241.987500 right
+Agent 241.987500 249.780250 [silence]
+Agent 249.780250 252.229000 oh yes you're not kidding
+Customer 251.497375 259.257250 and not only is it you know trouble to have to drive but it takes time away from your home and your family when you're out driving
+Agent 252.229000 257.771125 [silence]
+Agent 257.771125 259.451875 that's right
+Customer 259.257250 273.054625 and um so that was something that was important to us and because_1 l[ike]- like i say i we kind of felt deprived that he had been in school and been away from us for so [laughter-long] that we were anxious to do everything we could to have you know
+Agent 259.451875 268.252000 [silence]
+Agent 268.252000 269.974250 [laughter]
+Agent 269.974250 280.257250 [silence]
+Customer 273.054625 280.461000 made us be more together and and what other can you think of another thing that you guys looked at and
+Agent 280.257250 286.660250 well tha[t]- those are some of the things that are very important to us too um
+Customer 280.461000 284.983375 [silence]
+Customer 284.983375 286.486625 um-hum
+Customer 286.486625 296.252125 [silence]
+Agent 286.660250 297.611125 we we'd like you know other benefits that are provided um the athletic facilities that that you can sometimes take advantage of um
+Customer 296.252125 297.999625 um-hum
+Agent 297.611125 309.494750 i think that's that's pretty nice but i have to say that since we've come here we haven't done it too much though we haven't enrolled in too many of the classes or or any of that but that's a that's a nice benefit to have
+Customer 297.999625 308.524250 [silence]
+Customer 308.524250 319.728750 um-hum that's true that's really important um also what um opportunities there would be for advancement
+Agent 309.494750 310.946875 [noise]
+Agent 310.946875 329.773750 [silence]
+Customer 319.728750 327.082875 i think we looked at besides just you know what salary you would be ha[ving]- having now but when
+Customer 327.082875 331.705875 when could uh your salary increase and
+Agent 329.773750 331.156375 right
+Agent 331.156375 333.303625 [silence]
+Customer 331.705875 334.870250 is there was there somewhere to go [laughter]
+Agent 333.303625 345.999750 yeah that that's one of the i think the hard things right now i mean they're going through some some tough times [laughter] to say the least uh i know many of us are thankful that he still has a job [laughter]
+Customer 334.870250 338.650375 [silence]
+Customer 338.650375 340.739500 um-hum
+Customer 340.739500 343.496750 [silence]
+Customer 343.496750 347.994625 yes tha[t]- that we can make our mortgage payments and
+Agent 345.999750 349.728250 [silence]
+Customer 347.994625 350.966500 yeah that's really true
+Agent 349.728250 364.496000 uh uh one of the drawbacks i think of working for a big company is often times you do have to follow pretty rigid um [noise] guidelines um if if an employee is especially exemplary i think it's often
+Customer 350.966500 373.321250 [silence]
+Agent 364.496000 374.997000 in a smaller company it's a little bit easier for them to say hey you know this person did a wonderful job give him a big bonus kind of thing a lot of times [noise]
+Customer 373.321250 374.976000 um-hum
+Customer 374.976000 382.817500 [silence]
+Agent 374.997000 387.979625 smaller companies have bonus plans where i think in a large company it's hard to do that because_1 there're just so many people to deal with and you have to have guidelines if you know for salary increases and things like that
+Customer 382.817500 384.487375 um-hum
+Customer 384.487375 391.983250 [silence]
+Agent 387.979625 393.244250 just one of the things that that happens when someone when you're dealing with a large company
+Customer 391.983250 393.980875 uh-huh
+Agent 393.244250 394.695125 but
+Customer 393.980875 399.351500 but well we also were interested in um you know being sure that he
+Agent 394.695125 401.739250 [silence]
+Customer 399.351500 406.935250 felt like he liked the people that he would be working with and that there would be some uh opportunity for
+Agent 401.739250 403.225250 um-hum
+Agent 403.225250 410.983875 [silence]
+Customer 406.935250 418.979625 for friendships that way so that you would feel happy going to work everyday and rather than thinking oh i really i can't stand these [laughter-people] [laughter-i] but uh so that's something that was important to him and
+Agent 410.983875 413.499500 right [laughter]
+Agent 413.499500 421.985000 [silence]
+Customer 418.979625 423.470250 thinking he could um work under tho[se]-
+Agent 421.985000 424.740375 how long has he been in his present position
+Customer 423.470250 429.478375 oh just since l[ast]- last summer it's only been not even a year yet so
+Agent 424.740375 425.756000 [silence]
+Agent 425.756000 427.499125 uh-huh
+Agent 427.499125 429.631250 [silence]
+Customer 429.478375 443.479375 [silence]
+Agent 429.631250 440.156500 well i was going to say [laughter] it sounds like you you picked out a lot of good things you know for him to to ha[ve]- to uh to choose in a position that has a lot of thought put into it
+Agent 440.156500 452.196250 in a big company though you also get moved around a [laughter-lot] he may be having to drive over here to Lewisville some [laughter-time] or or we may be having to drive to Plano you never know [laughter]
+Customer 443.479375 445.567750 yes we're
+Customer 445.567750 447.097500 [silence]
+Customer 447.097500 449.216750 [laughter-oh] yeah
+Customer 449.216750 450.394750 [silence]
+Customer 450.394750 454.104875 you never know we're hoping that that [laughter-won't] be the case we
+Agent 452.196250 454.668000 [laughter]
+Customer 454.104875 460.311000 i think one of the m[ost]- one of the most deciding factors of why we chose um this area is that um
+Agent 454.668000 462.485250 [silence]
+Customer 460.311000 463.497000 my husband was raised in Irving
+Agent 462.485250 463.996750 uh-huh
+Customer 463.497000 472.997000 and so he we have a lot of family here his side of the family and being when we were down in Houston we were isolated i mean it's not that far but
+Agent 463.996750 475.486250 [silence]
+Customer 472.997000 482.907375 people would ha[ve]- we didn't have anyone in town that was our family and although we had really good friends and and we had church and school support and things um
+Agent 475.486250 476.995375 right
+Agent 476.995375 489.698125 [silence]
+Customer 482.907375 491.485125 we were anxious to move close to family members just because we wanted our children to know their grandparents and things like that
+Agent 489.698125 493.494125 yeah we're very
+Customer 491.485125 498.754000 so that really made a big difference i think in why we chose TI and chose to move this way
+Agent 493.494125 498.475875 [silence]
+Agent 498.475875 507.266625 we're very far from our families and it's really hard fam[ilies]- little children and um they were the only grandchildren
+Customer 498.754000 517.212375 [silence]
+Agent 507.266625 521.214750 and so our our families are are are really far away in fact this is [laughter-a] [laughter-little] [laughter-off] the topic but yesterday my mother happened to be on a train going from Phoenix to back to Chicago and it stopped in Dallas for a half an hour so
+Customer 517.212375 519.180000 um-hum
+Customer 519.180000 521.976000 [silence]
+Agent 521.214750 532.934750 i loaded the kids in the car and we went downtown and [laughter] met her train for half an hour and brought her a little snack and an Easter basket and [laughter] i think it it made her trip a little bit nicer [laughter]
+Customer 521.976000 524.291500 [laughter]
+Customer 524.291500 526.489375 [laughter]
+Customer 526.489375 528.496375 [silence]
+Customer 528.496375 530.783500 oh that's nice
+Customer 530.783500 531.998500 [silence]
+Customer 531.998500 538.490750 yeah and it is i think it is important to you know want to be close to your family and
+Agent 532.934750 537.496375 [silence]
+Agent 537.496375 545.772500 yeah i mean i[t's]- it's hard i mean to to just for us to snatch a half hour like that is is a special occasion for us so um
+Customer 538.490750 540.804750 [silence]
+Customer 540.804750 542.714500 um-hum
+Customer 542.714500 545.489375 [silence]
+Customer 545.489375 548.721750 well that's definitely the way we feel
+Agent 545.772500 547.701750 it's nice
+Agent 547.701750 550.991375 it's nice that you can have your family close like that
+Customer 548.721750 550.238875 [silence]
+Customer 550.238875 564.762250 we're really enjoying it i wonder what it would be like i mean i i wanted to be close to family but i also thought that it would be harder to be close to family [laughter] but it's turned out really good and i think that you know we're really satisfied with that choice and
+Agent 550.991375 555.998250 [silence]
+Agent 555.998250 558.986500 yeah sometimes it can be [laughter]
+Agent 558.986500 568.996750 [silence]
+Customer 564.762250 571.496500 we you know kind of felt like um it was worth it to us
+Agent 568.996750 570.490000 that's good
+Agent 570.490000 575.985875 [silence]
+Customer 571.496500 584.981125 but anyway [laughter] well i my children just ran out the door so i need to [laughter-go] [laughter-check] [laughter-on] [laughter-them_1] but i've really enjoyed this c[onversation]- conversation and and uh nice to have met you and you have a good day okay_1 bye-bye
+Agent 575.985875 578.729250 okay [laughter]
+Agent 578.729250 581.202250 well i have too
+Agent 581.202250 582.800125 [silence]
+Agent 582.800125 585.215375 okay you too bye-bye
+Customer 584.981125 587.402250 [noise]
+Agent 585.215375 587.402250 [noise]

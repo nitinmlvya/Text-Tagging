@@ -1,0 +1,361 @@
+Agent 0.000000 0.996000 [noise]
+Customer 0.000000 1.480000 [noise]
+Agent 0.996000 2.998250 [silence]
+Customer 1.480000 5.158000 [noise] hello hey how you doing
+Agent 2.998250 4.524375 hello
+Agent 4.524375 7.254375 not bad not bad What's your name
+Customer 5.158000 6.693750 [silence]
+Customer 6.693750 7.816000 Fernando
+Agent 7.254375 9.255875 Fernando my name is Nick
+Customer 7.816000 8.744000 [silence]
+Customer 8.744000 11.629625 wait let me turn off my stereo here
+Agent 9.255875 10.497750 [silence]
+Agent 10.497750 11.823000 sure
+Customer 11.629625 16.648875 because i've been like waiting like for about ten minutes to get connected to somebody yeah
+Agent 11.823000 15.018125 [silence]
+Agent 15.018125 16.264375 really
+Agent 16.264375 17.714125 [noise]
+Customer 16.648875 17.716625 [silence]
+Agent 17.714125 18.840375 man am i
+Customer 17.716625 20.331625 right what time is it over th[ere]- are you are you in Dallas
+Agent 18.840375 20.072125 [silence]
+Agent 20.072125 23.736875 no no i'm in Detroit or not Detroit i'm in uh California
+Customer 20.331625 23.181750 [silence]
+Customer 23.181750 24.023375 are you
+Agent 23.736875 25.156250 yeah i
+Customer 24.023375 27.041000 because every time i got through i went to Dallas Texas
+Agent 25.156250 26.535125 [silence]
+Agent 26.535125 27.533250 really
+Customer 27.041000 28.711250 yeah i'm in North Carolina
+Agent 27.533250 28.599125 [silence]
+Agent 28.599125 30.910000 oh well you're on the uh lets see
+Customer 28.711250 30.181250 [silence]
+Customer 30.181250 31.834125 on the other coast [laughter]
+Agent 30.910000 32.711500 yeah twenty one
+Customer 31.834125 34.816250 [silence]
+Agent 32.711500 35.353125 yeah shoot man it's what midnight almost
+Customer 34.816250 38.700000 what yeah yeah it's uh i'm watching Saturday Night Live here
+Agent 35.353125 38.044750 [silence]
+Agent 38.044750 42.480000 [laughter-yeah] okay all right well i guess we're supposed to talk what about credit card
+Customer 38.700000 41.452250 [silence]
+Customer 41.452250 45.325250 w[hat]- wait wh[at]- what did how how did you get to know about the TI thing
+Agent 42.480000 44.963250 [silence]
+Agent 44.963250 48.882500 oh one of my instructors uh said that they were doing something like this and
+Customer 45.325250 47.653625 [silence]
+Customer 47.653625 49.110250 wh[at]- what are you working on
+Agent 48.882500 52.261000 a a Master's in uh information systems
+Customer 49.110250 51.704375 [silence]
+Customer 51.704375 56.001875 really i'm doing my Master's in in Computer Science and Computer Engineering
+Agent 52.261000 55.139500 [silence]
+Agent 55.139500 56.818625 yeah where at
+Customer 56.001875 58.395750 at North Carolina State University
+Agent 56.818625 58.069625 [silence]
+Agent 58.069625 59.855375 hey how do you like it out there
+Customer 58.395750 60.228375 [silence]
+Agent 59.855375 64.963375 [silence]
+Customer 60.228375 62.521250 uh i don't because uh
+Customer 62.521250 68.066750 i come from a lot a bigger city than this one and i i'm in Raleigh and
+Agent 64.963375 66.408250 yeah
+Agent 66.408250 69.186125 [vocalized-noise] Raleigh Durham yeah
+Customer 68.066750 75.805750 yeah that area and it's really small all all you have is like towns built around universities like Chapel Hill
+Agent 69.186125 73.926750 [silence]
+Agent 73.926750 75.383250 uh-huh
+Agent 75.383250 81.463500 yeah so it it's basically a bunch of small towns anyway kind of quaint little towns but they don't have a whole lot there
+Customer 75.805750 79.275125 [silence]
+Customer 79.275125 80.476000 yeah
+Customer 80.476000 81.708250 where are you at
+Agent 81.463500 84.280000 uh well i'm in Monterey California right now
+Customer 81.708250 83.518250 [silence]
+Customer 83.518250 90.474000 oh okay so so i mean it's like this this town probably has like two hundred and fifty thousand people and that's about it
+Agent 84.280000 85.508750 yeah
+Agent 85.508750 89.721250 [silence]
+Agent 89.721250 91.522125 two hundred fifty
+Customer 90.474000 91.929375 yeah
+Agent 91.522125 98.554125 okay it it's it's a lot bigger than Monterey is but we're just uh just south of uh San Jose and San Francisco
+Customer 91.929375 97.485750 [silence]
+Customer 97.485750 98.638875 oh okay
+Agent 98.554125 102.100000 and it's only a couple of hours away or a hour away to a you know to a large city
+Customer 98.638875 101.166875 [silence]
+Customer 101.166875 103.542375 so so where do you go do you go to Berkeley
+Agent 102.100000 103.318500 [silence]
+Agent 103.318500 106.852375 no no i go to the it's the Naval Postgraduate school out here
+Customer 103.542375 106.066125 [silence]
+Customer 106.066125 112.009375 oh okay because um i was looking at at the doctorate degree in Computer Science center at Berkeley
+Agent 106.852375 111.472250 [noise]
+Agent 111.472250 112.655375 um-hum
+Customer 112.009375 125.426750 and they're asking like for a um [vocalized-noise] GPA of like three point seven or something like that and like they're looking like for uh GRE like ninety nine percentile and this and that and it's like
+Agent 112.655375 118.016625 [silence]
+Agent 118.016625 119.385375 uh-huh
+Agent 119.385375 123.314375 [silence]
+Agent 123.314375 124.495375 yeah
+Agent 124.495375 128.209500 well that's what they look for whether or not they get it it's hard to say [noise]
+Customer 125.426750 127.170875 [silence]
+Customer 127.170875 130.397250 yeah i know that's why that's why i didn't apply i mean it was like
+Agent 128.209500 129.724375 [silence]
+Agent 129.724375 131.048000 yeah
+Customer 130.397250 137.453000 for me it was like practically impossible to get between like ninety and ninety nine percentile on the on the verbal part
+Agent 131.048000 135.481625 [silence]
+Agent 135.481625 147.723125 yeah it's pretty tough it's pretty tough i mean uh let's face it you know and you know are you [vocalized-noise] did the you know as far as i found it a lot of times with regards to education you know the school only takes you so far you know it's what you do
+Customer 137.453000 147.044625 [silence]
+Customer 147.044625 147.830250 yeah
+Agent 147.723125 152.677625 you know so uh i don't lose any sleep sleep over stuff like that
+Customer 147.830250 152.248625 [silence]
+Customer 152.248625 154.135000 so are are you going to go for your doctorate
+Agent 152.677625 154.706750 [silence]
+Customer 154.135000 156.083250 [silence]
+Agent 154.706750 156.863375 probably not see i'm in the Navy
+Customer 156.083250 156.839750 yeah
+Customer 156.839750 163.006250 [silence]
+Agent 156.863375 163.455000 and uh you know unless the Navy funds it i probably won't do it until i if i do do it it will be after i get out of the Navy
+Customer 163.006250 164.361250 when do you get out
+Agent 163.455000 164.584000 [silence]
+Customer 164.361250 166.234250 [silence]
+Agent 164.584000 166.624750 oh probably be another twelve years
+Customer 166.234250 168.101125 oh okay [laughter]
+Agent 166.624750 167.874125 [silence]
+Agent 167.874125 170.070625 oh you know i like what i'm doing right now
+Customer 168.101125 170.940000 but uh but what if they pay for it
+Agent 170.070625 171.233375 [silence]
+Customer 170.940000 173.016875 [noise] what if they pay for
+Agent 171.233375 172.091875 excuse me
+Agent 172.091875 173.641625 [silence]
+Customer 173.016875 174.360625 [silence]
+Agent 173.641625 175.464125 if they pay for a PhD
+Customer 174.360625 175.498500 yeah
+Agent 175.464125 181.372875 nah they won't pay for it they've i think they have maybe two people a year go [vocalized-noise] get their PhD
+Customer 175.498500 180.212000 [silence]
+Customer 180.212000 186.497250 because i know i know a couple of people here that work for um the Army um
+Agent 181.372875 184.927500 [silence]
+Agent 184.927500 187.994500 yeah they civilians or uh military
+Customer 186.497250 187.630250 [silence]
+Customer 187.630250 191.893500 i think i think they're military but i mean the guy is still in
+Agent 187.994500 189.555500 [silence]
+Agent 189.555500 190.684250 uh-huh
+Agent 190.684250 191.976875 [noise]
+Customer 191.893500 196.017875 and um h[e]- uh he works over in Maryland
+Agent 191.976875 192.996000 uh-huh
+Agent 192.996000 195.633500 [silence]
+Agent 195.633500 196.975500 um-hum
+Customer 196.017875 204.119125 and so he's doing his Master's here they gave him like a scholarship like for a year and he's doing it in like in a year and a summer
+Agent 196.975500 200.515625 [silence]
+Agent 200.515625 201.855125 yeah
+Agent 201.855125 203.734750 [silence]
+Agent 203.734750 204.926375 um-hum
+Customer 204.119125 211.361125 and so he's getting that and uh they said like they got a lot of benefits and that that's why you want to join
+Agent 204.926375 206.340000 [silence]
+Agent 206.340000 207.350875 yeah
+Agent 207.350875 211.168500 [silence]
+Agent 211.168500 212.351375 um-hum
+Customer 211.361125 220.647750 but uh this guy i mean you can earn a lot more money so you say i go why you still there if you can earn a lot more money once you've get your your you know Master's
+Agent 212.351375 220.505875 [silence]
+Agent 220.505875 221.559625 um-hum
+Customer 220.647750 225.120375 they go well they got a lot of benefits that would go with it so
+Agent 221.559625 223.436125 [silence]
+Agent 223.436125 224.395125 [vocalized-noise]
+Agent 224.395125 229.049500 well a lot of times it's you know a lot of times it's not the money that keeps peo[ple]- that keeps people
+Customer 225.120375 228.170500 [silence]
+Customer 228.170500 229.492500 yeah
+Agent 229.049500 234.032375 you know they they like what they're doing they you know they feel good about what they're doing that type of thing it's more
+Customer 229.492500 232.605125 [silence]
+Customer 232.605125 238.902375 but i mean i mean you the once you get your Master's you can be earning between anywhere between like thirty seven forty five thousand a year
+Agent 234.032375 238.999750 [noise] [noise] [noise] [noise]
+Customer 238.902375 239.946000 [silence]
+Agent 238.999750 240.082750 um-hum
+Customer 239.946000 240.798500 and
+Agent 240.082750 241.893750 oh easily i'm sure
+Customer 240.798500 242.421250 and that's not what they're paying
+Agent 241.893750 242.987250 [silence]
+Customer 242.421250 244.990250 [silence]
+Agent 242.987250 246.289250 no well it depends on what rank you are of course
+Customer 244.990250 246.885625 yeah yeah [laughter-i] [laughter-know]
+Agent 246.289250 253.480500 well i mean like i say if you're if you're you know if you're at an upper level in the rank category you know you're probably pulling down close to seventy grand a year
+Customer 246.885625 252.031625 [silence]
+Customer 252.031625 252.956000 yeah
+Customer 252.956000 253.769625 [silence]
+Agent 253.480500 255.190250 [silence]
+Customer 253.769625 255.002500 but that's uh
+Customer 255.002500 256.222500 [silence]
+Agent 255.190250 257.207250 yeah those are few and far between though
+Customer 256.222500 256.988125 yeah
+Customer 256.988125 261.127750 it's uh it's like uh in IBM in IBM you can get certain points
+Agent 257.207250 258.387375 [laughter]
+Agent 258.387375 260.720000 [silence]
+Agent 260.720000 262.264750 um-hum
+Customer 261.127750 268.314375 and uh everyone's a manager but nobody can get one more point to become you know like whatever you need to earn so much money
+Agent 262.264750 267.106125 [silence]
+Agent 267.106125 269.840750 yeah i imagine it's really competitive
+Customer 268.314375 274.105875 you know it's like no i- i mean IBM is like there's a joke about IBM which says you know it's like
+Agent 269.840750 278.522125 [silence]
+Customer 274.105875 278.803375 uh all all the major companies get into a a boating race right
+Agent 278.522125 279.826125 um-hum
+Customer 278.803375 282.741625 and so IBM says well we have t[o]- we have to have a team right
+Agent 279.826125 283.008375 [noise]
+Customer 282.741625 290.561750 and then they come in last and they have this whole team you know analyze why they came in last right because the person asked for it
+Agent 283.008375 283.889500 uh-huh
+Agent 283.889500 290.201375 [silence]
+Agent 290.201375 291.779500 yeah
+Customer 290.561750 297.655500 saying he goes uh the problem was that there were five people saying row row row and one person rowing right
+Agent 291.779500 297.049250 [silence]
+Agent 297.049250 298.865500 [laughter]
+Customer 297.655500 308.868750 so he goes have you come up with a -[so]lution uh have you come up with a solution they go yeah change the rower [laughter] you know it's like everyone's a manager but you know it's like only use like one person does the work so
+Agent 298.865500 303.223500 [silence]
+Agent 303.223500 305.389750 [laughter]
+Agent 305.389750 306.943000 yeah
+Agent 306.943000 308.234750 [silence]
+Agent 308.234750 310.273250 too many chiefs and not enough Indians
+Customer 308.868750 310.849375 yeah so
+Agent 310.273250 313.338500 yeah oh that can be that that can really slow you down
+Customer 310.849375 312.430625 [silence]
+Customer 312.430625 318.661000 yeah that well that's the way it works i mean that's that's why they're having problems i mean everyone's a manager and
+Agent 313.338500 315.073500 [silence]
+Agent 315.073500 316.069375 yeah
+Agent 316.069375 317.822125 [silence]
+Agent 317.822125 319.919625 i didn't realize that
+Customer 318.661000 324.056250 yeah i mean it's like it's like the people that actually do the work there
+Agent 319.919625 323.586875 [noise]
+Agent 323.586875 324.620000 um-hum
+Customer 324.056250 335.375250 are uh very few and then the other people just plan it you know it's like it's like have you have have you ever seen the commercial like for Federal Express where the with uh the think tank
+Agent 324.620000 328.968625 [silence]
+Agent 328.968625 330.876125 yeah push paper around
+Agent 330.876125 335.088375 [silence]
+Agent 335.088375 336.480500 uh-huh
+Customer 335.375250 347.108375 you know like all these people are just standing s[itting]- s[itting]- sitting around just going you know like what shall we do has anybody thought of anything no And then this guy from Federal Federal Express comes along they go what's that this track
+Agent 336.480500 351.079000 [noise]
+Customer 347.108375 351.368875 which it's going around the world and they can tell you where your package is anywhere any time
+Agent 351.079000 352.436000 um-hum
+Customer 351.368875 362.101125 and so it's like the same thing with IBM you know so they have this think tank and they got to come up with ideas but see uh the the thing is that IBM is so stabilized that everybody will buy their stuff
+Agent 352.436000 360.458125 [silence]
+Agent 360.458125 361.813500 yeah
+Agent 361.813500 366.502750 oh yeah they've got a they've got basically a uh you know a lock on a lot of the market
+Customer 362.101125 365.218750 [silence]
+Customer 365.218750 366.542125 yeah
+Agent 366.502750 377.504125 and a lot of times you figure you know with the support that they provide you know people generally go with that because they figure that the you y[ou]- you probably won't get fired for getting IBM material where's if you try something different
+Customer 366.542125 376.454000 [silence]
+Customer 376.454000 379.168250 and it fails and you're dead
+Agent 377.504125 381.695250 they'll they'll say yeah why didn't you buy why didn't you try something more mainline
+Customer 379.168250 383.085125 yeah well IBM doesn't fire anybody
+Agent 381.695250 383.657250 [noise]
+Customer 383.085125 387.244625 because uh what they do is they they put you in a different job
+Agent 383.657250 384.350875 no
+Agent 384.350875 387.228375 [silence]
+Agent 387.228375 388.513250 um-hum
+Customer 387.244625 392.428500 which y[ou]- you actually are like sitting around not doing anything so you quit
+Agent 388.513250 392.145125 [silence]
+Agent 392.145125 393.565875 uh
+Customer 392.428500 398.374750 i mean that's their policy they never fire anybody unless you're caught doing something illegally
+Agent 393.565875 397.520000 [silence]
+Agent 397.520000 399.899750 i[llegal]- illegal or something like that yeah
+Customer 398.374750 401.852875 yeah like if you're stealing something or doing anything like that
+Agent 399.899750 401.886750 [silence]
+Customer 401.852875 405.068000 but they won't let you off what they'll do is like
+Agent 401.886750 403.022625 uh-huh
+Agent 403.022625 407.542625 [silence]
+Customer 405.068000 409.858250 suppose you know like you're a manager so they'll put you into
+Agent 407.542625 408.636250 uh-huh
+Agent 408.636250 414.025625 [silence]
+Customer 409.858250 414.045500 keeping up the paper you know it's like how much paper is going in
+Agent 414.025625 415.400875 um-hum
+Customer 414.045500 416.759750 and then you say that's not my job so you quit
+Agent 415.400875 417.492875 [silence]
+Customer 416.759750 418.194750 [silence]
+Agent 417.492875 420.152875 so in other words that's the way they force people out [noise]
+Customer 418.194750 419.227000 right
+Customer 419.227000 421.491750 [silence]
+Agent 420.152875 422.736625 that's why they can say you know there's no layoff policy
+Customer 421.491750 422.492375 right
+Customer 422.492375 425.629500 [silence]
+Agent 422.736625 427.043375 but it does[n't]- they don't really say that you know you're you're always going to have great career conditions
+Customer 425.629500 426.738750 right
+Customer 426.738750 427.984375 [silence]
+Agent 427.043375 429.056875 yeah hey that's kind of sad
+Customer 427.984375 430.355750 no but i mean it's like it's like
+Agent 429.056875 439.100875 [silence]
+Customer 430.355750 439.704000 they they have like this different policy i don't know my dad works for them_1 but it's like IBM like never in their commercials they never put down any other company you know it's like
+Agent 439.100875 440.315750 no
+Customer 439.704000 441.020750 they won't say
+Agent 440.315750 446.084000 well they're the standard right now or as far as that goes you know people think of computers they think of IBM a lot of times and the main
+Customer 441.020750 445.535375 [silence]
+Customer 445.535375 450.281125 yeah because see what happens is they have a good backup policy and anybody can fix it
+Agent 446.084000 450.504625 [silence]
+Customer 450.281125 452.499250 and so that's what you're gonna go for [noise]
+Agent 450.504625 451.898750 um-hum
+Agent 451.898750 455.341250 yeah well you know that's that's a that's a big thing
+Customer 452.499250 454.053875 [silence]
+Customer 454.053875 458.493250 and and you know it's like for example like Leading Edge have you ever heard of Leading Edge
+Agent 455.341250 457.619500 [silence]
+Agent 457.619500 460.216000 yeah they are out of Korea right
+Customer 458.493250 459.754875 what
+Customer 459.754875 461.502000 [silence]
+Agent 460.216000 462.139500 leading edge don't they [vocalized-noise]
+Customer 461.502000 464.603875 th[ey]- they made like uh small personal computers
+Agent 462.139500 464.066875 [silence]
+Agent 464.066875 466.730875 yeah small PCs aren't they're out of Korea right
+Customer 464.603875 465.650625 [silence]
+Customer 465.650625 468.275125 i don't know i- i don't know but what they do is
+Agent 466.730875 473.425625 [silence]
+Customer 468.275125 473.305625 what they did i don't know is buy all the parts that IBM would throw away
+Customer 473.305625 476.868500 and build an IBM PC with all the parts that IBM would throw away
+Agent 473.425625 474.522250 uh-huh
+Agent 474.522250 476.749500 [silence]
+Agent 476.749500 478.004625 oh yeah
+Customer 476.868500 479.974125 yeah bec[ause]- so is it like for example you test a chip
+Agent 478.004625 479.067375 [laughter]
+Agent 479.067375 487.361625 [silence]
+Customer 479.974125 483.275000 it can't last seven years but it can last five
+Customer 483.275000 487.432625 IBM says let's throw it away Leading Edge will say we'll buy it from you
+Agent 487.361625 488.506125 okay
+Customer 487.432625 490.618000 and so that's i mean they're still around i think [noise]
+Agent 488.506125 491.040875 [silence]
+Customer 490.618000 492.676750 [silence]
+Agent 491.040875 494.682750 yeah i've seen well i've seen them around anyway you know [vocalized-noise]
+Customer 492.676750 498.975125 so that's what that's what they do they buy all all the things that IBM throws away and they [vocalized-noise] that's why they're so compatible
+Agent 494.682750 498.857625 [silence]
+Agent 498.857625 500.112750 um-hum
+Customer 498.975125 503.594625 because i mean and by the time you have a computer for five years you're going to throw it away anyway
+Agent 500.112750 503.415750 [silence]
+Agent 503.415750 506.591375 most people do or they have to anyway
+Customer 503.594625 505.257875 you know
+Customer 505.257875 507.289000 [vocalized-noise] well i mean there's like
+Agent 506.591375 515.029000 [silence]
+Customer 507.289000 515.256125 when when you realize [vocalized-noise] tea[chers]- one of my teachers got this computer and which you know it's like um voice uh synthesis and stuff [noise]
+Agent 515.029000 516.366750 um-hum
+Customer 515.256125 518.748625 and he got that he said you know it's like um
+Agent 516.366750 527.863875 [silence]
+Customer 518.748625 527.621250 i was testing it and it was wonderful and then when you tried to erase and correct you know all the errors in your voice it takes up all your memory
+Customer 527.621250 530.413250 and i want more [laughter-you] [laughter-know] and it's like
+Agent 527.863875 529.407625 wow
+Agent 529.407625 537.699125 [silence]
+Customer 530.413250 534.483625 Jesus Christ you know it's like why do you want more because it's like one second
+Customer 534.483625 537.553250 of recording i mean you put into a Wave
+Customer 537.553250 539.983750 and you want to correct the errors in the Wave
+Agent 537.699125 539.005750 um-hum
+Agent 539.005750 546.638250 [silence]
+Customer 539.983750 546.500500 takes so much i mean it's like of course it does i mean by the times it transforms into Wave by Markov model
+Customer 546.500500 555.514000 and you put it in there and you want to correct those and then you know you're trying to make the the Wave smooth so you can approximately of course it's going to take a lot
+Agent 546.638250 547.946500 um-hum
+Agent 547.946500 555.519500 [silence]
+Customer 555.514000 561.324375 imagine imagine what it is for us to make Markov models you know it's like [laughter] Jesus Christ
+Agent 555.519500 557.364375 that's amazing yeah
+Agent 557.364375 560.912500 [silence]
+Agent 560.912500 567.817625 well when you get yeah when you get right down to it the uh the more they can do for you the more uh like i say the more the more memory they're gonna require
+Customer 561.324375 566.076000 [silence]
+Customer 566.076000 568.420000 yeah yeah
+Agent 567.817625 573.411375 yeah both [vocalized-noise] both in terms in RAM as well as uh you know standard memory or disk mem[ory]- disk base
+Customer 568.420000 570.826125 [silence]
+Customer 570.826125 572.193125 yeah
+Customer 572.193125 576.003750 well like they say like nobody can get enough you know it's like
+Agent 573.411375 574.571000 so
+Agent 574.571000 576.195375 [silence]
+Customer 576.003750 583.772250 once you have something and it's like i was watching this program on TV yesterday in nineteen seventy six NASA came up with Three D graphics right
+Agent 576.195375 578.392875 well yeah you find out more
+Agent 578.392875 580.132625 [silence]
+Agent 580.132625 581.390875 yeah
+Agent 581.390875 583.507875 [silence]
+Agent 583.507875 584.735875 uh-huh
+Customer 583.772250 588.743500 and they were showing this like Three D g[raphics]- Three D graphics view of like
+Agent 584.735875 588.097250 [silence]
+Agent 588.097250 590.115750 like those hologram deals
+Customer 588.743500 598.792000 what no no no no this is like this is like video game stuff okay but the only thing was that it was just lines okay like if you
+Agent 590.115750 593.555000 like a hologram [noise] just graphics on a on a
+Agent 593.555000 594.901500 okay
+Agent 594.901500 598.792000 [noise]

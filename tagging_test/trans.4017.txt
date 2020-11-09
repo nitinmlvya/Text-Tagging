@@ -1,0 +1,81 @@
+Agent 0.000000 0.527500 [noise]
+Customer 0.000000 4.489625 [noise] uh well it's nice to talk with you um
+Agent 0.527500 20.468625 [silence]
+Customer 4.489625 14.329000 oh i guess i'll go ahead and start off with uh i think that there's two things that could be done that are procedural to [noise] uh
+Customer 14.329000 21.685875 to help the budget the first i believe in would be to give the president a line item veto um
+Agent 20.468625 22.430250 i agree with that [laughter]
+Customer 21.685875 26.914000 uh i think that a lot of times the the members of congress
+Agent 22.430250 54.380500 [silence]
+Customer 26.914000 37.296125 uh when they're faced with uh the possibility of having to to cut jobs in their district by because of shutting down a federal project or something just don't have the
+Customer 37.296125 40.459000 the willpower on their own to uh
+Customer 40.459000 50.341750 to make the tough decisions and sometimes it would be best to give that over to the president who who has overall responsibility for the whole country and can uh
+Customer 50.341750 57.507625 i guess be a little bit more insulated from from uh the concerns of one of one district
+Agent 54.380500 56.993750 local politics yeah
+Agent 56.993750 67.326500 well also too often too the uh individual congressman has the uh especially if they are on on uh some of the committees that put these budgets together
+Customer 57.507625 72.019375 [silence]
+Agent 67.326500 77.918125 uh have the opportunity to slide things in that normally should not have gone in at all and the l[ine]- yeah and the line item uh veto would be ideal for that i mean to
+Customer 72.019375 74.111125 yeah that's exactly right
+Customer 74.111125 75.611375 [noise]
+Customer 75.611375 77.633875 [silence]
+Customer 77.633875 90.188875 yeah one of the the uh there's a bill pending before congress which i'm trying to remember what it's called it's something like the pork buster bill that um if approved would make it uh
+Agent 77.918125 85.606250 [silence]
+Agent 85.606250 86.230000 [laughter]
+Agent 86.230000 105.014875 [silence]
+Customer 90.188875 94.194250 uh uh you wouldn't be able to um
+Customer 94.194250 104.015875 put in uh new projects and things in a conference committee or at anytime where they weren't reviewed by the regular committee that has responsibility for that
+Customer 104.015875 107.825000 and that's like what you were talking about where they slip things in at the last minute
+Agent 105.014875 106.346250 yeah
+Agent 106.346250 117.934625 [silence]
+Customer 107.825000 112.254875 and the conference committee is really the worst place for that to happen
+Customer 112.254875 114.659875 uh because no one
+Customer 114.659875 116.525000 uh
+Customer 116.525000 127.027125 uh has uh it doesn't go back into the regular committee for review after the conference committee it just goes back to the house and the senate for a final up or down vote on the whole thing
+Agent 117.934625 118.994000 yeah
+Agent 118.994000 120.987500 [silence]
+Agent 120.987500 121.929875 yeah
+Agent 121.929875 126.359375 [silence]
+Agent 126.359375 137.489250 there's another i[dea]- uh uh another uh way where the budget could uh probably benefit and this has to do of course uh it has to do with federal projects
+Customer 127.027125 171.744500 [silence]
+Agent 137.489250 150.391125 too often uh those are uh not there's no uh accountability once the uh projects are awarded to make sure that the quality is done and they end up getting stuck with
+Agent 150.391125 152.635250 billions of dollars of overlay
+Agent 152.635250 161.295375 or if contracts are put out uh no one uh is responsible or it does does not seem to be
+Agent 161.295375 171.798625 for following up that if it goes over budget it it well you know it's set up laissez faire attitude well that's to be expected we just sort of built it in well that shouldn't happen that way
+Customer 171.744500 173.431625 i agree
+Agent 171.798625 182.721625 and i think i think if there was more attention paid to uh what's being uh spent and more accountability that would help enor[mous]- enormously too are
+Customer 173.431625 182.123750 [silence]
+Customer 182.123750 183.425625 um-hum
+Agent 182.721625 191.354125 how who or how that would come about i'm not uh sure but that's an an an area that i think needs to be uh looked at
+Customer 183.425625 190.903250 [silence]
+Customer 190.903250 202.643250 yeah it it really sometimes seems that there is there's nobody out there uh watching out for uh for we the people and making sure that the money is spent wisely uh [laughter]
+Agent 191.354125 220.186000 [silence]
+Customer 202.643250 211.940750 and i don't know that just sort of seems to be unfortunately part of the just how the system uh operates now uh w[e]-
+Customer 211.940750 220.866875 gee is there anything specific that you think uh uh in the way of federal programs or whatever that would be eliminated to try to cut federal spending
+Agent 220.186000 224.995500 well i think uh there could be a lot of consolidation of programs
+Customer 220.866875 244.047500 [silence]
+Agent 224.995500 232.027375 uh looking at of course there they have been a lot of talk to begin with but looking at and the [noise] the military's a big uh
+Agent 232.027375 240.180125 area that uh has taken a lot of shots recently but i- i do not see the point of having four different services
+Agent 240.180125 244.732125 uh i do not see why they could not have one military service
+Customer 244.047500 247.404125 and just eliminate all that high level bureaucracy
+Agent 244.732125 246.448375 [silence]
+Agent 246.448375 251.960750 that's right because a lot of the monies are spent uh with insiding within those departments
+Customer 247.404125 251.179375 [silence]
+Customer 251.179375 260.084000 how do you feel about bringing home all of our troops from Europe and the Far East and letting Germany and Japan defend themselves
+Agent 251.960750 259.978375 [silence]
+Agent 259.978375 261.726500 uh
+Customer 260.084000 264.901500 [silence]
+Agent 261.726500 262.734250 [silence]
+Agent 262.734250 265.459250 basically i'm in i'm in agreement with that
+Customer 264.901500 265.879500 yeah
+Agent 265.459250 273.084500 uh i would think that there probably needs to be a uh monitor or not a monitor uh
+Customer 265.879500 273.301750 [silence]
+Agent 273.084500 276.964500 or courtesy you know yeah a presence but not a
+Customer 273.301750 279.564625 well we'll always have a presence there but we don't we don't need to have half a million troops overseas
+Agent 276.964500 278.023125 [silence]
+Agent 278.023125 287.956125 no well wit[ness]- witness the the recent Gulf War too even with uh troops all over Europe uh it took several months to gear up
+Customer 279.564625 287.307000 [silence]
+Customer 287.307000 288.683875 that's right
+Agent 287.956125 291.037625 and so what was the point of having them to begin with
+Customer 288.683875 290.333625 [silence]
+Customer 290.333625 291.581000 um-hum
+Agent 291.037625 298.306000 [silence]
+Customer 291.581000 298.306000 yeah another area that's that i really think ought to be cut is is direct uh foreign aid

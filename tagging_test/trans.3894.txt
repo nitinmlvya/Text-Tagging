@@ -1,0 +1,93 @@
+Agent 0.000000 0.046750 [silence]
+Customer 0.000000 0.638875 [noise]
+Agent 0.046750 3.542625 the federal budget [noise] boy
+Customer 0.638875 2.367625 yes
+Customer 2.367625 20.031000 [silence]
+Agent 3.542625 6.237125 i was just writing something down that
+Agent 6.237125 10.292125 came to mind as i observed what's happened in our society
+Agent 10.292125 11.796500 um
+Agent 11.796500 14.337625 we i think have become
+Agent 14.337625 20.862125 uh dependent upon our federal government to do things for us that really only we can do for ourself
+Customer 20.031000 21.840250 i agree with that
+Agent 20.862125 24.833000 and i think more and more people are recognizing that and in addition to that
+Customer 21.840250 34.913500 [silence]
+Agent 24.833000 26.290750 uh
+Agent 26.290750 31.030125 we have elected people who really don't know how to manage
+Agent 31.030125 35.011375 the money uh they collect
+Customer 34.913500 42.530625 [noise] well what we've got um in my view is [noise] is a situation where
+Agent 35.011375 49.623125 [silence]
+Customer 42.530625 51.176000 [noise] we've got more people like you say that are c[ustomed]- that are accustomed to being taken care of and than we
+Agent 49.623125 60.718500 i mean i think it really affects all of us to a degree Glen i think we are i mean i- i went through a P H D program that was funded by the Office of Navel Research that's now investigating Stanford and Harvard and MIT
+Customer 51.176000 52.384500 [vocalized-noise]
+Customer 52.384500 60.043750 [silence]
+Customer 60.043750 61.350500 yeah
+Agent 60.718500 66.340125 i mean we're talking about things that have done some good but have institutionalized corruption
+Customer 61.350500 65.531500 [silence]
+Customer 65.531500 70.197500 yeah well i- i really i think if you [noise] from a [vocalized-noise]
+Agent 66.340125 68.393125 [silence]
+Agent 68.393125 72.364250 [laughter-i] [laughter-mean] uh you know i hate to admit that in a way but it's true
+Customer 70.197500 82.800250 yeah i- i really do think that i think the first thing that we need to do and it it would be a hard uh a hard uh medicine uh for everybody to swallow but i think we're gonna have to eventually balance the budget or we're gonna sink
+Agent 72.364250 85.990500 [silence]
+Customer 82.800250 87.698625 we can't continue to pay the kind of interest that we're paying on the deficit
+Agent 85.990500 91.759750 right well and we need to spend the money better i mean we do not need eight hundred military bases around the world
+Customer 87.698625 91.185500 [silence]
+Customer 91.185500 92.943125 that's true
+Agent 91.759750 100.326000 there are lot of things we don't we don't need to be subsidizing tobacco farmers we don't need to be subsidizing water rights for people who are wealthy fa[rm]- i mean basically
+Customer 92.943125 108.338875 [silence]
+Agent 100.326000 109.060250 you know it it is really true that this this country is suffering because um we are it's not that we don't have the resources we are just squandering them
+Customer 108.338875 118.220000 oh yeah throwing them away uh it's just like uh uh programs that are federally funded that if they if the they don't spend their allotment uh
+Agent 109.060250 116.913500 [silence]
+Agent 116.913500 121.387750 that's the way it was working on a defense department contract that's what happ[ened]-
+Customer 118.220000 119.308125 [noise]
+Customer 119.308125 125.092375 [vocalized-noise] then they're then they're subject to losing the next year's allotment
+Agent 121.387750 123.295750 [silence]
+Agent 123.295750 126.294750 right well that's the way the that's the way the thing works
+Customer 125.092375 130.074125 yeah and go into a spending frenzy at the year of the en[d]- at year end
+Agent 126.294750 128.013500 [silence]
+Agent 128.013500 141.162250 that's right i've seen that happen and it's it what's even sadder and what i think is the the tragic part of it that you see in this case of Stanford and MIT and these other universities that are now being investigated for criminal violations
+Customer 130.074125 147.481500 [silence]
+Agent 141.162250 150.714875 [noise] is that i think the attitude develops that we deserve this because we're the smart guys and without us society can't function and that that's no license to steal
+Customer 147.481500 149.447250 um-hum
+Customer 149.447250 151.806625 right that's true
+Agent 150.714875 158.755500 i mean i- i honest to God believe that's wh[at]- what's been going on and that was sort of seeped into the way we operated in those contexts
+Customer 151.806625 158.252750 [silence]
+Customer 158.252750 159.859875 well and
+Agent 158.755500 164.983000 and at the time i you know people i mean it was it was acceptable it's no longer acceptable
+Customer 159.859875 162.551000 [silence]
+Customer 162.551000 174.004375 well a[nd]- well and so many people have have uh the feeling that well if it's if there if it's federal money then it's free money well it's not it costs everybody
+Agent 164.983000 173.085250 [silence]
+Agent 173.085250 174.595750 right
+Customer 174.004375 185.117000 and uh i[t]- you know just because you can uh get something from the feds uh uh that doesn't necessarily make it morally uh responsible
+Agent 174.595750 184.474250 [silence]
+Agent 184.474250 195.756375 right and it it's not up to the federal government necessarily to do a lot of things that people are now thinking it ought to do for example determine what industry should survive and what shouldn't survive
+Customer 185.117000 214.037625 [silence]
+Agent 195.756375 203.077375 and do a a you know variety of other things if we put the money in the right place which is investing in people in the development of human capital
+Agent 203.077375 217.440500 in retraining programs for these poor people who really kind of went through school and got an high school education and thought they'd be able to at least function in a competitive marketplace or went through college or or went out into the marketplace and
+Customer 214.037625 226.928500 well and and and [vocalized-noise] well don't even began to talk about the educational system i mean is that is one example where it's being proven that throwing money does not create a good education ok[ay]-
+Agent 217.440500 223.241250 [silence]
+Agent 223.241250 224.527000 right
+Agent 224.527000 225.563250 [silence]
+Agent 225.563250 238.873375 well and as the product of the academy i can tell you you know if it were that good how come they haven't been able to mass merchandise it and deliver it to everybody how come everybody is not the beneficiary of a Harvard MIT or Stanford education if it's that good and you really
+Customer 226.928500 231.864625 [silence]
+Customer 231.864625 233.090125 yeah
+Customer 233.090125 236.095500 [silence]
+Customer 236.095500 245.213875 yeah but i'm even t[alking]- i'm i'm not even i'm not even talking about higher education w[e're]- i'm talking about the the kids that we've got now they come out of high school that can't read and write
+Agent 238.873375 255.601750 [silence]
+Customer 245.213875 256.820375 and that also it just even the ones that that do read and write that really have a very poor poor grasp of of what a secondary education should have given them
+Agent 255.601750 263.605500 right but all the people [laughter-who] who are responsible for handling these kids were trained in universities and colleges
+Customer 256.820375 262.748250 [silence]
+Customer 262.748250 264.178250 uh true
+Agent 263.605500 275.561875 okay and my point is hey wait a minute something's wrong here these people are claiming this is the best well if it's the best then it should be translated right on down the line and the general i mean how long has Harvard been around
+Customer 264.178250 268.403250 [silence]
+Customer 268.403250 269.912875 um-hum
+Customer 269.912875 274.902125 [silence]
+Customer 274.902125 276.189250 yeah
+Agent 275.561875 283.698250 okay so ask yourself some questions why don't we have a higher quality with one of the world's great universities Harvard and Stanford both have schools of education
+Customer 276.189250 283.025000 [silence]
+Customer 283.025000 284.454875 um-hum
+Agent 283.698250 291.803000 i mean this is a focus it's not like this isn't an interest of theirs this is a specific focus two of the best funded institutions in the country
+Customer 284.454875 286.556125 [silence]
+Customer 286.556125 287.844000 right
+Customer 287.844000 297.174250 [silence]
+Agent 291.803000 298.754000 premier universities in the world hey wait a minute how come they can't produce something like MTV which kids want
+Customer 297.174250 298.754000 [laughter]

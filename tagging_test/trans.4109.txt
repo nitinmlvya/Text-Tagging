@@ -1,0 +1,99 @@
+Agent 0.000000 3.776000 [silence]
+Customer 0.000000 3.945125 [noise] uh guy uh some of my things i i'd like to have a short work week
+Agent 3.776000 5.278375 oh okay
+Customer 3.945125 8.834625 you know and and we need you know better health insurance and you know cau[se]-
+Agent 5.278375 7.459625 [silence]
+Agent 7.459625 14.948125 okay we can start off there let's just get started i don't wanna we[ll]- you know uh talk about it now and then be bored when we get to it [laughter]
+Customer 8.834625 9.867375 ye[ah]-
+Customer 9.867375 11.152875 okay
+Customer 11.152875 12.415625 [silence]
+Customer 12.415625 17.372000 [noise] okay [noise] so i just press one then right okay ready
+Agent 14.948125 16.459875 right
+Agent 16.459875 17.969000 yep
+Customer 17.372000 18.077875 okay
+Agent 17.969000 19.618625 [silence]
+Customer 18.077875 18.990250 [noise]
+Customer 18.990250 27.289000 [silence]
+Agent 19.618625 27.637500 so so you think uh i- i think [vocalized-noise] a short work week is real nice uh i have a thirty seven hour work week how about_1 you
+Customer 27.289000 36.623250 well right now i'm i'm just a student i only work part time but i i've work in the job force before and
+Agent 27.637500 33.835375 [silence]
+Agent 33.835375 35.242375 uh-huh
+Agent 35.242375 48.390375 [silence]
+Customer 36.623250 43.452250 forty hours is just too long you just don't have any time to do anything it it seems like S[aturday]-
+Customer 43.452250 47.861500 Saturday you you get off but Sunday you're getting ready for Monday
+Customer 47.861500 56.198375 and if we could have us if we could have a thirty two hour work week well that'd happen is that for every four people we'd give another job
+Agent 48.390375 49.583875 [vocalized-noise] uh-huh
+Agent 49.583875 56.074375 [silence]
+Agent 56.074375 57.468750 right
+Customer 56.198375 66.627250 and then that way that everybody would have a three day holiday okay and that way that more that that would make a a bigger market we'd have uh
+Agent 57.468750 77.940250 [silence]
+Customer 66.627250 77.997125 more recreation people would have time to do it there'd be less of a stress level we'd have le[ss]- we'd have less crime we'd have to we'd have to build less prisons we'd nee[d]- you know less police force
+Agent 77.940250 87.113875 yeah it all makes sense to me although there may be more crime i mean if people have more leisure time it's not clear in that
+Customer 77.997125 85.951250 [silence]
+Customer 85.951250 95.237500 it it that's that's that's a that's a possibility one o[f]- one of the problems they're facing now a lot of people now is that the health insurance
+Agent 87.113875 89.370125 [silence]
+Agent 89.370125 90.726125 yeah
+Agent 90.726125 100.853250 [silence]
+Customer 95.237500 101.028875 is that the small businesses can't a[fford]- can't offer us health insurance
+Agent 100.853250 102.448125 uh-huh
+Customer 101.028875 109.518250 and it it it's too costly and then what i[s]- what is happening is that they're on um
+Agent 102.448125 128.494125 [silence]
+Customer 109.518250 123.106125 a policy where they have s[o]- X amount of of users in it okay and so they get a specific rate well what happens is that if if people start becoming having chronic illness and
+Customer 123.106125 125.043500 and and things like that
+Customer 125.043500 134.305750 what happen[s]- and they where they have to spend out a lot of money for one particular it's called a a group well what'll what happens then is that
+Agent 128.494125 129.757750 right
+Agent 129.757750 143.022375 [silence]
+Customer 134.305750 138.611000 they cancel because they just can't cancel the [indivigal/individual]
+Customer 138.611000 143.363625 so that they have to cancel is just like life insurance they have to cancel everything
+Agent 143.022375 144.402000 um-hum
+Customer 143.363625 149.530500 so what they do is is that they they cancel the insurance and then all the people don't have any insurance coverage
+Agent 144.402000 149.282625 [silence]
+Agent 149.282625 150.519500 right
+Customer 149.530500 153.302000 [silence]
+Agent 150.519500 152.356000 [silence]
+Agent 152.356000 153.622250 so
+Customer 153.302000 161.136375 but i'm i'm you know i'm i'm satisfied with my job i'm i'm an engineering student and i work for my instructor and i'm
+Agent 153.622250 158.435250 [silence]
+Agent 158.435250 159.724875 right
+Agent 159.724875 165.432000 [silence]
+Customer 161.136375 168.828375 i'm not a typical student i'm i'm older i'm i'm in my thirties okay and so i have a lot of job experience and
+Agent 165.432000 166.645500 yeah
+Agent 166.645500 178.473375 [silence]
+Customer 168.828375 181.157500 my instructor thrives on that because he can just tell me what he wants and he can give me access and tell me what to do and just turn me loose but in the in the same token
+Agent 178.473375 179.676375 right
+Agent 179.676375 187.402125 [silence]
+Customer 181.157500 187.765000 it's a really really enjoyable for me because_1 i don't have to have you know nobody breathing down my back and
+Agent 187.402125 188.702125 [laughter]
+Customer 187.765000 194.286125 one of the things that i- i really hate about jobs i don't i don't like bosses that that you know wanna
+Agent 188.702125 202.174875 [silence]
+Customer 194.286125 195.569250 [silence]
+Customer 195.569250 202.649750 yell at you and you know and are are down your back and all this and that i- i just really can't deal with that so
+Agent 202.174875 204.160250 yeah uh
+Customer 202.649750 206.000000 what kind of what kind of jobs have you done
+Agent 204.160250 205.413250 [silence]
+Agent 205.413250 211.240250 well i do wor[k]- uh research in computer science and i've just been doing that for a few years now so
+Customer 206.000000 210.170375 [silence]
+Customer 210.170375 211.793625 uh-huh
+Agent 211.240250 212.572625 uh
+Customer 211.793625 243.895125 [silence]
+Agent 212.572625 217.327375 i my job has most of the benefits i want um
+Agent 217.327375 226.075125 what i really like is i like being like they send me to conferences for instance but probably not as much as i'd like but uh
+Agent 226.075125 232.454875 you know that's just nice being you know having a company being able to give you time to do that sort of thing and sort of
+Agent 232.454875 236.549750 uh they also a really important thing to me is when they uh
+Agent 236.549750 244.476500 they pay for continuing education like i- i get night courses that they're they'll cover right now and that's really good
+Customer 243.895125 250.981125 yeah that's great you have what you might call knowledge power you know whe[n]- when you work at a company
+Agent 244.476500 245.676875 yeah
+Agent 245.676875 247.991625 [silence]
+Agent 247.991625 249.254000 right
+Agent 249.254000 275.525875 [silence]
+Customer 250.981125 264.867500 whether you know it or not is that you're categorized some people can be let go and replaced like uh say uh a a typist uh somebody who does data entry or answers the telephone a receptionist
+Customer 264.867500 278.229875 but if you're a person that's doing computer type things and you have the you have the knowledge you know what the system you've revised and revamped the system well then you're you're vital to the company and you get more of the benefits so
+Agent 275.525875 277.142375 yeah
+Agent 277.142375 294.485750 [silence]
+Customer 278.229875 286.355500 that's where i'm tha[t]- i'm i like i'm into computers too and that's one of the things that i've found in in any o[ne]- one of these jobs and anything i've done
+Customer 286.355500 294.996125 is that to have knowledge when you have the knowledge you're you're not gonna um you know be let go you know be one of the last ones to let go anyway
+Agent 294.485750 295.723875 right
+Customer 294.996125 296.985875 [silence]
+Agent 295.723875 298.626000 [silence]
+Customer 296.985875 298.156125 but what i
+Customer 298.156125 298.626000 [vocalized-noise]

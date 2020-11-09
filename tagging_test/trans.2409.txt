@@ -1,0 +1,234 @@
+Agent 0.000000 0.396000 [noise]
+Customer 0.000000 0.380125 [noise]
+Customer 0.380125 1.637625 all right
+Agent 0.396000 2.710000 well credit cards
+Customer 1.637625 5.176250 [laughter] i have some do you [laughter]
+Agent 2.710000 3.883875 [silence]
+Agent 3.883875 8.479500 [laughter] well yeah i i i've used them a bit too much sometimes [laughter]
+Customer 5.176250 7.127125 [silence]
+Customer 7.127125 8.990000 yes me too
+Agent 8.479500 10.218500 yeah uh
+Customer 8.990000 16.437375 [silence]
+Agent 10.218500 17.358000 do you have uh like the Visa and MasterCard and and those that are those the ones that you use the the most or
+Customer 16.437375 18.104000 well i have uh
+Agent 17.358000 20.754625 [silence]
+Customer 18.104000 26.626125 we've got an American Express which we got that on purpose so we could pay that off every month that way we we know our limit
+Agent 20.754625 22.193750 uh-huh
+Agent 22.193750 23.242500 [silence]
+Agent 23.242500 24.645500 right
+Agent 24.645500 26.059250 [silence]
+Agent 26.059250 27.184750 yeah
+Customer 26.626125 30.070500 but then i also have department stores and um
+Agent 27.184750 28.204625 [silence]
+Agent 28.204625 29.720250 yeah
+Agent 29.720250 34.782375 [silence]
+Customer 30.070500 36.356375 you know we keep a couple hundred dollars um if that much charged on those which isn't too bad it's just your normal
+Agent 34.782375 36.060625 yeah
+Agent 36.060625 36.965250 [silence]
+Customer 36.356375 37.669375 [silence]
+Agent 36.965250 42.780500 yeah just a pretty pretty pretty much uh what you can pay monthly anyway
+Customer 37.669375 40.289500 you know getting clothes and stuff every once in awhile
+Customer 40.289500 41.826375 [silence]
+Customer 41.826375 43.207125 exactly
+Agent 42.780500 49.088375 yeah well we have uh have department store cards for nearly all the department stores i guess uh
+Customer 43.207125 48.095625 [silence]
+Customer 48.095625 49.325125 uh-huh
+Agent 49.088375 52.413000 uh but but we don't you know don't use them a lot uh
+Customer 49.325125 51.064625 [silence]
+Customer 51.064625 52.340750 right
+Customer 52.340750 54.686250 [silence]
+Agent 52.413000 56.201000 but we do have uh Visa cards uh
+Customer 54.686250 56.016500 yeah
+Customer 56.016500 59.797875 [silence]
+Agent 56.201000 60.672000 my wife has uh has an American Express through her through the company
+Customer 59.797875 61.116625 right
+Agent 60.672000 65.006625 and uh i don't even have an American Express to use for business so
+Customer 61.116625 66.290375 [silence]
+Agent 65.006625 67.276375 or i use a Visa all the time
+Customer 66.290375 68.175125 just your Visa yeah
+Agent 67.276375 73.167375 right and uh i i find that they you know they work all right i haven't found anybody that will will turn one down
+Customer 68.175125 72.675750 [silence]
+Customer 72.675750 84.003000 yeah i you know uh people always complain about American Express saying not enough people take it but i've i've rarely found a place that wouldn't that wouldn't take it so that doesn't bother me luckily
+Agent 73.167375 80.416875 [silence]
+Agent 80.416875 81.800875 uh-huh
+Agent 81.800875 82.438500 [silence]
+Agent 82.438500 83.311375 yeah
+Agent 83.311375 92.288750 the uh yeah it's it's uh it is convenient to have that you know and it and if you can do a the a lot more with the American Express when we do when we go traveling
+Customer 84.003000 84.699750 [laughter]
+Customer 84.699750 91.454250 [silence]
+Customer 91.454250 92.876500 uh-huh
+Agent 92.288750 98.991875 uh the American Express works a lot better for some things because you can charge you know airline tickets
+Customer 92.876500 94.724875 [silence]
+Customer 94.724875 96.282750 oh does it
+Customer 96.282750 97.969125 [silence]
+Customer 97.969125 99.272375 sure
+Agent 98.991875 102.019875 and and get some benefits from that i think too
+Customer 99.272375 101.126125 [silence]
+Customer 101.126125 104.691750 that's true that's true that's that's real nice to
+Agent 102.019875 102.952625 you know
+Agent 102.952625 103.902250 [silence]
+Agent 103.902250 110.320500 but it's i tell you it's it's really uh it's tough to uh to deal with when you let your your balances build up
+Customer 104.691750 110.348250 [silence]
+Agent 110.320500 112.387875 you know so that it it's
+Customer 110.348250 111.597500 that's true
+Customer 111.597500 117.247250 [silence]
+Agent 112.387875 118.081750 you've we did it uh intentionally i did it intentionally i was running some business expenses
+Customer 117.247250 118.470750 uh-huh
+Agent 118.081750 120.154000 through the Visa card
+Customer 118.470750 123.869750 [silence]
+Agent 120.154000 124.375875 so i knew that i was running a balance up but it sure is hard to get it
+Customer 123.869750 126.250875 paid back i know
+Agent 124.375875 126.232750 paid back down
+Agent 126.232750 127.577125 it uh
+Customer 126.250875 130.963125 when we first got married we you know went and got all the credit cards and
+Agent 127.577125 129.548250 [silence]
+Agent 129.548250 130.975125 uh-huh
+Customer 130.963125 136.482125 of course charged those puppies up and it's oh boy when those bills start coming in
+Agent 130.975125 137.208125 [silence]
+Customer 136.482125 139.506375 they want a lot of money when you start getting them up there
+Agent 137.208125 138.595125 yeah
+Agent 138.595125 144.558125 but uh you know you find it's uh that the uh the interest rates vary so much on those that uh
+Customer 139.506375 142.359000 [silence]
+Customer 142.359000 144.162875 uh-huh uh-huh
+Customer 144.162875 150.058625 [silence]
+Agent 144.558125 153.114125 that we've been paying real close attention to that so we're using the ones that uh have the lower rate as a matter of fact the uh the uh credit union
+Customer 150.058625 151.448500 that's good
+Customer 151.448500 152.368000 [silence]
+Customer 152.368000 153.608500 uh-huh
+Agent 153.114125 158.896250 credit card i think has the lowest about the lowest interest rate of any of the ones that we use
+Customer 153.608500 156.011875 [silence]
+Customer 156.011875 157.233750 that's good
+Customer 157.233750 158.377125 [silence]
+Customer 158.377125 163.345125 i've noticed on the like the department stores they sure do hate it when you pay double payments
+Agent 158.896250 161.568250 [silence]
+Agent 161.568250 162.882125 uh-huh
+Agent 162.882125 164.871125 yeah [laughter]
+Customer 163.345125 165.359250 you know it's like whoa [laughter]
+Agent 164.871125 166.107500 yeah
+Customer 165.359250 166.864125 wait a minute
+Agent 166.107500 173.684875 [silence]
+Customer 166.864125 176.172500 don't pay us too much you know and they drop it your balance uh they drop your monthly payment down low because they want that interest to build up
+Agent 173.684875 175.040500 uh-huh
+Agent 175.040500 176.363000 right
+Customer 176.172500 181.027000 so that's what i normally try to do if it's pretty low i try to make a couple payments at a time
+Agent 176.363000 177.307000 [noise]
+Agent 177.307000 182.179125 [silence]
+Customer 181.027000 182.909250 and get it down quicker
+Agent 182.179125 183.356375 yeah
+Customer 182.909250 184.998625 but they're easy to use
+Agent 183.356375 184.375625 [silence]
+Agent 184.375625 189.972000 so you haven't been tempted uh to to call any of these nine hundred numbers trying to get a credit card then
+Customer 184.998625 190.142875 [silence]
+Agent 189.972000 191.179875 [silence]
+Customer 190.142875 191.735750 no have you
+Agent 191.179875 195.067375 i have been tempted i ju[st]- i saw one of those ads on TV last night that
+Customer 191.735750 197.108250 [silence]
+Agent 195.067375 196.451000 you know somebody
+Agent 196.451000 202.052625 call in right now you know and you can get your gold Visa card or gold MasterCard but uh
+Customer 197.108250 198.350625 uh-huh
+Customer 198.350625 200.612875 [silence]
+Customer 200.612875 202.848750 i don't understand how they do that
+Agent 202.052625 208.706000 and uh of course it's a nine hundred number which that means they're going to charge you you know fifteen or twenty dollars just to make the phone call
+Customer 202.848750 205.399875 [silence]
+Customer 205.399875 206.646250 right
+Customer 206.646250 207.649375 [silence]
+Customer 207.649375 211.023125 but they say you can't be turned down and i don't understand how they can
+Agent 208.706000 210.503875 [silence]
+Agent 210.503875 217.897750 well the thing is th[e]- that a lot of those are like they're set up through a bank or a savings and loan type thing
+Customer 211.023125 216.716500 [silence]
+Customer 216.716500 217.985875 uh-huh
+Agent 217.897750 226.552375 and you have to have a deposit in that you know that deal of you know if you want a five hundred dollar credit line then you have to keep a five hundred dollar balance in there
+Customer 217.985875 220.653375 [silence]
+Customer 220.653375 222.276750 oh
+Customer 222.276750 225.773500 [silence]
+Customer 225.773500 227.275375 i see
+Agent 226.552375 229.600375 well then they sure they won't turn you down because they've got your money
+Customer 227.275375 228.280125 [silence]
+Customer 228.280125 230.803750 sure they've got your money already
+Agent 229.600375 231.218375 [laughter]
+Customer 230.803750 232.524625 well gosh
+Agent 231.218375 235.676000 yeah yeah but that's yeah i know that's the way some of them work anyway
+Customer 232.524625 234.552875 [silence]
+Customer 234.552875 236.427250 well that's darn easy then [laughter]
+Agent 235.676000 237.645375 yeah [laughter]
+Customer 236.427250 239.620500 i wouldn't turn you down either i'll give you one [laughter]
+Agent 237.645375 239.664000 right yeah
+Customer 239.620500 247.103375 huh no i haven't attempted that i'm satisfied with what we have right now and we do have a gas credit card and we use that
+Agent 239.664000 243.570000 [silence]
+Agent 243.570000 244.771000 yes uh
+Agent 244.771000 246.429500 [silence]
+Agent 246.429500 253.416750 yeah that's one that we don't use uh i've had uh you know had different companies or you know gas company cards before
+Customer 247.103375 252.696625 [silence]
+Customer 252.696625 253.962250 uh-huh
+Agent 253.416750 262.383625 but i didn't use them we we usually spend cash you know pay cash for gas and then uh most of the places will take uh the Visa card anyway so
+Customer 253.962250 256.448000 [silence]
+Customer 256.448000 257.725000 right
+Customer 257.725000 261.023250 [silence]
+Customer 261.023250 263.438000 ri[ght]- that's true that's true
+Agent 262.383625 264.553875 so i i can use that and uh
+Customer 263.438000 265.005375 well we uh
+Agent 264.553875 268.883500 [silence]
+Customer 265.005375 269.498875 my husband always usually always pays with cash but i never seem to have cash
+Agent 268.883500 270.248875 [laughter]
+Customer 269.498875 282.956625 or at least not enough you know to fill a tank up so i always almost always use my credit card on that on that and then it's nice you do tend to pay more for gas but other than that it's it's a good deal i think
+Agent 270.248875 275.119875 [silence]
+Agent 275.119875 276.365500 yeah
+Agent 276.365500 278.635250 [silence]
+Agent 278.635250 279.870750 uh-huh
+Agent 279.870750 282.322625 [silence]
+Agent 282.322625 290.283500 yeah but they're of course now they're beginning to to get the picture i think uh like Chevron has just recently dropped theirs back
+Customer 282.956625 289.565625 [silence]
+Customer 289.565625 291.311250 yeah i saw that
+Agent 290.283500 297.946125 so they quit charging the extra i don't whether they they drop their price back to the cash price or raised all their prices up to the charge price
+Customer 291.311250 295.862125 [silence]
+Customer 295.862125 298.795750 [laughter] [vocalized-noise] yeah exactly
+Agent 297.946125 302.531250 [silence]
+Customer 298.795750 302.495750 but they won't they won't charge i saw that advertised too that's a good deal
+Customer 302.495750 307.078375 but it's real c[onvenient]- it's real convenient for me i re[ally]- i just like being able to go in and do that
+Agent 302.531250 303.968875 but uh
+Agent 303.968875 306.604750 [silence]
+Agent 306.604750 307.523875 yeah
+Customer 307.078375 310.564500 and and it's like American Express you have to pay it off at the end of the month so
+Agent 307.523875 310.038750 [silence]
+Agent 310.038750 311.556625 huh yeah
+Customer 310.564500 311.643750 [silence]
+Agent 311.556625 312.813000 [silence]
+Customer 311.643750 313.506000 it's not going to go up too high
+Agent 312.813000 313.966875 yeah
+Customer 313.506000 315.533125 so it's good for emergencies
+Agent 313.966875 315.182250 [silence]
+Agent 315.182250 320.862500 right yeah that's it's always handy to have that that credit card for whatever it is that you might need it for
+Customer 315.533125 317.305125 that's what we do on
+Customer 317.305125 319.773000 [silence]
+Customer 319.773000 328.094500 that's true we always use especially on trips you know we just charge all our gas that saves us spending it or shelling out the cash right then
+Agent 320.862500 327.542875 [silence]
+Agent 327.542875 334.106000 yeah that's it when when we travel it's we used to use our the gas card just for that you know
+Customer 328.094500 332.425625 [silence]
+Customer 332.425625 334.604000 uh-huh right
+Agent 334.106000 341.715000 and now we don't have of course we don't drive on our trips very much anymore either we used to drive like we'd drive to New Orleans twice a year
+Customer 334.604000 337.468750 [silence]
+Customer 337.468750 338.710625 yeah
+Customer 338.710625 340.840375 [silence]
+Customer 340.840375 342.705000 oh yeah
+Agent 341.715000 346.476750 and uh we don't go we do[n't]- we don't drive anymore when we go down there we usually fly so
+Customer 342.705000 345.632750 [silence]
+Customer 345.632750 346.984125 yeah
+Agent 346.476750 348.577375 you know you can fly just about as cheap as you can drive so
+Customer 346.984125 348.003000 [silence]
+Customer 348.003000 350.161000 i know and isn't that terrible
+Agent 348.577375 349.293000 [silence]
+Agent 349.293000 350.719000 yeah so
+Customer 350.161000 351.877375 and save all that money
+Agent 350.719000 351.456375 [silence]
+Agent 351.456375 354.039125 yeah so anyway
+Customer 351.877375 352.508875 [silence]
+Customer 352.508875 353.922375 hum
+Customer 353.922375 355.731875 well do you think we've
+Agent 354.039125 355.607125 well
+Agent 355.607125 359.417250 i think they've got enough uh enough information from us anyway [laughter]
+Customer 355.731875 358.187500 [silence]
+Customer 358.187500 360.607750 okay well thanks for talking
+Agent 359.417250 362.035250 okay it's nice talking to you okay bye-bye [noise]
+Customer 360.607750 361.730625 you too bye-bye
+Customer 361.730625 363.498125 [noise]
+Agent 362.035250 363.498125 [noise]

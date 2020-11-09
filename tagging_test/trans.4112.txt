@@ -1,0 +1,154 @@
+Agent 0.000000 1.465750 [noise] right now i'm at um
+Customer 0.000000 0.556625 [noise]
+Customer 0.556625 3.803625 [silence]
+Agent 1.465750 4.528875 University of Pennsylvania i'm a graduate student
+Customer 3.803625 5.110375 oh
+Agent 4.528875 9.068500 and the benefits that i get are very minimal
+Customer 5.110375 8.330750 [silence]
+Customer 8.330750 9.732500 [laughter-yeah]
+Agent 9.068500 16.606000 but i do get my health insurance paid for but i don't have any kind of disability insurance or um
+Customer 9.732500 13.884375 [silence]
+Customer 13.884375 15.310000 yeah
+Customer 15.310000 22.841625 [silence]
+Agent 16.606000 23.407375 let's see no disability insurance no va[cation]- well i ge[t]- in a way i get vacation pay because i get to se[t]- totally set my own schedule
+Customer 22.841625 24.170250 uh-huh
+Agent 23.407375 25.044875 but
+Customer 24.170250 27.160875 [silence]
+Agent 25.044875 29.990625 not any real significant benefits my health insurance is very minimal
+Customer 27.160875 28.407250 right
+Customer 28.407250 29.413750 [silence]
+Customer 29.413750 31.049625 [laughter]
+Agent 29.990625 33.808000 [silence]
+Customer 31.049625 34.310750 um i'm i'm a co-op student at GTRI
+Agent 33.808000 35.098125 uh-huh
+Customer 34.310750 41.775625 uh i go to school at Georgia Tech and we don't have benefits to speak of we don't have health insurance or paid vacation and
+Agent 35.098125 41.504500 [silence]
+Agent 41.504500 44.634125 you're undergraduate student or graduate student
+Customer 41.775625 42.783250 [silence]
+Customer 42.783250 44.050750 um-hum
+Customer 44.050750 45.428250 undergrad
+Agent 44.634125 46.293500 undergrad yeah
+Customer 45.428250 46.273875 um-hum
+Customer 46.273875 54.148875 [silence]
+Agent 46.293500 49.496375 yeah here they for the grad students at least
+Agent 49.496375 59.979500 in physiology department which my de[gree]- degree granting department is bio[logical]- engineering but physiology and the biomedical departments at least pay the health insurance engineering doesn't even do that
+Customer 54.148875 55.353000 oh
+Customer 55.353000 59.021000 [silence]
+Customer 59.021000 60.951500 yeah yeah
+Agent 59.979500 69.846250 but i don't know i think that it would be great if instead of having health insurance and all those things tied to a job the way they are now
+Customer 60.951500 66.582125 [silence]
+Customer 66.582125 67.858375 uh-huh
+Customer 67.858375 68.971875 [silence]
+Customer 68.971875 70.305875 uh-huh
+Agent 69.846250 80.101750 so that some people can get them and some people can't and it's like having two classes of income some that is taxed and some that is not it'd be great if they had
+Customer 70.305875 77.333125 [silence]
+Customer 77.333125 78.660625 right
+Customer 78.660625 82.984250 [silence]
+Agent 80.101750 83.749750 everybody responsible for their own health insurance
+Customer 82.984250 84.232750 uh-huh
+Agent 83.749750 86.888375 and either that or wh[at]-
+Customer 84.232750 88.877875 [silence]
+Agent 86.888375 93.309500 they could be responsible for their own health insurance but if they did take the company benefit then that would be taxed like other income
+Customer 88.877875 90.276125 um-hum
+Customer 90.276125 97.688500 [silence]
+Agent 93.309500 105.249625 so then that would everybody would know what their real income was and that their benefit that they were getting from the company was costing them something and that they might want to look around to get something better somewhere else
+Customer 97.688500 98.661375 uh-huh
+Customer 98.661375 104.670500 [silence]
+Customer 104.670500 108.396625 well that's a good idea i had never thought about it that way
+Agent 105.249625 108.568375 [silence]
+Customer 108.396625 129.520125 [silence]
+Agent 108.568375 110.563000 so
+Agent 110.563000 111.710500 i guess
+Agent 111.710500 114.936250 i would like to see something like that and then
+Agent 114.936250 120.587750 i guess the going beyond just the idea of benefits having
+Agent 120.587750 125.085125 instead of um a national health insurance system having
+Agent 125.085125 136.260000 a sort of like an FDIC for health insurers so if if you're health insurance company goes out of business you don't lose everything if you get sick
+Customer 129.520125 130.732000 um-hum
+Customer 130.732000 134.512000 [silence]
+Customer 134.512000 135.698625 yeah
+Customer 135.698625 136.902625 right
+Agent 136.260000 141.564875 [silence]
+Customer 136.902625 138.553375 right that's
+Customer 138.553375 141.859000 that would be a wonderful idea
+Agent 141.564875 147.573875 but on the other hand i[n]- in the curr[ent]- state of the current system i'll
+Customer 141.859000 145.486250 [silence]
+Customer 145.486250 146.432750 uh-huh
+Customer 146.432750 153.175625 [silence]
+Agent 147.573875 151.192750 whenever i get out of here i'll look for
+Agent 151.192750 154.267000 a job probably an academic job that would
+Customer 153.175625 154.283000 um
+Agent 154.267000 156.398375 [silence]
+Customer 154.283000 158.948500 [silence]
+Agent 156.398375 164.292500 you know benefits i don't know how important that'll be usually academic jobs you get TIAA for your retirement plan
+Customer 158.948500 159.948875 righ[t]-
+Customer 159.948875 163.630625 [silence]
+Customer 163.630625 164.875875 uh-huh
+Agent 164.292500 172.264125 which is a it's a mutual fund that allows you to transfer your benefits with you with whatever job you go to
+Customer 164.875875 171.424500 [silence]
+Customer 171.424500 172.663375 um-hum
+Agent 172.264125 174.403000 and
+Customer 172.663375 175.410625 [silence]
+Agent 174.403000 176.051750 [silence]
+Customer 175.410625 176.908375 i didn't know that
+Agent 176.051750 186.172125 a lot of an academic jobs give you that but on the other hand state retirement if you work for a state university can be very secure in taking [noise] good care of you
+Customer 176.908375 185.560375 [silence]
+Customer 185.560375 186.800250 really
+Agent 186.172125 189.225250 i know my daddy worked for the federal government
+Customer 186.800250 188.603000 [silence]
+Customer 188.603000 189.807875 uh-huh
+Agent 189.225250 200.062875 and he was in the soil conservation service and then after he retired from that he w[ent]- taught school for a while and he had taught school early in his career so he got the
+Customer 189.807875 191.950500 [silence]
+Customer 191.950500 193.157750 um-hum
+Customer 193.157750 195.604875 [silence]
+Customer 195.604875 196.854250 um-hum
+Customer 196.854250 203.639000 [silence]
+Agent 200.062875 211.542250 federal retiree benefits and the state retiree benefits and the most important for him has been the health insurance because my mama isn't particularly well
+Customer 203.639000 204.671250 wow
+Customer 204.671250 208.199125 [silence]
+Customer 208.199125 209.517625 um-hum
+Customer 209.517625 211.002375 [silence]
+Customer 211.002375 212.224625 um-hum
+Agent 211.542250 217.057250 she has um she's a kidney patient on dialysis and he was saying that
+Customer 212.224625 214.478125 [silence]
+Customer 214.478125 215.689250 um-hum
+Customer 215.689250 225.645125 [silence]
+Agent 217.057250 226.385500 now that her kidneys have totally failed they've taken her off one of the drugs Lasix which is a diuretic it it changes how the kidneys absorb moisture
+Customer 225.645125 226.903375 um-hum
+Agent 226.385500 231.508250 and her drug bill is now down to two hundred dollars a month [laughter]
+Customer 226.903375 230.743000 [silence]
+Customer 230.743000 232.255000 wow
+Agent 231.508250 241.447750 so and that's the lowest it's been in quite some time and so health insurance can be a real big important thing to get
+Customer 232.255000 233.903750 [noise]
+Customer 233.903750 236.004250 [silence]
+Customer 236.004250 236.845875 {yipes}
+Customer 236.845875 239.711000 [silence]
+Customer 239.711000 240.899000 um-hum
+Customer 240.899000 242.271125 right
+Agent 241.447750 242.495250 [silence]
+Customer 242.271125 245.847500 [silence]
+Agent 242.495250 245.955625 what kind of job are you thinking about getting when you get out
+Customer 245.847500 258.431625 oh i'm i'm just not entirely sure i have only been working here for one quarter this is my first quarter here and uh i'm not really all too sure what kind of jobs are available and uh
+Agent 245.955625 261.189625 [silence]
+Customer 258.431625 260.926375 i haven't gotten them_1 yet i'm going in a few
+Customer 260.926375 262.482000 um
+Agent 261.189625 261.984500 um-hum
+Agent 261.984500 269.124875 [silence]
+Customer 262.482000 264.037625 and i- i
+Customer 264.037625 269.583875 i'm going to be doing research for a professor next quarter and see how i like that see uh
+Agent 269.124875 270.384875 uh-huh
+Customer 269.583875 273.553625 if research for a school would be something i would consider
+Agent 270.384875 274.238875 [noise] hum
+Customer 273.553625 276.470875 [silence]
+Agent 274.238875 276.812875 what kind of company are you working with {co-oping}
+Customer 276.470875 281.669500 oh oh it's the Georgia Tech Research Institute it's affiliated with the university um
+Agent 276.812875 280.964250 [silence]
+Agent 280.964250 282.203000 i see
+Customer 281.669500 288.312000 and uh we do research uh the one i'm in the lab i'm in does research in microwaves and antennas
+Agent 282.203000 292.271875 [silence]
+Customer 288.312000 292.420875 and uh we do a lot of research for the federal government
+Agent 292.271875 293.280375 uh-huh
+Customer 292.420875 297.679750 so a lot of our uh expenses are you know covered by the federal government
+Agent 293.280375 297.487000 [silence]
+Agent 297.487000 298.480625 right
+Customer 297.679750 298.914000 so
+Agent 298.480625 298.914000 [silence]

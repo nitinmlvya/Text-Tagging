@@ -1,0 +1,127 @@
+Agent 0.000000 0.495875 [noise]
+Customer 0.000000 0.260375 [noise]
+Customer 0.260375 7.400375 well uh i don't know i think the budget is really out of hand right now and especially in this election year i think that uh
+Agent 0.495875 3.503000 [silence]
+Agent 3.503000 4.991500 [noise]
+Agent 4.991500 10.250125 [silence]
+Customer 7.400375 13.099625 there ought to be so[me]- at least some conversation about what we are supposed to do about this
+Agent 10.250125 11.607500 um-hum
+Agent 11.607500 20.600125 yeah see it like seems to me you know that everyone's offering you know their token little tax cut program you know when it's when it's just such a bad time for it you know
+Customer 13.099625 17.649000 [silence]
+Customer 17.649000 19.220000 right
+Customer 19.220000 27.556000 right and uh well as you said mostly they are token cuts uh especially what for instance George Bush is offering
+Agent 20.600125 22.972000 [silence]
+Agent 22.972000 24.221250 no
+Agent 24.221250 26.243500 [silence]
+Agent 26.243500 29.000750 it the ninety seven cents a week [laughter]
+Customer 27.556000 38.681500 yeah ninety seven cents a week now what that's really not gonna do a lot of good it doesn't seem to me to your average middle income person you know another ninety seven cents hell you can buy a Coke or something for that
+Agent 29.000750 33.135625 [silence]
+Agent 33.135625 34.426875 uh-huh
+Agent 34.426875 38.156750 [silence]
+Agent 38.156750 44.551000 hell i mean mostly you know it's it's not actually a a a cut it's just a cut in the with hold in the amount with held you know
+Customer 38.681500 43.225000 [silence]
+Customer 43.225000 44.824625 yeah
+Agent 44.551000 48.627250 um yeah i don't just don't see it changing my life style a whole lot
+Customer 44.824625 47.491250 [silence]
+Customer 47.491250 52.038625 nah that ninety seven cents really isn't gonna do it for me either uh
+Agent 48.627250 50.089500 [noise]
+Agent 50.089500 51.750125 um-hum
+Agent 51.750125 61.724500 [silence]
+Customer 52.038625 65.268125 i i haven't really heard much of what the other people other candidates have said that has made a lot of sense to me either especially the Democratic candidates uh don't seem to be coming up with much that really sparks my interest as far as yeah maybe that could
+Agent 61.724500 67.062875 [noise]
+Customer 65.268125 69.242750 do something to affect our budget at this point
+Agent 67.062875 77.442375 um-hum yeah i mean you know in in retrospect um was it was it Mondale or Dukakis that said you know i'll i'll tell you right now i'm gonna raise taxes
+Customer 69.242750 76.240250 [silence]
+Customer 76.240250 80.722625 i believe it was Dukakis but i i can't
+Agent 77.442375 82.693000 it was Dukakis yeah i have a lot of [laughter-respect] [laughter-for] [laughter-him]
+Customer 80.722625 94.519875 yeah i mean that's better than George Bush who came out and said no i will not read my lips or whatever and then you know ten months later he said well sorry you know i i can't follow through on this but it seems to me that uh
+Agent 82.693000 84.249625 [silence]
+Agent 84.249625 86.716000 yeah um-hum
+Agent 86.716000 90.495000 [silence]
+Agent 90.495000 91.763875 um-hum
+Agent 91.763875 101.131625 [silence]
+Customer 94.519875 108.395500 that the budget is so out of hand and especially now that they say okay the cold war is over and we're supposed to be getting a peace dividend of you know of X number of billion trillion dollars a year well i'd really like to know whe[re]- where that money is actually gonna go because
+Agent 101.131625 102.542750 um-hum
+Agent 102.542750 111.703000 [noise]
+Customer 108.395500 113.309375 in my opinion i don't think i'm ever gonna see any of this peace so called peace dividend
+Agent 111.703000 114.531875 oh yeah [laughter] i know it it's
+Customer 113.309375 127.094125 i mean if they could actually pu[t]- put something together and make i'm not really in favor of large government social programs either because_1 i feel that they waste money also but with this peace dividend it seems like you could set up some kind of like public works
+Agent 114.531875 120.847500 [silence]
+Agent 120.847500 122.101125 um-hum
+Agent 122.101125 125.399250 [silence]
+Agent 125.399250 126.707000 um-hum
+Agent 126.707000 128.411750 [noise]
+Customer 127.094125 129.698750 projects like they had in the thirties or whatever
+Agent 128.411750 135.424875 oh yeah i i yeah i i think that would be a great idea you know like the conservation corps you know where it wou[ld]- it wou[ld]- it would help unemployment greatly
+Customer 129.698750 131.906750 [silence]
+Customer 131.906750 133.605750 right ex[actly]-
+Customer 133.605750 134.624250 [silence]
+Customer 134.624250 140.557000 exactly and in that way we could really focus on building the infra[structure]- structure of the country
+Agent 135.424875 136.543500 and it
+Agent 136.543500 138.656500 [noise]
+Agent 138.656500 145.833875 yeah our infrastructure is in is in i mean we we've we've hurt ourselves incredibly over the last fi[fty]- fifty years of the cold war yeah
+Customer 140.557000 143.456500 [silence]
+Customer 143.456500 155.770000 yeah and and there's no way that we can ever really recover from from the state that we're in right now unless at least i feel unless we focus on the infrastructure and i surely don't hear anybody saying that right now
+Agent 145.833875 146.866625 [silence]
+Agent 146.866625 147.814250 um-hum
+Agent 147.814250 155.362750 [silence]
+Agent 155.362750 160.859000 um-hum um yeah i i agree totally [laughter] um
+Customer 155.770000 159.234125 [silence]
+Customer 159.234125 161.973750 [laughter]
+Agent 160.859000 170.700375 i mean we this this it just seems so you know so ridiculous that it was allowed to happen um i i'm in college right now and oh really where do you go
+Customer 161.973750 167.975375 [silence]
+Customer 167.975375 169.532500 so am i
+Customer 169.532500 171.498125 uh IU
+Agent 170.700375 178.002625 right i go to Georgia Tech um and in my i had poli[tical]- you know the required political science class a couple of years ago
+Customer 171.498125 173.202375 uh-huh
+Customer 173.202375 176.507250 [silence]
+Customer 176.507250 177.712625 um-hum
+Customer 177.712625 183.732500 [silence]
+Agent 178.002625 191.442625 and one of the things we discussed was you know were where the budget situa[tion]- how how the budget situation just got so out of hand and essentially what happened was and i think it was like in eigh[ty]- in the um tax year of eighty one um
+Customer 183.732500 185.227125 right
+Customer 185.227125 204.156125 [silence]
+Agent 191.442625 194.578625 Ronald Reagan basically said you know
+Agent 194.578625 201.590500 i'm gonna give this much of a tax cut to the tax payers and and and created this this ludicrous budget that he knew that that um
+Agent 201.590500 215.583875 that the Congress would not in the right mind pass and Con[gress]- Congress realizing that they were gonna lose a the Democratic Congress realizing that they were gonna lose a propaganda war you know by by you know sli[cing]- by by removing the tax cut
+Customer 204.156125 205.391625 right
+Customer 205.391625 214.471500 [silence]
+Customer 214.471500 215.738375 uh-huh
+Agent 215.583875 224.756000 further cut the taxes and created you know that that that you know wha[t]- created the the huge deficit that year which moved us into the trillion dollar deficit
+Customer 215.738375 223.734375 [silence]
+Customer 223.734375 225.158375 right
+Agent 224.756000 228.754875 and you just [noise] i mean it's just
+Customer 225.158375 226.498750 [silence]
+Customer 226.498750 230.228750 you you just have to wonder what they're thinking in Washington
+Agent 228.754875 232.438375 i mean it's just like you know playing chicken with a loaded gun
+Customer 230.228750 231.428750 [silence]
+Customer 231.428750 241.625125 yeah uh well it's it's more than a loaded it's a loaded cannon i mean they've got trillions of dollars to spend every year and they in my opinion don't do a very responsible job of spending that money
+Agent 232.438375 235.160000 [silence]
+Agent 235.160000 236.469125 yeah
+Agent 236.469125 239.692000 [silence]
+Agent 239.692000 249.115750 um-hum well yeah and what really bothers me is it just seems like if if anyone were to say you know well i'm gonna raise taxes
+Customer 241.625125 255.544625 [silence]
+Agent 249.115750 256.397875 and cut the budget and we're gonna have you know we're we're gonna we're gonna have to do some unpopular things i mean he wouldn't have a chance of getting elected
+Customer 255.544625 257.132500 oh no
+Agent 256.397875 263.248250 i mean it's kind of like Rome and the bread and circuses thing you know where where people just want want to have
+Customer 257.132500 259.898125 [silence]
+Customer 259.898125 261.257250 uh-huh
+Customer 261.257250 265.722750 [silence]
+Agent 263.248250 266.969500 you know what ever will make them feel good right now you know and
+Customer 265.722750 277.502125 for the for the moment and that's what really is getting me about what George Bush's stand on the budget is right now is that he is saying i am gonna give you this ludicrous little tax cut so that you'll be happy come November and you'll elect me again
+Agent 266.969500 268.022375 [laughter]
+Agent 268.022375 269.903000 [silence]
+Agent 269.903000 271.151000 um-hum
+Agent 271.151000 276.733750 [silence]
+Agent 276.733750 277.987125 um-hum
+Customer 277.502125 283.638750 and then i'm gonna go on and just forget everything that i said or you know it doesn't seem that it's gonna make much of a difference
+Agent 277.987125 279.641875 [silence]
+Agent 279.641875 280.908500 um-hum
+Agent 280.908500 283.250250 [silence]
+Agent 283.250250 288.994250 um-hum yeah that i mean i don't know i i [laughter]
+Customer 283.638750 292.821875 [silence]
+Agent 288.994250 293.734000 i don't i don't think George Bush will make the American people happy with [laughter-ninety] [laughter-seven] [laughter-cents] a week
+Customer 292.821875 295.330500 no no not at all
+Agent 293.734000 295.084375 [silence]
+Agent 295.084375 299.170000 well i just don't think it was a well thought out [laughter-incentive]
+Customer 295.330500 298.348250 [silence]
+Customer 298.348250 299.170000 no

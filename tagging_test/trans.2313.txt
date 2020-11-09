@@ -1,0 +1,202 @@
+Agent 0.000000 0.652625 [noise]
+Customer 0.000000 0.701250 [silence]
+Agent 0.652625 3.097000 [silence]
+Customer 0.701250 3.169125 well how many credit cards do you have
+Agent 3.097000 4.736125 um
+Customer 3.169125 24.082625 [silence]
+Agent 4.736125 6.052875 [silence]
+Agent 6.052875 8.888250 i've only i've got about four maybe
+Agent 8.888250 12.712750 i try to limit them because i well one i don't use them
+Agent 12.712750 19.361750 uh too much and i use my Visa just for abou[t]- for about everything and i pay it all off
+Agent 19.361750 24.933625 so i try not to i just use it for free money for thirty days basically
+Customer 24.082625 30.032625 [laughter] sounds like we have no conflict we had for a while i was carrying one card and my wife was carrying a different one
+Agent 24.933625 58.375375 [silence]
+Customer 30.032625 39.832875 and since the slips all look alike uh you commingle them and then you get the statement and you try to sort them_1 out and it and it uh
+Customer 39.832875 50.302875 [laughter-it] it causes more confusion about it i finally said gee this is kind of a waste of time and then when AT&T came along and offered a free one uh i accepted that and we've been using that one
+Customer 50.302875 59.147250 uh the interesting thing is is that uh the amount of money you can can run up on them i don't know do you know any people that run up big big bills
+Agent 58.375375 66.129250 i'm i'm you know i'm in the age group you get out of college and i think a lot of these people have them {maxed} out
+Customer 59.147250 65.557125 [silence]
+Customer 65.557125 69.190625 well did um were you able to get one while you're in college
+Agent 66.129250 69.106625 [silence]
+Agent 69.106625 72.296500 um i don't think i ever tried
+Customer 69.190625 72.119125 [silence]
+Customer 72.119125 84.979375 just curious because_1 i have a son that's a senior this year and he's heading off with any kind of luck but there has been i've had a couple of ads for a for for to provide a card for a college student
+Agent 72.296500 89.728500 [silence]
+Customer 84.979375 88.744625 uh what do you think about the idea of providing one for somebody like that
+Customer 88.744625 105.306750 [silence]
+Agent 89.728500 91.179875 um
+Agent 91.179875 92.742500 [silence]
+Agent 92.742500 93.879750 well
+Agent 93.879750 95.092750 [noise]
+Agent 95.092750 97.366875 yeah i i you know it's
+Agent 97.366875 103.390375 you know feasible i mean i know a lot of college kids who have them you know who had them but
+Agent 103.390375 105.297125 just depends
+Agent 105.297125 117.244250 [silence]
+Customer 105.306750 118.550625 well that that that i guess from the from the card issuer uh that since since it's it's in mo[nitor]- the parent gets it for them that really the parent becomes the one that's responsible but it's
+Agent 117.244250 120.140625 yeah so basically if you want to take the risk
+Customer 118.550625 119.669125 [silence]
+Customer 119.669125 122.597625 yes it's whether the parent wants to take the risk
+Agent 120.140625 121.641000 [laughter] it's your risk
+Agent 121.641000 124.423625 do you trust your your son
+Customer 122.597625 123.617000 [silence]
+Customer 123.617000 134.034000 yeah to to go run up a big bill and the thing is there some [vocalized-noise] there some advantages if he got off some place and stranded i i'm i'm leaning towards doing it for for conven[ience]-
+Agent 124.423625 128.451500 [silence]
+Agent 128.451500 129.590250 uh-huh
+Agent 129.590250 132.005125 [silence]
+Agent 132.005125 134.601125 uh-huh i'd say do you know
+Customer 134.034000 136.022750 [silence]
+Agent 134.601125 139.174000 have one with you know at least a thousand dollar credit limit or something
+Customer 136.022750 137.863750 a convenience
+Customer 137.863750 144.492250 yeah and the idea that you know if he got in trouble there's some some ways of getting out and that he doesn't have to carry cash
+Agent 139.174000 158.447875 [silence]
+Customer 144.492250 155.372250 the uh i i like the idea of credit cards that uh i don't i don't i don't carry cash around and and uh i don't even carry checks around i let my wife take the checkbook a[nd]-
+Customer 155.372250 158.337750 she writes the checks and i record them so it's uh
+Customer 158.337750 166.650000 it's uh it's but it's interesting that uh the people that can that can uh the amounts of money you can run up wi[th]-
+Agent 158.447875 159.685750 yeah
+Agent 159.685750 194.014750 [silence]
+Customer 166.650000 177.965375 on on credit cards and uh i i had recently had some dealings with a fellow that they had run up he was making oh considered a modest salary for an engineer
+Customer 177.965375 185.136250 and he had run up uh more than a years salary in in various debts to
+Customer 185.136250 191.351000 and he wound up declaring bankruptcy but there it it's hard to believe that you'd run up twenty thirty thousand dollars of
+Customer 191.351000 195.606125 uh well it was a combination of things he had uh there were
+Agent 194.014750 195.385375 uh-huh
+Agent 195.385375 210.235750 [silence]
+Customer 195.606125 206.338625 there were several credit cards and then there were several other businesses but uh i i guess what's interesting have you seen the uh the the the the ads where they're offering to extend payments on
+Customer 206.338625 210.748750 uh things like uh like the credit union's offering
+Agent 210.235750 213.145125 the the extended loan payment for your car
+Customer 210.748750 211.820250 [silence]
+Customer 211.820250 212.959125 yes
+Customer 212.959125 214.339625 yeah
+Agent 213.145125 215.398750 yeah i saw that
+Customer 214.339625 222.831500 the interesting thing about that is is that uh that that they're encouraging you to incur more incur more debt and
+Agent 215.398750 221.754875 [silence]
+Agent 221.754875 226.344250 well it's it's it's business and they're making money off that
+Customer 222.831500 225.818625 [silence]
+Customer 225.818625 228.378000 and they make more money if you extend your loan
+Agent 226.344250 227.460875 [silence]
+Agent 227.460875 235.065250 yeah and and it's so it's business so and you notice that they're they're only going to do it to like cars that are one or two years old
+Customer 228.378000 234.311250 [silence]
+Customer 234.311250 235.633375 yes
+Agent 235.065250 242.532000 and so they've already shifted the risk if they assume that car then they just have to sell it themselves and they'll recover the loan
+Customer 235.633375 240.667750 [silence]
+Customer 240.667750 246.718750 and they know that people own a car that new unless absolutely dire circumstances or any[thing]- they're not going to keep on if the car were older
+Agent 242.532000 246.311375 [silence]
+Agent 246.311375 247.646500 uh-huh
+Customer 246.718750 257.697000 the interesting thing about it is is that from a uh uh an economy standpoint or in economics i i thinks it's i think it's poor poor uh economics to to carry all that consumer debt
+Agent 247.646500 257.769125 [silence]
+Customer 257.697000 260.435000 at least from a tax standpoint so
+Agent 257.769125 258.999375 yeah
+Agent 258.999375 267.545875 [silence]
+Customer 260.435000 268.466375 it's interesting that that the American public is encouraged to incur all that debt and then next year none of it will be deductible and this year it's ten percent or so
+Agent 267.545875 269.954250 yeah uh
+Customer 268.466375 273.284000 it's uh it's interesting that that uh they encourage us to do things
+Agent 269.954250 271.819625 [silence]
+Agent 271.819625 275.056250 what now what's ten percent we can deduct
+Customer 273.284000 274.549250 [silence]
+Customer 274.549250 278.902000 i think ten percent yes of your of your consumer credit
+Agent 275.056250 276.394375 [silence]
+Agent 276.394375 278.203000 i didn't know that
+Agent 278.203000 284.447750 [silence]
+Customer 278.902000 284.226250 oh if you had a thousand dollars that means there's another hundred dollar deduction i've given you
+Customer 284.226250 288.209125 [silence]
+Agent 284.447750 288.514625 i didn't think you could anything on a loan or
+Customer 288.209125 291.401625 yeah it's on uh yeah
+Agent 288.514625 289.642875 [silence]
+Agent 289.642875 292.359375 i mean a mortgage i know you can
+Customer 291.401625 297.926875 yeah on the uh there's there's there's a place for consumer debt and then you take ten percent of it on the
+Agent 292.359375 296.565500 [silence]
+Agent 296.565500 299.701000 oh i've never itemized yet
+Customer 297.926875 299.319125 [silence]
+Customer 299.319125 300.707375 oh okay
+Agent 299.701000 301.051125 so maybe that's
+Customer 300.707375 303.323375 it's on it's on schedule um
+Agent 301.051125 302.966375 [silence]
+Agent 302.966375 304.713625 schedule a or
+Customer 303.323375 306.118375 schedule a under uh
+Agent 304.713625 328.914125 [silence]
+Customer 306.118375 318.456125 well it's the same place it's the same place you put uh interest but but see that's what that's what makes Texas squirrelly laws that uh you can't you can't take out a a second mortgage
+Customer 318.456125 330.383250 uh like some states where you can take out the mortgage and declare that and so uh it's fully deductible the laws are a little squirrelly but it basically comes down to it's not in your best interest to borrow money from a tax standpoint
+Agent 328.914125 330.182125 yeah
+Agent 330.182125 331.920750 [silence]
+Customer 330.383250 331.594500 but uh
+Customer 331.594500 333.611875 anyway [laughter]
+Agent 331.920750 340.445625 yeah i try i i really do i just try to stay out of debt and i and i use my Visa for for as much as i can and i pay it all off and
+Customer 333.611875 339.544250 [silence]
+Customer 339.544250 344.078000 sounds like you're you're very respon[sible]- very financially responsible it's uh
+Agent 340.445625 343.004750 [silence]
+Agent 343.004750 344.422625 uh-huh
+Customer 344.078000 352.651500 that's uh there're a lot of people who really run my boss drives quite a ways to work and he's got just enormous debts and he's
+Agent 344.422625 361.079250 [silence]
+Customer 352.651500 361.817125 uh but i mean what do you say it's like shucks [laughter] boss i'm sure sorry you've got all that debt well he's had had two kids in college and and this kind of thing and that
+Agent 361.079250 362.188000 uh-huh
+Customer 361.817125 370.902375 i think that the whole credit card issue i think they certainly encourage people to run up the debts and but i agree with you i don't i try to limit my debts well i did buy a new house last summer that
+Agent 362.188000 366.181250 [silence]
+Agent 366.181250 367.527125 yeah
+Agent 367.527125 368.799500 yeah
+Agent 368.799500 369.989750 [silence]
+Agent 369.989750 376.295500 [noise] and i took a five year note out on my car when i right when i got out of college and uh
+Customer 370.902375 380.494500 [silence]
+Agent 376.295500 380.999500 i'll never do that again i still got a couple of years on it to go and i'm
+Customer 380.494500 391.850625 it's it's remarkable how many people as soon as they get out of college buy a new car and that uh apparently that's been going on for a really long time i didn't do it i i bought a second hand car when i was the middle of my senior year
+Agent 380.999500 389.439875 [silence]
+Agent 389.439875 391.088625 uh-huh
+Agent 391.088625 399.694875 well you you think you're starting out well until you start paying all those bills uh apartment rent and
+Customer 391.850625 396.463625 [silence]
+Customer 396.463625 397.846000 yep
+Customer 397.846000 398.939125 [silence]
+Customer 398.939125 408.096875 miscellaneous things like food -[a]nd and other things these habits you get into eating and and uh it's it's it's amazing how it what you learn
+Agent 399.694875 401.544750 yeah well
+Agent 401.544750 403.665250 yeah and an[d]-
+Agent 403.665250 407.682625 [silence]
+Agent 407.682625 409.315000 yeah so
+Customer 408.096875 409.598625 [silence]
+Agent 409.315000 411.969250 [silence]
+Customer 409.598625 412.473000 well anything else good to say about credit cards
+Agent 411.969250 413.434625 um
+Customer 412.473000 413.481000 [silence]
+Agent 413.434625 416.962750 yeah they're they're convenient you know that's that's a
+Customer 413.481000 415.019500 i might just
+Customer 415.019500 420.374000 [silence]
+Agent 416.962750 419.660875 probably one big thing about them and
+Agent 419.660875 421.431250 uh
+Customer 420.374000 431.747625 you don't have to carry the cash and and uh and it's it's it's certainly accepted more places than the places you know it's hard to cash a check if you're out of state and
+Agent 421.431250 428.295625 [silence]
+Agent 428.295625 429.561750 uh-huh
+Agent 429.561750 430.932375 [silence]
+Agent 430.932375 437.784125 yeah well i was used to using my credit card like at Skaggs Alpha Beta in Dallas and stuff and now i'm out here in Phoenix
+Customer 431.747625 435.601000 [silence]
+Customer 435.601000 436.828625 yeah
+Customer 436.828625 437.849000 [silence]
+Agent 437.784125 438.994750 uh
+Customer 437.849000 440.264625 they don't allow they don't do tha[t]-
+Agent 438.994750 449.512625 they they none of these grocery stores take any credit cards so now i have to carry cash when i go to the grocery store which is new to me you know i got to have sixty bucks on me or something
+Customer 440.264625 448.493000 [silence]
+Customer 448.493000 451.385625 yeah huh
+Agent 449.512625 450.265000 [laughter]
+Agent 450.265000 451.947250 so uh
+Customer 451.385625 453.604250 carry all that cash with you
+Agent 451.947250 458.302625 that was interesting cause i always you know you didn't have to worry about carrying that much unless i knew i
+Customer 453.604250 454.712750 [silence]
+Customer 454.712750 456.582875 well you know they they
+Customer 456.582875 463.670375 they've started towards a little bit of the debit card have you seen the debit cards where they actually debit your account when you
+Agent 458.302625 462.061875 [silence]
+Agent 462.061875 464.417250 yeah i've heard about them
+Customer 463.670375 466.100625 yeah and i think that's where
+Agent 464.417250 470.201375 that's mostly locally the banks will line up with uh
+Customer 466.100625 469.252000 [silence]
+Customer 469.252000 476.647500 yeah i've seen a couple although the so many of the grocery stores don't do that because of the the time frame which they get paid
+Agent 470.201375 510.557625 [silence]
+Customer 476.647500 485.689875 in general that uh they i've seen checks deposited the very next day i mean cleared my account the next day my wife will write a check for groceries and
+Customer 485.689875 499.896750 you know almost well i guess it's the day after uh technically it's two days but the[y]- the[y]- they took that check and scurried it to the bank and the bank scurried it back to my account and you thought there'd be just a little bit of float but apparently that's why the uh
+Customer 499.896750 507.559250 the uh the uh grocery stores are reluctant to do that because their volume that is quite high and they have uh
+Customer 507.559250 511.333500 the profitability of the cash flow is a big issue for them so
+Agent 510.557625 511.827250 yeah
+Customer 511.333500 514.352375 anyway well it's good talking to you
+Agent 511.827250 513.847500 [silence]
+Agent 513.847500 515.310125 all righty
+Customer 514.352375 517.718250 maybe we'll get across we'll cross paths again good night
+Agent 515.310125 516.328875 [silence]
+Agent 516.328875 517.716500 all righty
+Agent 517.716500 519.094750 take it easy
+Customer 517.718250 519.046625 [noise]
+Customer 519.046625 520.674375 [noise]
+Agent 519.094750 520.674375 [noise]

@@ -1,0 +1,164 @@
+Agent 0.000000 0.507750 [noise]
+Customer 0.000000 0.614000 [noise]
+Agent 0.507750 3.118875 so do you have an opinion on credit cards
+Customer 0.614000 2.639375 [silence]
+Customer 2.639375 5.267500 um i do [laughter]
+Agent 3.118875 4.468750 [silence]
+Agent 4.468750 5.786875 you do
+Customer 5.267500 7.286375 what d[o]- what do you think about them_1
+Agent 5.786875 6.795375 [silence]
+Agent 6.795375 9.329125 i think they get a lot of people in trouble
+Customer 7.286375 8.849875 [silence]
+Customer 8.849875 12.132125 yeah definitely i have one right now and
+Agent 9.329125 14.990375 [silence]
+Customer 12.132125 20.404750 um i just got it about eight six months ago and i find that i[t]- it makes it a lot easier to get things that you generally wouldn't get [laughter]
+Agent 14.990375 16.269250 uh-huh
+Agent 16.269250 19.514375 [silence]
+Agent 19.514375 28.104250 yeah and then you don't stop to realize that you know you charge this for twenty charge that for twenty charge this for twenty and pretty soon you owe a hundred dollars and you don't stop to think about it
+Customer 20.404750 27.483125 [silence]
+Customer 27.483125 28.856250 yeah
+Agent 28.104250 34.493000 i got in trouble when i was in the service quite a few years ago like ten to fifteen thousand dollars in trouble
+Customer 28.856250 33.594750 [silence]
+Customer 33.594750 35.656250 oh my goodness
+Agent 34.493000 42.280250 and then you know so i eventually got it all paid now i carry one i have a gas card and a Visa card and i never use them_1 unless i need to
+Customer 35.656250 41.936875 [silence]
+Customer 41.936875 43.228750 really
+Agent 42.280250 43.949125 [noise] so
+Customer 43.228750 51.526500 that's good y[eah]- yeah i'd i made a rule with myself when i got one that if i couldn't pay it in full every month that i'd have to rip it up so
+Agent 43.949125 45.500250 but they
+Agent 45.500250 50.929000 [silence]
+Agent 50.929000 52.288750 yeah
+Customer 51.526500 53.103125 [laughter]
+Agent 52.288750 54.106375 that's a good idea
+Customer 53.103125 54.586250 that's
+Agent 54.106375 57.068500 stops all them interest rates and interest rates aren't
+Customer 54.586250 58.677000 [silence]
+Agent 57.068500 59.480250 none too shallow these days anyway
+Customer 58.677000 60.402500 yeah that
+Agent 59.480250 67.444000 [noise] but i know a lot of people that get in trouble with them_1 especially you know we have i'm in Lubbock and we have a bunch of college kids around here going to Tech [noise]
+Customer 60.402500 69.610875 [silence]
+Agent 67.444000 70.426375 and they seem to get in trouble with them_1 a lot
+Customer 69.610875 80.225000 um-hum i have i have a couple friends too that have about_1 three of them_1 {maxed} out [laughter] and they they can't do anything but work to try to pay them_1 off and and and like one of my friends
+Agent 70.426375 75.148125 [silence]
+Agent 75.148125 76.770250 [noise] yeah
+Agent 76.770250 85.866125 [silence]
+Customer 80.225000 86.442250 she has hers is up to nine hundred dollars and she doe[s]- she only earns like two hundred dollars a month because_1 she's going to school
+Agent 85.866125 87.326250 jeez
+Customer 86.442250 94.516000 and and so i mean that's just enough to pay rent and buy like [laughter-thirty] five dollars worth of food a month so and and pay for her like
+Agent 87.326250 98.582875 [silence]
+Customer 94.516000 102.277000 like monthly fee like twen[ty]- yeah you ha[ve]- i guess you have to pay like twenty dollars each month is the so all she's paying is interest on hers every month
+Agent 98.582875 100.322875 yeah something like that
+Agent 100.322875 101.729875 [silence]
+Agent 101.729875 103.020250 yeah
+Customer 102.277000 104.449875 it just seems crazy to
+Agent 103.020250 106.036625 [silence]
+Customer 104.449875 106.224375 to me but
+Agent 106.036625 109.591125 [noise] well my wife got in trouble one time with hers and
+Customer 106.224375 124.386375 [silence]
+Agent 109.591125 111.920500 she was making like
+Agent 111.920500 115.663875 i don't know what she was making forty five dollars a month i think
+Agent 115.663875 123.454750 and fifteen dollars of it was because she was over the limit and fifteen dollars of it was interest so she was only paying in it fifteen dollars a month
+Agent 123.454750 124.633625 [silence]
+Customer 124.386375 125.715625 yeah
+Agent 124.633625 129.000875 [noise] so and that was before we got married so [noise]
+Customer 125.715625 127.120125 [silence]
+Customer 127.120125 128.580250 [laughter]
+Customer 128.580250 139.484750 [silence]
+Agent 129.000875 133.139875 but it's you know we sat down and talked about it and discussed it and it's
+Agent 133.139875 135.729875 it's come out pretty good now we have a
+Agent 135.729875 140.138375 eighteen year old that's fixing to get out of high school and go to college and
+Customer 139.484750 140.885625 oh really
+Agent 140.138375 142.605875 that's the first thing he wanted
+Customer 140.885625 141.960375 [silence]
+Customer 141.960375 143.664875 was it Visa card
+Agent 142.605875 144.497625 yeah
+Customer 143.664875 145.570375 oh my goodness
+Agent 144.497625 150.225500 so we kind of discussed that a little bit and shot that idea down right quick
+Customer 145.570375 148.448000 [silence]
+Customer 148.448000 151.890625 [laughter] i bet
+Agent 150.225500 152.559875 you know so
+Customer 151.890625 156.285000 yeah i'm i don't know i'm about_1 sick of mine right now
+Agent 152.559875 156.910625 [silence]
+Customer 156.285000 157.847750 i don't
+Agent 156.910625 169.221125 but i think they're too readily accessible and there's too many companies out there that are willing to give them_1 to you and get you dra[ft]- get you trapped i mean you can always file bankruptcy to get out of it but that's a lot of pain and hassle when
+Customer 157.847750 159.049875 [silence]
+Customer 159.049875 160.545750 um-hum
+Customer 160.545750 178.375375 [silence]
+Agent 169.221125 172.971375 you know in the olden days when my parents were growing up and uh
+Agent 172.971375 181.189125 we couldn't afford everything we didn't have such things as credit cards we just waited till time come around that we could afford it and you know we had all the necessities so
+Customer 178.375375 179.865125 right
+Customer 179.865125 186.694750 [silence]
+Agent 181.189125 187.419375 and i very seldom use a credit card on necessities i always use it for something i want not something i need
+Customer 186.694750 190.303500 [vocalized-noise] exactly yeah my parents are really good about
+Agent 187.419375 188.976750 so
+Agent 188.976750 193.583000 [silence]
+Customer 190.303500 196.573750 not using credit cards they are against it [laughter] i don't think they like the fact that i have one either
+Agent 193.583000 194.670000 yeah
+Agent 194.670000 196.029125 [silence]
+Agent 196.029125 209.000000 i think if credit cards were as as stringent as say a a home mortgage loan or something like that where you have to you know be able to prove that you can afford this and the rest of your bills we probably wouldn't have the problems we have
+Customer 196.573750 208.313000 [silence]
+Customer 208.313000 209.738375 um-hum
+Agent 209.000000 215.256250 course we wouldn't have the retail market we have either so i guess they'd trade one for the other
+Customer 209.738375 214.680875 [silence]
+Customer 214.680875 216.125250 yeah
+Agent 215.256250 218.851375 i disagree with it but they still trade one for the other
+Customer 216.125250 218.121875 [silence]
+Customer 218.121875 219.764000 [laughter]
+Agent 218.851375 220.540125 [silence]
+Customer 219.764000 221.269750 hm
+Agent 220.540125 227.641250 well that's good i'm it sounds like you kind of got your head together in the credit department for you sound pretty young so
+Customer 221.269750 227.373125 [silence]
+Customer 227.373125 233.481125 yeah i'm nine[teen]- i'm twenty right now so just going to school and
+Agent 227.641250 229.034250 [silence]
+Agent 229.034250 230.820875 are you yeah
+Agent 230.820875 236.519625 [noise]
+Customer 233.481125 237.078375 [noise] and working so
+Agent 236.519625 237.996250 all right
+Customer 237.078375 248.591750 it does kind of get in when you want something that like last weekend was homecoming and i needed a pair of shoes so i just went out and bought them_1 and [laughter] on my credit card i didn't didn't have the money to do it
+Agent 237.996250 242.326375 [silence]
+Agent 242.326375 243.598625 [vocalized-noise]
+Agent 243.598625 244.726000 [silence]
+Agent 244.726000 246.000000 yeah
+Agent 246.000000 248.650125 [noise]
+Customer 248.591750 249.986625 [silence]
+Agent 248.650125 250.646125 yeah it's pretty easy
+Customer 249.986625 251.325000 yep
+Agent 250.646125 254.388000 [silence]
+Customer 251.325000 254.995000 it sure is so do you just have two kids or
+Agent 254.388000 259.437250 uh we have a eighteen year old a seventeen year old and a seven year old
+Customer 254.995000 258.625375 [silence]
+Customer 258.625375 260.329625 oh really
+Agent 259.437250 260.791750 yeah
+Customer 260.329625 261.675000 neat
+Agent 260.791750 263.538750 [silence]
+Customer 261.675000 264.059875 i'm from Plano Texas
+Agent 263.538750 264.973250 oh are you
+Customer 264.059875 267.860750 but right now i'm out in Provo Utah going to BYU so
+Agent 264.973250 269.390375 [silence]
+Customer 267.860750 271.968375 [silence]
+Agent 269.390375 272.705750 are you a you're a Mormon then
+Customer 271.968375 273.828875 yep [laughter]
+Agent 272.705750 274.205875 uh-huh
+Customer 273.828875 275.298625 [silence]
+Agent 274.205875 276.375000 all right
+Customer 275.298625 275.994875 yep
+Customer 275.994875 277.018250 [silence]
+Agent 276.375000 279.457625 [silence]
+Customer 277.018250 279.769500 but this is a extra long one
+Agent 279.457625 280.696875 what's that
+Customer 279.769500 282.577250 hey they're giving us a lot of time [laughter]
+Agent 280.696875 281.746500 [silence]
+Agent 281.746500 286.197625 oh yeah they may not they must not have too much traffic on Saturdays
+Customer 282.577250 284.073875 [laughter]
+Customer 284.073875 285.519375 [silence]
+Customer 285.519375 287.122250 [vocalized-noise] yeah
+Agent 286.197625 288.389500 [silence]
+Customer 287.122250 288.953125 have you done a lot of this
+Agent 288.389500 291.304125 uh fifteen or twenty i guess
+Customer 288.953125 290.368625 [silence]
+Customer 290.368625 291.903500 oh really
+Agent 291.304125 292.819875 oh yeah
+Customer 291.903500 293.498125 do you do it every day
+Agent 292.819875 298.626000 i try to every day i uh i get calls at work i get calls at home so
+Customer 293.498125 297.928875 [silence]
+Customer 297.928875 298.626000 wh[at]-

@@ -1,0 +1,301 @@
+Agent 0.000000 0.484875 [noise]
+Customer 0.000000 0.448500 [noise]
+Customer 0.448500 2.458500 okay Ray what do you think about taxes
+Agent 0.484875 1.516125 [silence]
+Agent 1.516125 3.032375 okay
+Customer 2.458500 6.661875 [silence]
+Agent 3.032375 4.976125 um
+Agent 4.976125 7.413750 too high obviously
+Customer 6.661875 8.684625 um-hum yeah i agree
+Agent 7.413750 9.113875 [silence]
+Customer 8.684625 19.561750 [silence]
+Agent 9.113875 10.580875 but my
+Agent 10.580875 14.696500 property taxes have been going up repeatedly
+Agent 14.696500 17.498250 uh over the last uh
+Agent 17.498250 20.961125 well this is going to be the seventh year in a row that they've increased
+Customer 19.561750 21.481250 oh really
+Agent 20.961125 22.017625 [silence]
+Customer 21.481250 30.936625 [silence]
+Agent 22.017625 23.512500 so
+Agent 23.512500 37.056750 um and they're always saying if you know if they don't raise taxes then they're going to have to lay off on uh the teachers they're going to have to lay of uh firemen they're going to have to lay off the police officers
+Customer 30.936625 32.298125 hum-um
+Customer 32.298125 41.460875 [silence]
+Agent 37.056750 42.595500 but yet they don't talk anything about the administration about cutting back on that end of it
+Customer 41.460875 42.591625 um-hum
+Customer 42.591625 52.490875 [silence]
+Agent 42.595500 46.636625 they just they've they're in the middle of an expose now on
+Agent 46.636625 50.876875 the state and the City of Providence
+Agent 50.876875 53.765250 uh public works departments
+Customer 52.490875 54.243125 uh-huh yeah
+Agent 53.765250 58.489875 and they've had TV cameras going around uh they wait at
+Customer 54.243125 62.659375 [silence]
+Agent 58.489875 60.282125 some of the yards
+Agent 60.282125 63.849875 and they follow the trucks as they come out uh at random
+Customer 62.659375 63.526125 yeah
+Customer 63.526125 65.920875 [silence]
+Agent 63.849875 66.798125 just to see what they do during the course of the day
+Customer 65.920875 67.251500 uh-huh
+Agent 66.798125 76.374375 and there's not much that's going on i'll tell you i mean they're going to gin mills and and spending half a day in there drinking or they're going to other people's homes and doing work
+Customer 67.251500 73.107375 [silence]
+Customer 73.107375 74.489375 [laughter]
+Customer 74.489375 76.660625 [silence]
+Agent 76.374375 79.964750 [silence]
+Customer 76.660625 80.337125 oh so you've got you ha[ve]- you have a little graft and corruption huh
+Agent 79.964750 82.307125 uh i think that's
+Customer 80.337125 87.532750 [silence]
+Agent 82.307125 83.643125 in any
+Agent 83.643125 88.686000 city or town i think i don't think there's any that are free from graft and corruption
+Customer 87.532750 88.806500 yeah
+Agent 88.686000 91.731875 uh if they could eliminate something like that
+Customer 88.806500 89.833250 um
+Customer 89.833250 91.369375 [silence]
+Customer 91.369375 95.180375 yeah you know the waste you know that's i think uh [noise]
+Agent 91.731875 94.639000 [silence]
+Agent 94.639000 95.962125 yeah
+Customer 95.180375 102.500000 i- i think that's a big problem uh uh i don't do you think you get some good services for your taxes do you have a good school district do you have
+Agent 95.962125 101.745750 [silence]
+Agent 101.745750 103.241375 um
+Customer 102.500000 104.438375 [silence]
+Agent 103.241375 107.924125 i thought we always did i grew up in a town it was it's a small town
+Customer 104.438375 105.537750 um-hum
+Customer 105.537750 107.136125 [silence]
+Customer 107.136125 108.506500 yeah
+Agent 107.924125 111.790750 it's in Rhode Island actually i live in Rhode Island i work in Massachusetts
+Customer 108.506500 110.504375 [silence]
+Customer 110.504375 111.822625 um-hum
+Agent 111.790750 113.576875 um
+Customer 111.822625 124.671125 [silence]
+Agent 113.576875 115.019125 but
+Agent 115.019125 119.932875 about uh six seven months ago they had a breakdown of all school systems and
+Agent 119.932875 122.009375 how many children actually
+Agent 122.009375 125.777125 once they once they get into the school system how many actually graduate
+Customer 124.671125 126.297500 um-hum
+Agent 125.777125 129.529500 and i was kind of shocked at the amount of dropout in our town
+Customer 126.297500 128.750250 [silence]
+Customer 128.750250 130.921625 yeah around fifty percent
+Agent 129.529500 131.181500 [silence]
+Customer 130.921625 135.706875 [silence]
+Agent 131.181500 133.107875 uh not quite
+Agent 133.107875 134.328750 but
+Agent 134.328750 136.973125 it was up there it was the forty percentile range
+Customer 135.706875 137.096000 yeah
+Agent 136.973125 148.806875 [silence]
+Customer 137.096000 140.203875 yeah that's that's pretty much i think nationwide it's
+Customer 140.203875 149.004125 you know the average is about seventy five percent uh complete school you know twenty five percent dropout rate throughout the country
+Agent 148.806875 150.463875 yeah that's
+Customer 149.004125 156.563750 for school districts i'm not sure how they figure that out if they do per pupil or if they look at just averages per school district and things like that
+Agent 150.463875 195.715875 [silence]
+Customer 156.563750 161.853625 but some schools i- i don't know see i- i live in a small community [noise] and um
+Customer 161.853625 165.628500 we don't pay much in taxes i don't uh this sets
+Customer 165.628500 172.468250 this is a farming community and the farmers control your property taxes basically and and in a sense you services
+Customer 172.468250 175.990500 we have uh probably what's considered the third worst
+Customer 175.990500 178.819750 maybe the fourth worst school district in uh
+Customer 178.819750 180.867750 in the in the state
+Customer 180.867750 191.917000 other than the city of Baltimore itself probably you know which is always i guess a low is a low streak so actually i think for the return on my taxes for my f[or]- my
+Customer 191.917000 198.532875 my uh state taxes that go to my school district and my services or whatever i think i get a pretty good return
+Agent 195.715875 197.449125 yeah
+Agent 197.449125 222.053750 [silence]
+Customer 198.532875 203.650875 but my employment tax you know the federal i don't think i get a good federal
+Customer 203.650875 209.010250 return at all i think locally i think property taxes on my house were twelve hundred dollars
+Customer 209.010250 221.746250 and that was that included state and local taxes so that was school district and snow plowing which isn't probably anything like that you have and that included my water and sewer
+Customer 221.746250 224.694750 um but i didn't think that was too bad
+Agent 222.053750 223.546875 um-hum
+Agent 223.546875 230.061125 yeah [noise] mine are right now they're two thousand dollars just a little over two thousand
+Customer 224.694750 229.649750 [silence]
+Customer 229.649750 233.032000 do you own a lot of property just a or a small lot
+Agent 230.061125 231.887625 [silence]
+Agent 231.887625 234.140875 no uh a third of an acre
+Customer 233.032000 234.036500 [silence]
+Customer 234.036500 235.024750 um-hum
+Agent 234.140875 235.377750 [silence]
+Customer 235.024750 236.820500 [silence]
+Agent 235.377750 241.142375 and uh it's a colonial house that we have it's a saltbox it's uh twelve years old
+Customer 236.820500 237.890625 yeah
+Customer 237.890625 238.829125 [silence]
+Customer 238.829125 239.900375 um-hum
+Customer 239.900375 241.494000 [silence]
+Agent 241.142375 242.406000 [silence]
+Customer 241.494000 242.730625 yeah
+Agent 242.406000 244.518375 the uh [noise]
+Customer 242.730625 248.063125 [silence]
+Agent 244.518375 248.839750 plus the plus the personal property tax we get taxed on our automobiles
+Customer 248.063125 249.386875 oh do you
+Agent 248.839750 250.160500 yeah
+Customer 249.386875 250.880000 see we don't do that
+Agent 250.160500 254.046250 and then the the town also has a fire tax
+Customer 250.880000 253.083750 [silence]
+Customer 253.083750 254.590750 um-hum
+Agent 254.046250 256.826625 so we get a fire tax added to
+Customer 254.590750 256.955375 [silence]
+Agent 256.826625 258.110375 [silence]
+Customer 256.955375 259.421875 the uh everything on top of that [noise]
+Agent 258.110375 259.415000 yep
+Agent 259.415000 262.181500 and it's the bulk of it's going for the school system
+Customer 259.421875 261.334250 yeah see i- i
+Customer 261.334250 263.139125 yeah
+Agent 262.181500 263.354250 [silence]
+Customer 263.139125 271.771125 [silence]
+Agent 263.354250 265.843500 but we had uh [noise]
+Agent 265.843500 269.898250 when i when i got out of school i- i went up and i worked in a
+Agent 269.898250 272.533875 in a missile plant up in uh Buffalo
+Customer 271.771125 273.120000 um-hum
+Agent 272.533875 274.090500 [noise]
+Customer 273.120000 278.631750 [silence]
+Agent 274.090500 275.647125 and up there
+Agent 275.647125 279.788250 they had like all our fire departments were volunteers
+Customer 278.631750 279.715875 right
+Customer 279.715875 280.992125 yeah
+Agent 279.788250 284.964375 they had uh the best of equipment and and the best of training a
+Customer 280.992125 285.362500 [silence]
+Agent 284.964375 286.804250 and it didn't really
+Customer 285.362500 289.081250 you mean you have a full-time fire department
+Agent 286.804250 289.034625 [silence]
+Agent 289.034625 290.421500 no full-time
+Customer 289.081250 290.402750 [silence]
+Customer 290.402750 292.706125 is that what you have now though in your town
+Agent 290.421500 291.654750 [silence]
+Agent 291.654750 295.963125 yes yes we've got all full-time fire departments
+Customer 292.706125 293.895625 oh
+Customer 293.895625 295.085125 [silence]
+Customer 295.085125 304.811375 how many about how my goodness see that's see that's down here um [noise] being a member of we have we have a couple full-time firemen but basically
+Agent 295.963125 310.410500 [silence]
+Customer 304.811375 314.224375 you know they w[ell]- train the guys and they run the show and they live in the firehouse and you know and then most everybody else is volunteer
+Agent 310.410500 313.405875 oh okay and then you have call
+Agent 313.405875 315.302875 yeah
+Customer 314.224375 322.256375 so there's like a core of like each station has like two or four full-time then everybody else is a volunteer
+Agent 315.302875 321.493000 [silence]
+Agent 321.493000 325.520500 yeah we got volunteer i mean uh we used to have volunteer up here
+Customer 322.256375 325.058125 [silence]
+Customer 325.058125 326.146500 yeah
+Agent 325.520500 327.743625 and now they're all paid
+Customer 326.146500 327.504375 [silence]
+Customer 327.504375 328.865125 um
+Agent 327.743625 331.057250 which is you know i don't know we can
+Customer 328.865125 334.594125 [silence]
+Agent 331.057250 336.317750 there's a lot of things that can be done uh the federal taxes are out of sight because of
+Customer 334.594125 337.778250 yeah oh that just federal taxes just
+Agent 336.317750 341.705375 [silence]
+Customer 337.778250 342.034625 more and more and more and less and less services you know
+Agent 341.705375 343.818250 that's it they just keep
+Customer 342.034625 343.433750 [silence]
+Customer 343.433750 345.116000 um-hum
+Agent 343.818250 345.659250 they don't cut anything
+Customer 345.116000 346.740875 right
+Agent 345.659250 351.029875 and it just feeds on itself and i don't think there's anything that anyone can do anymore
+Customer 346.740875 350.353125 [silence]
+Customer 350.353125 351.511625 um-hum
+Agent 351.029875 353.984000 it's just grown to such proportions
+Customer 351.511625 353.037625 [silence]
+Customer 353.037625 358.596125 yeah such it's just out of hand i agr[ee]- you know the the whole idea like around here um [noise]
+Agent 353.984000 367.418375 [silence]
+Customer 358.596125 367.890750 you know after Desert Storm or whatever we have a plant here that feeds one of the military contracts that should be cut you know that they advised on cutting
+Agent 367.418375 369.455250 oh yeah
+Customer 367.890750 377.362250 but because of Desert Storm now they said well we can't cut it so they put it back in action now granted everybody around here was happy because it keeps two or three hundred people employed
+Agent 369.455250 377.313500 [silence]
+Agent 377.313500 378.262375 yeah
+Customer 377.362250 390.161250 but you know if we don't cut some of these nationwide you know some of these expenses just have to be cut if we don't need such a large army and we don't need if the military comes out and says we don't need all these planes
+Agent 378.262375 394.033625 [silence]
+Customer 390.161250 393.323250 then why does Congress say tough take them anyway
+Customer 393.323250 394.522375 you know
+Agent 394.033625 396.562875 well it's like the [noise]
+Customer 394.522375 402.548625 [silence]
+Agent 396.562875 403.998875 the tanks now everyone's after the tanks they're the you know like the the Mach One is it the Mach One Abrams
+Customer 402.548625 403.932250 yeah
+Customer 403.932250 415.895750 [silence]
+Agent 403.998875 408.535125 um i don't know how much it costs let's let's round figure just say a million dollars
+Agent 408.535125 410.932500 [noise] now for a million dollars
+Agent 410.932500 413.445375 you can produce probably
+Agent 413.445375 416.607250 a thousand handheld {antitank} weapons
+Customer 415.895750 417.224000 right
+Agent 416.607250 417.802500 rockets
+Customer 417.224000 418.523375 um-hum
+Agent 417.802500 418.997750 [silence]
+Customer 418.523375 424.325250 [silence]
+Agent 418.997750 422.205000 and you give them to a thousand peasants
+Agent 422.205000 424.463625 you don't even have to train them_1
+Customer 424.325250 425.435500 right
+Agent 424.463625 429.736000 and out of one of those thousands one of them_1 is going to hit now you take out a million dollar tank with a with a
+Customer 425.435500 429.773250 [silence]
+Agent 429.736000 430.766375 you know
+Customer 429.773250 432.675125 with a one thousand dollar {antitank} weapon
+Agent 430.766375 431.784125 [silence]
+Agent 431.784125 443.554625 right but they're but they're still going with the with the mechanized [vocalized-noise] it's like the it's like the old days when they had the cavalry they didn't want to give up their horses to go for Jeeps or whatever they were doing then
+Customer 432.675125 439.842000 [silence]
+Customer 439.842000 441.176625 yeah
+Customer 441.176625 442.865750 [vocalized-noise]
+Customer 442.865750 453.284125 and you know a million dollars do you know how many people that would feed and clothe and get off the welfare rolls and get and keep in school and you know if we [vocalized-noise] uh i just
+Agent 443.554625 447.138625 [silence]
+Agent 447.138625 448.693750 [noise]
+Agent 448.693750 450.365375 right
+Agent 450.365375 451.214750 yep
+Agent 451.214750 452.997375 [silence]
+Agent 452.997375 454.714875 and
+Customer 453.284125 455.320000 in some ways i just don't
+Agent 454.714875 465.564875 you talk to them and you talk to like the big aircraft companies and all they say well if they didn't spend the money and they didn't then they're overruns and if it didn't cost a hundred dollars for a hammer uh you would put a lot of people out of work
+Customer 455.320000 463.007000 [silence]
+Customer 463.007000 463.883875 um-hum
+Customer 463.883875 473.327125 [silence]
+Agent 465.564875 469.682375 but those people you put out of work you could you could
+Agent 469.682375 474.725625 {rechannel} their energies into making a rapid transit system in this country
+Customer 473.327125 478.132375 that's right oh i agree with you a hundred percent you know our direction has really
+Agent 474.725625 483.696500 [silence]
+Customer 478.132375 479.866875 you know solar energy
+Customer 479.866875 486.614000 uh you know there's been some recent great discoveries in solar energy surprisingly because there's there's no money invested in it
+Agent 483.696500 485.123625 that's right
+Agent 485.123625 486.327000 [silence]
+Agent 486.327000 493.640875 no um in fact in fact TI just announced uh some breakthroughs in solar energy
+Customer 486.614000 490.319000 [silence]
+Customer 490.319000 492.124250 yeah a big thing
+Customer 492.124250 493.199500 uh-huh
+Customer 493.199500 494.922000 yeah
+Agent 493.640875 495.648375 you know some flex
+Customer 494.922000 504.653875 a flexible solar material that it can be woven over top of something it could be it could be put on the top of airplanes to help power the plane
+Agent 495.648375 496.965750 [silence]
+Agent 496.965750 497.932875 yep
+Agent 497.932875 498.981875 yep
+Agent 498.981875 500.122250 [silence]
+Agent 500.122250 501.334000 yep
+Agent 501.334000 507.542750 [silence]
+Customer 504.653875 508.966000 you know it uh it just it could be put on the top of automobiles to
+Agent 507.542750 516.118625 it's being channeled into special action groups by special action groups and they just keep the taxes keep going
+Customer 508.966000 511.392625 [silence]
+Customer 511.392625 512.780000 right
+Customer 512.780000 515.262500 [silence]
+Customer 515.262500 518.527625 uh they just keep yeah it that just
+Agent 516.118625 517.449000 [silence]
+Agent 517.449000 524.059625 just for those just for those groups and we've got like the the uh Groton Connecticut
+Customer 518.527625 523.372250 [silence]
+Customer 523.372250 524.555000 um-hum
+Agent 524.059625 526.181000 where they make the subs
+Customer 524.555000 525.670500 [silence]
+Customer 525.670500 526.873500 yeah
+Agent 526.181000 531.180875 and we've got a division in uh in uh Quansett
+Customer 526.873500 537.880750 [silence]
+Agent 531.180875 533.917250 that does it that does the same thing
+Agent 533.917250 538.175750 so when they announced the contract up here for that latest
+Customer 537.880750 539.215125 hum-um
+Agent 538.175750 542.612625 uh sub i guess uh Newport News
+Customer 539.215125 554.633500 [silence]
+Agent 542.612625 555.681500 said they were going to sue the government because of you know blah blah this and blah blah that whatever it was but it's generating jobs up here for us but it's really it's really not if you look at the whole you know it's generating jobs for a few people
+Customer 554.633500 556.084125 um-hum
+Agent 555.681500 568.751750 if they channeled their energies if they go back to like when Roosevelt put put in the C C C camps and they built border ways for the reservoirs and you know highways and bridges and yeah um
+Customer 556.084125 561.722250 [silence]
+Customer 561.722250 562.705750 right
+Customer 562.705750 564.078750 [noise]
+Customer 564.078750 565.846000 and highways
+Customer 565.846000 568.140000 [silence]
+Customer 568.140000 575.059875 see that's a big problem we have um i'm originally from Pennsylvania and the biggest problem we have in Pennsylvania is that almost every bridge
+Agent 568.751750 571.300000 [silence]
+Agent 571.300000 573.444750 oh okay
+Agent 573.444750 580.252250 [silence]
+Customer 575.059875 578.681875 that in Pennsylvania was built during the Eisenhower administration
+Customer 578.681875 580.813625 uh within was in the City of Pittsburgh
+Agent 580.252250 581.766375 is that right
+Customer 580.813625 591.801250 and there a[re]- yeah because see they Eisenhower put through money for uh though it probably didn't affect Boston it went th[e]- uh a highway from New Jersey west
+Agent 581.766375 588.571500 [silence]
+Agent 588.571500 589.986750 was it
+Agent 589.986750 591.720750 [silence]
+Agent 591.720750 595.388625 was it funded by by special bonds or
+Customer 591.801250 594.334375 [silence]
+Customer 594.334375 599.984000 i'm not sure what it was but it was uh Eisenhower i guess thought that you should be able to move tanks across the country
+Agent 595.388625 599.984000 [silence]

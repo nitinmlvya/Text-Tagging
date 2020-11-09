@@ -1,0 +1,165 @@
+Agent 0.000000 1.289250 [noise]
+Customer 0.000000 1.423000 [noise] you keep a budget
+Agent 1.289250 3.217125 um yes i do
+Customer 1.423000 2.961750 [silence]
+Customer 2.961750 6.162625 okay h[ow]- how do you work that
+Agent 3.217125 5.475375 [silence]
+Agent 5.475375 8.784125 well usually it works out pretty well
+Customer 6.162625 8.063750 [silence]
+Customer 8.063750 9.520500 does it
+Agent 8.784125 14.717875 um i try to project out um right now i project out six months
+Customer 9.520500 14.087500 [silence]
+Customer 14.087500 15.515375 oh
+Agent 14.717875 19.774500 you know i have my fixed monthly bills and i know how much they are
+Customer 15.515375 16.614875 [silence]
+Customer 16.614875 17.869625 [noise]
+Customer 17.869625 19.917750 right [noise] uh-huh
+Agent 19.774500 24.979375 and uh i have a percentage of my savings that i attempt to
+Customer 19.917750 26.107125 [silence]
+Agent 24.979375 26.767125 take off the top
+Customer 26.107125 27.735625 oh
+Agent 26.767125 33.133250 not unless i have something come up that's unusual that i was unexpected and then i may have to go into savings
+Customer 27.735625 29.157125 [silence]
+Customer 29.157125 30.316875 uh-huh
+Customer 30.316875 32.246500 [silence]
+Customer 32.246500 33.745500 oh
+Agent 33.133250 34.719250 and
+Customer 33.745500 36.368000 well that seems to work out pretty good
+Agent 34.719250 35.961250 [silence]
+Agent 35.961250 41.054250 kind of the formula i use i use uh ninety percent of my check
+Customer 36.368000 40.342375 [silence]
+Customer 40.342375 42.072250 oh
+Agent 41.054250 46.656000 and then i retain ten percent and if i don't use it then it goes into savings also
+Customer 42.072250 43.128500 [silence]
+Customer 43.128500 44.937375 for savings
+Customer 44.937375 45.985250 [silence]
+Customer 45.985250 53.106375 oh is i[t]- is it hard to set it up for the six month period rather than just a month or
+Agent 46.656000 51.311750 [silence]
+Agent 51.311750 61.877750 well my monthly bills are pretty consistent you know you have your house payments the same every month uh car payments are the same you know when your insurance is due
+Customer 53.106375 55.090000 oh
+Customer 55.090000 56.453875 [silence]
+Customer 56.453875 57.890875 right
+Customer 57.890875 59.712125 [silence]
+Customer 59.712125 61.311500 uh-huh
+Customer 61.311500 63.447250 so in fact
+Agent 61.877750 70.347125 so you budget all that in that's why a lot of times i only use ninety percent of my salary because some months i'll have insurance
+Customer 63.447250 64.763250 it might
+Customer 64.763250 69.323375 [silence]
+Customer 69.323375 70.720375 uh-huh
+Agent 70.347125 72.068500 um
+Customer 70.720375 73.376250 [silence]
+Agent 72.068500 74.002000 two or three times a year
+Customer 73.376250 74.847000 right
+Agent 74.002000 78.669375 and i need that extra money and to take it out of savings at that point
+Customer 74.847000 78.143500 [silence]
+Customer 78.143500 87.669500 oh so really when you're doing it it probably is just as easy to do it for the six month period rather than just a month at a time oh
+Agent 78.669375 82.788250 [silence]
+Agent 82.788250 83.616500 sure
+Agent 83.616500 85.060625 [silence]
+Agent 85.060625 100.344750 um-hum a month at a time is not a really a big picture of what's going on in your life because it doesn't give you any flexibility as far as uh unforeseen situations or something coming down the road that you know is coming down the road that you need to save for
+Customer 87.669500 89.064875 [silence]
+Customer 89.064875 90.586375 no
+Customer 90.586375 95.294500 [silence]
+Customer 95.294500 96.687500 uh-huh
+Customer 96.687500 99.729625 [silence]
+Customer 99.729625 109.062625 oh right and then also i mean that's if you do it monthly that's twelve times you have to sit down and figure it out and you could save all that
+Agent 100.344750 106.807000 [silence]
+Agent 106.807000 113.123000 yeah i do it uh twice a year and um you know i could adjust it every month that's no big deal
+Customer 109.062625 111.336250 [silence]
+Customer 111.336250 113.680125 uh-huh uh-huh
+Agent 113.123000 121.504375 but uh i just finished out December and uh when i was done with it i threw it away and i already had January through July made out
+Customer 113.680125 116.264250 [silence]
+Customer 116.264250 117.563125 um-hum
+Customer 117.563125 121.041375 [silence]
+Customer 121.041375 130.989000 so you do it January to July and then July to December oh oh does now how did you say you worked your savings do you take your savings right off
+Agent 121.504375 123.564500 [silence]
+Agent 123.564500 125.524000 um-hum yeah
+Agent 125.524000 129.829750 [silence]
+Agent 129.829750 133.557500 i take the savings right off the top i pay myself first
+Customer 130.989000 132.708125 [silence]
+Customer 132.708125 134.100500 uh-huh
+Agent 133.557500 137.240250 i'm the type of individual that uh you know i can't
+Customer 134.100500 138.804750 [silence]
+Agent 137.240250 141.521125 i have to put something back for myself to feel like i'm doing my job
+Customer 138.804750 140.390875 uh-huh
+Customer 140.390875 142.644750 right right
+Agent 141.521125 143.117500 it's my motivator
+Customer 142.644750 146.261250 and how much at what percentage do you save
+Agent 143.117500 145.066625 [silence]
+Agent 145.066625 147.812875 i save about fifteen percent
+Customer 146.261250 148.651125 oh that's great
+Agent 147.812875 151.994000 out of what out of my savings account not as well as the Japanese do
+Customer 148.651125 151.080375 [silence]
+Customer 151.080375 159.285875 [laughter] well that that's fairly good do you get paid once a month or by twice a month
+Agent 151.994000 156.912750 [silence]
+Agent 156.912750 162.048625 twice a month uh uh actually every other week so twenty six checks
+Customer 159.285875 161.224625 every two weeks
+Customer 161.224625 165.187125 during the year oh that's great we
+Agent 162.048625 162.955000 yeah
+Agent 162.955000 163.861500 [noise]
+Agent 163.861500 167.447500 so twice a year i pick up an extra check also
+Customer 165.187125 167.180125 [silence]
+Customer 167.180125 171.296625 oh that's right so that helps out
+Agent 167.447500 170.520625 [silence]
+Agent 170.520625 172.080125 uh-huh
+Customer 171.296625 173.573875 gives you a bit there oh
+Agent 172.080125 174.393125 how do you all do yours
+Customer 173.573875 175.424625 well we
+Agent 174.393125 186.120000 [silence]
+Customer 175.424625 190.223125 we don't really do very [laughter-well] we have never sat down and made out a formal budget we keep saying you know we're going to do this we're going to do this we we take our savings right out [vocalized-noise] right out first and put you know put it away and then
+Agent 186.120000 187.410375 um-hum
+Agent 187.410375 194.623625 [silence]
+Customer 190.223125 201.982625 we just uh we're that's terrible but we just kind of spend what we [laughter-need] that's right that's right we take the savings out and uh you know put that in and then
+Agent 194.623625 196.740250 spend what's left over huh
+Agent 196.740250 203.576375 [silence]
+Customer 201.982625 214.249375 spend what what's left over like you said and i know we if we keep but we just don't know how to get down and get started i guess trying to decide how much goes where and you know
+Agent 203.576375 204.882875 um-hum
+Agent 204.882875 212.747875 [silence]
+Agent 212.747875 220.478125 there's really no certain formula that you can say well i i wanna say this much and i'm gonna spend this much for the house and
+Customer 214.249375 217.707250 [silence]
+Customer 217.707250 219.101750 uh-huh
+Customer 219.101750 224.885875 [silence]
+Agent 220.478125 227.850000 uh i'm kind of in a situation right now that my our children are grown and they're gone so uh
+Customer 224.885875 226.603750 oh
+Customer 226.603750 228.109125 [silence]
+Agent 227.850000 232.347125 you know and the house is almost paid for so we're in pretty good shape
+Customer 228.109125 229.926875 oh
+Customer 229.926875 231.483000 [silence]
+Customer 231.483000 237.182250 oh that's great now how did you get started when you started do[ing]- have you always done a budget or what
+Agent 232.347125 235.974750 [silence]
+Agent 235.974750 239.296125 uh we've done them_1 for about fifteen years
+Customer 237.182250 238.517125 [silence]
+Customer 238.517125 243.832250 about_1 fifteen years oh so quite a while huh did you just sit down and decide
+Agent 239.296125 240.901000 yeah
+Agent 240.901000 242.593375 yeah
+Agent 242.593375 247.254625 [silence]
+Customer 243.832250 247.243625 this much is this much is gonna go here and
+Customer 247.243625 253.650500 the thing we have a hard time with was you know like how much for the groceries and how much for the clothes and how much for
+Agent 247.254625 248.542500 well
+Agent 248.542500 253.275000 [silence]
+Agent 253.275000 263.893250 one thing we do about the groceries and wh[en]- and we just got back from the grocery store and we've been doing this for a long time and we know exactly how much we spend at the grocery store because_1 when we come home we write it down
+Customer 253.650500 256.564875 [silence]
+Customer 256.564875 257.925375 um-hum
+Customer 257.925375 260.599625 [silence]
+Customer 260.599625 262.596375 oh
+Customer 262.596375 265.046625 oh
+Agent 263.893250 266.187250 so in a given month
+Customer 265.046625 268.932500 [silence]
+Agent 266.187250 275.199625 we know that we spent two hundred and fifty dollars or four hundred dollars or whatever it is and if it's four hundred dollars we look at it and say well why did we spend four hundred dollars
+Customer 268.932500 270.333125 uh-huh
+Customer 270.333125 274.414375 [silence]
+Customer 274.414375 276.180750 oh
+Agent 275.199625 281.749375 and we spent four hundred dollars this month because or last month because uh we had several Christmas parties
+Customer 276.180750 279.345375 [silence]
+Customer 279.345375 282.851750 December right right
+Agent 281.749375 290.232125 so but we know approximately how much our our monthly grocery bill is you know and and you should be able to do that too within
+Customer 282.851750 286.161250 [silence]
+Customer 286.161250 287.537125 um-hum
+Customer 287.537125 291.412875 [silence]
+Agent 290.232125 295.634250 ten or fifteen percent of what uh what you spend once you get a track record
+Customer 291.412875 293.017375 right
+Customer 293.017375 294.480125 if we jus[t]-
+Customer 294.480125 295.589625 [silence]
+Customer 295.589625 297.666125 huh so
+Agent 295.634250 298.946000 and once you establish your track record
+Customer 297.666125 298.946000 so wh[at]-

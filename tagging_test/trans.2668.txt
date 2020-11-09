@@ -1,0 +1,253 @@
+Agent 0.000000 0.334875 [noise]
+Customer 0.000000 2.113375 are y[ou]- are you a TIer Carla
+Agent 0.334875 1.375000 [silence]
+Agent 1.375000 2.636500 yeah i am
+Customer 2.113375 5.534125 oh and you work in the Sherman plant uh whereabouts
+Agent 2.636500 3.670000 [silence]
+Agent 3.670000 4.971375 uh-huh
+Agent 4.971375 8.523125 uh in the front end the wafer fab
+Customer 5.534125 7.299875 [silence]
+Customer 7.299875 20.626625 oh okay good deal oh i'm in Dallas i'm in uh in SC group QRA i i'm kind of a worldwide quality manager based here in Dallas uh mostly the offshore assembly sites
+Agent 8.523125 10.144125 where do you work
+Agent 10.144125 13.218375 [silence]
+Agent 13.218375 14.629250 uh-huh
+Agent 14.629250 17.474875 [silence]
+Agent 17.474875 19.089375 oh great
+Agent 19.089375 20.252875 [silence]
+Agent 20.252875 21.719625 oh wow
+Customer 20.626625 24.777875 except i'm fixing not to be a TIer after a week from today
+Agent 21.719625 23.917875 [silence]
+Agent 23.917875 25.867875 you going to Motorola
+Customer 24.777875 27.051750 no i'm going to Onum
+Agent 25.867875 26.973000 [silence]
+Agent 26.973000 28.504250 [laughter-oh]
+Customer 27.051750 36.647000 uh it's a subcontractor house they uh they builds in fact they build product for TI but it's been thirty two years so i mean i've i've served i've done my time
+Agent 28.504250 33.655250 [silence]
+Agent 33.655250 35.413625 oh
+Agent 35.413625 37.701500 oh yeah
+Customer 36.647000 40.110500 okay you ready to talk about taxes okay
+Agent 37.701500 39.310000 oh yeah
+Agent 39.310000 46.050875 were you happy with your return this year [laughter] were you happy with your tax return this year
+Customer 40.110500 41.114500 [silence]
+Customer 41.114500 42.427500 huh
+Customer 42.427500 43.613250 what did you say
+Customer 43.613250 45.130000 [silence]
+Customer 45.130000 48.221500 no [laughter] no [noise]
+Agent 46.050875 47.069750 [silence]
+Agent 47.069750 49.493125 was it negative
+Customer 48.221500 50.491000 okay i guess we're on the air now
+Agent 49.493125 50.917750 okay
+Customer 50.491000 63.272125 uh well what do you uh what do you think uh uh [vocalized-noise] what what's your biggest gripe do you think is it the proposed state income tax or the or the gigantic federal income tax we seem to be paying every year or what
+Agent 50.917750 63.090375 [silence]
+Agent 63.090375 70.356875 i think my biggest gripe is the gigantic federal income tax i came from a state that paid
+Customer 63.272125 79.389625 [silence]
+Agent 70.356875 80.719750 uh state taxes three years ago and that seemed to be relatively small compared to like the uh the tax you pay on sales sale items
+Customer 79.389625 81.592000 um-hum um-hum
+Agent 80.719750 82.344750 and um
+Customer 81.592000 86.358500 [silence]
+Agent 82.344750 86.202125 i don't know i think uh my biggest gripe is with federal
+Agent 86.202125 87.875750 [silence]
+Customer 86.358500 88.819000 what what state are you from Carla
+Agent 87.875750 89.294625 Indiana
+Customer 88.819000 95.595125 Indiana you had a state income tax there are you able to credit that against your federal income tax
+Agent 89.294625 90.573500 [silence]
+Agent 90.573500 92.048125 right
+Agent 92.048125 95.757375 [silence]
+Customer 95.595125 103.410000 [silence]
+Agent 95.757375 103.891375 yeah though it's a percentage you divide that well you uh how much you paid or something by your federal
+Customer 103.410000 106.705000 oh okay so you do get some credit but not the whole thing
+Agent 103.891375 105.605375 [silence]
+Agent 105.605375 107.250000 right
+Customer 106.705000 108.122625 okay because_1
+Agent 107.250000 109.843875 there's a lot of tax breaks for like
+Customer 108.122625 116.158250 [silence]
+Agent 109.843875 118.343875 you know a lot of things if you're involved in the state like uh giving to colleges and things like that that they'll break you for
+Customer 116.158250 117.779250 oh i see
+Customer 117.779250 122.370875 okay what uh uh what generally what percent of your income is it
+Agent 118.343875 122.441250 [silence]
+Customer 122.370875 125.336000 [silence]
+Agent 122.441250 127.321625 um not even sure because_1 i was a student so i didn't pay that much
+Customer 125.336000 128.030000 oh okay okay
+Agent 127.321625 128.830500 but uh
+Customer 128.030000 137.178875 and because as as you know where uh there's there's uh a ugly rumors on the horizon out there that we may be faced with that here in Texas
+Agent 128.830500 136.191000 [silence]
+Agent 136.191000 140.359125 right and what percent would that be
+Customer 137.178875 138.210250 yeah
+Customer 138.210250 140.447250 [silence]
+Agent 140.359125 144.989875 [silence]
+Customer 140.447250 155.268000 uh i have no idea i- i i uh i'm i'm originally from Massachusetts but they didn't have a state income tax when i worked when i lived there so i have uh no and i know they have one now uh and i have no idea i have no idea what it is
+Agent 144.989875 146.469375 uh-huh
+Agent 146.469375 151.374500 [silence]
+Agent 151.374500 152.662125 uh-huh
+Agent 152.662125 164.098625 [silence]
+Customer 155.268000 169.498375 but you know getting back to the [vocalized-noise] getting back to the Federal income tax i remember during the Reagan administration i think it was the Tax Reform Act of nineteen eighty six or something like that when the taxes were reduced and it was made simpler and all that kind of stuff
+Agent 164.098625 165.415375 uh-huh
+Agent 165.415375 168.946875 [silence]
+Agent 168.946875 170.223250 uh-huh
+Customer 169.498375 173.802375 uh i don't believe it it's worse [laughter]
+Agent 170.223250 171.515250 [silence]
+Agent 171.515250 177.207125 i know well you can't deduct for credit card interest that type of thing
+Customer 173.802375 184.504500 oh sure and i seem to have more of that every year and uh yeah the only thing that's left deductible is uh is mortgage uh interest basically
+Agent 177.207125 179.152250 yeah [laughter]
+Agent 179.152250 183.399250 [silence]
+Agent 183.399250 185.433250 right right
+Customer 184.504500 192.515250 and would then and and that's significant and every once in a while they make noises like they're going to take that out and that would just kill the housing industry if they did
+Agent 185.433250 190.828250 [silence]
+Agent 190.828250 192.663375 oh yeah
+Customer 192.515250 194.723875 and and uh
+Agent 192.663375 209.165000 [silence]
+Customer 194.723875 203.763125 one other things that i only found out this year and uh uh i thought at one time i worked in in Malaysia for TI
+Customer 203.763125 214.534250 and and had more money than i knew what to do with so i started making accelerated house payments and i said gee you know this would be great because i'll i'll have a lot of equity in my house
+Agent 209.165000 210.496625 uh-huh
+Agent 210.496625 224.761125 [silence]
+Customer 214.534250 225.494750 then when my children are old enough to go to college i'll get a equity loan which will increase my mortgage so i'll be able to get money to send them to college and then get the mortgage interest deduction part
+Agent 224.761125 226.364625 oh wow
+Customer 225.494750 226.767875 guess what
+Agent 226.364625 227.850625 what happened
+Customer 226.767875 232.212375 that that's not legal in Texas it's the only state in the country that it's not legal everybody else can do it but in Texas
+Agent 227.850625 231.100500 [silence]
+Agent 231.100500 233.396000 oh my gosh
+Customer 232.212375 239.005375 and and so i- i got this i got this three thousand foot five bedroom house that i've got almost paid off
+Agent 233.396000 245.968500 [silence]
+Customer 239.005375 247.260500 and have all kinds of equity in it and don't have [laughter] and you know [laughter-struggling] to keep i've got two children in college and i'm going to have three by September [laughter]
+Agent 245.968500 248.321250 oh man
+Customer 247.260500 253.414000 but but uh it it was just my fault not checking it up because i've heard of people doing it so i thought it was pretty good deal
+Agent 248.321250 252.530500 [silence]
+Agent 252.530500 253.803625 uh-huh
+Customer 253.414000 262.483250 so but the uh uh i i it just seems to me that the that the income tax is getting a bigger and bigger hunk of us every year
+Agent 253.803625 261.670125 [silence]
+Agent 261.670125 263.122375 oh yeah
+Customer 262.483250 277.175500 and and i'm not exactly sure wh[at]- what we get in return i was listening to a talk show i don't know we ever get any talk shows from Dallas up there but i listened to David Gold this afternoon on KLIF and he was saying that in nineteen fifty four
+Agent 263.122375 269.376625 [silence]
+Agent 269.376625 270.487750 uh-huh
+Agent 270.487750 281.495125 [silence]
+Customer 277.175500 281.955750 Americans paid about one cent on the dollar in taxes
+Agent 281.495125 282.788625 uh-huh
+Customer 281.955750 293.509375 and now we're paying something like a little over fifty fifty cents when you consider federal income tax FICA tax sales tax and all the other things we get hit with
+Agent 282.788625 287.077625 [silence]
+Agent 287.077625 288.625625 fifty ce[nts]-
+Agent 288.625625 292.754875 [silence]
+Agent 292.754875 294.649375 it's incredible
+Customer 293.509375 297.643500 an[d]- it is it is absolutely incredible and
+Agent 294.649375 307.852625 [silence]
+Customer 297.643500 308.248375 and and the mentality that you cure ills by throwing money at it and you throw and you raise the money to throw at it by raising taxes is just absolutely terrible
+Agent 307.852625 309.222750 uh
+Customer 308.248375 310.939750 uh is you know do you have children in school
+Agent 309.222750 310.513375 [silence]
+Agent 310.513375 313.358625 no i don't i just got married i don't have any children
+Customer 310.939750 312.426750 [silence]
+Customer 312.426750 318.043625 oh you know you just got married okay well you one of the worst things in Tex[as]- how long you been in Texas
+Agent 313.358625 314.807875 [laughter]
+Agent 314.807875 317.182750 [silence]
+Agent 317.182750 318.522250 three years
+Customer 318.043625 329.442750 oh okay well you'll find out one of these days because you probably came from a state that's got a very decent public school system and you'll find out that in Texas we've got uh i think we rank fiftieth out of fifty states
+Agent 318.522250 323.532125 [silence]
+Agent 323.532125 324.911125 uh-huh
+Agent 324.911125 328.537875 [silence]
+Agent 328.537875 330.027750 yeah
+Customer 329.442750 335.204500 and and the way they keep proposing fixing that is to raise [laughter-taxes] spend more [laughter-money]
+Agent 330.027750 334.713875 [silence]
+Agent 334.713875 342.071500 [vocalized-noise] i think what would cure that problem is to consolidate some of these schools and they wouldn't have so much money going to so many different schools
+Customer 335.204500 341.797625 [silence]
+Customer 341.797625 355.792250 yeah well that plus that fact that you look into the we've got some very good private schools here and more and more people are sending their children private schools and what you look in the private schools is they've got a higher proportion of people on the payroll that are teaching
+Agent 342.071500 348.827125 [silence]
+Agent 348.827125 350.405375 yeah
+Agent 350.405375 363.012625 [silence]
+Customer 355.792250 364.001250 than they do in the public schools and and my my son goes to a uh uh high school here in the Richardson school district which is one of the better ones in Texas
+Agent 363.012625 364.788375 yeah i've heard that
+Customer 364.001250 370.050750 uh and and and uh however my goodness they got an assistant principal for everything
+Agent 364.788375 369.844875 [silence]
+Agent 369.844875 371.255625 really
+Customer 370.050750 377.745250 and and and they've got uh i don't know what the ratio is but they've got a tremendously high ratio of administrative people to people that are actually out there teaching
+Agent 371.255625 379.261500 [silence]
+Customer 377.745250 380.199250 and it is sort of like we do at TI
+Agent 379.261500 382.067625 sounds like TI is was getting ready [laughter-to]
+Customer 380.199250 395.007000 [laughter] yeah yeah we get we get fat in [laughter-those] [laughter-areas] and yeah and and and and we got they they got a lot of overhead in those schools and rather than throw more money at it they got to figure out how to get get the most out of the people that they got
+Agent 382.067625 383.072125 [silence]
+Agent 383.072125 386.665625 yeah and then all your money goes to overhead
+Agent 386.665625 394.556000 [silence]
+Agent 394.556000 395.908625 uh-huh
+Customer 395.007000 397.631125 uh and and get them in the classroom plus
+Agent 395.908625 411.476000 [silence]
+Customer 397.631125 410.064500 uh i don't know it seems to me that that more so than when i went to school there are a lot of courses that aren't going allow f[irst]- first of all they're not college prep courses and i don't think they're going [vocalized-noise]
+Customer 410.064500 415.669750 help a person make a living they're just sort of things to get the kids their twenty one credits so they can graduate
+Agent 411.476000 412.858500 right
+Agent 412.858500 414.903125 [silence]
+Agent 414.903125 416.148000 yeah
+Customer 415.669750 429.839875 and [laughter] and and all that and uh so i'm i'm not i'm not overly pleased with that either but the uh uh the tax thing and i think our sales tax is uh uh somewhere around eight percent now isn't it
+Agent 416.148000 429.018875 [silence]
+Agent 429.018875 433.618375 right in Dallas it uh might be a little less here in Sherman
+Customer 429.839875 430.940250 and
+Customer 430.940250 432.870375 [silence]
+Customer 432.870375 446.711500 yeah i i think right here in Dallas we're paying about eight percent and you know uh i say i was initially from Massachusetts i've been here thirty two years but they used to call it {Taxachusetts} and uh i was there on business this last weekend
+Agent 433.618375 443.073625 [silence]
+Agent 443.073625 444.753750 oh really
+Agent 444.753750 452.510625 [silence]
+Customer 446.711500 453.018875 and i i made a few purchases and i realized that as bad as their reputation is their sales tax only about five percent
+Agent 452.510625 454.207375 oh wow
+Customer 453.018875 464.507625 i know there were several things that i bought that were something in the order of a dollar and i noticed it was about five cents added onto it plus it doesn't cut it as early you know you buy a ten cent candy in seven eleven here and you pay eleven cents
+Agent 454.207375 458.685500 [silence]
+Agent 458.685500 459.912125 uh-huh
+Agent 459.912125 464.251875 [silence]
+Agent 464.251875 465.661125 oh really
+Customer 464.507625 469.454000 fo[r]- it [laughter-and] and i notice theirs doesn't cut in much below fifty cents i think
+Agent 465.661125 469.516000 [silence]
+Customer 469.454000 473.199000 so so the little items you pay what the price tag says
+Agent 469.516000 470.665875 well
+Agent 470.665875 472.371500 [silence]
+Agent 472.371500 480.558000 now if they propose this the if this you know state income tax goes through are they going to lower the sales tax
+Customer 473.199000 480.150000 [silence]
+Customer 480.150000 489.622000 i don't know i- i don't i bet they're not i- i'll absolutely bet they're not it it's interesting i wish i knew this question was coming up because i've only heard of it in bits and pieces
+Agent 480.558000 500.987625 [silence]
+Customer 489.622000 500.603250 but apparently there was a bill before the federal legislature today to uh lower social security tax but the other end of it they were going to raise income taxes
+Customer 500.603250 501.622750 [silence]
+Agent 500.987625 503.209750 oh man
+Customer 501.622750 514.297000 [laughter] [laughter-they] [laughter-were] [laughter-going] [laughter-to] they were going to give with one hand and take away with the other and i- i just heard bits and pieces on the radio today and i- i hadn't uh uh i haven't heard that i haven't heard that much about it
+Agent 503.209750 517.040000 [silence]
+Customer 514.297000 518.333500 uh what what kind of a sales tax was in In[diana]- Indiana
+Agent 517.040000 520.992000 think it was like five and a half percent
+Customer 518.333500 524.669500 uh-huh okay yeah did you go to school there in Indiana [vocalized-noise] Indiana University
+Agent 520.992000 523.320750 yeah Purdue
+Agent 523.320750 525.379500 [vocalized-noise] no Purdue
+Customer 524.669500 539.302625 oh Purdue okay you were you were a Boilermaker huh yeah yeah you follow the girls uh basketball team boy we were w[e're]- w[e're]- we're tremendous uh girls basketball fans here and we saw them we saw them play in the Midwest Regionals down in Austin last year
+Agent 525.379500 526.635250 uh-huh
+Agent 526.635250 528.320750 oh yeah
+Agent 528.320750 530.040375 [silence]
+Agent 530.040375 531.932000 yeah
+Agent 531.932000 534.008500 [silence]
+Agent 534.008500 535.916500 oh great
+Agent 535.916500 538.562250 [silence]
+Agent 538.562250 540.319750 oh
+Customer 539.302625 547.421125 and we were Lady Longhorn fans naturally but we did see Pur[due]- so we're aware uh that they've that they've got a very good program there [vocalized-noise]
+Agent 540.319750 545.723875 [silence]
+Agent 545.723875 552.252125 yeah they well it's just been the last three or four years actually they had poor seasons before that but
+Customer 547.421125 548.667000 [silence]
+Customer 548.667000 549.972500 yeah
+Customer 549.972500 551.382375 [silence]
+Customer 551.382375 559.927500 yeah and i think they went further this year uh i i think they got into the second or third round of the of the play-off this year yeah
+Agent 552.252125 553.316375 [silence]
+Agent 553.316375 555.512625 yeah they
+Agent 555.512625 558.400000 [silence]
+Agent 558.400000 560.985000 yeah they've been exciting to watch
+Customer 559.927500 563.463500 yeah and uh that's an [vocalized-noise] what did you ge[t]- get your degree in
+Agent 560.985000 563.084750 [silence]
+Agent 563.084750 564.825250 supervision
+Customer 563.463500 564.479500 [silence]
+Customer 564.479500 569.984500 okay sup[ervision]- sup[ervision]- that's an interesting degree uh what what sort of things does it entail
+Agent 564.825250 566.477750 [silence]
+Agent 566.477750 568.161125 yeah
+Agent 568.161125 570.025375 [silence]
+Customer 569.984500 573.373125 [silence]
+Agent 570.025375 573.726625 lot of theory um it's pretty it's pretty broad
+Customer 573.373125 574.750125 uh-huh
+Agent 573.726625 586.963000 uh took some engineering courses some math a lot of uh a lot of theory lot of practical like personal um problems and personnel problems and that type of thing
+Customer 574.750125 585.050125 [silence]
+Customer 585.050125 593.015750 [vocalized-noise] are -[y]ou are you actively in supervision now have have you taken some of the TI supervisory skill courses
+Agent 586.963000 587.975125 [silence]
+Agent 587.975125 589.233625 yeah
+Agent 589.233625 591.102500 [silence]
+Agent 591.102500 593.884875 yeah the The Boss Course
+Customer 593.015750 594.949625 yeah the Boss Course
+Agent 593.884875 595.994375 yeah that was a really good course
+Customer 594.949625 599.336125 yeah and and i was i was going to ask you what did you think of it relevant to some of [vocalized-noise]
+Agent 595.994375 599.336125 [silence]

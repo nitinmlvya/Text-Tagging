@@ -1,0 +1,115 @@
+Agent 0.000000 0.470125 [noise]
+Customer 0.000000 1.173750 [silence]
+Agent 0.470125 30.834875 [silence]
+Customer 1.173750 15.083500 well we in in in our family have been pretty remiss in trying to uh you kn[ow]- keep track of uh daily finances uh the uh w[ay]- way back
+Customer 15.083500 18.402375 what twelve years ago or something when i got my first computer
+Customer 18.402375 24.391750 i did what everybody else does which is to put the whole family budget on the machine and
+Customer 24.391750 32.489375 put checks and you know checkbooks an[d]- all those kind of thing and we kept that going for about a month and it became so onerous that we gave up on it [laughter]
+Agent 30.834875 34.832375 um-hum that sounds about right [laughter]
+Customer 32.489375 33.935750 [silence]
+Customer 33.935750 47.177625 you know so uh the only thing we're you know that we do now is uh i keep a a little spreadsheet of uh what i call the net worth calculation which is just the
+Agent 34.832375 57.358125 [silence]
+Customer 47.177625 52.679500 the present value of various kinds of investments and so forth uh and i only update that
+Customer 52.679500 58.181750 oh i don't know maybe once every quarter or so every three months just basic[ally]- when the statements come in
+Agent 57.358125 58.927250 um-hum
+Customer 58.181750 64.197250 you know just to see whether or not we're falling you know getting ahead falling behind or s[taying]- staying even or what
+Agent 58.927250 63.492500 [silence]
+Agent 63.492500 64.958000 right
+Customer 64.197250 72.065875 um that's really about you know the extent of uh of the kind of uh
+Agent 64.958000 74.530000 [silence]
+Customer 72.065875 75.043250 financial score keeping that we're doing
+Agent 74.530000 76.024000 uh [laughter]
+Customer 75.043250 76.761500 [noise]
+Agent 76.024000 80.675500 well it's kind of difficult for me because right now um like most teachers i'm laid off
+Customer 76.761500 80.372750 [silence]
+Customer 80.372750 83.018375 hm oh dear that's terrible
+Agent 80.675500 84.113875 and [laughter] so um
+Customer 83.018375 86.490375 [silence]
+Agent 84.113875 87.080125 i spend most you know i substitute a lot
+Customer 86.490375 87.877375 uh-huh
+Agent 87.080125 98.712250 so it's a lot it's very hard on a {nonfixed} income because i don't know how many days i'm going to be called in and whether i am or not to try to keep track of finances
+Customer 87.877375 98.029000 [silence]
+Customer 98.029000 99.473125 uh-huh
+Agent 98.712250 108.520875 and but i know uh how much i have to bring in a month [laughter] and that's about it that's about as far as we go and then anything extra is
+Customer 99.473125 111.475000 [silence]
+Agent 108.520875 111.911750 you know more or less split up between all of us
+Customer 111.475000 112.920250 uh-huh
+Agent 111.911750 117.106625 and just thrown in the kitty more or less for a [laughter-rainy] [laughter-day]
+Customer 112.920250 116.489125 [silence]
+Customer 116.489125 122.007875 oh i see are you are you married are you living with a bunch of with with people you're sharing expenses
+Agent 117.106625 121.383250 [silence]
+Agent 121.383250 125.406875 um no i'm a single mother i have three children
+Customer 122.007875 124.379625 [silence]
+Customer 124.379625 126.548500 oh i see uh-huh
+Agent 125.406875 130.665500 so uh right now we're on we get fr[om]- you know aid from the state
+Customer 126.548500 136.477250 [silence]
+Agent 130.665500 137.620000 at this point because there's no other way to do it and my ex-husband just sort of took off and doesn't pay child support [laughter]
+Customer 136.477250 138.137375 oh dear
+Agent 137.620000 144.180000 so right now i know what i'm getting from the state and um i have to balance more or less
+Customer 138.137375 150.577000 [silence]
+Agent 144.180000 150.953875 what i get from the state with my bills and um you know try to work as many days as possible
+Customer 150.577000 152.013750 um-hum
+Agent 150.953875 157.713625 any time they call me in but i still have to figure out if i work too many days then i lose all my state aid
+Customer 152.013750 163.675375 [silence]
+Agent 157.713625 164.318500 and [laughter-if] [laughter-i] don't work enough days then i don't get enough to meet the bills and it's like a juggling act every single month
+Customer 163.675375 165.184000 um-hum
+Agent 164.318500 172.570375 like this week i've been just holding my breath and hoping they'll call me in but they probably won't because next week the kids have school vacation
+Customer 165.184000 171.856625 [silence]
+Customer 171.856625 173.236875 i see
+Agent 172.570375 180.277875 so you know the four days before they only have a four day week and they usually don't need subs because everybody's pretty good about coming in
+Customer 173.236875 176.029000 [silence]
+Customer 176.029000 177.270875 uh-huh
+Customer 177.270875 179.930250 [silence]
+Customer 179.930250 181.916625 i oh i see
+Agent 180.277875 181.064750 [laughter]
+Agent 181.064750 184.060875 they don't like to be absent before a vacation
+Customer 181.916625 183.126500 [silence]
+Customer 183.126500 184.732250 oh sure
+Agent 184.060875 192.607000 but we're shopping around as far as well i'm shopping around as far as trying to get uh that's why i'm doing this to get some extra money
+Customer 184.732250 192.019875 [silence]
+Customer 192.019875 193.294250 uh-huh
+Agent 192.607000 203.627750 and um getting pledge sheets for the Boy Scouts my kids are in Boy Scouts so trying to get pledge sheets for the Boy Scouts because every penny i bring in is ten percent to me
+Customer 193.294250 214.861875 [silence]
+Agent 203.627750 210.899500 so [laughter] it sort of helps defray the costs a little bit but you know we do a lot of robbing Peter to pay Paul
+Agent 210.899500 215.547875 i guess we're in the situation that a lot of Am[ericans]- you know middle class Americans are in
+Customer 214.861875 216.144500 uh-huh
+Agent 215.547875 221.460375 [silence]
+Customer 216.144500 218.899125 yeah you're the first you -[kn]ow uh
+Customer 218.899125 226.069375 my next door neighbor just lost his job in a you know one of these uh his company went broke
+Agent 221.460375 223.249875 oh my Lord
+Agent 223.249875 235.796750 [silence]
+Customer 226.069375 229.896125 i mean went you know bankrupt actually it was a subsidiary of a
+Customer 229.896125 237.386750 of an outfit called US Shoe or something [vocalized-noise] it was a computer subsidiary i don't know what a shoe company's doing running a computer company
+Agent 235.796750 237.533000 really
+Customer 237.386750 246.507750 but uh you know they just they just folded it up and um um told him to that they took the top management and gave them jobs
+Agent 237.533000 245.989000 [silence]
+Agent 245.989000 247.343000 um-hum
+Customer 246.507750 251.511375 with the with the corporate uh at the corporate front office and everybody else was sent packing
+Agent 247.343000 250.441500 [silence]
+Agent 250.441500 251.563750 ah
+Customer 251.511375 253.988125 uh hang on one second i've got
+Agent 251.563750 253.254375 [silence]
+Agent 253.254375 254.440250 sure
+Customer 253.988125 254.603875 [noise]
+Agent 254.440250 275.233750 [silence]
+Customer 254.603875 255.552000 [vocalized-noise]
+Customer 255.552000 256.675500 [noise]
+Customer 256.675500 261.862750 um so[mebody]- somebody was knocking on my door here um
+Customer 261.862750 269.909125 it sounds like in a certain sense at least at the present s[tage]- i mean it sounds sounds terrible to say but at the present stage you probably are
+Customer 269.909125 279.114500 even more in the market for a a budgetary thing than than than most people probably are might be terms of keeping keeping score of input and output
+Agent 275.233750 276.734250 right
+Agent 276.734250 278.378500 [silence]
+Agent 278.378500 280.860625 um-hum definitely
+Customer 279.114500 282.225250 do you have a com[puter]- do you have a computer at home or
+Agent 280.860625 289.243625 uh yes we do and we try to you know i keep track of every penny and more or less enter it in you know every single day i'm at the computer
+Customer 282.225250 284.071250 uh-huh
+Customer 284.071250 286.009125 uh-huh
+Customer 286.009125 288.668125 [silence]
+Customer 288.668125 290.139875 i see
+Agent 289.243625 295.215500 and it's like okay what do we have left what do we have to pay what have we paid this month what hasn't come in yet you [laughter-know]
+Customer 290.139875 291.589875 [noise]
+Customer 291.589875 293.006250 um-hum
+Customer 293.006250 294.267125 [silence]
+Customer 294.267125 297.419375 yeah have you do you use a standard uh
+Agent 295.215500 299.522000 [silence]
+Customer 297.419375 299.522000 a standard spreadshee[t]- or i mean

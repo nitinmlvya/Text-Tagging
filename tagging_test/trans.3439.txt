@@ -1,0 +1,123 @@
+Agent 0.000000 0.610375 [noise]
+Customer 0.000000 0.479500 [noise]
+Customer 0.479500 2.857750 Laurie okay
+Agent 0.610375 1.986250 yes
+Agent 1.986250 8.832250 [silence]
+Customer 2.857750 8.927125 i'm supposed to ask you how do you make use of your credit cards and i'm supposed to compare those with my my habits
+Agent 8.832250 13.529875 okay how do i make use of credit cards um
+Customer 8.927125 11.102625 [silence]
+Customer 11.102625 12.144000 yes
+Customer 12.144000 17.258500 [silence]
+Agent 13.529875 18.188625 let's see i carry a lot of credit cards with me mostly because i don't ever have cash
+Customer 17.258500 18.451500 right
+Agent 18.188625 22.271500 and i don['t]- i do you work for Texas Instruments
+Customer 18.451500 21.666875 [silence]
+Customer 21.666875 23.114750 no i do not
+Agent 22.271500 30.174000 okay well at TI we have to use what's called a {texteller} if we want to get cash out and those are only available at TI
+Customer 23.114750 26.006625 [silence]
+Customer 26.006625 27.167125 uh-huh
+Customer 27.167125 29.395375 [silence]
+Customer 29.395375 31.131000 oh okay
+Agent 30.174000 35.434750 so if i'm in a mall or something i can't get cash out without paying extra money so i'm always using credit cards
+Customer 31.131000 34.468000 [silence]
+Customer 34.468000 35.973500 sure
+Agent 35.434750 38.682000 [silence]
+Customer 35.973500 39.250250 well myself i always tr[y]- i'm i'm a traveling person
+Agent 38.682000 39.765500 um-hum
+Customer 39.250250 50.480000 and i'm out of town quite a bit so i use credit cards quite a lot also as far as everything from service work and gasoline in my car to my lodging entertainment and for everything
+Agent 39.765500 50.082250 [silence]
+Agent 50.082250 52.412500 um-hum yeah me too
+Customer 50.480000 51.990125 [silence]
+Customer 51.990125 61.230750 so that's uh as far as using them_1 outside that i'm not i don't use them_1 too much but i don't think i i think my wife is sort of like you she uses a credit card most of the time
+Agent 52.412500 59.142375 [silence]
+Agent 59.142375 60.565500 [laughter]
+Agent 60.565500 61.629750 [laughter-yeah]
+Customer 61.230750 65.591000 so she does most of the shopping for our household so she'll use them_1 more than i will
+Agent 61.629750 62.230750 [laughter]
+Agent 62.230750 64.909250 [silence]
+Agent 64.909250 65.963625 uh-huh
+Customer 65.591000 67.079625 [silence]
+Agent 65.963625 67.497375 but do you get to pay the bills
+Customer 67.079625 68.817750 yes
+Agent 67.497375 68.841000 [laughter]
+Customer 68.817750 79.557625 but so it's me i'm always i'm the [laughter-guy] that always goes to like Dillard's and i'll go in and charge something and and i'll have to give them_1 my driver's license they'll have to look up the number because i'm never carrying a credit card
+Agent 68.841000 70.783375 same at my house [laughter]
+Agent 70.783375 78.638875 [silence]
+Agent 78.638875 80.351750 uh-huh yeah
+Customer 79.557625 85.716500 but i do carry like my American Express and my Visa which i use for you know primarily work type things
+Agent 80.351750 85.380875 [silence]
+Agent 85.380875 87.162500 uh-huh yeah
+Customer 85.716500 88.985625 [silence]
+Agent 87.162500 90.817750 [silence]
+Customer 88.985625 91.545250 this is my first call by the way so [laughter]
+Agent 90.817750 93.541250 oh it's mine too [laughter-yes]
+Customer 91.545250 93.081000 oh is it really
+Customer 93.081000 95.482250 [laughter] all right so we're both beginners then
+Agent 93.541250 94.885625 [silence]
+Agent 94.885625 95.890625 yeah
+Customer 95.482250 99.920750 i've had this for a couple weeks and i've been out of town so this is my first time to
+Agent 95.890625 99.742375 [silence]
+Agent 99.742375 104.637625 oh okay okay now did you pick this topic or were you given
+Customer 99.920750 101.237125 to use it
+Customer 101.237125 102.538625 so
+Customer 102.538625 103.616375 [silence]
+Customer 103.616375 105.760625 no i was given this topic
+Agent 104.637625 106.455875 i see okay
+Customer 105.760625 111.340750 yeah they give you they assign you a topic you call the eight hundred number have you tried it yet
+Agent 106.455875 109.439500 [silence]
+Agent 109.439500 110.782000 right
+Agent 110.782000 112.317750 no [laughter]
+Customer 111.340750 116.952250 okay when you call the eigh[t]- eight hundred number they assign you a topic and uh
+Agent 112.317750 118.816750 [silence]
+Customer 116.952250 120.318875 pretty uh cut and dry [laughter]
+Agent 118.816750 120.691375 huh okay
+Customer 120.318875 124.190500 [silence]
+Agent 120.691375 124.045375 um let's see so how long are we supposed to talk for
+Agent 124.045375 128.022500 [silence]
+Customer 124.190500 125.977125 i'm not sure
+Customer 125.977125 128.833125 a couple about about two minu[tes]- three minutes i think
+Agent 128.022500 129.099750 okay
+Customer 128.833125 139.415875 but i really don't have too much more to say in regards to credit cards i one thing i've always tried to do is when i get my credit cards i always try to pay them_1 off because_1 i just sort of detest paying interest
+Agent 129.099750 138.619625 [silence]
+Agent 138.619625 140.933875 oh yes definitely
+Customer 139.415875 143.589250 and uh like years ago my wife and i got married
+Agent 140.933875 143.448875 [silence]
+Agent 143.448875 144.410375 uh-huh
+Customer 143.589250 144.593250 [silence]
+Agent 144.410375 150.232500 [silence]
+Customer 144.593250 151.862625 she was the one with a little better heel than i was because i had my credit cards i think up to the limit and i was giving [laughter-everyone] ten dollars a month and everything like that but
+Agent 150.232500 152.251750 [laughter-oh]
+Customer 151.862625 153.070000 [silence]
+Agent 152.251750 153.763000 that'll cost you a fortune
+Customer 153.070000 158.514500 that was like thirty years ago so now it's a little different [laughter-we] i get a bill and i pay it the same day it comes in
+Agent 153.763000 155.704000 [silence]
+Agent 155.704000 156.766000 [noise]
+Agent 156.766000 157.837750 [silence]
+Agent 157.837750 159.472250 yes yes
+Customer 158.514500 162.849500 or at least i try to and i just try to tell my kids how much
+Agent 159.472250 165.232125 [silence]
+Customer 162.849500 166.026500 i hate paying interest so they should follow the same rule
+Agent 165.232125 170.389375 that's right well yeah if you pay it that way it i mean it really is it's like getting a free loan for a while
+Customer 166.026500 169.552000 [silence]
+Customer 169.552000 171.039125 oh you bet it's a
+Agent 170.389375 172.012625 which is what i do
+Customer 171.039125 172.898750 it's an absolute savings
+Agent 172.012625 177.197625 or if you travel for work and you get your reimbursement before the bill comes in you [laughter-get] to keep the [laughter-money]
+Customer 172.898750 175.415375 [silence]
+Customer 175.415375 176.753500 you bet
+Customer 176.753500 178.575625 that's that's very handy
+Agent 177.197625 178.201250 [silence]
+Agent 178.201250 180.179250 yeah it works great
+Customer 178.575625 180.429750 [silence]
+Agent 180.179250 182.353750 [silence]
+Customer 180.429750 181.322500 well
+Customer 181.322500 183.023250 i think that's all i have
+Agent 182.353750 183.269625 okay
+Customer 183.023250 184.207375 [silence]
+Agent 183.269625 184.603250 well it was nice to meet you
+Customer 184.207375 187.062000 nice to meet you and uh give it a try i think you'll enjoy it
+Agent 184.603250 186.746500 [silence]
+Agent 186.746500 189.189750 okay thanks bye-bye
+Customer 187.062000 189.174250 okay thank you bye
+Customer 189.174250 190.978000 [noise]
+Agent 189.189750 190.978000 [silence]

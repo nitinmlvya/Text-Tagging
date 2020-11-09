@@ -1,0 +1,279 @@
+Agent 0.000000 1.047750 [silence]
+Customer 0.000000 1.774250 all right
+Agent 1.047750 2.058750 okay
+Customer 1.774250 6.816375 uh we've got a lot of them_1 [laughter] too many of them_1
+Agent 2.058750 4.492750 [silence]
+Agent 4.492750 11.010375 oh yes [laughter] and i believe we all do and and it's just too easy to use
+Customer 6.816375 10.713750 [silence]
+Customer 10.713750 13.718500 yeah well my husband's real good at using them_1
+Agent 11.010375 12.993125 [silence]
+Agent 12.993125 21.469125 [laughter] oh i believe that uh mine would say the same uh but uh i seem too rely on them too much
+Customer 13.718500 20.980125 [silence]
+Customer 20.980125 27.195625 i don't have any of them_1 i don't carry them_1 he carries them_1 i try to take them_1 away from him
+Agent 21.469125 25.968000 [silence]
+Agent 25.968000 27.670375 [laughter]
+Customer 27.195625 37.238250 [silence]
+Agent 27.670375 37.995375 um it uh [vocalized-noise] you know i seem to uh use those more than i do cash in fact i'd rather carry the cards than i would the uh cash
+Customer 37.238250 44.541875 yeah well we got in a spot of trouble with uh using uh the credit cards on gas
+Agent 37.995375 43.499250 [silence]
+Agent 43.499250 45.340000 uh yes
+Customer 44.541875 47.493750 and uh that's got us in trouble
+Agent 45.340000 46.752125 [silence]
+Agent 46.752125 50.731125 yes that's uh real easy to do i have to watch it
+Customer 47.493750 48.494500 [silence]
+Customer 48.494500 51.294375 [laughter] yeah
+Agent 50.731125 54.941375 in fact yeah uh [laughter-we] i can understand that predicament
+Customer 51.294375 66.690000 [silence]
+Agent 54.941375 55.993875 [silence]
+Agent 55.993875 57.491375 um
+Agent 57.491375 58.983375 [silence]
+Agent 58.983375 67.328250 they they've um you know they've they've made them too easy to and too accessible at everything to to buy
+Customer 66.690000 68.994750 the ATM machines
+Agent 67.328250 68.501875 [silence]
+Agent 68.501875 71.234375 oh yes
+Customer 68.994750 70.076625 [silence]
+Customer 70.076625 72.992625 those things there that's what gets us
+Agent 71.234375 72.501750 [silence]
+Agent 72.501750 76.213125 and then plus then you for end up forgetting to write it down
+Customer 72.992625 76.739000 [silence]
+Agent 76.213125 82.989375 [silence]
+Customer 76.739000 87.794625 well no he doesn't have that trouble he uh has this little slip that comes out with the uh ATM machine and he just keeps that he keeps fairly decent records
+Agent 82.989375 84.480875 oh uh-huh
+Agent 84.480875 86.998750 [silence]
+Agent 86.998750 88.979125 oh that's good
+Customer 87.794625 99.993125 but uh he knows when he's overspends and when he doesn't and he knows that anytime he pops out that credit card [laughter] you know i've used the credit card a couple times to pay bills
+Agent 88.979125 93.492125 [silence]
+Agent 93.492125 95.985875 [laughter]
+Agent 95.985875 98.493750 [silence]
+Agent 98.493750 104.995500 oh yeah yes uh and then then that gets into a vicious circle
+Customer 99.993125 105.363625 [silence]
+Agent 104.995500 106.497625 [silence]
+Customer 105.363625 106.682750 yeah
+Agent 106.497625 111.996750 as far as you know paying off the the the loan that you just got from the credit card to pay off the other loan
+Customer 106.682750 111.837250 [silence]
+Customer 111.837250 114.697250 yeah that's what he's talking about doing now
+Agent 111.996750 113.999375 [silence]
+Agent 113.999375 115.496250 oh no
+Customer 114.697250 121.971500 [silence]
+Agent 115.496250 124.255875 um yeah the ATM's they're but they're nice though to have in case you need to get some quick cash and everything is closed
+Customer 121.971500 132.454000 yeah well yeah i like them_1 i i have to admit i do like my credit cards uh i love it when he decides to go in a store and buy something for me [laughter]
+Agent 124.255875 130.209000 [silence]
+Agent 130.209000 136.724875 oh that's the best way [laughter-it's] [laughter-used] [laughter] [laughter-that's] [laughter-the] [laughter-best] [laughter-way] [laughter-yes] now i think that sort of
+Customer 132.454000 143.007125 [silence]
+Agent 136.724875 143.488250 evens it out as far as uh letting them carry it so as long as they do buy us something
+Customer 143.007125 144.492625 yeah
+Agent 143.488250 144.743125 [laughter]
+Customer 144.492625 154.329250 i don't know i like that he walks in you know and he's got this little gift and how'd you pay for it credit [laughter] [laughter-he] [laughter-you] [laughter-know] said whipped out my little card
+Agent 144.743125 150.206625 [silence]
+Agent 150.206625 151.493375 [laughter]
+Agent 151.493375 153.497625 [silence]
+Agent 153.497625 158.995250 and see there's no secrecy to that because the bill always comes in and we know how much they pay for it
+Customer 154.329250 159.541625 [silence]
+Agent 158.995250 162.273750 [silence]
+Customer 159.541625 165.860500 yeah i'd never thought about that way i don't really look [laughter] i guess i ought to sometimes
+Agent 162.273750 165.723625 [laughter]
+Agent 165.723625 174.973875 oh i have to open it you know they mine always charges the flowers so i can always end up saying oh you spent too much you know and so yeah
+Customer 165.860500 174.971750 [silence]
+Customer 174.971750 180.517750 well i think the best thing he bought for me off of them_1 is a Nintendo
+Agent 174.973875 178.997750 [silence]
+Agent 178.997750 180.642000 oh
+Customer 180.517750 181.747250 [silence]
+Agent 180.642000 182.695250 those are fun
+Customer 181.747250 183.080375 yeah
+Agent 182.695250 185.498250 you get started on them and can't quit
+Customer 183.080375 184.543750 [silence]
+Customer 184.543750 192.364250 like credit cards [laughter] oh no never thought of it that way either he's you know he's addicted to it at times
+Agent 185.498250 188.720875 [laughter] just exactly
+Agent 188.720875 190.487750 [laughter]
+Agent 190.487750 191.982500 [silence]
+Agent 191.982500 201.273875 oh it's it's real easy to get addicted to them you know you get out on a shopping s[pree]- frenzy and uh just charge it all and then you don't have to write a check or anything
+Customer 192.364250 200.553500 [silence]
+Customer 200.553500 209.314875 and see the thing is you know he go out and he'll spend it when he wants you know and uh uh i'm afraid to i'm afraid to use that credit card
+Agent 201.273875 209.464000 [silence]
+Customer 209.314875 214.468625 [silence]
+Agent 209.464000 214.777750 yeah i[s]- there is a a fear to it as far as what happens if
+Customer 214.468625 219.001875 yeah you know uh is he going to yell at me for buying this with this you know and
+Agent 214.777750 220.984125 [silence]
+Customer 219.001875 221.350250 he's not a yeller though but
+Agent 220.984125 222.236625 [laughter]
+Customer 221.350250 225.185250 he calmly you know you shouldn't have spent it all on that
+Agent 222.236625 224.741625 [silence]
+Agent 224.741625 226.286625 yeah they
+Customer 225.185250 226.872625 [silence]
+Agent 226.286625 231.008125 [silence]
+Customer 226.872625 235.581125 he likes to buy the kids toys [noise] with the uh credit card too y[ou]- you know he'll go to by Wal-Mart or something and
+Agent 231.008125 232.977000 oh yeah that's it
+Agent 232.977000 235.497125 [silence]
+Agent 235.497125 239.180250 oh yeah there's that's a weakness there that's just
+Customer 235.581125 244.810375 [silence]
+Agent 239.180250 245.488000 you know you you always want to get your kids everything and uh you don't care how much it costs or what it takes
+Customer 244.810375 247.246375 yeah well uh
+Agent 245.488000 255.712625 [silence]
+Customer 247.246375 249.611250 i don't know the uh
+Customer 249.611250 251.295750 [silence]
+Customer 251.295750 257.183500 uh the my Wal-Mart that's where all of our bills are for the credit card
+Agent 255.712625 257.184500 uh-huh
+Customer 257.183500 267.982250 [silence]
+Agent 257.184500 258.305375 [silence]
+Agent 258.305375 265.441125 yeah that's uh i always end up going into Wal-Mart and [vocalized-noise] coming out with everything that uh i didn't have on the list
+Agent 265.441125 269.310750 we're just getting more than what we went in for [laughter]
+Customer 267.982250 270.724500 [laughter-but] we went in for uh
+Agent 269.310750 272.490750 [silence]
+Customer 270.724500 284.753500 uh something for the car one day the last week and he went we went and bought a potty chair uh uh one of those Ninja Turtles for my son uh you know the potty chair for my daughter and he bought the
+Agent 272.490750 273.991750 uh-huh
+Agent 273.991750 276.723875 [silence]
+Agent 276.723875 278.243500 [laughter]
+Agent 278.243500 280.194625 [silence]
+Agent 280.194625 281.473875 [laughter]
+Agent 281.473875 295.993750 [silence]
+Customer 284.753500 295.558750 a pair of shoes for me and uh let's see what else did he bought a couple pairs of shoes for the kids you know i got two kids and he bought them shoes with it and uh
+Customer 295.558750 297.205750 [silence]
+Agent 295.993750 298.509250 oh yeah it's dangerous
+Customer 297.205750 309.065125 [laughter] [laughter-you] [laughter-know] we went in for a ten dollar piece of thing for the car and ended up sixty seventy dollars for uh at Wal-Mart and then we went to Payless and bought the shoes for the kids [laughter]
+Agent 298.509250 306.714625 [silence]
+Agent 306.714625 314.489250 um-hum oh yeah it's just too easy to do you go in for just one thing we're we're infamous about that
+Customer 309.065125 315.466625 [silence]
+Agent 314.489250 315.748250 and so
+Customer 315.466625 317.766500 yeah i'll second that
+Agent 315.748250 316.994375 [silence]
+Agent 316.994375 318.487000 [laughter]
+Customer 317.766500 329.316500 [silence]
+Agent 318.487000 324.499875 oh well yeah i well i'm i'm glad we have credit cards that's uh
+Agent 324.499875 329.458750 because in sometimes when there's an emergency it it comes in handy
+Customer 329.316500 330.877500 yeah
+Agent 329.458750 331.293250 it's nice to have
+Customer 330.877500 336.209500 i know we had the car break down one time and the uh credit card saved us
+Agent 331.293250 335.221875 [silence]
+Agent 335.221875 336.499125 yeah
+Customer 336.209500 351.763750 [silence]
+Agent 336.499125 337.528750 [silence]
+Agent 337.528750 339.714125 we've yeah we've had uh
+Agent 339.714125 342.499500 [vocalized-noise] a sick animal and uh
+Agent 342.499500 351.984750 the vet you know the dog and vet's are so expensive that uh we uh the credit card helped us a lot there too so we wouldn't do without them
+Customer 351.763750 354.328625 i don't think we'd live
+Agent 351.984750 353.226625 [silence]
+Agent 353.226625 358.958125 huh-uh no no i think it's become too much of an everyday life here they're part of it
+Customer 354.328625 358.679875 [silence]
+Customer 358.679875 363.493000 yeah well i've been asking my husband for the credit cards i've got all of them but one
+Agent 358.958125 362.633125 [silence]
+Agent 362.633125 364.979250 [laughter]
+Customer 363.493000 364.994625 [silence]
+Agent 364.979250 371.337625 [silence]
+Customer 364.994625 372.051125 i just hide them from him and when i feel that it's necessary to pull it out i'll pull it out but he keeps one of them
+Agent 371.337625 373.214625 [laughter]
+Customer 372.051125 377.990250 he keeps the one with the least amount of the uh uh what you call it yeah no the uh
+Agent 373.214625 375.490125 [silence]
+Agent 375.490125 376.974750 the balance
+Agent 376.974750 379.277625 [silence]
+Customer 377.990250 384.297875 credit line you know uh the credit limit i let him have the one with the least amount
+Agent 379.277625 381.254500 oh yes uh-huh
+Agent 381.254500 384.760000 [silence]
+Customer 384.297875 385.994125 [silence]
+Agent 384.760000 387.332000 so you know he can't spend too much
+Customer 385.994125 395.476625 yeah you know uh i don't really exactly remember how much it is i think it's about five hundred limit uh you know it's just uh just one for him to fiddle with
+Agent 387.332000 394.731875 [silence]
+Agent 394.731875 396.479875 yes um-hum
+Customer 395.476625 400.750625 [silence]
+Agent 396.479875 402.202500 [silence]
+Customer 400.750625 405.279375 i have to think of something else i'm i'm blank
+Agent 402.202500 404.374875 i was i was just uh
+Agent 404.374875 406.492000 [silence]
+Customer 405.279375 410.486750 [silence]
+Agent 406.492000 411.300250 oh well let's see i guess we've talked what almost five minutes
+Customer 410.486750 414.209375 well six minutes i've got a timer on my uh
+Agent 411.300250 412.835500 [silence]
+Agent 412.835500 414.275375 oh
+Customer 414.209375 416.732750 clock on my phone
+Agent 414.275375 415.497875 [silence]
+Agent 415.497875 417.505875 oh i wish i had one of those
+Customer 416.732750 426.475125 well we bought this with credit too [laughter] well we found it with a clearance uh down in Memphis i guess and uh
+Agent 417.505875 418.741250 [silence]
+Agent 418.741250 422.502250 oh [laughter-see] [laughter-there] [laughter-you] [laughter-go]
+Agent 422.502250 429.214875 [silence]
+Customer 426.475125 430.481625 popped that credit card out it was a Sears [laughter]
+Agent 429.214875 432.238750 oh your up in Memphis
+Customer 430.481625 433.763875 no i used to be i'm in Texas
+Agent 432.238750 438.470625 oh your in Texas oh okay i was i was going to go goodness they really got uh this out far
+Customer 433.763875 437.996750 [silence]
+Customer 437.996750 439.483250 well i
+Agent 438.470625 441.797000 [silence]
+Customer 439.483250 442.231375 i don't know i don't know how far it goes
+Agent 441.797000 444.756000 yeah yeah i'm down in Houston
+Customer 442.231375 443.752625 are you in Texas
+Customer 443.752625 444.804125 [silence]
+Agent 444.756000 446.711500 [silence]
+Customer 444.804125 449.271500 oh i'm in uh down here in Sherman or Denison rather
+Agent 446.711500 449.988000 oh okay yeah um-hum
+Customer 449.271500 454.488375 [silence]
+Agent 449.988000 454.509625 well oh this is uh this is great this was the first one i had
+Customer 454.488375 457.476125 first phone call this is my first one too
+Agent 454.509625 456.649250 uh-huh
+Agent 456.649250 457.743875 [silence]
+Customer 457.476125 462.508875 [silence]
+Agent 457.743875 460.494375 my husband did one last night and he just loved it
+Agent 460.494375 462.949500 he's been getting he got a real good topic
+Customer 462.508875 463.723750 huh
+Agent 462.949500 463.991875 [silence]
+Customer 463.723750 466.726000 [silence]
+Agent 463.991875 466.490625 so well uh
+Agent 466.490625 468.470250 [silence]
+Customer 466.726000 470.161375 you know we got to get back to credit cards [laughter]
+Agent 468.470250 472.994625 yeah well i was just trying to think uh i think we've pretty much said it all
+Customer 470.161375 472.992125 [silence]
+Customer 472.992125 474.766500 it [vocalized-noise]
+Agent 472.994625 474.995000 um but
+Customer 474.766500 479.979375 [silence]
+Agent 474.995000 480.826000 so uh but yeah uh i think we couldn't make it without them
+Customer 479.979375 488.727875 i know i couldn't uh we went and we {maxed} out quite a few of them before uh i started taking the uh
+Agent 480.826000 494.508500 [silence]
+Customer 488.727875 495.210000 cards away we {maxed} out a lot of well we had about six or seven and we {maxed} them out
+Agent 494.508500 495.483375 um-hum
+Customer 495.210000 496.515125 and uh
+Agent 495.483375 500.804000 [silence]
+Customer 496.515125 503.933750 that's got us in a little bit of trouble now that's why we and we was using one of them to pay off the bills on the others and that got that in trouble there
+Agent 500.804000 502.751250 [laughter]
+Agent 502.751250 504.980000 yeah yeah
+Customer 503.933750 513.466000 [silence]
+Agent 504.980000 508.487125 but uh we uh we try to keep a uh
+Agent 508.487125 514.156375 tight controls over uh over them but it it gets hard like especially around Christmas time and birthdays
+Customer 513.466000 517.492750 uh uh my hubby does not have uh
+Agent 514.156375 520.241250 [silence]
+Customer 517.492750 524.497750 too much control when it comes to using that card uh [laughter] i know uh
+Agent 520.241250 521.769500 [laughter]
+Agent 521.769500 531.289125 [silence]
+Customer 524.497750 528.664375 uh for quite a while we was using them to uh
+Customer 528.664375 532.273625 uh i think even one time we used it to pay our rent
+Agent 531.289125 533.261000 oh goodness
+Customer 532.273625 534.478125 you know it uh
+Agent 533.261000 537.425500 [silence]
+Customer 534.478125 544.676625 when we first moved here we just had a little bit of trouble and we got in to too expensive of a house or apartment rather and uh you know he was only down here for one day
+Agent 537.425500 538.441625 uh-huh
+Agent 538.441625 540.436125 [silence]
+Agent 540.436125 541.672625 uh-huh
+Agent 541.672625 548.495750 [silence]
+Customer 544.676625 556.225500 and we just everything just piled up wrecked the car and you know in order to do that we had to you know we was [noise] paying
+Agent 548.495750 549.563250 oh
+Agent 549.563250 561.243000 [silence]
+Customer 556.225500 561.763625 the rent plu[s]- try[ing]- plus trying to get the money for an[other]- ca[r]- another car and
+Agent 561.243000 563.498500 it gets rough
+Customer 561.763625 564.789500 it got it got real rough
+Agent 563.498500 565.487875 that's hard
+Customer 564.789500 568.490500 he just popped out that uh Master Card and
+Agent 565.487875 568.243125 [silence]
+Agent 568.243125 570.495625 get that cash advance uh-huh
+Customer 568.490500 569.770500 [silence]
+Customer 569.770500 576.008750 yeah we got a big cash advance and really that's what's uh holding us back now that's
+Agent 570.495625 572.009750 [laughter]
+Agent 572.009750 576.240750 [silence]
+Customer 576.008750 585.746375 [silence]
+Agent 576.240750 581.755250 yeah it uh it but see it does come in handy those they do they're worth it
+Agent 581.755250 582.795500 [silence]
+Agent 582.795500 587.183500 oh well i- i think we've pretty much come to an end here
+Customer 585.746375 589.210750 yeah i'm trying to find out how long we're supposed talk
+Agent 587.183500 588.494125 [silence]
+Agent 588.494125 591.768250 i think it was at least five minutes wasn't it
+Customer 589.210750 590.795250 [silence]
+Customer 590.795250 600.181875 that's what i'm looking for now that's why i was just trying talk without having to think about what i was saying and uh trying to look over this thing
+Agent 591.768250 596.314500 [silence]
+Agent 596.314500 597.750875 [laughter]
+Agent 597.750875 600.181875 [silence]

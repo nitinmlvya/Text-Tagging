@@ -1,0 +1,390 @@
+Agent 0.000000 0.575125 [silence]
+Customer 0.000000 2.740000 [noise]
+Agent 0.575125 5.408750 okay credit cards they leave a bad taste in my mouth
+Customer 2.740000 5.056375 [silence]
+Customer 5.056375 10.279125 uh yeah they've sort of left a bad taste in my mouth too i've been sort of
+Agent 5.408750 13.775250 [silence]
+Customer 10.279125 17.396875 irresponsible a couple of years ago and i'm still paying for the the my own stupidity
+Agent 13.775250 14.501000 yeah
+Agent 14.501000 17.017375 [silence]
+Agent 17.017375 17.718500 yeah
+Customer 17.396875 21.048000 [silence]
+Agent 17.718500 21.275125 well the thing i hate about them i went through a divorce
+Customer 21.048000 22.039250 uh-huh
+Agent 21.275125 21.841625 [silence]
+Agent 21.841625 26.246125 and i will never own another joint credit card
+Customer 22.039250 27.132000 [silence]
+Agent 26.246125 27.268000 [silence]
+Customer 27.132000 28.264500 oh you're
+Agent 27.268000 33.730625 because uh even if in the divorce decree one is agrees to pay it
+Customer 28.264500 33.614250 [silence]
+Customer 33.614250 34.454250 uh-huh
+Agent 33.730625 37.561250 if you're a cosigner on it they'll still come after you
+Customer 34.454250 37.542000 [silence]
+Customer 37.542000 39.300625 if the other person doesn't
+Agent 37.561250 38.991500 [silence]
+Agent 38.991500 40.580625 if the other person doesn't
+Customer 39.300625 40.469500 [silence]
+Customer 40.469500 41.133500 yeah
+Agent 40.580625 41.390500 [silence]
+Customer 41.133500 44.379000 [silence]
+Agent 41.390500 44.643375 and boy that that's that's a rotten deal
+Customer 44.379000 48.714500 oh i'd i'd say so and isn't it now on those those cards was it
+Agent 44.643375 52.394125 [silence]
+Customer 48.714500 49.632625 um
+Customer 49.632625 50.732375 [silence]
+Customer 50.732375 54.268125 mostly her that that ran up the bills yeah
+Agent 52.394125 52.825125 yeah
+Agent 52.825125 53.616125 yeah
+Agent 53.616125 54.064500 [silence]
+Agent 54.064500 56.124625 about twenty thousand dollars worth
+Customer 54.268125 55.782625 [silence]
+Customer 55.782625 57.480000 twenty thousand
+Agent 56.124625 57.368000 [silence]
+Agent 57.368000 62.200750 i can't imagine an[y]- anybody letting somebody charge that much on a credit card
+Customer 57.480000 62.007500 [silence]
+Customer 62.007500 64.183375 wholly smokes
+Agent 62.200750 64.367000 [silence]
+Customer 64.183375 71.000750 [silence]
+Agent 64.367000 70.964125 but uh they call me i sent them a copy of the divorce decree and told them i refuse to pay it
+Agent 70.964125 72.567125 [silence]
+Customer 71.000750 72.614500 yeah that's got to be like
+Agent 72.567125 73.188000 and
+Customer 72.614500 74.225875 close to
+Agent 73.188000 75.935375 [silence]
+Customer 74.225875 76.376250 what a thousand bucks a month
+Agent 75.935375 77.022875 yeah
+Customer 76.376250 92.043875 [silence]
+Agent 77.022875 84.098625 and they said well i'm sorry even though the card is in her name you you're a cosigner on it
+Agent 84.098625 85.177625 [silence]
+Agent 85.177625 94.151625 and i i threatened you know legal action and everything i i don't know i've sent them a letter and i said i want this removed from from my credit
+Customer 92.043875 93.450125 uh-huh
+Customer 93.450125 94.883250 [silence]
+Agent 94.151625 100.046375 rating and uh haven't heard anything back but i haven't run a credit check either
+Customer 94.883250 95.888250 right
+Customer 95.888250 99.541125 [silence]
+Customer 99.541125 101.914875 yeah you might be worth your while to
+Agent 100.046375 104.983250 [silence]
+Customer 101.914875 103.207375 run one of them
+Customer 103.207375 105.019750 thirty dollar uh
+Agent 104.983250 105.712375 yeah
+Customer 105.019750 106.660500 credit checks just to
+Agent 105.712375 108.451375 [silence]
+Customer 106.660500 108.480500 find out what it says
+Agent 108.451375 109.146625 yeah
+Customer 108.480500 113.193375 [silence]
+Agent 109.146625 110.241500 but uh
+Agent 110.241500 113.330625 that's uh i'll never own another joint
+Customer 113.193375 114.502125 yeah
+Agent 113.330625 114.692875 credit card
+Customer 114.502125 120.259000 i need to find i need my credit card mostly for uh just government travel you know um
+Agent 114.692875 119.541500 [silence]
+Agent 119.541500 120.481125 yeah
+Customer 120.259000 123.908875 uh program manager for the Air Force and uh
+Agent 120.481125 141.772625 [silence]
+Customer 123.908875 126.268250 i uh i have to go on
+Customer 126.268250 134.616000 uh travel quite a bit to contractors facilities and when i do i have to have the hotel and all that kind of stuff but i've been trying to
+Customer 134.616000 139.670750 curtail my use of it to to nothing e[xcept]- with the exception of uh
+Customer 139.670750 142.238000 of them those type things
+Agent 141.772625 142.527000 yeah
+Customer 142.238000 143.356000 yeah
+Agent 142.527000 147.678125 and i also found out something else uh for your information and i don't know if you're married or not
+Customer 143.356000 147.165500 [silence]
+Customer 147.165500 148.569375 no i'm not
+Agent 147.678125 148.325625 [silence]
+Agent 148.325625 153.542375 but uh one of the credit cards the uh the account was paid off
+Customer 148.569375 153.126625 [silence]
+Customer 153.126625 154.431875 uh-huh
+Agent 153.542375 153.999875 [silence]
+Agent 153.999875 157.494500 oh it was paid off for a couple of years never even used it
+Customer 154.431875 166.314125 [silence]
+Agent 157.494500 166.725750 and then all of a sudden i got a phone call from them saying uh uh she's behind in her payments and i said well i don't care she's my ex-wife
+Customer 166.314125 167.327750 yeah
+Agent 166.725750 167.223500 [silence]
+Agent 167.223500 172.532500 and uh they said well your name is still on file as cosigner
+Customer 167.327750 172.100250 [silence]
+Customer 172.100250 173.726500 oh gee
+Agent 172.532500 174.689250 so even dormant
+Customer 173.726500 183.108250 [silence]
+Agent 174.689250 176.862125 credit cards you have
+Agent 176.862125 183.675500 uh you you have to go and send them a copy and tell them you're not responsible for any bills
+Customer 183.108250 184.476875 right
+Agent 183.675500 185.007500 [silence]
+Customer 184.476875 188.171500 [silence]
+Agent 185.007500 188.379625 but uh it it can turn into a mess
+Customer 188.171500 191.968000 sounds like it so the the credit card was inactive
+Agent 188.379625 191.965875 [silence]
+Agent 191.965875 202.515875 yeah it was inactive and i never sent them a copy of the divorce decree or anything because they wasn't even mentioned in the divorce decree as to which party would pay w[hat]- what
+Customer 191.968000 193.089875 when you
+Customer 193.089875 195.916375 [silence]
+Customer 195.916375 196.915750 right
+Customer 196.915750 198.889500 [silence]
+Customer 198.889500 199.809125 right
+Customer 199.809125 202.222250 [silence]
+Customer 202.222250 203.771500 oh my gosh
+Agent 202.515875 204.518125 because the the
+Customer 203.771500 208.284375 [silence]
+Agent 204.518125 209.492250 credit card was zero it was you know don't and it was dormant
+Customer 208.284375 209.281250 yeah
+Customer 209.281250 210.295625 [silence]
+Agent 209.492250 217.319750 [silence]
+Customer 210.295625 212.399875 guess the the bottom line is uh
+Customer 212.399875 213.647875 [silence]
+Customer 213.647875 214.767750 you got to be
+Customer 214.767750 217.665000 darn sure you're marrying the right person when you
+Agent 217.319750 218.149375 that's right
+Customer 217.665000 220.559125 when you do that [laughter-too] but uh
+Agent 218.149375 222.442750 [silence]
+Customer 220.559125 222.520000 i guess a divorce in any
+Agent 222.442750 222.817250 yeah
+Customer 222.520000 224.857000 circumstance doesn't normally they're
+Agent 222.817250 224.905375 [silence]
+Customer 224.857000 225.665875 sir
+Agent 224.905375 231.318375 either that or make or each each party have their own own uh credit card not a joint
+Customer 225.665875 229.520625 [silence]
+Customer 229.520625 230.758750 yeah
+Customer 230.758750 238.709875 that's for sure i know i happen to know of a different guy who um a girl i used to date her brother an[d]- h[is]- his wife ran up
+Agent 231.318375 244.696375 [silence]
+Customer 238.709875 245.914750 thousands of dollars in credit well i guess they're they are both responsible for the stupid things but um
+Agent 244.696375 245.237375 yeah
+Agent 245.237375 256.825625 [silence]
+Customer 245.914750 248.461250 had a similar situation and then
+Customer 248.461250 251.307375 it was almost like he couldn't get a divorce
+Customer 251.307375 252.978500 because uh
+Customer 252.978500 257.636000 uh i guess she didn't even work or anything and then he would've been
+Agent 256.825625 257.265625 yeah
+Agent 257.265625 258.030125 [silence]
+Customer 257.636000 259.266875 strapped with everything
+Agent 258.030125 259.342875 yeah he would have been stuck with everything
+Customer 259.266875 260.325875 i
+Agent 259.342875 260.596000 yeah
+Customer 260.325875 261.819750 i remember [vocalized-noise]
+Agent 260.596000 265.053125 about the only credit cards i have now are are gas cards
+Customer 261.819750 263.805500 [silence]
+Customer 263.805500 264.620000 uh-huh
+Customer 264.620000 266.519125 [silence]
+Agent 265.053125 268.120750 but they're in my name only
+Customer 266.519125 267.488500 yeah
+Customer 267.488500 269.345625 [silence]
+Agent 268.120750 278.664000 [silence]
+Customer 269.345625 270.626875 well
+Customer 270.626875 271.912500 i know i'm
+Customer 271.912500 273.972125 about uh
+Customer 273.972125 277.354000 thinking about doing a getting a consolidation loan just to
+Customer 277.354000 285.416375 lump everything together so that and it's down to one payment and then just get rid of all these old accounts and just work on a cash only
+Agent 278.664000 279.094250 yeah
+Agent 279.094250 283.685625 [silence]
+Agent 283.685625 284.677625 little yeah
+Agent 284.677625 294.535750 [silence]
+Customer 285.416375 290.570625 system because uh i'm just i am ve[ry]- sort of irked at this
+Customer 290.570625 293.072125 at these credit card companies and
+Customer 293.072125 294.751375 you know they got you
+Agent 294.535750 299.985500 yeah and uh you'll get letters in the mail where they want to increase your credit line
+Customer 294.751375 295.552875 and
+Customer 295.552875 299.577875 [silence]
+Customer 299.577875 300.466250 right
+Agent 299.985500 300.717250 [silence]
+Customer 300.466250 305.517500 [silence]
+Agent 300.717250 302.015750 and uh
+Agent 302.015750 306.110000 and it also makes it bad because you can't deduct that interest now
+Customer 305.517500 307.172375 no no
+Agent 306.110000 306.550000 [silence]
+Agent 306.550000 313.030375 you know at least you used to get some relief by being able to deduct deduct all that interest and finance charges
+Customer 307.172375 311.307625 [silence]
+Customer 311.307625 312.524625 right
+Customer 312.524625 313.662375 right
+Agent 313.030375 314.690000 can't even do that anymore
+Customer 313.662375 314.720250 [silence]
+Agent 314.690000 320.363000 [silence]
+Customer 314.720250 315.616250 yeah
+Customer 315.616250 317.313000 yeah i remember uh
+Customer 317.313000 320.541875 was it two years ago or they did away with it last year right
+Agent 320.363000 320.965375 yeah
+Customer 320.541875 321.562625 yeah
+Agent 320.965375 324.315500 well you uh this last year was ten percent
+Customer 321.562625 323.773375 [silence]
+Customer 323.773375 324.700000 uh-huh
+Agent 324.315500 324.749250 [silence]
+Customer 324.700000 326.161375 [silence]
+Agent 324.749250 326.588500 this next time it's zero
+Customer 326.161375 326.944625 yeah
+Agent 326.588500 335.822375 [silence]
+Customer 326.944625 328.003625 [silence]
+Customer 328.003625 329.954875 well remember my
+Customer 329.954875 333.359750 refund on my income tax was a lot bigger
+Customer 333.359750 336.150500 uh two years ago than it was this year
+Agent 335.822375 336.443500 yeah
+Customer 336.150500 337.431875 that's for sure
+Agent 336.443500 337.582250 [silence]
+Customer 337.431875 341.995250 [silence]
+Agent 337.582250 343.624750 yeah about on[ly]- the only interest you can deduct now are is a house payment mortgage interest and uh
+Customer 341.995250 343.220875 right
+Customer 343.220875 344.398625 right
+Agent 343.624750 344.921250 and taxes
+Customer 344.398625 346.013125 [silence]
+Agent 344.921250 346.252625 but uh
+Customer 346.013125 346.958250 i
+Agent 346.252625 347.743750 credit cards you can
+Customer 346.958250 352.504250 i can't even declare that here becau[se]- uh in my situation because it's uh
+Agent 347.743750 355.791875 [silence]
+Customer 352.504250 353.684250 uh
+Customer 353.684250 355.655875 not until i sell it
+Customer 355.655875 358.908625 the w[ay]- the way it works for me because i own it as
+Agent 355.791875 356.337500 uh-huh
+Agent 356.337500 361.010000 [silence]
+Customer 358.908625 360.796375 jointly with my father
+Customer 360.796375 362.442750 and uh
+Agent 361.010000 361.390000 yeah
+Agent 361.390000 370.957500 [silence]
+Customer 362.442750 363.750000 the
+Customer 363.750000 364.699500 [silence]
+Customer 364.699500 370.700000 they've changed those [vocalized-noise] or it's a ends up getting classified as a rental property and it's not
+Customer 370.700000 374.688625 classified as a regular family dwelling so there's some reason we can't
+Agent 370.957500 371.344625 right
+Agent 371.344625 373.545125 [silence]
+Agent 373.545125 374.054500 right
+Agent 374.054500 377.146875 [silence]
+Customer 374.688625 376.802000 declare any mortgage interest
+Customer 376.802000 377.865250 [vocalized-noise]
+Agent 377.146875 381.769625 [vocalized-noise] do you do you or your father either one have it homesteaded
+Customer 377.865250 381.646875 [silence]
+Customer 381.646875 384.798750 um do you mean do we do i live in it or
+Agent 381.769625 384.352875 [silence]
+Agent 384.352875 386.494500 no no homesteaded
+Customer 384.798750 386.025625 what
+Customer 386.025625 387.380000 what does that mean
+Agent 386.494500 388.333875 uh in Texas
+Customer 387.380000 401.010500 [silence]
+Agent 388.333875 390.531875 uh you get a uh
+Agent 390.531875 393.512500 a big tax break if y[ou]- if you
+Agent 393.512500 401.358500 call what they homestead it you have to sign a piece of paper that says this is my primary residence and and i live here
+Customer 401.010500 403.129125 oh oh and
+Agent 401.358500 408.229000 [silence]
+Customer 403.129125 414.702000 well that would be an interesting situation because i'm a resident of Pennsylvania and uh because i'm in the Air Force and um i'm living here in New York so i ca[n]- i can't even vote here
+Agent 408.229000 408.808250 oh
+Agent 408.808250 411.193125 [silence]
+Agent 411.193125 411.696750 yeah
+Agent 411.696750 414.982625 [silence]
+Customer 414.702000 417.355625 a property owner but i can't vote [laughter]
+Agent 414.982625 415.435875 huh
+Agent 415.435875 417.075000 [silence]
+Agent 417.075000 417.588500 yeah
+Customer 417.355625 418.460000 so
+Agent 417.588500 418.436000 [laughter]
+Agent 418.436000 419.257875 that's crazy
+Customer 418.460000 419.530000 yeah
+Agent 419.257875 426.541875 [silence]
+Customer 419.530000 422.915000 well that's only fair because the reason i'm a [vocalized-noise]
+Customer 422.915000 426.613500 re[sident]- resident of Pennsylvania is because they don't charge military income tax
+Agent 426.541875 427.947000 oh that's so
+Customer 426.613500 429.945125 so and so it's like Texas Texas doesn't either
+Agent 427.947000 429.910375 [silence]
+Agent 429.910375 430.539875 yeah
+Customer 429.945125 431.128375 uh
+Agent 430.539875 431.884250 at least now
+Customer 431.128375 432.533250 yeah or
+Agent 431.884250 432.570000 [silence]
+Customer 432.533250 437.738000 [silence]
+Agent 432.570000 434.057750 they're they're talking
+Agent 434.057750 438.474375 about instituting a uh state income tax
+Customer 437.738000 438.880000 yeah
+Agent 438.474375 439.193375 [silence]
+Customer 438.880000 452.410000 [silence]
+Agent 439.193375 442.785375 everything else that that would bring in money the
+Agent 442.785375 448.513250 uh the the people want it but the uh the con[gress]- or Texas
+Agent 448.513250 453.290000 State Congress and so forth won't pass a bill to do it like a uh lottery
+Customer 452.410000 453.640000 uh-huh
+Agent 453.290000 453.731375 [silence]
+Customer 453.640000 461.938500 [silence]
+Agent 453.731375 458.170625 they've been trying to get a lo[ttery]- [vocalized-noise] i think the last poll they had here
+Agent 458.170625 462.610000 seventy percent of the population voted wanted a lottery
+Customer 461.938500 463.100000 right
+Agent 462.610000 463.341125 [silence]
+Customer 463.100000 467.564000 [silence]
+Agent 463.341125 469.653500 and yet the uh the House voted it down the Texas House voted it down
+Customer 467.564000 468.400375 huh
+Customer 468.400375 473.561000 [silence]
+Agent 469.653500 470.666500 [silence]
+Agent 470.666500 474.042125 they all they want to do is increase property taxes and
+Customer 473.561000 474.647750 sure
+Agent 474.042125 474.765875 [silence]
+Customer 474.647750 476.656375 [silence]
+Agent 474.765875 476.484500 put a income tax in
+Agent 476.484500 492.461625 [silence]
+Customer 476.656375 477.686500 well
+Customer 477.686500 479.006125 i don't know
+Customer 479.006125 480.139625 just
+Customer 480.139625 483.713500 getting back to the subject of credit cards i think the best uh
+Customer 483.713500 484.766625 thing
+Customer 484.766625 493.817750 maybe is that even though the American Express charges the annual fee is the American Express card is it makes you pay it every month
+Agent 492.461625 493.217375 it makes you
+Agent 493.217375 494.754750 right it makes you pay it
+Customer 493.817750 495.180000 yeah
+Agent 494.754750 495.322250 [silence]
+Customer 495.180000 498.749375 [silence]
+Agent 495.322250 499.390000 i i do have an American Express but i got it through uh TI
+Customer 498.749375 502.339875 yeah i've got a Diner's Club through the government as well yeah they
+Agent 499.390000 501.587500 it's a it's a yeah it's a
+Agent 501.587500 502.952500 yeah it's a corporate
+Customer 502.339875 504.573750 they force us to have yeah
+Agent 502.952500 504.755750 uh
+Customer 504.573750 511.605000 uh government Diner's Club and i had an American Express of my own i probably if i was smart i'd get rid of the American Express and get
+Agent 504.755750 505.303250 yeah
+Agent 505.303250 514.191250 [silence]
+Customer 511.605000 514.385000 stop paying that annual fee on it but
+Agent 514.191250 518.310000 yeah and if you're late on this on my American Express they write TI
+Customer 514.385000 517.672125 [silence]
+Customer 517.672125 518.976750 ooh
+Agent 518.310000 518.961875 [silence]
+Agent 518.961875 522.683250 since it's a corporate corporate American Express
+Customer 518.976750 521.128375 [silence]
+Customer 521.128375 522.548625 yeah
+Customer 522.548625 524.697625 that that's not good
+Agent 522.683250 523.440625 [silence]
+Agent 523.440625 528.327125 and if you don't pay it you get a call from your supervisor saying why hasn't this been paid
+Customer 524.697625 527.541375 [silence]
+Customer 527.541375 530.004500 yeah oh jeez
+Agent 528.327125 529.995375 [silence]
+Agent 529.995375 538.175625 so you don't dare run up anything on it that you can't you know that you can't pay that's that's the problem with credit cards it it's
+Customer 530.004500 534.005625 [silence]
+Customer 534.005625 535.279000 really
+Customer 535.279000 540.077500 [silence]
+Agent 538.175625 540.910000 people don't think of it as cash
+Customer 540.077500 541.300000 no
+Agent 540.910000 541.503250 [silence]
+Customer 541.300000 543.525750 [silence]
+Agent 541.503250 546.296625 they think of it like uh monopoly money that hey i can just charge this and
+Customer 543.525750 544.657625 right
+Customer 544.657625 547.682000 [silence]
+Agent 546.296625 548.454375 pay it wherever i feel like it
+Customer 547.682000 554.810500 yeah it's like going oh i'll have that money by the end of the month and then end of the month comes around and you get your insurance bill comes and
+Agent 548.454375 551.307750 [silence]
+Agent 551.307750 551.822125 yeah
+Agent 551.822125 554.836250 [silence]
+Customer 554.810500 557.991125 few other things and then you're like oh jeez [laughter]
+Agent 554.836250 555.580250 right
+Agent 555.580250 558.423875 [silence]
+Customer 557.991125 559.641875 [silence]
+Agent 558.423875 559.210125 yeah
+Agent 559.210125 562.307125 [silence]
+Customer 559.641875 561.187875 yeah i know that feeling
+Customer 561.187875 563.052000 [laughter]
+Agent 562.307125 562.543125 huh
+Agent 562.543125 563.125625 [laughter]
+Customer 563.052000 565.515250 [silence]
+Agent 563.125625 567.263375 [laughter] so i guess the the secret's not to have credit cards
+Customer 565.515250 569.869250 yeah oh well i'm getting to just about to that point myself so
+Agent 567.263375 571.106500 [silence]
+Customer 569.869250 575.939750 [silence]
+Agent 571.106500 576.689250 well i guess we've been i'm surprised they hadn't beeped in and said your ten minutes is up
+Customer 575.939750 577.780000 yeah really they've been [vocalized-noise]
+Agent 576.689250 578.109875 [silence]
+Customer 577.780000 583.662250 [silence]
+Agent 578.109875 583.345000 they've been uh even before ten minutes here lately they've been saying
+Agent 583.345000 584.530000 you should cut it off
+Customer 583.662250 589.884375 oh really i haven't i- i we've actually haven't timed any of them i just kind of go into conversation
+Agent 584.530000 595.949250 [silence]
+Customer 589.884375 596.893500 ends on it's own or uh or that uh that they do come in with that so well anyway it was nice
+Agent 595.949250 598.184875 well listen i've enjoyed talking with you
+Customer 596.893500 599.616750 yeah it's nice talking to you Jerry and uh
+Agent 598.184875 599.616750 [silence]

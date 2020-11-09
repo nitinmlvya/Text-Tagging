@@ -1,0 +1,218 @@
+Agent 0.000000 0.042875 [noise]
+Customer 0.000000 0.559125 [noise]
+Agent 0.042875 2.847750 [silence]
+Customer 0.559125 2.497125 do you use your credit cards very often
+Customer 2.497125 5.882125 [silence]
+Agent 2.847750 7.390250 um no not really we use gas cards more than anything
+Customer 5.882125 8.545375 okay is that just out of habit or convenience
+Agent 7.390250 8.800500 [silence]
+Customer 8.545375 11.800625 [silence]
+Agent 8.800500 10.099000 uh
+Agent 10.099000 11.999375 basically convenience
+Customer 11.800625 12.757250 uh-huh
+Agent 11.999375 13.023375 [silence]
+Customer 12.757250 15.423000 [silence]
+Agent 13.023375 15.627125 uh which led to habit i guess
+Customer 15.423000 18.980000 okay i don't use uh gasoline credit cards i used to have one
+Agent 15.627125 24.602000 [silence]
+Customer 18.980000 26.587250 but i didn't use it uh i used it so seldom that i'd get letters from Mobil uh reminding me that i had a credit card to use [laughter]
+Agent 24.602000 26.015125 oh really
+Agent 26.015125 27.268250 [silence]
+Customer 26.587250 38.946500 [silence]
+Agent 27.268250 34.797250 yeah we don't we don't ever we don't carry a whole lot of cash with us so we use the the gas cards because_1 our families are both out of
+Agent 34.797250 37.840125 town and like when we travel and stuff we
+Agent 37.840125 39.746875 use the gas cards
+Customer 38.946500 42.495500 right so you basically use them_1 as an alternative to carrying cash
+Agent 39.746875 41.505125 [silence]
+Agent 41.505125 43.751625 yeah yeah
+Customer 42.495500 53.339625 [silence]
+Agent 43.751625 46.369000 and then we have a
+Agent 46.369000 48.424125 [silence]
+Agent 48.424125 51.116500 an American Express that's through TI that
+Agent 51.116500 53.793375 Steve uses just for TI stuff
+Customer 53.339625 57.285375 are you uh solicited a lot uh for other uh credit cards
+Agent 53.793375 56.004125 [silence]
+Agent 56.004125 57.025125 yes
+Agent 57.025125 58.588250 yes a lot
+Customer 57.285375 58.352750 wha[t]-
+Customer 58.352750 62.352875 what uh criteria do you consider on whether or not you'll accept a particular card
+Agent 58.588250 62.832250 [silence]
+Customer 62.352875 71.729375 [silence]
+Agent 62.832250 65.404625 uh probably the uh
+Agent 65.404625 69.902125 uh if there's a premium each year and the uh
+Agent 69.902125 70.952375 [silence]
+Agent 70.952375 71.999125 the APR
+Customer 71.729375 74.087000 yeah i won't get a card if there's an annual fee
+Agent 71.999125 73.621250 [silence]
+Agent 73.621250 77.143750 and there's it's it's kind of hard to beat TI
+Customer 74.087000 76.547875 [silence]
+Customer 76.547875 77.602750 right
+Agent 77.143750 81.877750 and so uh you know usually we just trash it just tear it up and trash it an[d]-
+Customer 77.602750 82.106000 [silence]
+Agent 81.877750 83.858500 m[ost]- most of the time it goes unopened
+Customer 82.106000 83.108000 yeah i
+Customer 83.108000 83.971500 [silence]
+Agent 83.858500 86.992500 [silence]
+Customer 83.971500 88.829875 i- i think that Texan's is charging thirteen point nine percent uh interest
+Agent 86.992500 88.620875 yeah if if that much
+Agent 88.620875 92.525125 they're thirteen something but i'm not sure if it's i think it's a flat thirteen right now
+Customer 88.829875 92.167500 [silence]
+Customer 92.167500 97.107125 it could be could be i don't uh use them_1 often enough to even keep tabs on it
+Agent 92.525125 96.691375 [silence]
+Agent 96.691375 97.470625 yeah
+Customer 97.107125 100.755500 but most of them charge between eighteen and twenty one percent per year
+Agent 97.470625 99.840000 [silence]
+Agent 99.840000 100.867875 yeah
+Customer 100.755500 102.246875 i think that's
+Agent 100.867875 107.555500 and then you['re]- then you're if you're that lucky you get to pay them another twenty five bucks a year just to be that privileged to get twenty one percent a year [laughter]
+Customer 102.246875 106.982875 [silence]
+Customer 106.982875 108.921750 right right
+Agent 107.555500 112.096375 [silence]
+Customer 108.921750 114.074625 and i look for a grace period too so that they don't charge interest on from from the day of purchase
+Agent 112.096375 113.514250 yeah
+Agent 113.514250 114.966250 yeah
+Customer 114.074625 115.123000 [silence]
+Agent 114.966250 117.635750 [silence]
+Customer 115.123000 117.337250 and of course no annual fee
+Customer 117.337250 124.247750 [silence]
+Agent 117.635750 123.872875 yeah that would that would help a lot i i'm not even sure why i mean the purpose of an annual fee i'm not really
+Agent 123.872875 128.846375 [silence]
+Customer 124.247750 129.746500 well i- i think it just generates revenue for the companies that uh for the banks that sponsor the credit cards
+Agent 128.846375 133.555125 well i guess so because_1 it's not any more prestigious to have to pay it
+Customer 129.746500 136.191875 [silence]
+Agent 133.555125 137.714625 uh as far as getting another card where you don't i mean you know
+Customer 136.191875 137.368125 no
+Customer 137.368125 139.366750 [silence]
+Agent 137.714625 148.841125 [silence]
+Customer 139.366750 149.141750 uh i get uh applications for cards from oh different places for various reasons uh i got an application from Home Depot for their card
+Agent 148.841125 150.149750 oh really
+Customer 149.141750 155.385000 and uh the incentive there was that they'd give you ten percent off on your first purchase with that credit card
+Agent 150.149750 155.104750 [silence]
+Agent 155.104750 156.165375 yeah
+Customer 155.385000 159.291125 so i got that card just so i could uh make a major purchase
+Agent 156.165375 157.540000 [silence]
+Agent 157.540000 159.972875 have ten percent off but you got to use that credit card
+Customer 159.291125 161.020000 right and get a discount on it
+Agent 159.972875 162.210750 right yeah that
+Customer 161.020000 164.349000 i d[id]- did the same thing with uh Foley's they uh
+Agent 162.210750 165.862750 [silence]
+Customer 164.349000 168.855375 uh had a fifteen percent discount on a purchase if you just apply for a card
+Agent 165.862750 166.942500 yeah
+Agent 166.942500 168.340375 [silence]
+Agent 168.340375 177.547750 right i did that with my husband uh he was off working at TI in Austin one day and so i went out to the mall to kind of look around hit Mervyn's
+Customer 168.855375 181.932625 [silence]
+Agent 177.547750 188.089500 and found some s[tuff]- stuff after Christmas on sale and ended up getting fifteen percent off already off of it already whatever it was lower and i think that's the only card i have that's
+Customer 181.932625 183.735750 yeah uh-huh
+Customer 183.735750 191.435250 [silence]
+Agent 188.089500 198.944250 you know recently is gotten a Mervyn's card and i used it for i think for the first time when i was in Houston this weekend and i have i've had it for months
+Customer 191.435250 192.494875 yeah
+Customer 192.494875 199.530125 [silence]
+Agent 198.944250 202.398375 [silence]
+Customer 199.530125 203.774125 yeah i always maintain a zero balance uh i don't like owing anybody anything [laughter]
+Agent 202.398375 205.807000 yeah yeah i don't i don't like it a whole lot either
+Customer 203.774125 208.078000 [silence]
+Agent 205.807000 215.145625 [silence]
+Customer 208.078000 217.084125 if you want to borrow money there're better ways to do it uh i think you can get a loan through the credit union for about uh oh i don't know nine or ten percent now i guess
+Agent 215.145625 217.604500 yeah yeah
+Customer 217.084125 222.202625 and uh keeping a credit cards uh charged up is just uh
+Agent 217.604500 224.762625 [silence]
+Customer 222.202625 226.513500 not a very good way to uh to ma[ke]- to make use of borrowing money
+Agent 224.762625 233.200500 yeah i never understood how people could i mean there are some people who say well i can't charge it it's at it's limit and i thought God how can you charge a credit card to its limit
+Customer 226.513500 240.489250 [silence]
+Agent 233.200500 241.935375 it just it just i guess it's that that you know lack of discipline when you have a piece of plastic that says pay later you know
+Customer 240.489250 245.135750 yeah it's the buy now pay later plan and uh live for today
+Agent 241.935375 244.957750 yeah and i just it's that
+Agent 244.957750 247.878875 yeah it just bo[rrow]- worry about it tomorrow [laughter]
+Customer 245.135750 246.702125 [silence]
+Customer 246.702125 248.786125 nobody bothers saving any money
+Agent 247.878875 259.308000 yeah and it just i don't i don't really go for them_1 and i in fact i had my own before we got married and ended up cutting them_1 up just for the fact that TI had lower rates
+Customer 248.786125 254.216500 [silence]
+Customer 254.216500 255.125250 yeah
+Customer 255.125250 258.656375 [silence]
+Customer 258.656375 259.683375 sure
+Agent 259.308000 267.458500 you know and decided and i mean when i tried to close with Chase Manhattan it was just like pulling teeth
+Customer 259.683375 266.732500 [silence]
+Customer 266.732500 267.734250 oh yeah
+Agent 267.458500 271.359000 i mean i couldn't close they'd send me a statement every little this is your new
+Customer 267.734250 273.509875 [silence]
+Agent 271.359000 283.654875 you know balance with bonus points or whatever you know and it's like look i closed this months ago and i don't want any more of your letters i don't want anything and well you have a credit balance well send me a check [laughter] you know
+Customer 273.509875 274.499375 [laughter]
+Customer 274.499375 276.593000 [silence]
+Customer 276.593000 277.434375 right
+Customer 277.434375 281.179000 [silence]
+Customer 281.179000 283.048000 yeah well there's a
+Customer 283.048000 287.963375 a basic problem too with not using credit cards that they are good credit references
+Agent 283.654875 293.495250 [silence]
+Customer 287.963375 300.521625 when i closed on my house mortgage uh the mortgage company was looking for uh references credit references and i didn't have any credit cards charged up at all i keep the balance paid off so they make lousy credit reference then
+Agent 293.495250 294.430000 yeah
+Agent 294.430000 296.866500 [silence]
+Agent 296.866500 297.610375 yeah
+Agent 297.610375 299.985125 [silence]
+Agent 299.985125 300.955750 yeah
+Customer 300.521625 311.241875 [silence]
+Agent 300.955750 307.723000 yeah they do but we we were in in that same boat a couple of years ago and they had said well
+Agent 307.723000 314.779500 just list your major ones and and the balance still owed on it you know or give it a balance still owed on it and
+Customer 311.241875 312.376125 right
+Customer 312.376125 315.853375 [silence]
+Agent 314.779500 316.788750 that's all we did
+Customer 315.853375 318.810250 when the balance is zero it [laughter-doesn't] help much [laughter]
+Agent 316.788750 317.836625 [silence]
+Agent 317.836625 318.855125 right
+Customer 318.810250 319.893375 [silence]
+Agent 318.855125 324.973875 [silence]
+Customer 319.893375 327.280000 i get a lot of uh pre approved applications from various organizations and i throw all those out
+Agent 324.973875 330.551375 yeah and it's like well who are you to approve [laughter] something for me without my permission anyway
+Customer 327.280000 329.587625 [silence]
+Customer 329.587625 330.618875 right
+Agent 330.551375 333.999250 but i think um i think what you can do as far as
+Customer 330.618875 341.798625 [silence]
+Agent 333.999250 336.115375 i don't think as many companies
+Agent 336.115375 342.042625 when you are a good customer i don't think they report that as much as they should their delinquent customers
+Customer 341.798625 343.188250 right uh-huh
+Agent 342.042625 347.911875 because a lot of times you have to write and ask them to report it to the credit bureau so that you look like you have good credit
+Customer 343.188250 353.934750 [silence]
+Agent 347.911875 349.325125 [silence]
+Agent 349.325125 354.738625 as far as you know paying off you know your cards early or on time or whatever
+Customer 353.934750 355.353625 yeah uh-huh
+Agent 354.738625 363.008625 that usually doesn't happen unless i've heard people say well you have to write to ask that and i say well you know if someone's so quick to turn you over because you're thirty days late
+Customer 355.353625 362.237250 [silence]
+Customer 362.237250 363.078625 um-hum
+Agent 363.008625 366.007250 i think they sh[ould]- they should do do that more often
+Customer 363.078625 366.366375 [silence]
+Agent 366.007250 373.530875 [silence]
+Customer 366.366375 368.375500 yeah i think you're right
+Customer 368.375500 370.698500 [silence]
+Customer 370.698500 372.021000 uh
+Customer 372.021000 373.666875 [silence]
+Agent 373.530875 377.156000 what do you think about that uh Discover card
+Customer 373.666875 374.913750 [vocalized-noise] i
+Customer 374.913750 376.780875 [silence]
+Customer 376.780875 388.256250 well uh [laughter] funny thing about the Discover card is i just pulled a uh one dollar check from them out of my briefcase today that expired uh last month i didn't cash it
+Agent 377.156000 385.424500 [silence]
+Agent 385.424500 388.152000 [laughter]
+Agent 388.152000 393.307375 [silence]
+Customer 388.256250 393.721125 uh th[ey]- they sent me a dollar uh refund from last year's purchase i- i used it one time
+Agent 393.307375 394.695000 oh really
+Customer 393.721125 404.993000 and uh i got a dollar credit a dollar check but i didn't uh cash the check and the check expired but on my last statement i noticed that they credited my account with a dollar credit
+Agent 394.695000 404.772375 [silence]
+Agent 404.772375 406.738500 the dollar you didn't cash
+Customer 404.993000 406.113875 [silence]
+Customer 406.113875 407.393875 could very well be
+Agent 406.738500 413.500750 oh oh well i was wondering how that that worked because it's like you know we'll pay you for and i'm going wait a minute
+Customer 407.393875 414.043250 [silence]
+Agent 413.500750 415.069875 you know
+Customer 414.043250 418.785625 i've got so many uh well i don't have a lot of cards but i've got a lot that i never used
+Agent 415.069875 427.025125 [silence]
+Customer 418.785625 424.113875 uh i stick basically with uh the Texan's MasterCard
+Customer 424.113875 427.470125 and uh very seldom use the American Express card
+Agent 427.025125 432.701000 yeah we don't we wouldn't even have one if it wasn't for TI and Steve traveling we just
+Customer 427.470125 430.526250 [silence]
+Customer 430.526250 432.100000 sure corporate card
+Customer 432.100000 433.450500 [silence]
+Agent 432.701000 434.038125 you know
+Customer 433.450500 437.400000 i would never pay thirty five dollars or more a year for uh use of a card
+Agent 434.038125 436.573250 [silence]
+Agent 436.573250 438.233375 no
+Customer 437.400000 449.451250 [silence]
+Agent 438.233375 440.059250 and uh
+Agent 440.059250 449.451250 we basically just have the we you know we cut up a lot of cards when we you know like it's just as easy just to use two you know instead of paying so much

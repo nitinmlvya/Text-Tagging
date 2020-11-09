@@ -1,0 +1,161 @@
+Agent 0.000000 1.057875 [noise]
+Customer 0.000000 0.025125 [noise]
+Customer 0.025125 3.343000 do you wanna tell me about your budgeting plan
+Agent 1.057875 2.572250 [silence]
+Agent 2.572250 5.558375 yeah our budgeting plans includes me getting a job
+Customer 3.343000 5.504000 [silence]
+Customer 5.504000 7.630750 [laughter]
+Agent 5.558375 6.688750 [laughter]
+Agent 6.688750 7.996250 [laughter]
+Customer 7.630750 13.413875 [silence]
+Agent 7.996250 14.279250 [laughter-we're] we're at the point now i i uh i quit working about six months ago to start this house
+Customer 13.413875 15.050875 uh-huh
+Agent 14.279250 18.283000 and i'm out of cash and i'm not out of project yet
+Customer 15.050875 17.464750 [silence]
+Customer 17.464750 18.975125 oh no
+Agent 18.283000 25.288875 so uh i'm gonna go back and do some consulting work as far as budget's concerned i'm
+Customer 18.975125 50.153750 [silence]
+Agent 25.288875 28.541000 i'm fairly fortunate uh we've
+Agent 28.541000 33.798500 we're right now where if we don't buy anything extra we can make it on what my wife makes
+Agent 33.798500 35.170375 so
+Agent 35.170375 38.027375 uh the project's kind of halted until then
+Agent 38.027375 48.340500 as far as budgeting is concerned you know we have uh some pretty strict guidelines that we go for you know we always put ten percent back
+Agent 48.340500 51.011625 and that's a never touch
+Customer 50.153750 52.212500 uh into savings
+Agent 51.011625 52.617625 yeah
+Customer 52.212500 53.635750 huh
+Agent 52.617625 55.514500 either savings or investment one of the two but
+Customer 53.635750 60.608875 [silence]
+Agent 55.514500 59.739125 we don't ever put it at a high risk it's just always gonna be there
+Agent 59.739125 62.256250 [silence]
+Customer 60.608875 62.966750 well that's pretty good
+Agent 62.256250 69.511125 and as far as the rest of it's concerned we don't have any kind of uh what i would call extravagant expenses you know
+Customer 62.966750 78.546000 [silence]
+Agent 69.511125 75.566875 uh we uh we pretty much live on about eight nine hundred a month
+Agent 75.566875 79.203875 you know just travel to and from work and clothing and food
+Customer 78.546000 80.326875 boy that's pretty good
+Agent 79.203875 83.889250 and the rest of it you know we pile into the house
+Customer 80.326875 89.339375 [silence]
+Agent 83.889250 89.568500 and uh you know i'm fairly fortunate i mean our credit cards are out to the max right now because_1 i'm
+Customer 89.339375 90.568375 sure
+Agent 89.568500 95.247875 a little a little behind on that but uh we're still making the payments on them_1 it's just uh
+Customer 90.568375 100.180875 [silence]
+Agent 95.247875 99.843625 when you see in Texas you cannot borrow the money to build your own home
+Agent 99.843625 101.775000 and do it yourself
+Customer 100.180875 105.061750 yeah it's it's tough here too you have to have the contractor sign with you
+Agent 101.775000 103.854000 [silence]
+Agent 103.854000 105.835875 right exactly
+Customer 105.061750 113.423500 but it's easy to find a contractor for a couple of hundred bucks who'll sign it and let you do it here in U[tah]- where i live that is
+Agent 105.835875 110.751500 [silence]
+Agent 110.751500 112.603000 yeah
+Agent 112.603000 116.161250 and where i live i[t]- it's pretty scary
+Customer 113.423500 121.877375 [silence]
+Agent 116.161250 127.226125 because Texas is one of those strange states where if you have a contractor sign on your note like that and you screw up you don't get it finished the bank can eat the contractor
+Customer 121.877375 123.148250 uh-huh
+Customer 123.148250 126.501875 [silence]
+Customer 126.501875 128.599250 oh bad for him huh
+Agent 127.226125 129.609250 yeah bad for him
+Customer 128.599250 133.662000 [silence]
+Agent 129.609250 133.433000 but the homeowner can't be touched
+Agent 133.433000 135.886625 it's a homestead state
+Customer 133.662000 135.218875 hum
+Customer 135.218875 137.019250 is that right
+Agent 135.886625 142.848375 yeah see right now if i quit paying any of my bills the only thing they could do is cut off the electricity
+Customer 137.019250 147.556250 [silence]
+Agent 142.848375 146.031375 they can't take your land unless you don't pay your land taxes
+Agent 146.031375 147.875875 period
+Customer 147.556250 148.887375 wow
+Agent 147.875875 155.194875 you know they take your car and your clothes and your anything that's not the tools of your trade
+Customer 148.887375 161.954000 [silence]
+Agent 155.194875 156.292125 [silence]
+Agent 156.292125 158.632250 but as far as uh you know
+Agent 158.632250 160.160000 [laughter]
+Agent 160.160000 162.756125 you're pretty much bullet proof in this state
+Customer 161.954000 163.928500 well that's kind of handy
+Agent 162.756125 164.378500 yeah
+Customer 163.928500 168.142875 i just finished James Michener's Texas book
+Agent 164.378500 169.390875 [silence]
+Customer 168.142875 169.854875 pretty interesting
+Agent 169.390875 170.833625 uh-huh
+Customer 169.854875 172.082500 Texas has quite the history
+Agent 170.833625 172.054750 [silence]
+Agent 172.054750 178.189000 well you know we're we're not ones to budget much you know [laughter] we just got to spend it all
+Customer 172.082500 174.789000 [silence]
+Customer 174.789000 177.398000 [laughter]
+Customer 177.398000 185.584250 [laughter] that's kind of what we do we uh we're LDS and so we pay ten percent tithing
+Agent 178.189000 184.183000 [silence]
+Agent 184.183000 186.477875 um-hum um-hum
+Customer 185.584250 188.950000 and then i know we put i guess it's like
+Agent 186.477875 192.922875 [silence]
+Customer 188.950000 191.048250 fifteen to twenty percent
+Customer 191.048250 194.175125 into a savings account
+Agent 192.922875 194.307625 um-hum
+Customer 194.175125 198.793750 but that sometimes we use for emergency type things
+Agent 194.307625 198.458625 [silence]
+Agent 198.458625 199.758875 yeah
+Customer 198.793750 200.862250 but uh
+Agent 199.758875 209.531875 [silence]
+Customer 200.862250 202.095625 [silence]
+Customer 202.095625 208.016500 and my wife doesn't work we're fortunate that way that i make enough to
+Customer 208.016500 209.980250 do what we wanna do
+Agent 209.531875 217.894000 yeah yeah we're pretty pretty fortunate as far as the uh the budgeting is concerned because you know we don't have any long term debt
+Customer 209.980250 225.573375 [silence]
+Agent 217.894000 223.215500 you know uh we paid cash for car well we bought the car on time one of them_1
+Agent 223.215500 225.953500 but we you know we since paid it off and
+Customer 225.573375 227.054875 well that's pretty
+Agent 225.953500 229.396250 the land is paid for cash so we don't have to worry about that
+Customer 227.054875 228.580625 [silence]
+Customer 228.580625 230.951875 that's a great position to be in
+Agent 229.396250 230.552625 [silence]
+Agent 230.552625 233.250375 well it's fraught with other problems
+Customer 230.951875 234.113375 [silence]
+Agent 233.250375 234.583750 [laughter]
+Customer 234.113375 235.642250 is that right
+Agent 234.583750 237.847500 yeah i'm not very motivated [laughter]
+Customer 235.642250 236.699000 [silence]
+Customer 236.699000 238.284000 oh [laughter]
+Agent 237.847500 239.391375 [silence]
+Customer 238.284000 239.988000 what kind of consulting do you do
+Agent 239.391375 243.608500 uh systems consulting computerization for construction firms
+Customer 239.988000 242.910125 [silence]
+Customer 242.910125 248.258375 is that right i'm into computers too i i'm a E D P auditor
+Agent 243.608500 245.246375 yeah
+Agent 245.246375 247.089125 are you
+Agent 247.089125 248.615625 oh
+Customer 248.258375 250.060125 and
+Agent 248.615625 250.452500 you into mainframes
+Customer 250.060125 252.364625 ye[ah]- and PCs
+Agent 250.452500 251.604625 [silence]
+Agent 251.604625 253.340500 an[d]- oh really
+Customer 252.364625 257.507625 yeah i'm just brushing up on well C plus plus
+Agent 253.340500 256.924125 [silence]
+Agent 256.924125 258.368000 are you really
+Customer 257.507625 259.464500 uh-huh and
+Agent 258.368000 260.631375 i just got that a few days ago
+Customer 259.464500 260.900625 [silence]
+Agent 260.631375 262.491000 [silence]
+Customer 260.900625 262.367250 trio
+Customer 262.367250 264.023500 [silence]
+Agent 262.491000 267.209375 oh jeez don't get me to lying i bought it at a fire [stale/sale]
+Customer 264.023500 265.754750 [laughter]
+Customer 265.754750 266.985000 [silence]
+Customer 266.985000 268.255500 ah
+Agent 267.209375 271.596875 this guy's place burned down and he had a bunch of computer stuff and
+Customer 268.255500 275.863500 [silence]
+Agent 271.596875 276.750875 you know i bought it all it was two hundred bucks for everything he had
+Customer 275.863500 277.507500 you got a buy
+Agent 276.750875 284.301750 well some of it [laughter] wasn't worth anything you know you know a lot of the uh diskettes were just totally unusable
+Customer 277.507500 279.843125 [silence]
+Customer 279.843125 281.070875 sure
+Customer 281.070875 284.180625 [silence]
+Customer 284.180625 285.643125 melted
+Agent 284.301750 285.563750 [silence]
+Agent 285.563750 287.850250 well yeah or wet
+Customer 285.643125 287.792875 or just wet or
+Customer 287.792875 288.991375 [silence]
+Agent 287.850250 289.372375 [laughter]
+Customer 288.991375 290.508750 okay
+Agent 289.372375 292.992000 but i did get out of there with uh
+Customer 290.508750 298.850000 [silence]
+Agent 292.992000 295.296500 Vermont Views
+Agent 295.296500 298.850000 which is a huge subroutine libra[ry]-

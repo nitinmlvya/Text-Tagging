@@ -1,0 +1,214 @@
+Agent 0.000000 1.495875 Texas how you doing
+Customer 0.000000 0.495625 [silence]
+Customer 0.495625 1.992750 all right
+Agent 1.495875 6.706125 good good good have you been participating in this uh program very much
+Customer 1.992750 5.819125 [silence]
+Customer 5.819125 9.494625 oh uh ever since they really got started
+Agent 6.706125 8.700250 [silence]
+Agent 8.700250 10.311750 oh okay
+Customer 9.494625 12.984125 uh maybe a phone call a week or something like that
+Agent 10.311750 11.990000 [silence]
+Agent 11.990000 19.480125 yeah yeah i try to get one a day and i'm leaving the country here in next week and i [laughter-want] [laughter-to] [laughter-get] [laughter-every] i want to get as many as i can
+Customer 12.984125 19.001125 [silence]
+Customer 19.001125 20.239500 [laughter]
+Agent 19.480125 22.467750 uh okay Bill you about_1 ready to get started
+Customer 20.239500 21.754250 [silence]
+Customer 21.754250 23.490875 i guess so
+Agent 22.467750 24.262750 [silence]
+Customer 23.490875 27.250375 [silence]
+Agent 24.262750 25.505875 [noise]
+Agent 25.505875 27.999500 uh Bill what kind of a company you with
+Customer 27.250375 30.490875 i'm with a [noise] electronics company
+Agent 27.999500 29.995500 [silence]
+Agent 29.995500 31.953625 oh okay
+Customer 30.490875 32.484500 uh
+Agent 31.953625 61.942875 [silence]
+Customer 32.484500 36.459750 i've been an engineer all my life and uh
+Customer 36.459750 46.451375 that's one of the the issues that i have with the company that uh you know salary is is one benefit but uh i feel as an engineer that uh
+Customer 46.451375 61.166250 you know i take pride in my work and uh getting credit for that and recognition for the work that you do and uh having challenging work uh doing challenging assignments is one of the one of the payments that you get for your time
+Customer 61.166250 65.497125 [silence]
+Agent 61.942875 66.009250 right uh do do you think the benefits package is fair
+Customer 65.497125 69.312250 i think our benefits package is pretty fair at the company
+Agent 66.009250 68.490500 [silence]
+Agent 68.490500 69.981125 um-hum
+Customer 69.312250 77.454625 but uh you know it's uh sometimes quite a struggle to uh to do work that's challenging and find challenging assignments
+Agent 69.981125 76.805875 [silence]
+Agent 76.805875 78.257875 yeah
+Customer 77.454625 90.481125 i feel that one of the things that happens in this country is that uh you know engineers become what i call clerical engineers they spend their time pushing paper and doing mundane tasks that could be assigned to uh to other people
+Agent 78.257875 89.984125 [silence]
+Agent 89.984125 95.467250 yeah you sound like you sound like my own situation uh h[ow]- how old are you Bill
+Customer 90.481125 94.682750 [silence]
+Customer 94.682750 97.000875 i'm uh fifty four
+Agent 95.467250 99.692125 oh hey i'm fifty seven sounds like same situation here
+Customer 97.000875 100.968500 [silence]
+Agent 99.692125 112.717125 uh i'm with TI of course and our our benefits it it's interesting uh because that's one of the biggest gripes in the company is the benefits whether it be the health insurance or or the food or [laughter] or other things
+Customer 100.968500 102.264625 um-hum
+Customer 102.264625 116.971125 [silence]
+Agent 112.717125 122.984250 uh however recently i've had a chance to sample the outside and uh probably by industry standards we're probably in the top seventy percent
+Customer 116.971125 118.481625 um-hum
+Customer 118.481625 122.500000 [silence]
+Customer 122.500000 123.990750 yeah
+Agent 122.984250 130.169250 uh the uh uh i've i've really in fact what i'm doing is i'm uh retiring effective Tuesday and going with another company
+Customer 123.990750 129.500750 [silence]
+Customer 129.500750 130.982000 um-hum
+Agent 130.169250 138.463375 uh primarily for some of the things that you stated uh i've spent uh eight of my last ten years in offshore sites in Asia
+Customer 130.982000 137.997750 [silence]
+Customer 137.997750 139.331750 yeah
+Agent 138.463375 141.285000 and i've just had a real ball
+Customer 139.331750 150.234375 [silence]
+Agent 141.285000 151.173000 and uh since i've been back part of my job is is trouble shooting into the offshore site plants which is okay but the other part [laughter] the other part's pushing paper
+Customer 150.234375 151.999000 um-hum
+Agent 151.173000 165.765250 and uh uh which i don't like i got the opportunity to go with another company in fact uh a uh a semiconductor uh uh assembly house that supplies us uh where the uh where the job will be a hundred percent going into their various plants trouble shooting
+Customer 151.999000 164.998250 [silence]
+Customer 164.998250 166.975250 um-hum
+Agent 165.765250 168.960000 and and i'm going to do that beginning the first of May
+Customer 166.975250 188.986125 [silence]
+Agent 168.960000 176.210125 but uh uh in[terestingly]- in[terestingly]- interestingly enough though uh the the biggest grind i've been with i've been with TI thirty two years
+Agent 176.210125 185.084125 uh the biggest gripe in TI is the benefits package but as i go looking at other companies as i've i've had a chance to do uh it's really not all that bad
+Agent 185.084125 195.974000 uh that the one of the biggest gripes of the benefit package is the insurance program and i guess they've all fallen victim to the high rising costs of medical care
+Customer 188.986125 190.991125 um-hum
+Customer 190.991125 195.233500 [silence]
+Customer 195.233500 197.483625 yes i think so
+Agent 195.974000 206.012625 and and i- i think that's the type of thing that uh uh that it that it amounts to uh what kind of vacation policy how long have you been with your company Bill
+Customer 197.483625 204.743625 [silence]
+Customer 204.743625 206.993125 i've been there thirty two years
+Agent 206.012625 214.757625 thirty two ha ha sounds familiar [laughter] what kind of vacation uh uh restrictions do you have or or shouldn't say restrictions policy
+Customer 206.993125 207.993000 [silence]
+Customer 207.993000 208.997000 yeah
+Customer 208.997000 213.679625 [silence]
+Customer 213.679625 222.480875 well after being there for this long i get uh four weeks a year and i have an option to uh trade salary for an extra week
+Agent 214.757625 221.480875 [silence]
+Agent 221.480875 230.475250 oh neat neat neat uh when when did you get into the uh uh when did you go through the break where you started getting four weeks
+Customer 222.480875 229.474500 [silence]
+Customer 229.474500 243.260750 uh let me see how does it work uh after you get two weeks up until five years and then you get an additional day uh each year thereafter up until ten years
+Agent 230.475250 242.459500 [silence]
+Agent 242.459500 243.772750 um-hum
+Customer 243.260750 251.473500 and then thereafter every other year you get an additional day so by the time you've been there twenty years you get the four weeks
+Agent 243.772750 246.994000 [silence]
+Agent 246.994000 248.492500 um-hum
+Agent 248.492500 250.222375 [silence]
+Agent 250.222375 260.996375 you get a full four weeks yeah yeah we get two weeks after a year uh uh three thr[ee]- three weeks between five and fifteen and four weeks over fifteen
+Customer 251.473500 260.291875 [silence]
+Customer 260.291875 261.994000 hum okay
+Agent 260.996375 265.494000 and uh uh are you allowed to how many days are you allowed to accrue
+Customer 261.994000 265.275875 [silence]
+Customer 265.275875 267.992875 none no carryover whatsoever
+Agent 265.494000 266.998750 [silence]
+Agent 266.998750 271.719250 oh so you have to flush it out at the end of every year or or you lose it
+Customer 267.992875 270.821625 [silence]
+Customer 270.821625 272.297875 right
+Agent 271.719250 285.461000 okay well we've got we're allowed to accrue a fair bunch i'm not exactly sure uh on a year to year basis what it is because i accrued most of mine before they put in the restrictions uh and then they they grandfathered our old days
+Customer 272.297875 281.980250 [silence]
+Customer 281.980250 283.483875 um-hum
+Customer 283.483875 284.997125 [silence]
+Customer 284.997125 286.493625 right
+Agent 285.461000 293.468125 uh but what it what it uh the bottom line is that when you die retire or quit the most you can get paid for is seventy days
+Customer 286.493625 292.986625 [silence]
+Customer 292.986625 294.672125 um-hum
+Agent 293.468125 300.429000 which is fourteen weeks which is which is a pretty nice little bonus so i think with with retiring here in the next three days
+Customer 294.672125 296.245125 yeah
+Customer 296.245125 312.298875 [silence]
+Agent 300.429000 312.998375 uh i have eighty five days vacation and and it would have been nice to been able to use up fifteen of them in April but i had so many things i had to do before i finished i didn't get to do that so i'm in essence going to be giving those back to the company or most of them back
+Customer 312.298875 313.694750 um
+Agent 312.998375 321.232875 but at least i get paid for seventy days which in your situation you don't i mean when you go out you probably get just the ones you have in that current year right
+Customer 313.694750 320.278750 [silence]
+Customer 320.278750 321.719250 that's right
+Agent 321.232875 323.979625 uh-huh uh-huh that's inter[esting]- interesting
+Customer 321.719250 323.320000 [silence]
+Customer 323.320000 326.473500 now we're allowed to accrue sick leave but uh
+Agent 323.979625 325.750000 [silence]
+Agent 325.750000 334.987125 oh okay well see we we don't have any any such thing as sick leave uh if you're exempt and you've been here over
+Customer 326.473500 339.998250 [silence]
+Agent 334.987125 347.954250 three years or four years or something like that you can be sick up to six months and still get paid and and and uh uh that uh do you have a uh long and short term disability program
+Customer 339.998250 341.969750 hum okay
+Customer 341.969750 346.977500 [silence]
+Customer 346.977500 348.774750 yes we do
+Agent 347.954250 357.749125 yeah and we get half half pay uh or full pay for six months and half pay for the remainder of the disability i guess how it works
+Customer 348.774750 356.994625 [silence]
+Customer 356.994625 358.280500 hum
+Agent 357.749125 362.206750 and uh uh that's interesting how how many vacation days do y'all get
+Customer 358.280500 362.495375 [silence]
+Agent 362.206750 363.986500 [silence]
+Customer 362.495375 365.285625 you mean uh mean holidays
+Agent 363.986500 366.733125 yeah i meant holidays yeah
+Customer 365.285625 366.995250 uh
+Agent 366.733125 374.989375 [silence]
+Customer 366.995250 375.772625 i don't know the exact count uh they took away some of the minor holidays a few years back and we get Christmas week off
+Agent 374.989375 379.250250 oh okay okay so it probably all adds up to the same
+Customer 375.772625 376.780375 [silence]
+Customer 376.780375 381.497125 [vocalized-noise] so yeah we traded in Veterans Day and uh
+Agent 379.250250 383.798250 [silence]
+Customer 381.497125 392.242500 and i guess Good Friday or something like that uh in favor of having a week off at Christmas i i'm not too enthusiastic about taking a vacation at Christmas time because_1
+Agent 383.798250 385.290500 yeah it
+Agent 385.290500 386.313375 [silence]
+Agent 386.313375 388.221125 yeah yeah
+Agent 388.221125 390.496500 [silence]
+Agent 390.496500 401.960750 no i guess that's true i- i guess see most of us and like yourself where you've got four weeks you can take plenty throughout the year and still have a week even if it weren't a company holiday you'd still have some time left over at Christmas
+Customer 392.242500 400.970250 [silence]
+Customer 400.970250 402.706500 yeah
+Agent 401.960750 413.460625 and uh i- i guess what happens is we don't have Christmas week we have Christmas plus a day around Christmas a day before or a day after as official holidays
+Customer 402.706500 412.700625 [silence]
+Customer 412.700625 414.230375 um-hum
+Agent 413.460625 421.496500 but there's so many people that are so senior and have so much time off so much vacation time coming that you will find virtually no one in the plant
+Customer 414.230375 420.792500 [silence]
+Customer 420.792500 434.477750 well i think that's the reason our plant went that way what we we have uh a lot of uh government contract work and we find that in that last uh couple of week of the year all the government people are use it or lose it situation
+Agent 421.496500 422.999000 [silence]
+Agent 422.999000 424.997625 yeah probably [laughter]
+Agent 424.997625 425.988375 [silence]
+Agent 425.988375 427.505500 yeah
+Agent 427.505500 433.228625 [silence]
+Agent 433.228625 435.985875 yeah so they're all gone
+Customer 434.477750 438.490000 yeah [laughter-so] [laughter-all] [laughter-our] [laughter-customers] [laughter-are] [laughter-nonexistent]
+Agent 435.985875 437.184375 [silence]
+Agent 437.184375 444.263375 yeah yeah that's that's what happened to us i think the last the last holiday we got was in the middle uh seventies
+Customer 438.490000 451.994625 [silence]
+Agent 444.263375 452.981250 and uh uh and that one was the uh Friday after Thanksgiving and i think the reason we got it for a holiday was nobody [laughter-worked] [laughter-it] [laughter-anyway]
+Customer 451.994625 453.476375 yeah
+Agent 452.981250 455.961000 [laughter-it] [laughter-just] [laughter-kept] [laughter-us] from taking a day's vacation
+Customer 453.476375 455.491875 [silence]
+Customer 455.491875 456.705000 um-hum
+Agent 455.961000 467.960875 uh we get we get uh New Years Day Good Friday Memorial Day July Fourth Labor Day uh Thanksgiving and the day after and then Christmas and a day either side of it
+Customer 456.705000 467.490875 [silence]
+Customer 467.490875 468.998250 oh okay
+Agent 467.960875 474.985250 which which comes out to about nine and uh and and just since i've been here i mean when i got here we didn't even get Memorial Day
+Customer 468.998250 469.997500 [silence]
+Customer 469.997500 470.990000 yeah
+Customer 470.990000 474.764500 [silence]
+Customer 474.764500 476.737250 huh that's strange
+Agent 474.985250 478.308000 and it it wasn't recognized here in the deep South [laughter]
+Customer 476.737250 485.989250 [silence]
+Agent 478.308000 491.409125 and we got uh uh and Good Friday came along i think uh in about nineteen seventy we got a chance to vote on it and we had to vote on on that versus the Friday after Thanksgiving because_1 we didn't get that day then
+Customer 485.989250 487.474500 huh
+Customer 487.474500 502.981375 [silence]
+Agent 491.409125 503.997500 and i always felt that it wasn't a religious motive that gave us Good Friday the the the employees voted for Good Friday it was just that New Years Day to Memorial Day was such a long stretch without a holiday it was nice to put one in there in the spring
+Customer 502.981375 512.990500 yeah we're sort of in that situation we do get uh uh George Washington's birthday but it's still a long dry stretch from then until uh Memorial Day
+Agent 503.997500 507.701875 [silence]
+Agent 507.701875 509.494375 oh okay so you
+Agent 509.494375 511.997000 [silence]
+Agent 511.997000 516.481250 yeah are are you fairly satisfied with your health insurance
+Customer 512.990500 515.993125 [silence]
+Customer 515.993125 527.957250 uh i'm kind of cross with it this year we changed uh uh managers for the plan we had been with Blue Cross and Blue Shield and uh we got to know them pretty well and how to work with the system
+Agent 516.481250 522.699125 [silence]
+Agent 522.699125 524.256000 yeah
+Agent 524.256000 538.471875 [silence]
+Customer 527.957250 539.280000 but they've gone to a managed care program and we had to e[ven]- even though we were right in the middle of the area we had to opt out because there are no physicians in the area that are taking patients
+Agent 538.471875 540.969375 oh my goodness
+Customer 539.280000 540.340500 [silence]
+Customer 540.340500 548.998250 and it's absolutely pathetic up here uh so far the insurance company owes us about two thousand dollars and the checks are not coming in
+Agent 540.969375 548.492125 [silence]
+Agent 548.492125 558.976000 my goodness that's tough uh we had uh we've been with Aetna actually i think we fin[d]- fund our own insurance program Aetna just administers paying the bills
+Customer 548.998250 557.993625 [silence]
+Customer 557.993625 560.472875 yeah that's the way our company works
+Agent 558.976000 565.969500 yeah and and and the uh uh they started out with having Managed Mental Health Care
+Customer 560.472875 565.491625 [silence]
+Customer 565.491625 566.709375 uh-huh
+Agent 565.969500 578.948125 and then they went to Managed Hospital Network where you had to go to a network hospital and we just got a notice the other day saying that uh that we're going to have uh uh network doctors
+Customer 566.709375 578.198875 [silence]
+Customer 578.198875 579.721000 yeah
+Agent 578.948125 587.644125 and and they're going to the way they're going to work into this is they're going to look at the doctors that have been providing care for people
+Customer 579.721000 591.980000 [silence]
+Agent 587.644125 594.224500 and uh write to them all and tell them_1 that they've got an opportunity [laughter] to be part of this program and they and
+Customer 591.980000 600.021250 yeah our in our area they all turned it down they say forget it uh if this patient wants to wants to go somewhere else let him go there
+Agent 594.224500 595.773000 [silence]
+Agent 595.773000 597.509000 no kidding
+Agent 597.509000 600.021250 [silence]

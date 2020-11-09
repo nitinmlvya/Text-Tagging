@@ -1,0 +1,93 @@
+Agent 0.000000 0.513375 [noise]
+Customer 0.000000 2.974000 [noise] -[hell]o okay so you were with TI huh
+Agent 0.513375 2.531500 [silence]
+Agent 2.531500 14.571625 [noise] yeah i've been with i was with uh TI for uh thirty four years so obviously i found something worth worth doing there and have prejudices about uh what i want [laughter]
+Customer 2.974000 9.491750 [silence]
+Customer 9.491750 13.436125 [laughter]
+Customer 13.436125 18.683375 [noise] well any stay any place that long they got to be doing something right right
+Agent 14.571625 18.376875 [silence]
+Agent 18.376875 22.610625 yeah uh where do you work
+Customer 18.683375 20.176625 [silence]
+Customer 20.176625 28.193625 i uh work for myself i sell uh metal fabricating equipment and tooling and uh uh
+Agent 22.610625 43.212500 [silence]
+Customer 28.193625 41.725375 oh CAD CAM systems and things like that and uh consequently i can't really discuss big time benefits at the moment although i had worked for Univac and Pitney Bowes and some big companies once upon a time
+Customer 41.725375 51.419750 and uh i think most people don't necessarily realize the cost of them_1 and they're somewhat probably getting out of hand [laughter]
+Agent 43.212500 44.564375 oh
+Agent 44.564375 49.869500 [silence]
+Agent 49.869500 52.195625 yeah they uh
+Customer 51.419750 64.076250 [silence]
+Agent 52.195625 57.620125 i'm not sure what the category's supposed to be uh but it was what
+Agent 57.620125 64.317500 [vocalized-noise] something about what benefits would you consider something like that when you uh go to work for a large company
+Customer 64.076250 65.765000 well
+Agent 64.317500 65.876375 uh
+Customer 65.765000 68.175375 i think uh
+Agent 65.876375 68.784875 [silence]
+Customer 68.175375 70.655500 oh the way i go[t]-
+Agent 68.784875 73.042250 other other than salary didn't it say yeah
+Customer 70.655500 77.847750 right well no it didn't necessarily say other than salary but what would you consider to be kind of important i guess
+Agent 73.042250 77.717375 [silence]
+Agent 77.717375 82.663250 well i'm i thought it said other than salary but yeah
+Customer 77.847750 79.711000 such as
+Customer 79.711000 90.862000 well i i imagine that's what they're referring to you know like uh your health insurance and pensions and all that kind of good stuff uh
+Agent 82.663250 83.866875 yeah
+Agent 83.866875 86.693875 [silence]
+Agent 86.693875 87.931500 yeah
+Agent 87.931500 89.064000 [silence]
+Agent 89.064000 97.049000 well i uh personally i left my previous job which was with Chance-Vought before i joined uh
+Customer 90.862000 111.007000 [silence]
+Agent 97.049000 103.437625 there and ironically i left Chance-Vought the largest employer in Dallas County at that time with some
+Agent 103.437625 115.015375 thirty thousand people as i recall and uh joined a little firm of Texas Instruments because i wanted to go with a small company [laughter]
+Customer 111.007000 116.658125 [laughter] and they grew up around you didn't it [laughter]
+Agent 115.015375 120.183625 and uh that was twenty five hundred people when i joined and uh
+Customer 116.658125 118.751125 [silence]
+Customer 118.751125 119.998250 uh-huh
+Customer 119.998250 122.456750 [silence]
+Agent 120.183625 124.425875 then it became Dallas County's largest employer oh
+Customer 122.456750 124.681125 yeah
+Agent 124.425875 134.997875 but uh one reason i left where i was it definitely had to do with what i wanted uh [vocalized-noise] besides what i was getting and it had to do with uh
+Customer 124.681125 139.692125 [silence]
+Agent 134.997875 141.787625 wanting to do research and in other words i wanted to enjoy the job and have the freedom to do the job
+Customer 139.692125 153.020875 well i think that's one of the keys that most people uh probably put above benefits that's why i work for myself basically too [laughter-i] [laughter-want] [laughter-to] [laughter-do] [laughter-what] [laughter-i] [laughter-wanna] [laughter-do]
+Agent 141.787625 148.570625 [silence]
+Agent 148.570625 149.448125 yeah
+Agent 149.448125 151.084000 [silence]
+Agent 151.084000 160.451125 well i participated on many uh surveys and that sort of thing i was a TI fellow so i was down on you know on the technical ladder side rather than the uh
+Customer 153.020875 158.454500 [silence]
+Customer 158.454500 160.608375 um-hum
+Agent 160.451125 164.929000 heavy management although i was a branch manager at one time
+Customer 160.608375 178.617375 [silence]
+Agent 164.929000 172.912000 and [vocalized-noise] it's amazing that managers in general just would not believe the survey results because to them
+Agent 172.912000 180.142875 [vocalized-noise] uh money is the motivation and uh benefits you know stock options uh perks that sort of thing
+Customer 178.617375 181.536375 right right
+Agent 180.142875 191.966125 and power and they they just couldn't understand why with the technical surveys that were done by the uh Institute of Electrical Engineers and uh others
+Customer 181.536375 199.969125 [silence]
+Agent 191.966125 204.167750 uh including IBM's that in the technical community salary was never first [laughter] it was usually about third and [noise] yeah
+Customer 199.969125 204.786500 well i think as long as it's comparable with you know the job or can
+Agent 204.167750 205.973000 right
+Customer 204.786500 215.531625 that uh you aren't being [laughter] picked on in the sense of being the whipping boy dollar wise in the corporation you you know you know you got to i
+Agent 205.973000 213.046000 [silence]
+Agent 213.046000 223.549750 right number one and number two usually were uh number one was usually uh enjoyable work or work that i enjoy something of that sort
+Customer 215.531625 226.887750 [silence]
+Agent 223.549750 233.978000 uh and number two was freedom to do that work normally and uh third or even fourth sometimes was the salary
+Customer 226.887750 229.691750 yes yes
+Customer 229.691750 234.213125 [silence]
+Agent 233.978000 239.833125 and that was in virtually every technical uh ladder survey that was taken over the
+Customer 234.213125 235.465125 we[ll]-
+Customer 235.465125 245.172500 [silence]
+Agent 239.833125 251.386500 oh fifteen or so years that i participated but invariably the managers would challenge this you [laughter-know] becau[se]- because_1 they just couldn't believe [laughter-that] that people weren't motivated by money
+Customer 245.172500 248.311250 [laughter]
+Customer 248.311250 250.485375 right
+Customer 250.485375 256.453875 well i i wouldn't say they aren't motivated by money but i would say that there are other things that are
+Agent 251.386500 263.449625 [silence]
+Customer 256.453875 263.971250 equal or greater important i i guess if you make enough money uh if the money were really big bucks i guess some of these other things you could uh
+Agent 263.449625 275.284750 yeah well i'm sure you know if you were being paid a slave labor scale obviously money would be high up on the list but
+Customer 263.971250 269.420125 live with for a while anyway until you had enough [laughter-to] [laughter-do] [laughter-what] [laughter-you] [laughter-wanted] [laughter-to] [laughter-do] but [laughter]
+Customer 269.420125 272.842750 [silence]
+Customer 272.842750 274.088625 yes
+Customer 274.088625 284.147750 [silence]
+Agent 275.284750 288.070000 in a competitive uh market as it was most of the time when i was in where you could g[et]- you could get a job elsewhere anyt[ime]- any day of the week you wanted to go until about the last two years and uh
+Customer 284.147750 285.755625 right
+Customer 285.755625 296.062125 [silence]
+Agent 288.070000 298.466000 in that case you felt more secure uh money wise so that you could seek uh enjoyable work or creative work that sort of thing
+Customer 296.062125 297.419125 right
+Customer 297.419125 298.466000 [silence]

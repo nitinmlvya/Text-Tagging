@@ -1,0 +1,127 @@
+Agent 0.000000 1.031125 [noise]
+Customer 0.000000 0.973625 [noise]
+Customer 0.973625 3.407750 okay i guess we can just go ahead and start
+Agent 1.031125 2.789875 [silence]
+Agent 2.789875 4.156250 sure enough
+Customer 3.407750 12.419875 so what i did while they were uh a matter they i made some notes while they were calling around and they called quite a few different number before anybody answered
+Agent 4.156250 11.719375 [silence]
+Agent 11.719375 13.028000 ooh
+Customer 12.419875 19.253625 is uh some notes that i wrote down about our budget and that is uh the biggest problem that we have is that
+Agent 13.028000 27.024375 [silence]
+Customer 19.253625 29.300500 uh my wife and i both work and i get a fixed amount and i'm paid once every two weeks and my pay check always the same
+Agent 27.024375 28.615875 okay
+Agent 28.615875 30.079125 um-hum
+Customer 29.300500 35.450750 she also get paid once every two weeks but her pay checks don't come at the same time mine do
+Agent 30.079125 34.681125 [silence]
+Agent 34.681125 36.023875 okay
+Customer 35.450750 40.044125 and she doesn't get a fixed amount every everytime she gets paid
+Agent 36.023875 39.192250 [silence]
+Agent 39.192250 41.022000 oh geez
+Customer 40.044125 52.724625 and so trying to put together a budget from pay dates that are different and change all the time and where her amount change uh has been probably been one of the biggest budget problems that that we have
+Agent 41.022000 52.504625 [silence]
+Agent 52.504625 54.121875 wow
+Customer 52.724625 65.245125 and uh so what we've done is kind of taken everything that we have had to pay out over a an extended period of time and then tried to average it
+Agent 54.121875 64.974750 [silence]
+Agent 64.974750 66.232500 um-hum
+Customer 65.245125 75.765000 so that we could approximate how much each bill would be and then budget our pay checks accordingly base on the minimum amount that we would expect to receive
+Agent 66.232500 75.496000 [silence]
+Agent 75.496000 76.874125 okay
+Customer 75.765000 78.661250 and that's that's been fairly effective
+Agent 76.874125 77.955000 [silence]
+Agent 77.955000 82.697375 what happens if you get hit with some extraordinary expense
+Customer 78.661250 80.458250 [silence]
+Customer 80.458250 84.810125 hum you mean like recently [laughter] right
+Agent 82.697375 90.987000 well i mean you know [vocalized-noise] you know before you have a chance to say well geez we have a couple of months where we been low and put some off uh in the bank
+Customer 84.810125 89.916125 [silence]
+Customer 89.916125 101.572500 exactly and that's uh that recently happen we had to have break jobs on both of our cars and uh so then we end up doing a couple of things uh dipping into saving is one
+Agent 90.987000 94.247500 [silence]
+Agent 94.247500 96.768750 uh-huh ooh
+Agent 96.768750 100.997875 [silence]
+Agent 100.997875 102.290750 yeah
+Customer 101.572500 112.843625 and uh scrimping on other thing to uh get the extra money and then uh also we've got uh a an investment plan with a mutual fund
+Agent 102.290750 105.216750 [silence]
+Agent 105.216750 106.457500 um-hum
+Agent 106.457500 111.750750 [silence]
+Agent 111.750750 113.112875 um-hum
+Customer 112.843625 122.458500 and that's kind of like a savings account so between all of those varies sources and uh that is obviously not a very good way of doing thing
+Agent 113.112875 121.721375 [silence]
+Agent 121.721375 123.249750 sure
+Customer 122.458500 124.983000 so uh
+Agent 123.249750 133.438125 well i mean you don't want to do it that way you rather just keep it all in the in the bank but uh [noise] my gosh no i you know it's it's funny because when they came on they talked about
+Customer 124.983000 126.692000 no
+Customer 126.692000 128.158500 right
+Customer 128.158500 138.422000 [silence]
+Agent 133.438125 137.027750 a home budget and what not i stopped and thought to myself
+Agent 137.027750 141.410750 geez we don't have a [laughter] or turns out that you know
+Customer 138.422000 140.645125 don't even have one
+Customer 140.645125 143.816250 [silence]
+Agent 141.410750 144.364250 uh my wife and i also work
+Customer 143.816250 145.230500 um-hum
+Agent 144.364250 154.832500 and uh she work for the federal government and i work almost for the federal [laughter-government] and but it's you know fixed income basically you know from pay check to pay check how much you're going to get
+Customer 145.230500 148.174375 [silence]
+Customer 148.174375 149.621250 yeah
+Customer 149.621250 151.540875 [silence]
+Customer 151.540875 152.979375 right
+Customer 152.979375 153.998375 [silence]
+Customer 153.998375 155.555250 um-hum
+Agent 154.832500 156.286750 and
+Customer 155.555250 158.579375 [silence]
+Agent 156.286750 159.414375 uh i'm the only guy that pays any bills
+Customer 158.579375 160.132250 um-hum
+Agent 159.414375 174.163875 i mean she carries the check book but when it comes time [vocalized-noise] everybody who mails a bill like gas company and the telephone and all of that kind of stuff comes to the house and one of them gets plopped in to my mailbox and then once a week or once every two weeks i'll sit down and and write checks
+Customer 160.132250 164.894375 [silence]
+Customer 164.894375 166.386500 uh-huh
+Customer 166.386500 173.496250 [silence]
+Customer 173.496250 174.798000 hum
+Agent 174.163875 178.728000 well just recently we've we've found out that um
+Customer 174.798000 182.991125 [silence]
+Agent 178.728000 184.080375 we've had her money direct deposited to one account and my money direct deposited to another account
+Customer 182.991125 185.332000 a different account huh um-hum
+Agent 184.080375 191.213750 correct and we've been trying to live off my money which is not working [laughter-out]
+Customer 185.332000 188.474125 [silence]
+Customer 188.474125 193.518875 [laughter-right] so you can the her money and then save it or right
+Agent 191.213750 197.277375 exactly we've been trying to well basically we wanted to use her money just to pay the mortgage on the house
+Customer 193.518875 196.490625 [silence]
+Customer 196.490625 197.929125 um-hum
+Agent 197.277375 205.193375 you know that was that way we wouldn't have to worry about the mortgage it would be covered and then we would have our living expenses on mine
+Customer 197.929125 201.032375 [silence]
+Customer 201.032375 202.718375 [noise]
+Customer 202.718375 203.719875 [silence]
+Customer 203.719875 205.080750 uh-hum
+Customer 205.080750 206.395625 [silence]
+Agent 205.193375 214.601250 and it just hasn't work out you know and it i i've read these budget book and they say well you know you sit down and you figure out how much it's costing you to live and all that kind of stuff but
+Customer 206.395625 207.794750 right
+Customer 207.794750 212.420500 [silence]
+Customer 212.420500 213.854500 um-hum
+Customer 213.854500 218.524875 [silence]
+Agent 214.601250 220.578125 uh what i've notice is that it's extremely difficult for us to come up with a
+Customer 218.524875 219.680125 right
+Customer 219.680125 220.700375 [silence]
+Agent 220.578125 229.752875 uh it u[sually]- it it well co[st]- it cost us you know uh five hundred dollars a month to live it doesn't work that [vocalized-noise] one month it's five hundred the next month it's
+Customer 220.700375 223.533000 a valuable uh budget yeah
+Customer 223.533000 225.970750 [silence]
+Customer 225.970750 227.324625 um-hum
+Customer 227.324625 229.635625 right um-hum
+Customer 229.635625 231.628500 [silence]
+Agent 229.752875 244.376250 it's a thousand because you get the car insurance bill and then and then it goes down to two hundred because uh you're off on vacation or something or you know you you went traveling and and you didn't spend as much but then you come back and it goes up again and i mean it's uh that's been my problem
+Customer 231.628500 233.482875 um-hum
+Customer 233.482875 241.473875 [silence]
+Customer 241.473875 242.315125 hum
+Customer 242.315125 244.006875 [silence]
+Customer 244.006875 254.902000 we've got bill for example like the uh car insurance you mentioned that come and and this is the other problem when it comes to budgeting is that we have bills that don't come on a
+Agent 244.376250 262.357375 [silence]
+Customer 254.902000 263.056875 uh monthly or or once every two week bases like we get paid the the car insurance comes every three months
+Agent 262.357375 263.689500 right
+Customer 263.056875 271.609750 so that means that uh uh everytime because we haven't uh disciplined ourselves where we can have a uh
+Agent 263.689500 275.621625 [silence]
+Customer 271.609750 276.817375 certain amount set aside each month for when that bill comes we end up
+Agent 275.621625 278.261125 [noise]
+Customer 276.817375 282.525375 paying that whole bill every every three or four month and then that cuts into everything else on it
+Agent 278.261125 279.813750 um yeah
+Agent 279.813750 282.216000 [silence]
+Agent 282.216000 290.017375 well i do have to say that uh wh[en]- you know when we were real serious about budgeting the money and doing all of this my uh sister sent me a book
+Customer 282.525375 293.421625 [silence]
+Agent 290.017375 294.415375 [noise] and it was the book uh Wealth Without Risk by Charles Given
+Customer 293.421625 294.868250 um-hum
+Agent 294.415375 299.394000 and i do have to admit he had one suggestion in there that really
+Customer 294.868250 299.394000 [silence]

@@ -1,0 +1,355 @@
+Agent 0.000000 0.352750 [noise]
+Customer 0.000000 1.640125 [silence]
+Agent 0.352750 1.359250 [silence]
+Agent 1.359250 4.023125 so how do we fix the national budget
+Customer 1.640125 2.334500 okay
+Customer 2.334500 4.068500 [silence]
+Agent 4.023125 17.706375 [silence]
+Customer 4.068500 6.381125 damned if i know um [laughter]
+Customer 6.381125 17.334500 i don't uh i suspect uh let's see [noise] i suspect we should do what everyone says we should do we should cut spending and maybe even raise taxes but Lord knows you sh[ouldn't]- one shouldn't say that
+Customer 17.334500 18.815625 [silence]
+Agent 17.706375 18.555750 well
+Agent 18.555750 25.979250 [silence]
+Customer 18.815625 25.895000 i- i- i suspect we should probably have an independent auditing agency go in and look at how the government spends money
+Customer 25.895000 27.240125 and work from there
+Agent 25.979250 28.119250 that would probably be good
+Customer 27.240125 28.240125 [silence]
+Agent 28.119250 28.944875 [silence]
+Customer 28.240125 30.477375 because i because_1 i don't think they're very good at it
+Agent 28.944875 29.579125 but
+Agent 29.579125 30.567750 [silence]
+Customer 30.477375 39.839500 [silence]
+Agent 30.567750 31.594500 something
+Agent 31.594500 34.351625 that the government hasn't been looking at
+Agent 34.351625 35.614125 is
+Agent 35.614125 37.469750 [silence]
+Agent 37.469750 38.844375 the source of the problem
+Agent 38.844375 40.572125 [silence]
+Customer 39.839500 41.199625 um
+Agent 40.572125 42.451500 the true source of the problem
+Customer 41.199625 44.616875 [silence]
+Agent 42.451500 45.108000 is A that we do spend too much
+Customer 44.616875 46.055000 yes
+Agent 45.108000 47.880875 but also B that we don't take in enough
+Customer 46.055000 48.462250 [silence]
+Agent 47.880875 53.051500 [silence]
+Customer 48.462250 49.945375 yeah well
+Customer 49.945375 53.172750 wh[y]- wh[y]- wh[y]- why do you say that actually
+Agent 53.051500 54.005250 uh
+Customer 53.172750 58.377125 [silence]
+Agent 54.005250 57.766625 too few Americans are working
+Agent 57.766625 59.328750 [silence]
+Customer 58.377125 59.443875 hum
+Agent 59.328750 62.689625 if more Americans were working and meaningful
+Customer 59.443875 65.121125 [silence]
+Agent 62.689625 64.848750 good paying labor
+Agent 64.848750 66.252750 [silence]
+Customer 65.121125 66.426125 yes
+Agent 66.252750 67.676250 and paying taxes
+Customer 66.426125 68.999500 [silence]
+Agent 67.676250 69.446750 [silence]
+Customer 68.999500 70.772750 rather than using taxed
+Agent 69.446750 72.288500 and the tax structure was fair between
+Customer 70.772750 82.061500 [silence]
+Agent 72.288500 73.352250 the
+Agent 73.352250 74.513250 [silence]
+Agent 74.513250 77.340625 lowest and the highest income Americans
+Agent 77.340625 78.582000 [silence]
+Agent 78.582000 81.891000 then we would have more money there to play with
+Agent 81.891000 92.845875 [silence]
+Customer 82.061500 93.603750 oh that's interesting yeah that's probably true i mean well we also we'd be spending less because all the money that that normally goes to support those people aren't working it's back in the system
+Agent 92.845875 93.836000 right
+Customer 93.603750 102.959750 so you're right that's a real neat idea well what but i mean what can you know at at some point what can you do to sort of raise rev[enue]- i mean to raise jobs i wonder
+Agent 93.836000 103.234500 [silence]
+Customer 102.959750 119.089250 [silence]
+Agent 103.234500 104.471750 well
+Agent 104.471750 106.910750 i
+Agent 106.910750 110.786250 hesitate to say we ought to spend ourselves
+Agent 110.786250 112.010500 to
+Agent 112.010500 113.487125 [silence]
+Agent 113.487125 114.875000 affluence
+Agent 114.875000 116.179125 but in fact
+Agent 116.179125 117.576375 [silence]
+Agent 117.576375 119.716000 in some cases that's what we ought to do
+Customer 119.089250 121.790375 oh okay so
+Agent 119.716000 122.113250 [silence]
+Customer 121.790375 123.442625 start when
+Agent 122.113250 124.115125 not {Reaganomics} thank you
+Customer 123.442625 125.514750 [laughter]
+Agent 124.115125 128.341375 [silence]
+Customer 125.514750 126.838625 [silence]
+Customer 126.838625 128.948375 but that is not gonna work uh
+Agent 128.341375 131.974250 uh what i was thinking more along the lines of
+Customer 128.948375 135.690125 [silence]
+Agent 131.974250 134.994500 is start going to space
+Agent 134.994500 139.471250 [silence]
+Customer 135.690125 136.876625 hum
+Customer 136.876625 139.920000 and that way just create more jobs
+Agent 139.471250 140.495250 well
+Customer 139.920000 141.487125 or whatever
+Agent 140.495250 141.719625 [silence]
+Customer 141.487125 154.061375 [silence]
+Agent 141.719625 144.144625 at some point there there will be
+Agent 144.144625 145.493375 [silence]
+Agent 145.493375 146.691375 enough
+Agent 146.691375 148.556875 jobs
+Agent 148.556875 150.727250 for
+Agent 150.727250 154.327125 most of the ab[le]- able-bodied Americans
+Customer 154.061375 158.458000 hum um-hum well that's a neat idea
+Agent 154.327125 158.128375 [silence]
+Agent 158.128375 160.032375 we also need to uh
+Customer 158.458000 165.208875 [silence]
+Agent 160.032375 161.933125 [silence]
+Agent 161.933125 164.906875 assure that there's some work in the private sector
+Agent 164.906875 169.051000 [silence]
+Customer 165.208875 169.526875 yeah that's what that's what y[ou]- you think space would do that much for that or
+Agent 169.051000 174.743500 i think it would do something for it i think we would fill up new technologies
+Customer 169.526875 174.748375 [silence]
+Agent 174.743500 176.772000 but i think we should also
+Customer 174.748375 175.888000 hum
+Customer 175.888000 179.411625 [silence]
+Agent 176.772000 179.394750 do something rather radical
+Agent 179.394750 180.705000 [silence]
+Customer 179.411625 180.345875 like what
+Customer 180.345875 182.840250 [silence]
+Agent 180.705000 182.048625 legalize marijuana
+Agent 182.048625 188.324500 [silence]
+Customer 182.840250 188.732375 oh you think you think that would uh have a major effect well that would put a lot of criminals out of business for a while anyway
+Agent 188.324500 189.093750 what
+Customer 188.732375 193.645500 th[at]- that might have a um a good effect on on on crime anyway
+Agent 189.093750 193.726125 [silence]
+Customer 193.645500 207.404000 [silence]
+Agent 193.726125 197.099500 yes uh okay i think it would
+Agent 197.099500 198.994125 take some of that money
+Agent 198.994125 202.349875 out of the hands of criminals i think it would put
+Agent 202.349875 208.002250 reduce the amount of carry on drug use where people advance from one drug to another
+Customer 207.404000 209.424375 that's probably true
+Agent 208.002250 209.855625 [silence]
+Customer 209.424375 218.072375 [silence]
+Agent 209.855625 211.469250 i think that
+Agent 211.469250 213.413250 i think most importantly
+Agent 213.413250 214.902875 [silence]
+Agent 214.902875 218.385250 it would give the federal government something new that they could tax
+Customer 218.072375 221.520625 [laughter] and probably a lot of
+Agent 218.385250 221.569000 [silence]
+Customer 221.520625 224.617875 [silence]
+Agent 221.569000 225.010000 and probably a lot of and really receive some revenues from
+Customer 224.617875 226.927625 yeah but that's potentially you know
+Agent 225.010000 225.973625 [silence]
+Agent 225.973625 227.282500 uh if you
+Customer 226.927625 236.530500 [silence]
+Agent 227.282500 229.202125 look at prohibition
+Agent 229.202125 230.702875 historically
+Agent 230.702875 232.943125 [silence]
+Agent 232.943125 234.145375 it's repeal
+Agent 234.145375 236.431500 helped the federal government a lot
+Agent 236.431500 238.407250 in tax revenues
+Customer 236.530500 239.248250 um-hum um
+Agent 238.407250 244.267500 [silence]
+Customer 239.248250 240.607125 [silence]
+Customer 240.607125 243.469125 no i'd never thought about that
+Customer 243.469125 253.960250 [silence]
+Agent 244.267500 247.611250 then i think once we put
+Agent 247.611250 249.818500 [silence]
+Agent 249.818500 253.768750 money back into the coff[ers]- in the coffers of the federal government
+Agent 253.768750 256.854875 [silence]
+Customer 253.960250 255.632875 um-hum
+Customer 255.632875 290.352625 [silence]
+Agent 256.854875 258.790625 and get the federal government
+Agent 258.790625 260.332750 [silence]
+Agent 260.332750 261.668375 t[o]- where
+Agent 261.668375 263.747500 there's money there again
+Agent 263.747500 265.327250 [silence]
+Agent 265.327250 266.994125 we should reduce
+Agent 266.994125 269.034750 [silence]
+Agent 269.034750 271.786625 the amount of money
+Agent 271.786625 273.853375 and this would have to come rather quickly
+Agent 273.853375 275.657250 [silence]
+Agent 275.657250 278.186250 and would have to c[ome]- come originally also
+Agent 278.186250 279.158375 [silence]
+Agent 279.158375 281.206750 where we're not paying
+Agent 281.206750 284.938500 in some cases we do pay more for
+Agent 284.938500 288.989250 welfare recipients to live then they can earn
+Agent 288.989250 290.733625 [silence]
+Customer 290.352625 291.448250 [vocalized-noise]
+Agent 290.733625 293.166375 in the true minimum wage
+Customer 291.448250 293.779000 [silence]
+Agent 293.166375 294.369750 environment
+Customer 293.779000 297.472250 that's true we do often times they are paid more yeah
+Agent 294.369750 298.812125 [silence]
+Customer 297.472250 309.887250 [silence]
+Agent 298.812125 299.602875 and
+Agent 299.602875 300.959500 you can't
+Agent 300.959500 303.001125 [silence]
+Agent 303.001125 305.211750 deny people the right
+Agent 305.211750 307.068125 to supply
+Agent 307.068125 310.236750 their families better through whatever means
+Customer 309.887250 310.965250 right
+Agent 310.236750 312.345875 that's just sensible on their part
+Customer 310.965250 312.677375 [silence]
+Agent 312.345875 314.149250 [silence]
+Customer 312.677375 315.010250 that's just what on their part i'm sorry i missed that
+Agent 314.149250 317.441375 it's just sensible on their parts to go after the
+Customer 315.010250 316.130250 oh
+Customer 316.130250 319.120000 [silence]
+Agent 317.441375 319.316250 the the greater amount of income
+Customer 319.120000 320.164875 um-hum
+Agent 319.316250 320.570625 [silence]
+Customer 320.164875 337.652000 [silence]
+Agent 320.570625 322.005000 so if you
+Agent 322.005000 324.790125 lower the amount they make and
+Agent 324.790125 332.374000 raise the amount of true minimum wage jobs not those that are affected by the federal minimum wage
+Agent 332.374000 334.335750 [silence]
+Agent 334.335750 335.043375 then
+Agent 335.043375 337.531000 more people will get off welfare
+Agent 337.531000 341.246125 [silence]
+Customer 337.652000 340.804125 that that maybe true that's very true
+Customer 340.804125 344.467000 [silence]
+Agent 341.246125 344.662250 you know give them a true incentive to want to work
+Customer 344.467000 346.151000 right
+Agent 344.662250 345.941625 [silence]
+Agent 345.941625 346.616000 and then
+Customer 346.151000 358.840625 [silence]
+Agent 346.616000 347.469500 don't
+Agent 347.469500 348.817750 start
+Agent 348.817750 351.143250 letting more
+Agent 351.143250 352.672375 [silence]
+Agent 352.672375 354.273750 outsiders in
+Agent 354.273750 358.731000 for a few years -[un]til we figure exactly where we're at with unemployment
+Agent 358.731000 360.401625 [silence]
+Customer 358.840625 360.423750 right that's uh
+Agent 360.401625 361.657500 reduce
+Customer 360.423750 363.291500 [silence]
+Agent 361.657500 362.938375 immigration
+Agent 362.938375 364.257750 [silence]
+Customer 363.291500 364.191500 um-hum
+Customer 364.191500 367.893250 [silence]
+Agent 364.257750 368.091750 or eliminate it entirely for a few years until we get our own house in order
+Customer 367.893250 373.429125 yeah and maybe even reduce al[ong]- along the same lines maybe reduce imports as well i think
+Agent 368.091750 373.577125 [silence]
+Customer 373.429125 376.294375 [silence]
+Agent 373.577125 375.976500 oh absolutely absolutely
+Agent 375.976500 379.583000 [silence]
+Customer 376.294375 379.952750 i mean we don't need to buy other people's stuff right now
+Agent 379.583000 382.364500 that's right when we're in a world of hurt
+Customer 379.952750 381.246500 [vocalized-noise]
+Customer 381.246500 393.672625 [silence]
+Agent 382.364500 383.823750 [silence]
+Agent 383.823750 386.685625 well i don't i'm not going to say
+Agent 386.685625 389.147125 that we ought to re[duce]-
+Agent 389.147125 393.922750 reduce them through legal means i think we ought to just tax them severely
+Customer 393.672625 404.963000 right well that that's what happened in other country though and other places they tax us quite h[eavily]- i mean they tax American imports quite heavily so we could do the same thing i mean just and you know they may get
+Agent 393.922750 403.979875 [silence]
+Agent 403.979875 405.391375 it seems only fair
+Customer 404.963000 407.852875 right it does seem only fair i mean why not
+Agent 405.391375 407.927250 [silence]
+Customer 407.852875 434.552625 [silence]
+Agent 407.927250 414.974875 and i think really if we got all those that are able-bodied into the work force
+Agent 414.974875 419.878500 [silence]
+Agent 419.878500 421.264750 reduced
+Agent 421.264750 424.650250 [silence]
+Agent 424.650250 431.482250 the amount going out for those purposes created new jobs for that work force
+Agent 431.482250 433.294500 [silence]
+Agent 433.294500 434.756500 there would be plenty of money
+Customer 434.552625 436.304500 i- i think so
+Agent 434.756500 436.445750 [silence]
+Customer 436.304500 438.026000 [silence]
+Agent 436.445750 438.224625 and then at that point
+Customer 438.026000 438.921000 yes
+Agent 438.224625 440.324875 quit spending on space
+Customer 438.921000 440.390875 [silence]
+Agent 440.324875 443.176000 force it all into the into the private sector
+Customer 440.390875 441.420625 oh really
+Customer 441.420625 442.906375 [silence]
+Customer 442.906375 445.277125 oh really i love the switch
+Agent 443.176000 448.999375 [silence]
+Customer 445.277125 449.813875 well at that point you might we i[t]- i[t]- it wouldn't be a problem anymore possibly you know we would be
+Agent 448.999375 450.068875 that's right
+Customer 449.813875 454.240375 we would be able to keep it wherever we wanted to in space or the ocean research whatever we wanted to do
+Agent 450.068875 454.402625 [silence]
+Customer 454.240375 456.457250 but i think that would be
+Agent 454.402625 458.281000 uh uh space was just a convenient
+Customer 456.457250 459.632625 [silence]
+Agent 458.281000 462.170125 place for me to go because
+Customer 459.632625 460.787000 right
+Customer 460.787000 471.651125 [silence]
+Agent 462.170125 463.394875 [silence]
+Agent 463.394875 476.576125 that would put a lot of a lot of Millspec and NASA work operates to the same demanding specifications that would put a bunch of defense workers back to work
+Customer 471.651125 473.253625 um-hum
+Customer 473.253625 475.531750 [silence]
+Customer 475.531750 476.777375 right
+Agent 476.576125 493.252500 [silence]
+Customer 476.777375 484.516000 is compared to defense well that's a good idea well i well the other thing and the other thing i- i- i think we seriously need to do is um
+Customer 484.516000 492.616375 like i say have someone go in and look and you know and find out where it is we're paying ten thousand dollars per toilet seat or something
+Customer 492.616375 496.417125 [silence]
+Agent 493.252500 495.072375 you know what causes that
+Agent 495.072375 498.007625 [silence]
+Customer 496.417125 498.587125 greed i suspect
+Agent 498.007625 499.260000 uh no
+Customer 498.587125 509.435625 [silence]
+Agent 499.260000 500.274500 [silence]
+Agent 500.274500 500.726750 your
+Agent 500.726750 501.744625 [silence]
+Agent 501.744625 503.494250 your your buying large trunk
+Agent 503.494250 504.641625 [silence]
+Agent 504.641625 505.467125 uh
+Agent 505.467125 506.891375 [silence]
+Agent 506.891375 508.987375 the government specification
+Agent 508.987375 513.359125 [silence]
+Customer 509.435625 510.769500 um-hum
+Customer 510.769500 519.627125 [silence]
+Agent 513.359125 515.068125 sheets of paper
+Agent 515.068125 518.697375 for building a pair of BVD underwear
+Agent 518.697375 520.287750 for the federal government
+Customer 519.627125 520.988250 yes
+Agent 520.287750 522.435875 [silence]
+Customer 520.988250 524.741125 [silence]
+Agent 522.435875 524.093500 is twenty two foot tall
+Agent 524.093500 525.919375 [silence]
+Customer 524.741125 525.981625 really
+Agent 525.919375 530.372250 if it was all on nine by elevens stacked one on top of another
+Customer 525.981625 531.270750 [silence]
+Agent 530.372250 533.628750 [silence]
+Customer 531.270750 533.732000 for making the government issue under wear
+Agent 533.628750 536.195500 for making government issue underwear
+Customer 533.732000 536.329375 [silence]
+Agent 536.195500 538.068375 [silence]
+Customer 536.329375 537.628125 Jesus
+Customer 537.628125 550.972375 [silence]
+Agent 538.068375 540.834625 to just understand
+Agent 540.834625 543.623000 those legal requirements
+Agent 543.623000 548.667500 and operate within the government guidelines
+Agent 548.667500 550.683625 costs the company
+Agent 550.683625 551.782125 [silence]
+Customer 550.972375 552.259250 um-hum
+Agent 551.782125 553.408875 a huge amount of money
+Customer 552.259250 555.563500 [silence]
+Agent 553.408875 557.579625 [silence]
+Customer 555.563500 559.925875 well its potentially a fault of the government than i mean that could be thing like that should be i mean
+Agent 557.579625 561.474375 yes a huge amount of it is not the fault of the contractor
+Customer 559.925875 561.183375 [silence]
+Customer 561.183375 564.018625 right well that's a i had never heard that before
+Agent 561.474375 564.301875 [silence]
+Customer 564.018625 571.355750 [silence]
+Agent 564.301875 564.917750 uh
+Agent 564.917750 565.940500 [silence]
+Agent 565.940500 571.797500 a huge amount of what you hear on about the seventy five dollar hammers
+Customer 571.355750 572.812500 right
+Agent 571.797500 573.383500 [silence]
+Customer 572.812500 588.043625 [silence]
+Agent 573.383500 574.528625 and the
+Agent 574.528625 575.656500 [silence]
+Agent 575.656500 577.960875 nine hundred dollar
+Agent 577.960875 579.957000 [silence]
+Agent 579.957000 581.288000 toilet seats
+Agent 581.288000 582.395500 [silence]
+Agent 582.395500 588.276375 doesn't come from people in the industry it comes from senators that don't know anything about it
+Customer 588.043625 589.481625 hum
+Agent 588.276375 590.237750 [silence]
+Customer 589.481625 595.440875 [silence]
+Agent 590.237750 591.289000 uh
+Agent 591.289000 593.314500 my job is
+Agent 593.314500 596.012125 government tooling specialist
+Customer 595.440875 598.760750 oh okay so you know about some of these things yeah
+Agent 596.012125 599.893750 [silence]
+Customer 598.760750 599.893750 [silence]

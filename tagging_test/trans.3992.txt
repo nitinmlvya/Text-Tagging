@@ -1,0 +1,127 @@
+Agent 0.000000 0.430750 [noise]
+Customer 0.000000 0.073125 [silence]
+Customer 0.073125 8.141125 well the topic is is very apropos to what's going on um how do you feel about our topic
+Agent 0.430750 4.553875 [silence]
+Agent 4.553875 5.445000 [vocalized-noise]
+Agent 5.445000 7.859750 [silence]
+Agent 7.859750 17.547500 well i feel like uh i do feel like we pay a lot of taxes i don't mind paying a lot of taxes if the ta[xes]- taxes are spent well
+Customer 8.141125 16.935250 [silence]
+Customer 16.935250 17.868375 yes
+Agent 17.547500 22.546250 but uh i'm not convinced that they're being spent well um
+Customer 17.868375 21.686375 [silence]
+Customer 21.686375 35.971250 um i think that's because uh it's like i told someone the other day i'm a housewife and uh among uh working mother too and i know how it is to live on a budget and i hear what you're saying
+Agent 22.546250 33.099875 [silence]
+Agent 33.099875 34.998000 um-hum
+Agent 34.998000 37.906625 um-hum um-hum
+Customer 35.971250 37.087875 [silence]
+Customer 37.087875 47.948375 yeah our taxes it's nice to see them_1 spent for things that benefit the community but when we see them wasted that's when we think we're paying too much
+Agent 37.906625 47.456875 [silence]
+Agent 47.456875 57.151125 well i feel i- i mean one of the things is when i[t's]- it it's not going it's going into a lot of military stuff which is badly spent
+Customer 47.948375 56.694625 [silence]
+Customer 56.694625 57.704750 um-hum
+Agent 57.151125 65.715625 and not going into a lot of infrastructure things uh or or um you know social needs
+Customer 57.704750 60.669250 [silence]
+Customer 60.669250 61.731875 um
+Customer 61.731875 74.128875 [silence]
+Agent 65.715625 74.749750 that that it could i mean when you look at the pie it's it of where our money is spent it's it's uh very very um skewed
+Customer 74.128875 75.364375 yeah
+Agent 74.749750 82.093125 and uh so i don't feel like i- i just don't feel like they're doing what i would do with it [laughter]
+Customer 75.364375 80.421000 [silence]
+Customer 80.421000 81.938500 [laughter]
+Customer 81.938500 93.321875 well i think uh in a way that's that's uh almost off our topic in you know in that uh they didn't want us to talk about how it was spent but i don't think you can separate it
+Agent 82.093125 102.495000 [silence]
+Customer 93.321875 103.627750 i know um i felt very fortunate once when i talked with a lady from England and she said their taxes are at least fifty percent
+Agent 102.495000 104.048000 uh-huh
+Customer 103.627750 111.542375 and uh in talking to people i've met from other places uh we do seem to get off light
+Agent 104.048000 119.014000 [silence]
+Customer 111.542375 120.082500 except you know if you ever make money one year now you pay all this horrible taxes and you don't get to keep [laughter-any] [laughter-of] [laughter-it]
+Agent 119.014000 125.893500 well uh but the people who pay a lot of taxes also get a lot of services they have national health
+Customer 120.082500 123.804250 [silence]
+Customer 123.804250 124.354125 that's
+Customer 124.354125 127.066375 [silence]
+Agent 125.893500 127.943000 so you know uh
+Customer 127.066375 129.063625 oh yeah um-hum
+Agent 127.943000 132.097875 in other words yes that's why i say
+Customer 129.063625 131.053375 [silence]
+Customer 131.053375 132.805375 in the other countries
+Agent 132.097875 138.128750 yeah so i'm saying if we did i wouldn't mind paying what we pay
+Customer 132.805375 137.575375 [silence]
+Customer 137.575375 138.561125 um-hum
+Agent 138.128750 142.031125 or even more if i got a lot [laughter-of] stuff back for it
+Customer 138.561125 140.557625 [silence]
+Customer 140.557625 142.163000 yeah
+Agent 142.031125 143.138750 but uh
+Customer 142.163000 148.344750 well on national health so many of them_1 can't use it they say because they never can get in to see their doctors
+Agent 143.138750 147.987250 [silence]
+Agent 147.987250 149.596750 yeah
+Customer 148.344750 149.987750 at least in England
+Agent 149.596750 157.463875 i we hear that here uh some although we get some people who obviously don't want it like
+Customer 149.987750 151.639875 [silence]
+Customer 151.639875 152.505500 um-hum
+Customer 152.505500 153.982000 yeah
+Customer 153.982000 156.972500 [silence]
+Customer 156.972500 157.682375 um-hum
+Agent 157.463875 159.920125 like rich doctors [laughter]
+Customer 157.682375 159.194000 [silence]
+Customer 159.194000 160.291250 yeah
+Agent 159.920125 167.534875 who who'd rather us not have it i think but i don't know i- i just and local taxes um i think are probably
+Customer 160.291250 171.450000 [silence]
+Agent 167.534875 178.144625 just about the same you know the s[chool]- the school taxes and all of that income tax of course is not a a topic in in Texas yet but i'm sure it's coming
+Customer 171.450000 172.366750 [noise] um-hum
+Customer 172.366750 176.118625 [silence]
+Customer 176.118625 184.722750 i hope it doesn't i uh i hope not but i don't see any way out of it unless we start cutting some spending drastically
+Agent 178.144625 179.245000 [silence]
+Agent 179.245000 180.480625 y[eah]-
+Agent 180.480625 181.872375 no
+Agent 181.872375 184.051625 [silence]
+Agent 184.051625 190.009750 that's true i've lived in uh states where they had income tax and you you know and you just get used to it
+Customer 184.722750 189.454000 [silence]
+Customer 189.454000 190.964125 yeah
+Agent 190.009750 193.293875 but uh ag[ain]- again um
+Customer 190.964125 196.592750 [silence]
+Agent 193.293875 197.391125 it just depends on what they're what it's being spent on
+Customer 196.592750 202.705875 course i- i think the sales tax is about the most equitable tax there is
+Agent 197.391125 209.147000 [silence]
+Customer 202.705875 210.087875 because if you don't uh buy and participate you don't have to have to pay it
+Agent 209.147000 210.719000 um
+Customer 210.087875 219.888250 [noise] and uh that way people who use the facilities and live outside of the area basically help pay some of the upkeep for it
+Agent 210.719000 219.294750 [silence]
+Agent 219.294750 224.467750 yeah and sometimes and sometimes i think it does work that way um
+Customer 219.888250 222.616625 [silence]
+Customer 222.616625 223.740750 um-hum
+Customer 223.740750 237.682625 [silence]
+Agent 224.467750 226.496750 but they you know uh
+Agent 226.496750 227.549875 [silence]
+Agent 227.549875 238.353875 uh again it's it's y[ou]- you you have the different kind of taxes then then then what are they being used for and who is deciding what they are being used for
+Customer 237.682625 241.659625 and how much is spent to administrate administrate them_1 [laughter]
+Agent 238.353875 240.559625 [silence]
+Agent 240.559625 243.144500 right [laughter]
+Customer 241.659625 243.773375 [laughter] yeah
+Agent 243.144500 256.266250 all those people are doing those things and and and i know that the stories i mean i personally know people who have been in this place where you know they they're having trouble paying their taxes and they
+Customer 243.773375 255.152625 [silence]
+Customer 255.152625 256.174750 um-hum
+Customer 256.174750 263.535125 [silence]
+Agent 256.266250 269.636250 uh like you would with a bank you know go into the IRS and say you know you can you can do all this stuff to me and get nothing or give me you know let me pay this out and you'll get it all
+Customer 263.535125 264.516500 um-hum
+Customer 264.516500 269.103500 [silence]
+Customer 269.103500 270.803750 um-hum
+Agent 269.636250 279.679750 and they'll say no you [laughter-know] and i think n[ow]- wait a minute that was my money you [laughter-said] no with well we[ll]- well you're not going to get it all uh
+Customer 270.803750 272.712750 yeah
+Customer 272.712750 275.760000 [silence]
+Customer 275.760000 277.202125 that's right
+Customer 277.202125 278.360000 [silence]
+Customer 278.360000 284.062000 yeah and and one of the things that makes it so hard on these people they slap so much penalty and interest on it
+Agent 279.679750 283.337125 [silence]
+Agent 283.337125 284.808625 um-hum
+Customer 284.062000 286.891375 that they can triple it in nothing flat
+Agent 284.808625 286.151750 [silence]
+Agent 286.151750 289.918250 yeah i mean it's the one place that there's no recourse at all
+Customer 286.891375 289.051250 [silence]
+Customer 289.051250 290.156750 um-hum
+Agent 289.918250 295.305750 and a lot of people aren't trying to get out of it but trying to figure a way to live and pay it back
+Customer 290.156750 295.034875 [silence]
+Customer 295.034875 295.818500 right
+Agent 295.305750 298.889000 and they just they don't accept that at all so
+Customer 295.818500 298.068250 [silence]
+Customer 298.068250 299.522000 um-hum
+Agent 298.889000 299.522000 [silence]

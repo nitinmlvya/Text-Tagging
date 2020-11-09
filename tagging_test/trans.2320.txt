@@ -1,0 +1,235 @@
+Agent 0.000000 1.726125 [silence]
+Customer 0.000000 1.215875 [noise]
+Customer 1.215875 2.452375 well Bonny
+Agent 1.726125 2.939375 yeah
+Customer 2.452375 4.250500 how do you do your budget
+Agent 2.939375 4.060875 [silence]
+Agent 4.060875 5.381500 well
+Customer 4.250500 9.690000 [silence]
+Agent 5.381500 7.567875 we take the rent first
+Agent 7.567875 10.426500 you know we need to have a roof over our head
+Customer 9.690000 10.898125 uh-huh
+Agent 10.426500 12.584250 and then we take the car
+Customer 10.898125 15.031750 [silence]
+Agent 12.584250 15.511500 you know we need a car to get back and forth to work
+Customer 15.031750 16.181250 yeah
+Agent 15.511500 17.771250 and then it's the utilities
+Customer 16.181250 26.350375 [silence]
+Agent 17.771250 19.411000 and then the food
+Agent 19.411000 20.421375 [silence]
+Agent 20.421375 21.614625 uh
+Agent 21.614625 24.093875 and then uh the regular bills
+Agent 24.093875 26.664625 you know your credit cards and your uh
+Customer 26.350375 28.375250 utilities and stuff like that
+Agent 26.664625 27.681500 [silence]
+Agent 27.681500 28.762125 yeah
+Customer 28.375250 29.159875 yeah
+Agent 28.762125 29.776750 [silence]
+Customer 29.159875 46.476125 [silence]
+Agent 29.776750 31.071000 uh
+Agent 31.071000 40.974625 i i'm trying to think what else phone the pho[ne]- utilities come last or uh before let's see the utilities come before the food and the bills
+Agent 40.974625 47.050500 the uh credit card you know the credit cards and what else is there that we pay you know we got loans
+Customer 46.476125 47.568875 uh-huh
+Agent 47.050500 52.464375 things like that they come before the uh uh they come after everything else
+Customer 47.568875 51.783250 [silence]
+Customer 51.783250 52.817250 huh
+Agent 52.464375 55.497625 they're last on it because you know uh they
+Customer 52.817250 64.455625 [silence]
+Agent 55.497625 64.741750 they're never late but they're the least uh b[othersome]- bothersome to us you know uh we need a roof and all that before we need anything else
+Customer 64.455625 69.013750 yeah i kind of think you ought to make make them wait until the last possible minute for it
+Agent 64.741750 69.377375 [silence]
+Customer 69.013750 70.747625 [silence]
+Agent 69.377375 70.594625 yeah
+Agent 70.594625 80.016125 [silence]
+Customer 70.747625 76.671625 we do ours uh fairly similar course uh we both have married before
+Customer 76.671625 82.473625 and uh so what what we do is kind of divide up the bills based on who makes the most money
+Agent 80.016125 81.310750 yeah
+Agent 81.310750 86.154875 [silence]
+Customer 82.473625 86.972125 and whoever makes the most money course takes the most you know the biggest part of the bills
+Agent 86.154875 92.600375 yeah well i'm a homemaker myself so he he brings home the money and we just divvy it up the way it
+Customer 86.972125 88.458500 [silence]
+Customer 88.458500 89.783875 uh
+Customer 89.783875 97.298250 [silence]
+Agent 92.600375 93.868750 should be and
+Agent 93.868750 94.874500 [silence]
+Agent 94.874500 97.212875 or the way whatever way we can
+Agent 97.212875 104.933375 [silence]
+Customer 97.298250 99.661750 i wish we could do that unfortunately
+Customer 99.661750 100.815625 [silence]
+Customer 100.815625 104.622750 between two divorces it kind of it kind of taps you out pretty good
+Customer 104.622750 115.118250 [silence]
+Agent 104.933375 111.455750 i can imagine i uh you know i haven't gone through a divorce myself i've only been married once but uh
+Agent 111.455750 115.959375 i know a lot of people that have and a lot of them's got alimony and child support and all that
+Customer 115.118250 123.014000 oh yeah it that takes a big hunk out of your budget it costs me about uh three thousand dollars a year for child support
+Agent 115.959375 118.493625 [silence]
+Agent 118.493625 120.144125 yeah i bet
+Agent 120.144125 122.229500 [silence]
+Agent 122.229500 123.432625 [vocalized-noise]
+Customer 123.014000 127.751000 which is after i mean that's net that's that's right after i pay the taxes and stuff on it
+Agent 123.432625 127.987250 [silence]
+Customer 127.751000 129.973875 [silence]
+Agent 127.987250 130.216125 well that's better than having them living with you
+Customer 129.973875 131.634000 yeah
+Agent 130.216125 133.366875 [laughter] they're more expensive right there day in and day out
+Customer 131.634000 132.608250 [silence]
+Customer 132.608250 136.063375 that's what i hear although although i kind of miss some of that stuff
+Agent 133.366875 135.204625 [silence]
+Agent 135.204625 137.080000 yeah i bet you do
+Customer 136.063375 145.341125 yeah but you know you know bills wise uh we kind of divide everything up and i take i take the bigger portion of it and uh my wife takes some of hers
+Agent 137.080000 151.839375 [silence]
+Customer 145.341125 152.913500 and we have an agreement that uh if we're going to charge anything over like seventy five or eighty dollars then [vocalized-noise] we uh we talk about it
+Agent 151.839375 154.026375 yeah oh well me and my hu[sband]-
+Customer 152.913500 156.475375 unless of course it's uh it's like for a present or whatever
+Agent 154.026375 156.078000 [silence]
+Agent 156.078000 157.343125 yeah
+Customer 156.475375 157.479250 [silence]
+Agent 157.343125 159.680500 [silence]
+Customer 157.479250 160.483875 and we have snuck some pretty good size presents in here
+Agent 159.680500 167.883750 [laughter] i love it when my husband decides to to say fudge with the budget and uh sneak a big gift in
+Customer 160.483875 167.527750 [silence]
+Customer 167.527750 172.579750 yeah i uh i was trying to finagle our budget around because uh my wife wanted
+Agent 167.883750 177.421250 [silence]
+Customer 172.579750 179.036125 she really wanted a little small five inch TV she could carry around the house or you know back in her sewing room whenever she's watching television
+Agent 177.421250 179.400375 i've got one of them
+Customer 179.036125 183.154375 and she wanted one so bad and we were just kind of short on money
+Agent 179.400375 195.401000 [silence]
+Customer 183.154375 190.144125 and so all through the year i i was putting you know five or ten dollars back fifteen twenty whatever i could spare i was putting back in a little envelope in there
+Customer 190.144125 195.746250 i was hanging onto it i thought God you know come Christmas time we're going to have that television set come hell or high water
+Agent 195.401000 196.488750 yeah
+Customer 195.746250 197.561375 and sure enough we got it
+Agent 196.488750 197.495375 [silence]
+Agent 197.495375 203.932000 [noise] well uh my mother-in-law gave us one for Christmas a couple years ago i don't think it's five inches i think it's a little bit bigger than that
+Customer 197.561375 205.545375 [silence]
+Agent 203.932000 210.257875 but it runs on uh car batteries and you know stick it in the lighter and runs on regular batteries and electricity
+Customer 205.545375 206.500375 uh-huh
+Customer 206.500375 207.703750 yeah
+Customer 207.703750 212.574500 [silence]
+Agent 210.257875 212.552500 so it's a neat little thing to have
+Agent 212.552500 220.187125 [silence]
+Customer 212.574500 220.684500 how how do you d[ivide]- uh you just divide up your uh the money just you just make a deposit in the bank and kind of go from there huh
+Agent 220.187125 223.996875 uh well they ha[ve]- we have direct deposit that helps a lot
+Customer 220.684500 223.275750 [silence]
+Customer 223.275750 224.357125 uh-huh
+Agent 223.996875 226.384375 uh and uh
+Customer 224.357125 231.147750 [silence]
+Agent 226.384375 233.490500 first thing he does is we get out our clipboard we got everything on a clipboard from now for three months ahead
+Customer 231.147750 232.054250 uh-huh
+Customer 232.054250 233.394250 [noise]
+Customer 233.394250 241.845375 [silence]
+Agent 233.490500 236.833000 and uh you know he makes the same amount every week
+Agent 236.833000 245.228875 uh he's not it's not salary he gets paid by the hour but we know exactly to the penny how much he's going to get unless he works over and then it's
+Customer 241.845375 242.857250 uh-huh
+Customer 242.857250 259.084500 [silence]
+Agent 245.228875 249.605750 uh you know that's extra uh but
+Agent 249.605750 259.812000 he's got us situated to where we pay uh pay two or three of the big ones at the beginning of the month and then all the little ones at the middle of the month
+Customer 259.084500 260.215000 uh-huh
+Agent 259.812000 269.098875 and uh none of them's ever been late you know the ones that come in the middle of the month are early you know we pay them like two weeks ahead of time and uh
+Customer 260.215000 266.806750 [silence]
+Customer 266.806750 268.059500 uh-huh
+Customer 268.059500 283.427625 [silence]
+Agent 269.098875 271.522875 it works out real well uh
+Agent 271.522875 274.410000 most problem we had was when uh
+Agent 274.410000 276.184500 let's see when was it
+Agent 276.184500 279.328625 something like we had a three p[ay]- uh weekends
+Agent 279.328625 284.413375 uh you know it was a late uh uh the long pay period
+Customer 283.427625 284.718250 uh-huh
+Agent 284.413375 288.025375 and uh we was close to being uh
+Customer 284.718250 311.082750 [silence]
+Agent 288.025375 294.488000 oh shoot i'm trying to think it's been so long uh it was when he was in the military and uh
+Agent 294.488000 300.022750 it was something like four weeks in between pay periods and it really blew everything away
+Agent 300.022750 303.548750 uh we was close to being late on a lot of stuff
+Agent 303.548750 306.356750 and so that was pretty bad but
+Agent 306.356750 310.568000 i don't know i like that he's got it mapped out in the uh on the clipboard
+Agent 310.568000 313.812625 [silence]
+Customer 311.082750 311.951000 [laughter]
+Customer 311.951000 314.125375 he's got a stable schedule then
+Agent 313.812625 314.549875 yeah
+Customer 314.125375 315.594750 everything kind of works out well
+Agent 314.549875 315.555000 [silence]
+Agent 315.555000 317.789750 yeah pretty much uh
+Customer 315.594750 323.943750 [silence]
+Agent 317.789750 318.858125 [silence]
+Agent 318.858125 323.633250 with the direct deposit that's what helps you know because he doesn't have the money in hand
+Agent 323.633250 331.448375 [silence]
+Customer 323.943750 332.178875 yeah if if if you don't have to go down to the bank for something you can kind of put it in there if you have the tendency to go to the bank you kind of well i'll take five or ten dollars here
+Agent 331.448375 336.546125 oh well he's he's we got that ATM machine and that and his bank is right there at his work
+Customer 332.178875 335.887250 [silence]
+Customer 335.887250 336.688875 oh
+Agent 336.546125 341.524000 and that's hard you know uh i'm sure you're [vocalized-noise] familiar with TI up here
+Customer 336.688875 340.792625 [silence]
+Customer 340.792625 341.808500 oh yeah
+Agent 341.524000 344.866250 and you know how they got the Tex[ans]- uh that Texans Credit Union
+Customer 341.808500 342.932625 [silence]
+Customer 342.932625 344.999250 uh-huh Tex Tower yeah
+Agent 344.866250 346.730375 right there he uh
+Customer 344.999250 355.681125 [silence]
+Agent 346.730375 355.406875 he's good at uh getting into that but he's g[ood]- he's you know we never in my i- i've been married to him for seven years and we've never had a check bounce
+Agent 355.406875 356.417250 [silence]
+Customer 355.681125 356.640500 that's good
+Agent 356.417250 360.544875 and uh well no i take that back one time we did uh
+Customer 356.640500 370.338875 [silence]
+Agent 360.544875 361.547500 [silence]
+Agent 361.547500 370.113875 it didn't bounce but it came close we called our landlord and asked her to hold off on check cashing the check for three days [laughter] we was overdrawn six dollars
+Agent 370.113875 372.166500 [silence]
+Customer 370.338875 371.885875 that's not too bad
+Customer 371.885875 374.509625 that that's cutting it pretty close though
+Agent 372.166500 373.060000 so
+Agent 373.060000 374.061125 [silence]
+Agent 374.061125 374.950625 yeah
+Customer 374.509625 382.519250 [silence]
+Agent 374.950625 382.129625 [noise] but uh it was i don't know we've never he we've had problems meeting our bills before but uh we've met them
+Agent 382.129625 391.639875 [silence]
+Customer 382.519250 385.323625 well i think everybody has problems meeting bills now
+Customer 385.323625 387.880875 not too much you can do about it
+Customer 387.880875 391.924500 between the taxes and everything else everything goes up faster than the salary does
+Agent 391.639875 398.254125 yeah that's what's going to hurt us in April uh we owe on our taxes and that will hurt
+Customer 391.924500 398.146625 [silence]
+Customer 398.146625 400.337375 oh yeah so do we
+Agent 398.254125 409.124125 and yeah that's taking money that we didn't have you know that we had set aside for uh a bill or two and we're trying to finagle now getting ready for it because we got to pay them by April
+Customer 400.337375 402.859375 [silence]
+Customer 402.859375 404.122625 uh-huh
+Customer 404.122625 409.457750 [silence]
+Agent 409.124125 410.804250 [silence]
+Customer 409.457750 411.619375 yeah they want their money real quick
+Agent 410.804250 412.128750 yeah
+Customer 411.619375 413.783250 that's the only bad part we got the same problem
+Agent 412.128750 419.663125 [silence]
+Customer 413.783250 417.289750 however i guess it uh beats the alternative
+Customer 417.289750 418.295500 [silence]
+Customer 418.295500 420.150875 just not having anything to start out with
+Agent 419.663125 421.058500 yeah
+Customer 420.150875 423.986000 [silence]
+Agent 421.058500 425.426375 well i know how it is to start out with nothing uh you know
+Customer 423.986000 425.540250 oh yeah
+Agent 425.426375 427.895875 and uh i'm we're up to where
+Customer 425.540250 432.064375 [silence]
+Agent 427.895875 428.942625 [silence]
+Agent 428.942625 431.827500 close to where we want to be but we're not quite there yet
+Agent 431.827500 434.948000 [silence]
+Customer 432.064375 435.080000 well you get if you just keep trying pretty soon you make it
+Agent 434.948000 440.223375 yeah i just c[an]- i just think that i it would help a lot if i got a job
+Customer 435.080000 443.851125 [silence]
+Agent 440.223375 441.650875 but then
+Agent 441.650875 443.702250 i'd rather be with my kids
+Agent 443.702250 446.439250 [silence]
+Customer 443.851125 447.083375 well you know kids are important you got s[tay]- you have to stay home with the kids
+Agent 446.439250 450.676375 yeah well you know i've got a two year old and a four year old and uh
+Customer 447.083375 449.477875 [silence]
+Customer 449.477875 452.316875 well soon as they get in to school it won't it won't be so bad
+Agent 450.676375 451.938500 [silence]
+Agent 451.938500 455.223000 yeah but i know it would help with the bills
+Customer 452.316875 457.318375 [silence]
+Agent 455.223000 461.007125 [silence]
+Customer 457.318375 458.457875 well Bonny
+Customer 458.457875 460.653125 i[t]- it sounds like a pretty good idea
+Customer 460.653125 461.656250 [silence]
+Agent 461.007125 462.088000 yeah
+Customer 461.656250 465.045125 tell you what uh i think we about done our about five minutes
+Agent 462.088000 464.478000 [silence]
+Agent 464.478000 467.192500 okay well it was nice talking to you
+Customer 465.045125 466.056500 [silence]
+Customer 466.056500 467.841375 okay we'll check you later
+Agent 467.192500 468.547875 all right bye-bye
+Customer 467.841375 468.836875 bye-bye
+Agent 468.547875 470.213625 [noise]
+Customer 468.836875 470.213625 [noise]

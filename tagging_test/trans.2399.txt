@@ -1,0 +1,276 @@
+Agent 0.000000 4.511250 [silence]
+Customer 0.000000 0.825000 [noise]
+Customer 0.825000 6.380250 okay um let's see how do you feel about [laughter-credit] cards [laughter]
+Agent 4.511250 6.218000 [laughter]
+Agent 6.218000 8.280000 personally i do not care for them
+Customer 6.380250 23.050625 [silence]
+Agent 8.280000 16.547500 uh although i find them a necessity in business and so forth i i try to refrain from their use as much as possible
+Agent 16.547500 18.090000 um
+Agent 18.090000 20.148625 for a number of reasons
+Agent 20.148625 24.156750 one of which is the you know extreme interest rate on most of them
+Customer 23.050625 24.299375 uh-huh
+Agent 24.156750 32.727375 the one i use uh of course for mostly only for business purposes is uh you know American Express
+Customer 24.299375 32.415375 [silence]
+Customer 32.415375 33.518125 right
+Agent 32.727375 33.735375 [silence]
+Customer 33.518125 42.535250 [silence]
+Agent 33.735375 34.937000 and uh
+Agent 34.937000 35.945250 [silence]
+Agent 35.945250 37.914250 i'm not [noise]
+Agent 37.914250 43.008625 i'm not terribly in favor of them not for my own personal uh point of view
+Customer 42.535250 43.550625 right
+Agent 43.008625 48.319375 plus it uh has you know from an economic point of view it has increased our
+Customer 43.550625 49.945125 [silence]
+Agent 48.319375 49.323500 [silence]
+Agent 49.323500 50.435625 debt
+Customer 49.945125 51.342125 yeah
+Agent 50.435625 51.506250 um
+Customer 51.342125 52.539375 [silence]
+Agent 51.506250 53.005375 tremendously
+Customer 52.539375 53.988375 right
+Agent 53.005375 63.992375 to the tune of somewhere on the order of five to ten billion i believe is number uh at least that's one number for this range of numbers i have i have heard
+Customer 53.988375 57.284750 [silence]
+Customer 57.284750 58.812375 wow
+Customer 58.812375 63.517375 [silence]
+Customer 63.517375 64.486125 wow
+Agent 63.992375 66.323250 do you use them frequently or
+Customer 64.486125 66.160500 [silence]
+Customer 66.160500 71.295250 well we uh me and my wife when
+Agent 66.323250 87.689375 [silence]
+Customer 71.295250 77.916875 when we have like extra money that we know we're going to have and we can put it in our budget
+Customer 77.916875 78.921375 [silence]
+Customer 78.921375 88.480625 yeah we'll we'll use it but like last year i think we paid um i think it was like twenty something cents interest
+Agent 87.689375 89.257125 [laughter]
+Customer 88.480625 90.427750 on our Visa
+Agent 89.257125 90.564625 uh-huh
+Customer 90.427750 94.026000 and i think this this year we
+Agent 90.564625 107.387875 [silence]
+Customer 94.026000 100.705125 uh i think we used it for Christmas and we got caught just a few days on our grace period
+Customer 100.705125 108.618125 and uh so we'll pay a little interest this year but maybe two dollars but we don't like to do that at all
+Agent 107.387875 108.582250 yes
+Agent 108.582250 127.555000 [silence]
+Customer 108.618125 114.541750 and you know we i think we feel about the same way you do real strongly
+Customer 114.541750 117.973125 we uh we have several credit cards though
+Customer 117.973125 124.000375 um we have a gas card our Visa and then of course the American Express
+Customer 124.000375 128.800750 and i think we have a couple of department stores
+Agent 127.555000 128.833625 uh-huh
+Customer 128.800750 133.094625 but we use it the same way and uh
+Agent 128.833625 131.496250 [silence]
+Agent 131.496250 134.468000 i find the one i use mostly uh
+Customer 133.094625 140.290625 [silence]
+Agent 134.468000 135.475250 [silence]
+Agent 135.475250 138.611250 aside from the American Express i do use
+Agent 138.611250 140.624375 my Sears card
+Customer 140.290625 141.697625 uh-huh
+Agent 140.624375 142.059250 uh
+Customer 141.697625 150.719500 [silence]
+Agent 142.059250 143.324500 but
+Agent 143.324500 144.684500 uh
+Agent 144.684500 148.196125 i try [vocalized-noise] as with the American Express i try to pay it
+Agent 148.196125 149.240625 [silence]
+Agent 149.240625 151.298625 you know as it comes in
+Customer 150.719500 153.235500 right right
+Agent 151.298625 152.305125 [silence]
+Agent 152.305125 153.738625 so uh
+Customer 153.235500 161.257875 it's it's not uncommon for us to have paid it before we even get the bill that's usually how we do it
+Agent 153.738625 161.216375 [silence]
+Agent 161.216375 166.668250 i know when i travel or when i used to travel overseas quite a bit what i would do on my American Express card
+Customer 161.257875 176.068250 [silence]
+Agent 166.668250 167.845125 is
+Agent 167.845125 168.852750 [silence]
+Agent 168.852750 171.555625 before i would before i left
+Agent 171.555625 176.633875 i would mail a check to to American Express
+Customer 176.068250 177.351375 uh-huh
+Agent 176.633875 178.344625 and
+Customer 177.351375 184.035250 [silence]
+Agent 178.344625 184.462750 you know have some idea of how much was there you know i'd sent them you know several hundred dollars or whatever
+Customer 184.035250 185.089375 uh-huh
+Agent 184.462750 186.691625 i felt i would spend
+Customer 185.089375 186.202125 [silence]
+Customer 186.202125 187.473125 yeah
+Agent 186.691625 189.430000 and then use it then
+Customer 187.473125 189.211125 [silence]
+Customer 189.211125 190.589750 yeah
+Agent 189.430000 190.434500 [silence]
+Agent 190.434500 195.007625 but uh you know for hotels and and so forth but uh
+Customer 190.589750 196.768625 [silence]
+Agent 195.007625 198.303125 but i knew that it was paid i knew [laughter]
+Customer 196.768625 198.003625 right
+Customer 198.003625 199.077500 yeah
+Agent 198.303125 203.993375 i knew that i had that much credit going in sometimes you know sometimes i would go over but uh
+Customer 199.077500 200.078625 [silence]
+Customer 200.078625 201.278875 yeah
+Customer 201.278875 208.631000 [silence]
+Agent 203.993375 205.002500 [silence]
+Agent 205.002500 213.123625 it wouldn't you know it wouldn't hit me in a big in a big way because i knew that uh i would have it covered in that respect
+Customer 208.631000 209.773500 right
+Customer 209.773500 211.916500 [silence]
+Customer 211.916500 213.170500 right
+Agent 213.123625 217.430625 [silence]
+Customer 213.170500 215.551500 well that's good i've
+Customer 215.551500 222.745500 i don't think we've gone that far we've [laughter-been] before [laughter] to pay it in ad[vance]- you know in advance before we spend it but
+Agent 217.430625 218.910875 [laughter]
+Agent 218.910875 221.398500 [silence]
+Agent 221.398500 222.664500 uh-huh
+Agent 222.664500 227.101875 [silence]
+Customer 222.745500 229.331625 i guess if you foresaw that you were going to have to use it that like that that may be good
+Agent 227.101875 231.109000 well i found you know i found in um
+Customer 229.331625 232.988250 [silence]
+Agent 231.109000 233.360125 in traveling overseas
+Customer 232.988250 234.103500 uh-huh
+Agent 233.360125 235.838125 that uh
+Customer 234.103500 241.912500 [silence]
+Agent 235.838125 236.877750 [silence]
+Agent 236.877750 238.167625 often
+Agent 238.167625 239.174375 [silence]
+Agent 239.174375 244.818250 it would uh it would expedite things to have an American Express credit card
+Customer 241.912500 243.330625 uh-huh
+Customer 243.330625 244.933750 [silence]
+Agent 244.818250 245.839750 [silence]
+Customer 244.933750 246.394500 oh really
+Agent 245.839750 249.403625 for uh for hotel bills and so forth
+Customer 246.394500 249.001625 [silence]
+Customer 249.001625 250.279625 yeah
+Agent 249.403625 251.378500 plus i would uh
+Customer 250.279625 263.386125 [silence]
+Agent 251.378500 252.383125 [silence]
+Agent 252.383125 253.835500 when they
+Agent 253.835500 255.276125 uh
+Agent 255.276125 259.417125 would send the bill and they would automatically convert
+Agent 259.417125 261.256875 to the
+Agent 261.256875 263.029625 exchange rate
+Agent 263.029625 264.081750 [silence]
+Customer 263.386125 265.634375 right right
+Agent 264.081750 265.357750 so
+Agent 265.357750 272.585625 now the only t[ime]- time that got to be a problem was if the exchange rate changed drastically
+Customer 265.634375 272.572125 [silence]
+Customer 272.572125 273.968625 uh-huh
+Agent 272.585625 273.586125 [silence]
+Agent 273.586125 277.090875 uh for example i remember on one trip to France
+Customer 273.968625 286.643875 [silence]
+Agent 277.090875 278.119375 [silence]
+Agent 278.119375 280.702000 when i started planning the trip
+Agent 280.702000 282.435375 i think uh
+Agent 282.435375 283.437500 [silence]
+Agent 283.437500 286.349000 a dollar was worth nine or ten francs
+Agent 286.349000 287.351250 [silence]
+Customer 286.643875 287.914250 uh-huh
+Agent 287.351250 291.377250 and just in a matter of a week or two
+Customer 287.914250 302.581625 [silence]
+Agent 291.377250 292.379625 [silence]
+Agent 292.379625 298.073375 the dollar fell against the franc drastically and whe[n]- when i finally got over there
+Agent 298.073375 302.810875 it had fallen uh two or three francs to the dollar so the
+Customer 302.581625 304.341125 wow
+Agent 302.810875 304.863375 [laughter] so
+Customer 304.341125 306.608500 [silence]
+Agent 304.863375 308.666875 i got caught a little short in that regard but uh
+Customer 306.608500 308.552500 wow
+Customer 308.552500 309.863125 yeah
+Agent 308.666875 309.682000 [silence]
+Agent 309.682000 313.575375 uh i i was anticipating you know my room would cost uh
+Customer 309.863125 317.809625 [silence]
+Agent 313.575375 315.102250 let's say if it were
+Agent 315.102250 317.895750 say sixty or seventy francs a night
+Customer 317.809625 319.258250 right
+Agent 317.895750 321.272000 that would mean it would be about ten dollars or so
+Customer 319.258250 327.763750 [silence]
+Agent 321.272000 325.375500 or maybe twenty doll[ars]- maybe it would be more than that it was more than [vocalized-noise]
+Agent 325.375500 329.136000 it would average out to thirty five or forty dollars a night which is a reasonable rate
+Customer 327.763750 329.869500 right right
+Agent 329.136000 330.841625 but then [laughter]
+Customer 329.869500 334.926625 [silence]
+Agent 330.841625 335.038625 when i got back and i was working for the government at the time
+Customer 334.926625 336.356250 uh-huh
+Agent 335.038625 343.575250 uh of course the government was several months behind on their per on its per diem for exchange rate
+Customer 336.356250 340.354750 [silence]
+Customer 340.354750 341.472875 right yeah
+Customer 341.472875 343.659000 [silence]
+Agent 343.575250 351.885000 so there's a little consternation you know in trying to uh get them to compensate for the uh for the difference in the exchange rate
+Customer 343.659000 344.909750 right
+Customer 344.909750 349.187125 [silence]
+Customer 349.187125 350.628875 yeah
+Customer 350.628875 351.771250 [silence]
+Customer 351.771250 353.613750 right
+Agent 351.885000 353.533125 [laughter]
+Agent 353.533125 356.778500 that that was the only time i really got caught short and i
+Customer 353.613750 354.799000 yeah especially
+Customer 354.799000 356.246125 [silence]
+Customer 356.246125 357.726250 yeah
+Agent 356.778500 357.796500 [silence]
+Customer 357.726250 364.215625 [silence]
+Agent 357.796500 364.627500 but as i said most most of all i try not to use them uh to any you know lavishly in that regard
+Customer 364.215625 366.971375 yeah well that['s]- that's good
+Agent 364.627500 367.075750 and it yeah yeah
+Customer 366.971375 368.992375 [silence]
+Agent 367.075750 369.198000 well from where are you calling
+Customer 368.992375 371.664625 oh from the Dallas area
+Agent 369.198000 370.432500 [silence]
+Agent 370.432500 372.956375 so you're from Dall[as]- okay i'm from Maryland
+Customer 371.664625 372.681625 [silence]
+Customer 372.681625 374.172875 oh really
+Agent 372.956375 375.409375 yeah [laughter]
+Customer 374.172875 376.330625 wow [vocalized-noise] do you work for TI
+Agent 375.409375 377.595375 no i work for GTE
+Customer 376.330625 377.695500 [silence]
+Agent 377.595375 378.434500 [silence]
+Customer 377.695500 379.687625 well really
+Agent 378.434500 379.518375 yes
+Agent 379.518375 385.278250 [silence]
+Customer 379.687625 383.107750 um uh i wonder how
+Customer 383.107750 385.998125 TI got GTE involved
+Agent 385.278250 388.791375 well i know Jack Godfrey
+Customer 385.998125 388.306500 [silence]
+Customer 388.306500 389.814750 oh okay
+Agent 388.791375 394.391125 i know him very well i've known Jack for a long time and i'm also in the speech business
+Customer 389.814750 393.821750 [silence]
+Customer 393.821750 395.018125 oh okay
+Agent 394.391125 403.087000 so when i heard that Jack was going to do this i called him and asked for an application where i could participate
+Customer 395.018125 402.954375 [silence]
+Customer 402.954375 404.251875 yeah
+Agent 403.087000 405.278000 in this and uh
+Customer 404.251875 405.547875 yeah
+Agent 405.278000 407.192375 so that's how i got involved
+Customer 405.547875 407.096375 [silence]
+Customer 407.096375 409.762875 yeah you have a very um
+Agent 407.192375 414.233000 [silence]
+Customer 409.762875 415.102375 very what's the word your your speech is very exact
+Agent 414.233000 419.533875 oh thank you very much [laughter] but uh
+Customer 415.102375 416.858375 [vocalized-noise] [laughter]
+Customer 416.858375 424.863000 [silence]
+Agent 419.533875 422.084625 as Jack said i'm one of the uh
+Agent 422.084625 428.104250 the old hands in the speech business i- i've i've uh yes i i've been doing it for twenty some odd years
+Customer 424.863000 426.030875 oh really
+Customer 426.030875 427.841500 [silence]
+Customer 427.841500 429.208125 wow
+Agent 428.104250 436.205375 and so uh uh i was very much interested in uh getting involved in uh switchboard
+Customer 429.208125 436.088625 [silence]
+Customer 436.088625 437.534000 yeah
+Agent 436.205375 437.518500 so
+Agent 437.518500 439.435875 uh you work for TI
+Customer 437.534000 439.301125 [silence]
+Customer 439.301125 442.986000 right i i work in uh a wafer fab
+Agent 439.435875 441.981500 [silence]
+Agent 441.981500 443.816375 oh really oh
+Customer 442.986000 444.090500 yeah
+Agent 443.816375 448.584750 i guess we're supposed to do this part of it before we started the recording [laughter]
+Customer 444.090500 445.039250 they
+Customer 445.039250 447.116250 [silence]
+Customer 447.116250 454.876375 yeah [laughter] i think we talked for a good eight minutes about the subject so i think you get ten so [laughter]
+Agent 448.584750 450.964250 [silence]
+Agent 450.964250 452.045250 okay
+Agent 452.045250 453.186250 [silence]
+Agent 453.186250 454.399125 right
+Agent 454.399125 455.851250 well all right
+Customer 454.876375 456.322375 i think we're okay
+Agent 455.851250 458.006000 okay fine well you have a good evening
+Customer 456.322375 457.758625 [silence]
+Customer 457.758625 459.651750 w[ell]- well you too
+Agent 458.006000 459.993625 it's been pleasant talking to you
+Customer 459.651750 461.166625 same here
+Agent 459.993625 460.971750 take care
+Agent 460.971750 462.012500 good night
+Customer 461.166625 462.588375 bye
+Agent 462.012500 463.397500 [silence]
+Customer 462.588375 463.659000 [silence]
+Agent 463.397500 465.434500 [noise]
+Customer 463.659000 465.434500 [noise]

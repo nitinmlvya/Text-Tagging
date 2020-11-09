@@ -1,0 +1,170 @@
+Agent 0.000000 0.126625 [noise]
+Customer 0.000000 0.634625 [noise]
+Agent 0.126625 1.249250 all righty
+Customer 0.634625 3.464375 okay do you have a budget that you go on
+Agent 1.249250 2.741375 [silence]
+Agent 2.741375 9.361500 yeah i sure do um i have it's pretty much a ledger sheet and i just write down
+Customer 3.464375 13.883875 [silence]
+Agent 9.361500 22.808000 [vocalized-noise] all my bills how much i'm going to have to pay and i do it per paycheck for me which is every other week uh i mean i include everything from groceries to insurance to car payments to credit card payments you know everything
+Customer 13.883875 15.353125 um-hum
+Customer 15.353125 16.723500 um-hum
+Customer 16.723500 21.665625 [silence]
+Customer 21.665625 23.111875 um-hum
+Agent 22.808000 33.748500 and it tends to work out pretty well that way i can anticipate you know a little better i usually try to guesstimate and then when the bill actually comes in i go ahead and fill in the actual amount
+Customer 23.111875 33.046500 [silence]
+Customer 33.046500 35.001875 um-hum um-hum
+Agent 33.748500 39.589750 that way i know how much pocket change i'm going to have left [laughter-at] [laughter-the] [laughter-end] of the month or at the end of the paycheck anyway
+Customer 35.001875 36.248000 [silence]
+Customer 36.248000 38.652625 um-hum um-hum
+Customer 38.652625 40.250125 uh-huh
+Agent 39.589750 42.040875 so that works okay for me
+Customer 40.250125 41.271750 [silence]
+Customer 41.271750 49.814750 uh-huh well my bills i usually know approximately how much they're going to be each month they [vocalized-noise] are more or less just about the same you know
+Agent 42.040875 45.569750 [silence]
+Agent 45.569750 46.793250 right
+Agent 46.793250 49.443375 [silence]
+Agent 49.443375 51.062750 uh-huh same here
+Customer 49.814750 56.166875 uh very seldom are they any different and then uh like for groceries and everything we try to put like
+Agent 51.062750 58.745000 [silence]
+Customer 56.166875 60.576875 two hundred and fifty dollars in a little can [laughter-in] the kitchen
+Agent 58.745000 59.981750 uh-huh
+Agent 59.981750 61.269375 um-hum
+Customer 60.576875 63.736125 and then that's what we use to buy the groceries with
+Agent 61.269375 62.990375 [silence]
+Agent 62.990375 64.508625 oh okay
+Customer 63.736125 68.367250 and then we put our receipts in there you know and usually that's enough
+Agent 64.508625 67.555500 [silence]
+Agent 67.555500 68.940750 um-hum
+Customer 68.367250 77.886750 and um but i don't have any you know small children to have anything extra come up you know like uh running to the doctor or something like that with them
+Agent 68.940750 77.026875 [silence]
+Agent 77.026875 84.747625 right luckily i don't either i mean you know maybe my cat would get sick but i mean usually that's not so much that it would throw me off
+Customer 77.886750 79.918375 [silence]
+Customer 79.918375 80.942875 [vocalized-noise]
+Customer 80.942875 83.875375 [silence]
+Customer 83.875375 88.314375 yeah yeah right in fact i did have to take my dog to the vet the other day
+Agent 84.747625 87.679750 [silence]
+Agent 87.679750 91.233875 [laughter-but] [laughter-you] so you know what i'm saying yeah
+Customer 88.314375 89.772875 [laughter]
+Customer 89.772875 93.429750 [noise] yeah that it's it's worse than having a kid huh
+Agent 91.233875 92.436875 [silence]
+Agent 92.436875 99.510625 i sometimes it can be sometimes it can be i guess the worst thing i've ever had come out is like car maintenance kinds of things
+Customer 93.429750 95.245500 yeah
+Customer 95.245500 98.714125 [silence]
+Customer 98.714125 100.118125 um-hum
+Agent 99.510625 106.669250 but i do try to build in a little extra money each month to to be able to do that type of thing so
+Customer 100.118125 105.205625 [silence]
+Customer 105.205625 111.373750 yeah um i'm not working right now i worked for P I E and then uh
+Agent 106.669250 112.196625 [silence]
+Customer 111.373750 116.004750 they went bankrupt so i just went ahead and took my early pension
+Agent 112.196625 113.455625 um-hum
+Agent 113.455625 115.540375 [silence]
+Agent 115.540375 116.744750 oh uh-huh
+Customer 116.004750 118.751250 but i only get that once a month
+Agent 116.744750 117.924375 [silence]
+Agent 117.924375 119.609375 ooh that's tough
+Customer 118.751250 120.894625 yeah [laughter]
+Agent 119.609375 122.172500 my roommate only gets paid once a month
+Customer 120.894625 121.963000 [silence]
+Customer 121.963000 123.770375 yeah so
+Agent 122.172500 126.622875 and that last week's pretty lean generally [laughter-speaking] so
+Customer 123.770375 125.481750 [silence]
+Customer 125.481750 132.994625 yeah so you know i really have to try to budget that i don't go over that amount you know each month
+Agent 126.622875 132.176500 [silence]
+Agent 132.176500 139.298625 right i for for years got paid once a month and and in ways i liked it because i could go ahead and pay all my bills at once
+Customer 132.994625 138.686375 [silence]
+Customer 138.686375 140.251625 um-hum
+Agent 139.298625 145.481625 there's always one or two stragglers that usually they were for me it worked out that they were the smaller ones
+Customer 140.251625 144.609750 [silence]
+Customer 144.609750 146.665500 um-hum um-hum
+Agent 145.481625 153.642375 but i would pay all of them at one sitting and i would know okay you can go spend this much on groceries now and you get this much a week and that is it
+Customer 146.665500 152.887250 [silence]
+Customer 152.887250 155.160125 yeah right
+Agent 153.642375 156.076250 and and that worked okay for me
+Customer 155.160125 156.779375 um-hum
+Agent 156.076250 162.248000 i don't know right now i i'm in the mode of trying to dig out of debt i think as everybody is and so
+Customer 156.779375 157.918000 and
+Customer 157.918000 160.550375 [silence]
+Customer 160.550375 163.500000 oh yeah right now it's terrible isn't it
+Agent 162.248000 169.232000 it's yeah it's really bad but um it's going pretty well and i've got a real good plan mapped out here so
+Customer 163.500000 164.850625 yeah
+Customer 164.850625 167.780000 [silence]
+Customer 167.780000 175.299750 uh-huh i also like belong to a Christmas club be[cause]- you know i used to belong to a Christmas club last year i didn't
+Agent 169.232000 174.735500 [silence]
+Agent 174.735500 176.139250 uh-huh
+Customer 175.299750 186.269750 then so then naturally Christmas comes along and that's puts you behind too you know so this year now i have them_1 taking out fifty dollars a month out of my checking account for my Christmas club
+Agent 176.139250 183.001500 [silence]
+Agent 183.001500 184.394750 oh that's
+Agent 184.394750 185.618250 [silence]
+Agent 185.618250 186.992625 yeah
+Customer 186.269750 189.956625 so i figure you know that's gonna help some
+Agent 186.992625 189.117875 [silence]
+Agent 189.117875 193.102625 that'll cover your gifts come Christmas time that'll yeah
+Customer 189.956625 191.493000 [silence]
+Customer 191.493000 193.800375 yeah right you know
+Agent 193.102625 199.661750 that'd be good because yeah most people are spending three or four months di[gging]- you know at least digging out after Christmas so
+Customer 193.800375 197.078500 [silence]
+Customer 197.078500 199.458625 yeah right right
+Customer 199.458625 201.553250 and i'm tak[ing]-
+Agent 199.661750 203.439500 yeah i i was pretty fortunate this Christmas i didn't get in debt so
+Customer 201.553250 202.798250 [silence]
+Customer 202.798250 210.257250 oh that's good i'm taking like um sewing lessons to try to learn how to sew better than what i can
+Agent 203.439500 209.605250 [silence]
+Agent 209.605250 210.979375 uh-huh
+Customer 210.257250 214.939125 so i won't have to go out and buy the readymade clothes anymore
+Agent 210.979375 214.237750 [silence]
+Agent 214.237750 218.186125 oh uh-huh it's so rare you hear anybody doing that any longer
+Customer 214.939125 216.821250 [silence]
+Customer 216.821250 223.121875 i know i even bought myself a Surger you know and i just love it i haven't learned everything to do on it yet but
+Agent 218.186125 218.838000 [laughter]
+Agent 218.838000 224.898375 [silence]
+Customer 223.121875 225.500625 i figure that will help me save
+Agent 224.898375 226.307750 yeah [vocalized-noise]
+Customer 225.500625 226.798625 you know
+Agent 226.307750 230.452000 my um roommate does sew some and and um
+Customer 226.798625 236.503125 [silence]
+Agent 230.452000 237.620625 i she hasn't sewed anything in a long time but i i'm sure that she could pick it up again my mother always sewed she tried to teach me when i was young but
+Customer 236.503125 237.895875 uh-huh
+Agent 237.620625 240.044750 not interested [laughter]
+Customer 237.895875 238.916375 [silence]
+Customer 238.916375 246.748625 yeah well see some people are and some people aren't because_1 i have some sisters i have three sisters and none of those are really interested in sewing
+Agent 240.044750 241.443625 [silence]
+Agent 241.443625 242.676750 yeah
+Agent 242.676750 246.203500 [silence]
+Agent 246.203500 249.589875 yeah but that's a real good way to save money though by doing that
+Customer 246.748625 248.500000 [silence]
+Customer 248.500000 254.413250 yeah and then i can also you know do some crafts and sell those at garage sales
+Agent 249.589875 253.659125 [silence]
+Agent 253.659125 255.353500 um-hum um-hum
+Customer 254.413250 256.882500 so which i've been doing
+Agent 255.353500 256.664250 [silence]
+Agent 256.664250 259.457625 well that's a good way to to make a little extra money
+Customer 256.882500 258.865750 [silence]
+Customer 258.865750 260.199875 um-hum
+Agent 259.457625 266.186500 well this is another way that i'm making a little extra money so that was you know nice that i tripped over this opportunity and you're actually my first call
+Customer 260.199875 265.633625 [silence]
+Customer 265.633625 268.248000 oh really oh
+Agent 266.186500 267.734250 yeah
+Agent 267.734250 269.518000 i had not um
+Customer 268.248000 270.943375 [silence]
+Agent 269.518000 270.947125 done
+Customer 270.943375 272.588625 well have you called
+Agent 270.947125 275.205000 i i guess today's today's my first day that i could even do it
+Customer 272.588625 273.627625 [silence]
+Customer 273.627625 274.617875 [vocalized-noise]
+Customer 274.617875 276.085875 oh it is
+Agent 275.205000 277.241375 yeah you beat me to the punch here
+Customer 276.085875 279.837500 oh well that's n[ice]- that's nice you know
+Agent 277.241375 278.702250 [laughter]
+Agent 278.702250 284.260625 i was i was about to call to get to see if i could get on with somebody so so that was great
+Customer 279.837500 281.641875 [silence]
+Customer 281.641875 283.230375 uh-huh
+Customer 283.230375 284.703875 yeah
+Agent 284.260625 287.462875 [silence]
+Customer 284.703875 295.611250 well i guess that's about all i can talk to about budgets when i was working i uh bought a bond a month out of my you know they automatically took it out of my out of my uh payroll
+Agent 287.462875 288.585500 [vocalized-noise]
+Agent 288.585500 292.236875 [silence]
+Agent 292.236875 293.462625 yeah
+Agent 293.462625 294.953625 [silence]
+Agent 294.953625 299.170000 yeah i take have some money taken out [vocalized-noise] and put in a 401K
+Customer 295.611250 298.111500 [silence]
+Customer 298.111500 299.170000 uh-huh

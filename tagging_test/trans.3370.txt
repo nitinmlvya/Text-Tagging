@@ -1,0 +1,162 @@
+Agent 0.000000 0.525875 [noise]
+Customer 0.000000 2.394250 [noise] the topic today is credit cards
+Agent 0.525875 1.729250 [silence]
+Agent 1.729250 3.891125 yeah bummer
+Customer 2.394250 9.841625 uh why don't you go ahead and tell me some uh some of your favorite uses for a credit card if if at all that's applies
+Agent 3.891125 9.417000 [silence]
+Agent 9.417000 11.474875 no because_1 i don't have any
+Customer 9.841625 10.974000 [silence]
+Customer 10.974000 12.459750 okay
+Agent 11.474875 14.931250 i gave up all my credit cards when i got my first divorce
+Customer 12.459750 16.131500 [silence]
+Agent 14.931250 18.230500 [laughter] it's uh
+Customer 16.131500 20.130750 well i wish i was in your shoes Pat i uh
+Agent 18.230500 33.593500 [silence]
+Customer 20.130750 28.556875 i was i wa[s]- i was in pretty much control of my credit cards up until the point where we moved down here from South Dakota and then uh
+Customer 28.556875 35.591250 it took my wife and i about two months to find a job so in that interim everything went on the credit card
+Agent 33.593500 35.495500 oh yeah
+Agent 35.495500 36.988375 um
+Customer 35.591250 39.722375 and uh so now we're slowly trying to pay it off and
+Agent 36.988375 47.490875 [silence]
+Customer 39.722375 40.751125 [silence]
+Customer 40.751125 47.969875 if i would i just keep thinking if i would've just been able to take that money and put it in a savings account instead of
+Agent 47.490875 49.008625 paying bills
+Customer 47.969875 55.936625 right i'd be uh you know i'd i'd be doing all right today but no i've got those darn credit card bills hanging over my head
+Agent 49.008625 55.220125 [silence]
+Agent 55.220125 60.809625 yeah but that's still it still helps somet[imes]- sometimes they help and sometimes they don't
+Customer 55.936625 59.839000 [silence]
+Customer 59.839000 61.344625 right
+Agent 60.809625 65.086750 you know i think if i had one i'd probably be {maxed} out
+Customer 61.344625 65.619875 [silence]
+Agent 65.086750 66.753125 [laughter]
+Customer 65.619875 70.391000 well that uh [laughter] [laughter-that's] [laughter-uh] always a possibility
+Agent 66.753125 69.510500 [silence]
+Agent 69.510500 71.270125 you know
+Customer 70.391000 71.699875 um
+Agent 71.270125 78.065000 because_1 i'm not very what you call uh what's the word uh controllable
+Customer 71.699875 77.681875 [silence]
+Customer 77.681875 79.154375 okay
+Agent 78.065000 81.932625 my husband is but i'm definitely not one of them people
+Customer 79.154375 81.510375 [silence]
+Customer 81.510375 83.006125 okay_1
+Agent 81.932625 83.935625 [laughter]
+Customer 83.006125 94.983500 well i uh while we were doing like i said we were doing all right you know we'd put gas occasionally go out to eat or pick up a small gift or something you know some clothes or something but and we could always pay it off when
+Agent 83.935625 94.654625 [silence]
+Agent 94.654625 96.059875 um-hum
+Customer 94.983500 104.381750 when the bill came and when we moved down here and everything was going on the credit card i think we we got a little rampant we you know went out to eat out everything and
+Agent 96.059875 110.428000 [silence]
+Customer 104.381750 105.408625 [silence]
+Customer 105.408625 111.604625 you know we'd we'd have to go to Wet and Wild and we had to basically play tourists the first
+Agent 110.428000 111.571250 yep
+Agent 111.571250 114.380000 [silence]
+Customer 111.604625 113.958125 the first month that we were here and
+Customer 113.958125 117.432000 of course everybody takes credit cards so
+Agent 114.380000 115.691000 um-hum
+Agent 115.691000 116.800750 [silence]
+Agent 116.800750 118.282625 why not
+Customer 117.432000 121.591875 it got uh it got way out of hand but
+Agent 118.282625 124.403125 [silence]
+Customer 121.591875 124.554000 thankfully we're we're now
+Agent 124.403125 125.847625 um-hum
+Customer 124.554000 129.071125 working to pay them_1 off and and we haven't put anything on them_1 in a couple months
+Agent 125.847625 129.149375 [silence]
+Customer 129.071125 132.127125 [silence]
+Agent 129.149375 130.576000 oh yeah
+Agent 130.576000 133.693875 it gets bad [laughter]
+Customer 132.127125 135.803375 it can it sure can well what uh
+Agent 133.693875 134.994250 um
+Agent 134.994250 139.293125 [silence]
+Customer 135.803375 139.179000 what do you find are some of the best advantages of credit cards
+Customer 139.179000 140.226000 [silence]
+Agent 139.293125 140.832875 emergencies
+Customer 140.226000 141.486125 um-hum
+Agent 140.832875 145.592375 if you have one major credit card you can do anything during an emergency
+Customer 141.486125 144.693250 [silence]
+Customer 144.693250 146.156750 that's true
+Agent 145.592375 151.591875 other than that then you're more or less have to have money or uh some kind of way of getting some
+Customer 146.156750 150.880500 [silence]
+Customer 150.880500 152.813500 right right
+Agent 151.591875 155.946250 so that's probably you know the best thing i can think of
+Customer 152.813500 158.378250 [silence]
+Agent 155.946250 159.516250 the the bad thing is you get accustom to them_1 [laughter]
+Customer 158.378250 161.321125 that's right you can you certainly can
+Agent 159.516250 170.323875 you know so i don't know i ha[d]- i was used to them_1 and then when my me and my husband broke up and i had to pay all the bills that did it i huh-uh none
+Customer 161.321125 170.951875 [silence]
+Agent 170.323875 172.518500 [laughter] i don't want any
+Customer 170.951875 177.224000 well i understand that you know you can't even rent a car hardly or uh
+Agent 172.518500 174.773375 uh
+Agent 174.773375 176.029875 with
+Agent 176.029875 179.130875 [silence]
+Customer 177.224000 180.851625 get an airplane ticket without a credit card
+Agent 179.130875 181.903750 without one that's right
+Customer 180.851625 181.976750 it's
+Agent 181.903750 184.775125 unless you got cash money
+Customer 181.976750 183.980625 [silence]
+Customer 183.980625 194.193500 right well even if you have cash it's hard to if you're under twenty five and you you have cash you still can't get still can't rent a car you have to have a credit card
+Agent 184.775125 186.044375 um-hum
+Agent 186.044375 190.160875 [silence]
+Agent 190.160875 195.043375 you can't rent a car no you can't rent a car yep um-hum
+Customer 194.193500 197.221000 and that uh i don't know
+Agent 195.043375 196.721250 [silence]
+Agent 196.721250 202.080125 [laughter] i think the only thing that saves me there is you can rent a car through TI
+Customer 197.221000 203.991250 [silence]
+Agent 202.080125 204.570250 if i really had to rent a car
+Customer 203.991250 215.316625 okay you work with TI then okay well you don't e[ven]- speaking of cash you don't get the five dollars for the phone call you ju[st]- you get the gift part isn't that how that worked if you're a TI employee
+Agent 204.570250 207.644250 but other yeah
+Agent 207.644250 214.506500 [silence]
+Agent 214.506500 221.719125 yeah hum i get a little point and you get so many points and you get the litt[le]- pick a little gift and that's about it
+Customer 215.316625 220.840375 [silence]
+Customer 220.840375 225.583875 well that's all right that's that's an interesting incentive we uh
+Agent 221.719125 232.166000 [silence]
+Customer 225.583875 231.950125 we wanted to do it because we weren't from the south and i think we would a[ble]- we'd be able to
+Customer 231.950125 233.261500 [silence]
+Agent 232.166000 238.551875 meet more people or get to know get to know about Texas more or l[ess]- yeah um-hum
+Customer 233.261500 234.498375 well not
+Customer 234.498375 235.513625 [silence]
+Customer 235.513625 237.930000 yeah exactly
+Customer 237.930000 241.671125 you know get get to i still have a hard time
+Agent 238.551875 245.136000 [silence]
+Customer 241.671125 245.296000 uh [laughter-understanding] [laughter-some] [laughter-people's] accent
+Agent 245.136000 246.483750 oh yeah
+Customer 245.296000 246.984125 you know i- i can't
+Agent 246.483750 248.496500 [silence]
+Customer 246.984125 248.016500 [silence]
+Customer 248.016500 250.598125 i- i just can't understand what they're saying
+Agent 248.496500 249.449125 wha[t]-
+Agent 249.449125 250.495250 [silence]
+Agent 250.495250 254.699375 [laughter] yeah some of them_1 have some strong ones
+Customer 250.598125 251.619375 [silence]
+Customer 251.619375 252.733875 but
+Customer 252.733875 253.766875 [silence]
+Customer 253.766875 255.147500 yeah there are
+Agent 254.699375 257.822000 yeah i've only been here thirteen years so
+Customer 255.147500 257.517750 [silence]
+Customer 257.517750 259.483375 okay where are you originally from
+Agent 257.822000 259.071125 [noise]
+Agent 259.071125 260.871250 Los Angeles
+Customer 259.483375 260.515750 [silence]
+Customer 260.515750 263.008875 Los Angeles boy there's a change
+Agent 260.871250 262.454375 [silence]
+Agent 262.454375 263.554750 definitely
+Customer 263.008875 264.822250 [silence]
+Agent 263.554750 265.997875 [laughter]
+Customer 264.822250 268.311375 i suppose it's not as cold there as it is here now
+Agent 265.997875 267.573375 [silence]
+Agent 267.573375 272.376625 no now i wish i was back so it's hot
+Customer 268.311375 270.840250 [silence]
+Customer 270.840250 273.006875 well what's life in LA like
+Agent 272.376625 277.758375 not good that's why i'm here [laughter] uh-huh
+Customer 273.006875 274.699500 [silence]
+Customer 274.699500 276.394125 okay
+Customer 276.394125 278.483875 a lot of crime and
+Agent 277.758375 280.194125 oh very high
+Customer 278.483875 280.126500 [silence]
+Customer 280.126500 288.287375 seems to me you know i- i couldn't understand why it would be such a heavily populated area if there's so much crime so much smog so much traffic
+Agent 280.194125 281.454500 [vocalized-noise]
+Agent 281.454500 286.263500 [silence]
+Agent 286.263500 290.892375 because you can't people can't leave you can't just up and leave
+Customer 288.287375 298.606375 [silence]
+Agent 290.892375 293.295250 and not know where you're going
+Agent 293.295250 297.295125 i left because_1 i was in the service so i didn['t]- ha[ve]- you know i had a lot to
+Agent 297.295125 299.554000 i could leave [laughter]
+Customer 298.606375 299.554000 okay

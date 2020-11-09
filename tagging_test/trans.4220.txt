@@ -1,0 +1,124 @@
+Agent 0.000000 0.089750 [noise]
+Customer 0.000000 0.092500 [noise]
+Agent 0.089750 1.675750 okay [vocalized-noise]
+Customer 0.092500 3.181375 o[kay]- o[kay]- okay i'm uh
+Agent 1.675750 7.444750 [silence]
+Customer 3.181375 7.944000 well i do work for a large company uh large meaning about tw[elve]- uh twelve thousand people
+Agent 7.444750 8.583625 that's big
+Customer 7.944000 8.946375 [silence]
+Agent 8.583625 15.891375 [silence]
+Customer 8.946375 13.072500 and uh it use to be twice as big so
+Customer 13.072500 20.689250 could've been uh could've been better i'll put it this way when i came to work here it was twenty five thousand and now it's twelve thousand and dropping
+Agent 15.891375 17.169750 uh-huh
+Agent 17.169750 25.897500 [silence]
+Customer 20.689250 21.982500 [silence]
+Customer 21.982500 26.598875 but uh the advantages of a [vocalized-noise] h[ow]- how big is the company you work for
+Agent 25.897500 28.212000 uh less then a hundred people
+Customer 26.598875 27.647125 [silence]
+Customer 27.647125 29.366000 okay less then a hundred
+Agent 28.212000 48.687875 [noise]
+Customer 29.366000 34.475250 some of the same thing still applies i've work for company's uh your size before
+Customer 34.475250 39.491875 and some of the same thing still applies though uh one of the things is
+Customer 39.491875 42.801875 like i know a guy who's gone to work for himself
+Customer 42.801875 43.834125 and
+Customer 43.834125 44.844375 [silence]
+Customer 44.844375 47.810000 and uh after a while he became
+Customer 47.810000 49.251000 isolated
+Agent 48.687875 50.014000 uh-huh
+Customer 49.251000 54.401000 yeah he was he craved uh [vocalized-noise] yeah
+Agent 50.014000 52.112000 [silence]
+Agent 52.112000 54.216750 interaction yeah
+Agent 54.216750 64.354500 [noise]
+Customer 54.401000 62.181250 and uh that's one of the nice thing a about a company uh interaction with other people access to internet uh
+Customer 62.181250 64.877500 do you have internet how did you get hooked up to this
+Agent 64.354500 71.510000 uh well i have an internet uh through another i have another internet connection through another network but we're in the process of
+Customer 64.877500 76.442625 [silence]
+Agent 71.510000 74.937125 [noise] establishing our own internet fee[d]- internet feed
+Agent 74.937125 76.375500 um
+Agent 76.375500 77.550125 [silence]
+Customer 76.442625 82.124250 so things like that the internet uh access internet access to a library
+Agent 77.550125 78.994375 yeah
+Agent 78.994375 85.169250 [silence]
+Customer 82.124250 83.237750 um
+Customer 83.237750 84.238375 [silence]
+Customer 84.238375 86.275750 gee how do i say it uh
+Agent 85.169250 98.481875 well i think the diversity of a large company is a strong thing for it um the the fact that there are so many different ways that uh working for a company could take you a a large company um
+Customer 86.275750 121.803125 [silence]
+Agent 98.481875 105.935375 granted if your s[kill]- your skills were like nuclear physics so you pretty much narrow t[o]- to uh
+Agent 105.935375 106.664625 [noise]
+Agent 106.664625 108.629500 your choices are narrowed but
+Agent 108.629500 115.812625 i can see someone with on doing what i do going into many different sort of venue i guess you'd call them in a larger company
+Agent 115.812625 117.187500 um
+Agent 117.187500 120.509125 i'm a systems engineer and i basically
+Agent 120.509125 123.162750 design networks um
+Customer 121.803125 123.004125 uh-huh
+Customer 123.004125 131.041875 [silence]
+Agent 123.162750 128.868250 so for our end users and our customer i'm you know uh
+Agent 128.868250 133.328875 i'm pretty much limited to that that's what that's what i do
+Customer 131.041875 131.851375 the
+Customer 131.851375 132.857625 [silence]
+Customer 132.857625 140.906875 one of the advantage of uh of a uh larger company and the hundred is uh could be consider a larger company is
+Agent 133.328875 143.529875 [silence]
+Customer 140.906875 144.175000 is uh access to other people that do the same thing
+Agent 143.529875 144.751750 um-hum
+Customer 144.175000 150.172750 if you're the only computer programmer in your company then it's it's it is kind of isolated
+Agent 144.751750 155.999750 [silence]
+Customer 150.172750 151.401875 and uh
+Customer 151.401875 155.968750 so that's one of the advantages uh there are lots of disadvantages of course but uh
+Customer 155.968750 169.008250 [silence]
+Agent 155.999750 165.417375 yeah i think one of the disadvantages is the bureaucracy that props up as a you know necessity for almost any[thing]- getting anything done at all you have to
+Agent 165.417375 166.739125 uh
+Agent 166.739125 169.552000 [noise] many layers to go through
+Customer 169.008250 174.320500 yes and one of the things that that uh tends to happen
+Agent 169.552000 200.389250 [silence]
+Customer 174.320500 176.968750 i[n]- in a larger company is uh
+Customer 176.968750 177.971375 [silence]
+Customer 177.971375 182.502375 oh how do i say it uh lack of access to uh
+Customer 182.502375 189.186375 to people uh they they tend to departmentalize and and uh move away where as in a company your size
+Customer 189.186375 201.024375 uh let see a hundred or so i[t]- i in the past uh had access to people who had access to just anything anyth[ing]- anything and everything was uh was available
+Agent 200.389250 201.656375 uh-huh
+Customer 201.024375 203.695250 where as in a company like this it's very fragmented
+Agent 201.656375 202.801125 [silence]
+Agent 202.801125 203.929375 [noise]
+Customer 203.695250 205.534750 and i'm i might be
+Agent 203.929375 215.499000 um-hum and you have the typical pyramid structure of organization many work groups one man on top or woman um and middle management and the whole nine yards right
+Customer 205.534750 207.006875 [silence]
+Customer 207.006875 208.340125 [vocalized-noise]
+Customer 208.340125 214.776750 [silence]
+Customer 214.776750 220.352000 yeah and so well i can be ten feet away from somebody that is doing the same thing
+Agent 215.499000 216.705000 [vocalized-noise]
+Agent 216.705000 219.717125 [silence]
+Agent 219.717125 220.657250 uh-huh
+Customer 220.352000 226.676250 [silence]
+Agent 220.657250 224.501125 we are structured in the uh
+Agent 224.501125 226.955875 in uh in uh bubble
+Customer 226.676250 227.893000 [noise]
+Agent 226.955875 228.666625 uh structure
+Customer 227.893000 254.613250 [silence]
+Agent 228.666625 231.920875 we are many different work groups however we work together
+Agent 231.920875 236.851000 um that's by design we've had the same structure for basically for twenty years
+Agent 236.851000 242.154500 and uh it allows us to do many interesting thing we have many facet to our organization
+Agent 242.154500 254.740875 uh and we are able to mix and match and bring different facets into play as they're needed so we we basically cover the whole spectrum of computing uh for our for our customers and uh
+Customer 254.613250 258.840250 i- i have one fear here i i don't know if i push the one button long enough
+Agent 254.740875 257.810375 [silence]
+Agent 257.810375 259.637500 i think you did
+Customer 258.840250 262.070500 do you think you can hear that huh okay because_1 i
+Agent 259.637500 261.182750 yeah
+Agent 261.182750 262.313375 [vocalized-noise]
+Customer 262.070500 268.362625 [silence]
+Agent 262.313375 270.681250 i haven't they haven't said that we're out of space yet maybe they deleted their temp directory [laughter]
+Customer 268.362625 269.891750 [laughter]
+Customer 269.891750 276.891625 well in the past they've it you know they seem to shut us off fairly quickly so i- i was wondering about that let me try it once more here
+Agent 270.681250 273.148625 [silence]
+Agent 273.148625 274.175250 yeah
+Agent 274.175250 275.186000 [silence]
+Agent 275.186000 281.442875 well um you know we can talk as long as we like or until they tell us i've usually hit the marker to
+Customer 276.891625 284.801250 [silence]
+Agent 281.442875 285.641625 um we're not suppose to be talking about this anyway uh
+Customer 284.801250 288.290250 [laughter]
+Agent 285.641625 290.053375 so we're [vocalized-noise] we're in a we're in a bubble diagram and uh
+Customer 288.290250 289.151000 [noise]
+Customer 289.151000 290.533125 okay
+Agent 290.053375 298.763375 that's that's a really effective and i think that is a very nineties kind of thing like i say we've had it for twenty something years and so we are really good at it but uh
+Customer 290.533125 300.162000 [silence]
+Agent 298.763375 300.162000 [noise]

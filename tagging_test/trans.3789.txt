@@ -1,0 +1,180 @@
+Agent 0.000000 0.494250 [noise]
+Customer 0.000000 0.126500 [noise]
+Customer 0.126500 2.325500 think of the job benefits you have
+Agent 0.494250 3.099500 [silence]
+Customer 2.325500 14.139875 [silence]
+Agent 3.099500 10.495875 well i- i think uh so far they've been p[retty]- pretty good except the medical uh
+Agent 10.495875 11.561375 [silence]
+Agent 11.561375 14.970625 not not the medical the dental insurance
+Customer 14.139875 15.713000 the dental insurance
+Agent 14.970625 19.973500 yeah i- yeah i think um
+Customer 15.713000 17.564000 um do you work for TI
+Customer 17.564000 18.922875 okay hum
+Customer 18.922875 22.026750 [silence]
+Agent 19.973500 22.834000 i know i went to have a tooth pulled
+Customer 22.026750 23.261375 um-hum
+Agent 22.834000 23.850125 [silence]
+Customer 23.261375 32.277750 [silence]
+Agent 23.850125 33.221125 and uh it the cavity had gotten really bad and they they wouldn't uh cover it because they said it it was a pre existing [laughter] condition
+Customer 32.277750 33.560625 hum
+Agent 33.221125 36.838500 you know how you wait you wait as long as you can
+Customer 33.560625 36.103125 [silence]
+Customer 36.103125 37.331625 yeah
+Agent 36.838500 46.326750 sometimes t[o]- to lose a tooth and then to for them to come up with something like that it re[ally]- [vocalized-noise] i- i just thought that was that was pretty bad
+Customer 37.331625 39.332250 [silence]
+Customer 39.332250 40.580500 uh-huh
+Customer 40.580500 43.255750 [silence]
+Customer 43.255750 45.748250 hm that does sound pretty bogus
+Customer 45.748250 48.755750 [silence]
+Agent 46.326750 53.482000 and then one time i had a tooth capped you know one of my caps f[ell]- fell off and uh
+Customer 48.755750 49.974000 um-hum
+Customer 49.974000 51.598500 [silence]
+Customer 51.598500 52.876000 uh-huh
+Customer 52.876000 57.618875 [silence]
+Agent 53.482000 57.995875 they paid for the the cap but they wouldn't pay for the build up
+Customer 57.618875 58.854625 hm
+Agent 57.995875 59.301500 [silence]
+Customer 58.854625 60.717625 that sounds kind of strange
+Agent 59.301500 62.428125 and i didn't understand that [laughter-either]
+Customer 60.717625 63.333875 who's you[r]- who's your dental care through
+Agent 62.428125 67.839125 uh well uh it's it's a part of Aetna
+Customer 63.333875 66.994875 [silence]
+Customer 66.994875 68.178375 uh-huh
+Agent 67.839125 71.139375 [silence]
+Customer 68.178375 69.292250 um
+Customer 69.292250 71.598250 ours is through uh Cigna
+Agent 71.139375 72.444000 um-hum
+Customer 71.598250 73.842750 and it's not too bad i mean i haven't
+Agent 72.444000 76.378125 [silence]
+Customer 73.842750 76.824500 i haven't been to the dentist a whole lot except for like just regular visits
+Agent 76.378125 77.736875 yeah
+Customer 76.824500 83.968500 and uh they have[n't]- been bad they haven't uh they've been pretty good how about_1 your uh do you have an HMO or
+Agent 77.736875 83.399500 [silence]
+Agent 83.399500 87.359125 well i had an HMO up to this year i switched
+Customer 83.968500 86.386875 [silence]
+Customer 86.386875 88.552000 you you went to like a regular plan
+Agent 87.359125 94.639375 [vocalized-noise] yeah i went to regular Aetna uh i thought that the HMO was really great uh
+Customer 88.552000 90.106625 [silence]
+Customer 90.106625 91.548625 oh okay
+Customer 91.548625 93.658750 [silence]
+Customer 93.658750 94.765500 um-hum
+Agent 94.639375 96.243625 you know because
+Customer 94.765500 96.490125 did it get expensive or
+Agent 96.243625 107.122625 yeah it's gotten expensive because_1 right now i'm i'm on[ly]- i only have myself so i don't have to pay anything for Aetna the Kaiser uh premium got a little higher than it you know
+Customer 96.490125 102.483875 [silence]
+Customer 102.483875 103.968625 um-hum um-hum
+Customer 103.968625 106.141625 [silence]
+Customer 106.141625 119.763000 um-hum i have i have Kaiser right now and uh i think uh [laughter] i personally i- i think HMO's are {scammy} now [laughter] just because_1 uh it's only five dollars a visit every time i go that's not bad okay and it's five dollars prescription
+Agent 107.122625 108.415500 [silence]
+Agent 108.415500 109.918125 um-hum
+Agent 109.918125 113.466375 [silence]
+Agent 113.466375 114.646750 really
+Agent 114.646750 117.272250 [silence]
+Agent 117.272250 118.235500 um-hum
+Agent 118.235500 119.278375 [silence]
+Agent 119.278375 120.508375 right
+Customer 119.763000 122.216250 every time i go and they give you the generic stuff anyway
+Agent 120.508375 121.524500 [silence]
+Agent 121.524500 122.982125 right
+Customer 122.216250 126.327375 but uh every time i go there you got to pay three dollars for parking
+Agent 122.982125 125.924500 [silence]
+Agent 125.924500 127.434750 right
+Customer 126.327375 127.902875 you know [laughter] and
+Agent 127.434750 133.100125 [silence]
+Customer 127.902875 139.141750 so if i go to make a like i- i called in one time i wanted to see a doctor about my back[ache]- i someone had just hit me and uh and i you know i had some muscle stiffness i wanted to go get some uh some some medication show my back to a doctor
+Agent 133.100125 134.369250 um-hum
+Agent 134.369250 138.476250 [silence]
+Agent 138.476250 139.773125 um-hum
+Customer 139.141750 147.874000 and they wouldn't let me see a doctor they said no you know uh ju[st]- just uh take some Ibuprofen and put a pillow on your back you know and i'm
+Agent 139.773125 144.907000 [silence]
+Agent 144.907000 146.374375 yeah
+Agent 146.374375 153.758375 yeah that was a problem that i had with them_1 toward the end of the year i was i was really in a lot of pain and i went there and
+Customer 147.874000 149.484750 [silence]
+Customer 149.484750 150.570625 um-hum
+Customer 150.570625 151.573375 [silence]
+Customer 151.573375 152.647375 um-hum
+Customer 152.647375 157.151750 [silence]
+Agent 153.758375 158.094250 and uh they they gave me an appointment for about a month away
+Customer 157.151750 158.436375 um-hum
+Agent 158.094250 165.943125 and so i went to the health food store and got some teas and stuff and started drinking them_1 i got okay but uh and i didn't go back
+Customer 158.436375 163.857250 [silence]
+Customer 163.857250 165.188250 um-hum
+Customer 165.188250 177.408875 well i was just really annoyed with them_1 because_1 i uh i- i tried profusely to get an appointment uh to see you know and i said i if you don't give me an appointment i'm just gonna go to an emergency visit to emergency room and and send you guys the bill
+Agent 165.943125 169.905250 [silence]
+Agent 169.905250 171.112875 um-hum
+Agent 171.112875 176.555125 [silence]
+Agent 176.555125 184.369000 yeah that's what i thought about later i would've probably uh been better off if i just went to emergency and you just bill
+Customer 177.408875 181.447500 [silence]
+Customer 181.447500 191.214875 um-hum um-hum and and that's that's the only way you're going to get any action out of them_1 you know if you threaten them_1 with that [laughter-you] [laughter-know] because_1 i said i just had the accident and i don't wanna wait too long
+Agent 184.369000 185.496250 [silence]
+Agent 185.496250 186.850875 um-hum
+Agent 186.850875 187.877250 [silence]
+Agent 187.877250 189.123625 yeah
+Agent 189.123625 190.653250 [silence]
+Agent 190.653250 192.072250 right
+Customer 191.214875 196.490750 before anything happens they're like well wait another day and call us back and i'm like i don't wanna wait another day i want an appointment now
+Agent 192.072250 193.836375 [silence]
+Agent 193.836375 195.181875 yeah
+Agent 195.181875 200.252125 yeah after i really thought about it some more the i- i really could've done that but um
+Customer 196.490750 198.471000 [silence]
+Customer 198.471000 199.579750 um-hum
+Customer 199.579750 205.000875 [silence]
+Agent 200.252125 203.388250 i was hospitalized uh
+Agent 203.388250 207.002875 uh about_1 three years ago i had some surgery
+Customer 205.000875 206.205375 um-hum
+Customer 206.205375 207.417375 um-hum
+Agent 207.002875 211.747750 and Kaiser was really good for that because_1 i didn't have to pay any of it at all
+Customer 207.417375 210.481750 [silence]
+Customer 210.481750 214.627125 yeah it's it's real handy once you're you know if you like my roommate broke his arm
+Agent 211.747750 213.951125 [silence]
+Agent 213.951125 215.520000 um-hum
+Customer 214.627125 227.986000 and he went to the hospital he went in to the emergency room and they took care of his arm and he every time he went to one he only had to pay five dollars and he probably went through you know quite a bit of care uh the medicine was expensive the cast was expensive the stitches were expensive and all that
+Agent 215.520000 220.666375 [silence]
+Agent 220.666375 221.961750 um-hum
+Agent 221.961750 225.590625 [silence]
+Agent 225.590625 227.094750 um-hum
+Agent 227.094750 235.551750 [silence]
+Customer 227.986000 233.963250 and uh you know it it was real cheap i mean once you have a condition and you go to the hospital it probably works out real uh but for just like
+Customer 233.963250 242.187375 i don't know i'm i'm only twenty four years old you know i don't really get sick a lot you know i in fact uh over the last two years i've only gone to see the doctor once and that was for a physical
+Agent 235.551750 236.918500 um-hum
+Agent 236.918500 241.122500 [silence]
+Agent 241.122500 242.910000 [noise] yeah
+Customer 242.187375 244.073250 so you know for me
+Agent 242.910000 246.467750 [silence]
+Customer 244.073250 246.937875 you know i don't i don't see the doctor a whole hell of a lot you know
+Agent 246.467750 248.090250 [noise] yeah
+Customer 246.937875 252.593250 so but then again you know the year before that i when i had the regular plan you know you have a hundred dollar deductible
+Agent 248.090250 250.486000 [silence]
+Agent 250.486000 251.816375 um-hum
+Agent 251.816375 254.322375 [silence]
+Customer 252.593250 257.275625 well i went to the doctor once and it cost me ninety [laughter-bucks] [laughter-so] it was like oh well
+Agent 254.322375 256.113250 wow
+Agent 256.113250 259.228125 [silence]
+Customer 257.275625 259.911750 i guess i could've done pretty good with the five dollar visit
+Agent 259.228125 260.760125 yeah [noise]
+Customer 259.911750 261.078000 so
+Agent 260.760125 264.328125 well my uh my Kaiser premium [noise]
+Customer 261.078000 267.283875 [silence]
+Agent 264.328125 268.699500 would cost me like forty something dollars a month starting this year
+Customer 267.283875 269.448375 wow that's a lot
+Agent 268.699500 277.426375 and TI will cover uh whatever they would have covered for Aetna but the premium is still forty dollars more than that
+Customer 269.448375 273.539750 [silence]
+Customer 273.539750 274.809750 um-hum
+Customer 274.809750 276.646375 [silence]
+Customer 276.646375 282.994000 hum yeah K[aiser's]- expensive i mean i think it's uh this year it's like almost four thousand eight hundred dollars
+Agent 277.426375 278.847375 [silence]
+Agent 278.847375 280.113500 yeah
+Agent 280.113500 282.281375 [silence]
+Agent 282.281375 287.184875 so i went back to Aetna because i- i won't have to pay anything
+Customer 282.994000 286.054500 [silence]
+Customer 286.054500 288.865000 yeah that w[orks]- that works out pretty handy
+Agent 287.184875 293.980875 and uh although they do have a deductible that forty dollars a month will add up to that pretty quick
+Customer 288.865000 290.452625 [silence]
+Customer 290.452625 291.672000 uh-huh
+Customer 291.672000 293.226875 [silence]
+Customer 293.226875 294.828750 no yeah
+Agent 293.980875 295.381875 you know
+Customer 294.828750 298.946000 it works out okay i think if you have kids though the HMO is probably the best
+Agent 295.381875 297.327750 [silence]
+Agent 297.327750 298.504625 um-hum
+Agent 298.504625 298.946000 [silence]

@@ -1,0 +1,195 @@
+Agent 0.000000 0.354875 [noise]
+Customer 0.000000 1.764000 [noise] kind of options do you have in your work
+Agent 0.354875 1.550375 [silence]
+Agent 1.550375 13.075000 [noise] uh as far as other than salary like the fringe benefits um [noise] we get of course insurance paid [noise] we get our sick leave and and holidays paid
+Customer 1.764000 4.978500 [silence]
+Customer 4.978500 6.140000 um-hum
+Customer 6.140000 13.032875 [silence]
+Customer 13.032875 14.281375 that's nice
+Agent 13.075000 20.500250 uh earn vacation and uh of course the work place is is uh very
+Customer 14.281375 23.660000 [silence]
+Agent 20.500250 24.390750 uh it's a very nice area to work in
+Customer 23.660000 24.792375 um-hum
+Agent 24.390750 26.420625 um how about you
+Customer 24.792375 25.889500 [silence]
+Customer 25.889500 28.772250 well we don't get much [laughter]
+Agent 26.420625 28.092125 [silence]
+Agent 28.092125 29.776000 you don't
+Customer 28.772250 32.395500 no we don't um we have to pay for our own insurance
+Agent 29.776000 31.785750 [silence]
+Agent 31.785750 33.200000 um-hum
+Customer 32.395500 38.201000 and we you know we do get the vacation but we don't get sick pay until we've been there a year
+Agent 33.200000 37.687500 [silence]
+Agent 37.687500 39.069375 um-hum
+Customer 38.201000 41.410500 and then um i think it starts after four days
+Agent 39.069375 41.120000 [silence]
+Agent 41.120000 42.460375 um-hum
+Customer 41.410500 44.945000 if you've been gone five consecutive days then you get one day of sick pay
+Agent 42.460375 44.112125 [silence]
+Agent 44.112125 45.620250 um-hum
+Customer 44.945000 46.692625 [noise] and uh
+Agent 45.620250 48.089375 [silence]
+Customer 46.692625 48.674875 um it's real tough
+Agent 48.089375 50.023875 [noise] the
+Customer 48.674875 50.075750 for benefits
+Agent 50.023875 60.865125 [vocalized-noise] the sick leave is a[ccording]- according to the status the way you're employed it has something to with the the way you earn your sick leave and uh you don't automatically get it
+Customer 50.075750 60.364625 [silence]
+Customer 60.364625 61.580000 uh-huh
+Agent 60.865125 63.084375 depends on your status
+Customer 61.580000 62.606125 [silence]
+Customer 62.606125 63.620000 right
+Agent 63.084375 73.209750 uh but uh really can't complain course the cost of uh living keeps going up salaries remain about the same and your [laughter-medical] benefits go up also
+Customer 63.620000 69.844375 [silence]
+Customer 69.844375 71.489250 that's the truth
+Customer 71.489250 72.595875 [silence]
+Customer 72.595875 76.420000 uh-huh if you can get some good medical benefits it makes a big difference
+Agent 73.209750 75.871750 [silence]
+Agent 75.871750 79.603625 it it surely does especially if you have a family
+Customer 76.420000 77.427125 [silence]
+Customer 77.427125 78.747750 um-hum
+Customer 78.747750 80.332375 right
+Agent 79.603625 82.570125 i don't but i know when you have children
+Customer 80.332375 81.844875 and you don['t]-
+Customer 81.844875 83.270125 um-hum
+Agent 82.570125 85.440375 it can get to be quite expensive
+Customer 83.270125 85.044125 [silence]
+Customer 85.044125 90.331500 yeah i don't have any children but i do have my husband gets um insurance paid through his company
+Agent 85.440375 89.904500 [silence]
+Agent 89.904500 90.864875 um-hum
+Customer 90.331500 95.083375 but it's still cheaper for me to pay for mine through my job than it is to get onto his
+Agent 90.864875 94.491875 [silence]
+Agent 94.491875 96.097125 is that right
+Customer 95.083375 96.402125 um-hum
+Agent 96.097125 98.317375 gee i- i didn't realize that
+Customer 96.402125 97.551250 so
+Customer 97.551250 102.016875 until he's been there a little longer then maybe i can you know get into that
+Agent 98.317375 101.498250 [silence]
+Agent 101.498250 102.820125 uh-huh
+Customer 102.016875 104.181625 but a little better but um
+Agent 102.820125 104.193250 uh-huh
+Customer 104.181625 105.590000 right now
+Agent 104.193250 107.463250 [noise] well do you think then salary is the most important
+Customer 105.590000 106.998375 [silence]
+Customer 106.998375 110.507625 no i really don't i really think that benefits
+Agent 107.463250 108.638500 okay
+Agent 108.638500 112.420000 [silence]
+Customer 110.507625 112.865875 um help out a lot
+Agent 112.420000 113.538125 um-hum
+Customer 112.865875 114.969875 you know with the positions um
+Agent 113.538125 121.154125 [silence]
+Customer 114.969875 115.974750 [silence]
+Customer 115.974750 121.234750 uh benefits you know like you said are are almost better you know that's a lot of pay
+Agent 121.154125 122.852625 that's true
+Customer 121.234750 128.365750 if you thought if you think about health because_1 i think my husband and i went to um get health insurance from an outside agency once
+Agent 122.852625 127.889000 [silence]
+Agent 127.889000 128.867000 um-hum
+Customer 128.365750 131.489125 and it would cost just me alone two hundred dollars a month
+Agent 128.867000 131.170875 [silence]
+Agent 131.170875 132.574000 [noise] yes
+Customer 131.489125 137.934625 to get basic health insurance and if you think about that on top of your pay it makes a big difference
+Agent 132.574000 137.616500 [silence]
+Agent 137.616500 143.367500 i know that my parents recently retired well not recently maybe the last six eight years
+Customer 137.934625 142.771250 [silence]
+Customer 142.771250 144.215000 um-hum
+Agent 143.367500 147.894625 and uh they had to uh buy a policy until
+Customer 144.215000 150.321250 [silence]
+Agent 147.894625 154.849375 something kicked in at a certain age and they were paying an enormous amount of money per month
+Customer 150.321250 151.479625 uh-huh
+Customer 151.479625 154.486500 [silence]
+Customer 154.486500 156.432375 it is unbelievable
+Agent 154.849375 157.197125 in order to maintain it really is
+Customer 156.432375 162.586125 and then my mom and dad have that Blue Blue Cross Blue Shield and i think that goes up every month [laughter]
+Agent 157.197125 159.331875 [silence]
+Agent 159.331875 160.529625 um-hum
+Agent 160.529625 161.768625 [silence]
+Agent 161.768625 163.637250 [noise] oh yeah
+Customer 162.586125 164.217000 that is just something else
+Agent 163.637250 164.978875 um-hum
+Customer 164.217000 166.800250 because they're you know at the retirement age and
+Agent 164.978875 166.043000 [silence]
+Agent 166.043000 167.564125 right
+Customer 166.800250 169.847750 and that's something too that's just unbelievable
+Agent 167.564125 169.543750 [silence]
+Agent 169.543750 176.342000 i know some of the companies when you do retire you're able to carry forward your re[tire]- your insurance benefits
+Customer 169.847750 175.354250 [silence]
+Customer 175.354250 177.155000 oh well that would be great
+Agent 176.342000 178.295875 wouldn't that be wonderful
+Customer 177.155000 180.349375 that would be nice [laughter] yes it would
+Agent 178.295875 179.852375 [noise]
+Agent 179.852375 186.531250 but uh i don't know i don't know what else would there be besides your insurance and your holiday paid and
+Customer 180.349375 185.688250 [silence]
+Customer 185.688250 191.181125 yeah my my husband gets uh life insurance dental insurance and um
+Agent 186.531250 193.020500 [silence]
+Customer 191.181125 193.975125 life and dental and and health
+Agent 193.020500 194.399500 [noise] yeah
+Customer 193.975125 197.544875 and then he also gets legal help legal aid
+Agent 194.399500 196.950000 [silence]
+Agent 196.950000 198.535125 oh uh-huh
+Customer 197.544875 202.429875 and he also gets like he's entered into a credit union and
+Agent 198.535125 201.657250 [silence]
+Agent 201.657250 203.691125 oh yeah we have that
+Customer 202.429875 205.370250 and and all that that kind of helps out
+Agent 203.691125 205.076500 [silence]
+Agent 205.076500 211.935125 uh now that's true now we've started the EA where you can um if you have like a mental health problem
+Customer 205.370250 211.396625 [silence]
+Customer 211.396625 212.517750 uh-huh
+Agent 211.935125 213.922875 a drug problem or what have you
+Customer 212.517750 217.517375 [silence]
+Agent 213.922875 220.580000 uh mentally they they will provide services for that now too and that's wonderful uh
+Customer 217.517375 218.957125 well that's nice
+Customer 218.957125 220.170250 um-hum
+Customer 220.170250 223.926250 my my sister where she works has the HMO
+Agent 220.580000 223.570375 [silence]
+Agent 223.570375 225.260625 oh yes uh-huh
+Customer 223.926250 225.761375 which is something that's
+Agent 225.260625 230.903750 [silence]
+Customer 225.761375 230.922250 you know it's nice but you know it's great because you pay five dollars and you go
+Agent 230.903750 232.243500 um-hum
+Customer 230.922250 235.967875 and and your medicine is five dollars but if it's not an emergency you wait three months
+Agent 232.243500 235.654875 [silence]
+Agent 235.654875 238.053875 is that right well
+Customer 235.967875 237.171250 to get in
+Customer 237.171250 239.249000 um-hum and that is um
+Agent 238.053875 242.575125 [silence]
+Customer 239.249000 242.780625 trying to think which one that is but i'm not it's a real popular one
+Agent 242.575125 245.170500 hum is it like Cigna or
+Customer 242.780625 243.845250 but um
+Customer 243.845250 245.590375 [silence]
+Agent 245.170500 246.356375 [silence]
+Customer 245.590375 246.963875 K[aiser]- Kaiser
+Agent 246.356375 247.721750 Kaiser
+Customer 246.963875 247.886875 yes
+Agent 247.721750 253.566750 well we have that option at at work uh to choose that or to stay with our our company
+Customer 247.886875 248.825125 [silence]
+Customer 248.825125 249.953125 uh-huh
+Customer 249.953125 253.420500 [silence]
+Customer 253.420500 254.727250 um-hum
+Agent 253.566750 259.492250 that uh TI has desired to administer the insurance program
+Customer 254.727250 258.928375 [silence]
+Customer 258.928375 259.974375 uh-huh
+Agent 259.492250 264.191000 but uh you can either go with the HMO or stay with with Aetna
+Customer 259.974375 263.720000 [silence]
+Customer 263.720000 264.957125 um-hum
+Agent 264.191000 267.155500 [silence]
+Customer 264.957125 266.784125 yeah i i'm going with Aetna
+Customer 266.784125 267.641500 [silence]
+Agent 267.155500 269.816750 that's what i['m]- i'm staying with
+Customer 267.641500 274.965875 well i'm just going to stay with the um you know i can go to my doctor i think i pay two hundred and fifty dollar deductible and that's it
+Agent 269.816750 274.571375 [silence]
+Agent 274.571375 275.719000 um-hum
+Customer 274.965875 275.979625 [silence]
+Agent 275.719000 280.434875 [silence]
+Customer 275.979625 283.785875 but yeah because_1 she you know was trying to get into like an eye doctor or something like that and if it's not an emergency you wait for quite a while to get in
+Agent 280.434875 281.721125 um-hum
+Agent 281.721125 283.357000 [silence]
+Agent 283.357000 286.885375 [noise] well see now your eye doctor's paid for through the HMO
+Customer 283.785875 286.283000 [silence]
+Customer 286.283000 287.226250 y[es]- yes
+Agent 286.885375 288.112500 [vocalized-noise] ours isn't
+Customer 287.226250 290.730500 [silence]
+Agent 288.112500 292.308750 well i don't know about the HMO but through Aetna it is not covered no
+Customer 290.730500 294.328500 it's not yeah my isn't either but through the HMO it is
+Agent 292.308750 293.909000 [silence]
+Agent 293.909000 295.966625 oh that's interesting
+Customer 294.328500 298.722000 and i think eyes and and about every doctor you could about
+Agent 295.966625 298.722000 [silence]

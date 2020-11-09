@@ -1,0 +1,146 @@
+Agent 0.000000 0.495000 [noise]
+Customer 0.000000 0.509500 [noise]
+Agent 0.495000 3.271125 well i suppose we both have credit cards
+Customer 0.509500 2.312125 [silence]
+Customer 2.312125 5.694625 um-hum yeah they seem to be a part of life [laughter]
+Agent 3.271125 5.331625 [silence]
+Agent 5.331625 6.731500 yeah
+Customer 5.694625 6.390750 [silence]
+Customer 6.390750 8.796375 yeah how do you use them
+Agent 6.731500 8.753125 [silence]
+Agent 8.753125 11.715125 well i do use them um
+Customer 8.796375 10.004125 [silence]
+Customer 10.004125 11.502625 um-hum
+Customer 11.502625 23.721875 [silence]
+Agent 11.715125 24.692000 i have a few favorites that i use more than others and uh i try to keep my balances fairly reasonable i- i could probably pay them off any month if i wanted to
+Customer 23.721875 25.223875 um-hum
+Agent 24.692000 26.284375 um
+Customer 25.223875 31.991500 [silence]
+Agent 26.284375 34.237000 but occasionally they can get out of hand and get higher when when you start using more than a few and uh
+Customer 31.991500 33.490375 um-hum
+Customer 33.490375 35.729625 [silence]
+Agent 34.237000 36.489250 they all can build up
+Customer 35.729625 36.987750 um-hum
+Agent 36.489250 39.220250 uh i think they're handy i just get
+Customer 36.987750 41.803625 [silence]
+Agent 39.220250 40.222375 [silence]
+Agent 40.222375 45.242625 uh i don't carry a lot of cash with me and uh i hate writing checks
+Customer 41.803625 43.252250 um-hum
+Customer 43.252250 44.494750 [silence]
+Customer 44.494750 45.670500 yeah
+Agent 45.242625 47.221875 when you go shopping
+Customer 45.670500 46.731500 [silence]
+Customer 46.731500 47.863875 um-hum
+Agent 47.221875 48.248500 [silence]
+Customer 47.863875 49.204750 [silence]
+Agent 48.248500 50.229250 well do you use credit cards
+Customer 49.204750 52.673750 [noise] yeah i use a few i um
+Agent 50.229250 55.494250 [silence]
+Customer 52.673750 65.295875 i watched my grandmother go into debt [laughter] on them and so i've and then i guess my mother yeah so my mother learned from that and i guess she taught me to be very very careful with them so
+Agent 55.494250 56.723500 um-hum
+Agent 56.723500 57.766000 [silence]
+Agent 57.766000 59.984625 your grandmother huh
+Agent 59.984625 70.971125 [silence]
+Customer 65.295875 73.135875 [noise] basically um i just keep them i use them so that i build up a credit rating you know but otherwise um
+Agent 70.971125 72.270875 um-hum
+Agent 72.270875 80.210125 [silence]
+Customer 73.135875 87.498750 i generally and my husband it turns out i've just been married seven months but he has the same habit and we just keep a few you know few of the major ones and then use them once in a while for something but we always pay it off right that month
+Agent 80.210125 81.995625 that's good
+Agent 81.995625 86.973250 [silence]
+Agent 86.973250 90.206375 oh that's that's wonderful
+Customer 87.498750 95.810500 [noise] so that we don't pay any service charge so that way we keep out of debt and we keep on top of what we're spending
+Agent 90.206375 94.768875 [silence]
+Agent 94.768875 104.261250 well the interest rates in credit cards is so high now compared to what you're savings is bringing it's really i guess ridiculous to let them keep building
+Customer 95.810500 97.470875 [silence]
+Customer 97.470875 98.998250 yeah
+Customer 98.998250 103.485750 [silence]
+Customer 103.485750 106.461500 yeah yeah that's what i feel
+Agent 104.261250 106.297500 [silence]
+Agent 106.297500 112.475875 but i know some people can get get you know carried away with them and let them get out of hand
+Customer 106.461500 107.751875 so
+Customer 107.751875 110.288625 [silence]
+Customer 110.288625 122.982625 um-hum it's really easy just to forget you know that you you charged that or charged that i try to keep all my receipts and keep them_1 in someplace where i know that the bill's going to come but sometimes i forget and
+Agent 112.475875 125.992125 [silence]
+Customer 122.982625 133.486625 so you know [vocalized-noise] a bill will come in and i'll think oh no i didn't know it was going to be that high but so far i've been able to we've been able to pay it off every time so
+Agent 125.992125 127.995875 um-hum
+Agent 127.995875 129.521500 um yeah
+Agent 129.521500 131.992250 [silence]
+Agent 131.992250 141.470000 well that's good i'm looking right now i'm k[ind]- kind of looking for a Visa that has a lower interest rate it seems that some of them_1 have gotten higher
+Customer 133.486625 140.478000 [silence]
+Customer 140.478000 142.227375 uh-huh
+Agent 141.470000 150.976250 and uh i saw on TV they had a program on uh credit cards and they're supposed to i don't know if it was Tennessee or Arkansas or some some other state had a
+Customer 142.227375 153.493000 [silence]
+Agent 150.976250 160.773125 Visa card that was the lowest one in the country and i didn't write it down at the time and then i went and looked and to see what my Visa was and i think it's eighteen percent or something so
+Customer 153.493000 154.969625 um-hum
+Customer 154.969625 159.333375 [silence]
+Customer 159.333375 160.999500 um
+Agent 160.773125 164.685125 think i want to find something that has a lower rate
+Customer 160.999500 162.770500 [silence]
+Customer 162.770500 166.780500 yeah have you ever used Discover card
+Agent 164.685125 165.726625 [silence]
+Agent 165.726625 167.766500 no i haven't
+Customer 166.780500 172.480875 yeah i'm not even sure what their interest rate is since i pay it [laughter-off] but you know
+Agent 167.766500 170.743875 [silence]
+Agent 170.743875 173.293875 is is that the one from Sears
+Customer 172.480875 183.540000 um i think Sears originally put it out but it's um it's pretty well taken all over the US now i mean uh i've haven't found many places that don't take Discover
+Agent 173.293875 174.737750 [silence]
+Agent 174.737750 175.988875 okay
+Agent 175.988875 186.721750 [silence]
+Customer 183.540000 188.994750 and there's no annual service fee which is good you know and then um
+Agent 186.721750 188.267875 okay
+Agent 188.267875 196.987250 [silence]
+Customer 188.994750 201.997125 they also give you they say cash back um like at the end of the year for the amount that i charge i get two dollars back or [laughter-something] but if you use credit cards a lot you probably get more back
+Agent 196.987250 199.295000 uh-huh oh
+Agent 199.295000 200.701250 [silence]
+Agent 200.701250 204.990875 oh they give you money back for using your credit card
+Customer 201.997125 203.806375 [silence]
+Customer 203.806375 211.250625 yeah basically that's it and i think the service charge is pretty low too but i'm not sure
+Agent 204.990875 207.986625 oh i didn't know that
+Agent 207.986625 210.330500 [silence]
+Agent 210.330500 217.260625 hum well you know Sears was one of the few department stores that never would take any other credit cards
+Customer 211.250625 216.481875 [silence]
+Customer 216.481875 217.982375 uh-huh
+Agent 217.260625 222.966375 i worked w[ith]- at Sears for over ten years and uh it was only a Sears card that they would take
+Customer 217.982375 222.317750 [silence]
+Customer 222.317750 223.739375 uh-huh
+Agent 222.966375 230.494875 until i guess they decided to join the club and come up with their own credit card another credit card that was accepted so
+Customer 223.739375 228.491500 [silence]
+Customer 228.491500 229.780000 um-hum
+Customer 229.780000 235.492625 [silence]
+Agent 230.494875 236.741000 you know now they'll take the Discover but i still don't know if Sears will take Visa or MasterCard
+Customer 235.492625 237.318750 um-hum
+Agent 236.741000 242.490750 but uh i never did apply for a Discover card i just figure with the Visa and
+Customer 237.318750 238.753625 yeah
+Customer 238.753625 241.787375 [silence]
+Customer 241.787375 243.205875 um-hum
+Agent 242.490750 247.499625 American Express i probably have an i can do enough damage with those two
+Customer 243.205875 246.491750 [silence]
+Customer 246.491750 250.739125 yeah i think it's best to keep the number down [laughter] that you have
+Agent 247.499625 248.784875 [silence]
+Agent 248.784875 257.291000 um-hum yeah i've got some that i you know i haven't even used at all uh past few years i probably wouldn't be able to use them
+Customer 250.739125 251.994625 so
+Customer 251.994625 256.749125 [silence]
+Customer 256.749125 258.481250 um-hum
+Agent 257.291000 262.971750 but uh i- i do like my Dillard's i have to admit that's one of my favorite places to shop
+Customer 258.481250 261.987000 [silence]
+Customer 261.987000 263.498000 uh-huh
+Agent 262.971750 268.680500 and i d[o]- do use Dillard's probably as more than any of the other department stores
+Customer 263.498000 267.808500 [silence]
+Customer 267.808500 268.995375 um-hum
+Agent 268.680500 269.991625 but
+Customer 268.995375 270.022125 [silence]
+Agent 269.991625 272.772500 [silence]
+Customer 270.022125 271.248375 yeah
+Customer 271.248375 272.269375 [silence]
+Customer 272.269375 275.232125 well do you have anything else to say or
+Agent 272.772500 277.984625 well yes no not too much more about credit cards [laughter]
+Customer 275.232125 276.246750 [silence]
+Customer 276.246750 282.170750 [laughter-okay] i don't think i do either so well it was good talking to you
+Agent 277.984625 278.996875 [silence]
+Agent 278.996875 280.774500 okay well
+Agent 280.774500 282.706125 good talking to you Beth
+Customer 282.170750 284.993750 okay have a good evening bye-bye
+Agent 282.706125 283.757250 good luck
+Agent 283.757250 284.991500 you too bye
+Agent 284.991500 286.338000 [noise]
+Customer 284.993750 286.338000 [noise]

@@ -1,0 +1,94 @@
+Agent 0.000000 0.923875 [noise]
+Customer 0.000000 0.022250 [silence]
+Customer 0.022250 0.983375 -[o]kay
+Agent 0.923875 2.449750 [silence]
+Customer 0.983375 2.919875 you think you're getting your money's worth
+Agent 2.449750 6.268375 uh never [laughter]
+Customer 2.919875 3.980375 [silence]
+Customer 3.980375 9.469625 [laughter] i
+Agent 6.268375 7.427375 [silence]
+Agent 7.427375 14.520875 [laughter] uh the only thing i'm i'm thankful of is that we don't have to pay any income tax here in in Texas
+Customer 9.469625 13.977875 [silence]
+Customer 13.977875 18.009000 well that's probably the next year's agenda
+Agent 14.520875 17.102375 [silence]
+Agent 17.102375 21.484250 yeah boy i tell you what i sure hope they don't pass something like that
+Customer 18.009000 21.438500 [silence]
+Customer 21.438500 29.411375 oh ye[ah]- they're finding the way the tax you every time you turn around and i- i think one way or the other we're gonna
+Agent 21.484250 58.677000 [silence]
+Customer 29.411375 33.960375 pay for the bureaucracy i guess
+Customer 33.960375 35.538500 and uh
+Customer 35.538500 42.422250 it's one area that's uh really i- i think hurting the economy more than anything i think the taxes have just
+Customer 42.422250 48.242500 every time you turn around they they have taking more bite out of the
+Customer 48.242500 54.143500 dollars that are available for spending for any kind of products and i- i- i think that is probably
+Customer 54.143500 57.848000 as big a item fueling the recession as anything
+Customer 57.848000 59.146875 right now
+Agent 58.677000 69.039375 well i- i tell you um i remember every time it seems like we turned around they're adding another nickel or a few more cents onto the price of gasoline [noise]
+Customer 59.146875 65.050250 [silence]
+Customer 65.050250 66.432625 that's right
+Customer 66.432625 68.329625 [silence]
+Customer 68.329625 69.471750 that's right
+Agent 69.039375 80.912375 and [noise] actually that one the the the taxes on gasoline don't don't bug me as much as uh uh what are we eight and a quarter percent sales tax [noise]
+Customer 69.471750 79.973500 [silence]
+Customer 79.973500 81.779500 yep that's right
+Agent 80.912375 90.188625 and every time you go to buy anything now uh even th[ough]- you know they they tax food that's the one that really kind of bothers me
+Customer 81.779500 89.497000 [silence]
+Customer 89.497000 97.064500 well i think that uh that the problem with the sales tax of course is it's an unfair tax across the board
+Agent 90.188625 133.511750 [silence]
+Customer 97.064500 104.390125 uh as far as ability to pay which a[llegedly]- allegedly allegedly taxes are supposed to be directed towards
+Customer 104.390125 107.485500 but uh now people with the
+Customer 107.485500 115.395750 lowest income pay a hundred percent almost of you know taxes on everything they buy
+Customer 115.395750 117.065125 and where people that make
+Customer 117.065125 123.771375 you know two hundred three hundred thousand dollars a year certainly a portion of that they aren't going to be paying taxes on you know
+Customer 123.771375 125.338375 and uh
+Customer 125.338375 134.189125 that's the unfair equity inequities of sales tax as a main source of revenue but i don't think it is anymore not in Texas anyway
+Agent 133.511750 139.471000 oh i got you because people that uh don't make very much money wind up spending it all
+Customer 134.189125 138.422125 [silence]
+Customer 138.422125 140.540375 that's right that's right
+Agent 139.471000 142.531750 and whatever they spent it on they have to pay tax on
+Customer 140.540375 141.796375 [silence]
+Customer 141.796375 143.881625 that's right that's right
+Agent 142.531750 150.324250 [silence]
+Customer 143.881625 147.818375 and that's the unfairness of the thing but uh
+Customer 147.818375 151.993875 i think taxes [laughter-generally] [laughter-are] [laughter-unfair] [laughter]
+Agent 150.324250 156.978375 [noise] wha[t]- what do you think of that new luxury car tax anything over ten thou[sand]- or thirty thousand dollars
+Customer 151.993875 156.503125 [silence]
+Customer 156.503125 158.428000 well you know
+Agent 156.978375 161.974125 [silence]
+Customer 158.428000 162.764625 like other things if they don't affect you you don't worry about them too much
+Agent 161.974125 164.230250 [laughter]
+Customer 162.764625 165.353625 [laughter] [laughter-i]
+Agent 164.230250 177.110125 [silence]
+Customer 165.353625 170.431500 i have trouble buying a twenty thousand dollar car still so uh it doesn't
+Customer 170.431500 172.442500 i- i think uh
+Customer 172.442500 173.542750 [silence]
+Customer 173.542750 179.436625 uh you know generally the prices of cars have gotten out of line which is uh you know and uh
+Agent 177.110125 178.837250 oh sure
+Agent 178.837250 192.022000 [silence]
+Customer 179.436625 184.694000 i guess if people got thirty forty thousand bucks to spend on a car uh that's their
+Customer 184.694000 193.472625 prerogative you know [laughter] i- i- i don't have a whole lot of [laughter-sympathy] [laughter-on] [laughter-that] y[ou]- you maybe you buy that you know and i don't mean to be knocking uh
+Agent 192.022000 200.382625 no uh no i haven't but it it to me it seems really interesting that they come along and add another ten percent tax
+Customer 193.472625 206.137250 [silence]
+Agent 200.382625 206.619125 uh on top of it and there's an awful lot of cars that cost more than thirty thousand
+Customer 206.137250 219.326500 yeah there are there are and the idea of that kind of taxation is to have people think twice on putting their money into that i guess you know unless they really want it buy something that
+Agent 206.619125 236.487375 [silence]
+Customer 219.326500 221.185125 you know
+Customer 221.185125 223.043625 more
+Customer 223.043625 229.255625 well it it's just like having taxes on or exemptions for kids you know it's a way of
+Customer 229.255625 237.295875 increasing the population that that was one of the initial ideas of you know giving exemptions on kids on on federal taxes
+Agent 236.487375 237.634750 yeah
+Customer 237.295875 248.152375 and where you exempt things like uh uh one of the best things i heard on taxes to stimulate the economy someone brilliant deductor probably Lloyd Bentsen
+Agent 237.634750 255.671250 [silence]
+Customer 248.152375 261.862000 said that all you know if they gave back the ah deductions on credit cards on your federal taxes people would probably be you know spending more money using their credit cards
+Agent 255.671250 256.898250 right
+Agent 256.898250 261.211000 [silence]
+Agent 261.211000 262.471875 right
+Customer 261.862000 269.716625 now i don't know if that's true or not but if you look on all interest things not just credit cards but on your cars and you know a[ny]- any kind of
+Agent 262.471875 276.164000 [silence]
+Customer 269.716625 277.209375 interest that you're paying from a personal point of view that might make certain sense in stimulating consumer purchases
+Agent 276.164000 277.504375 sure
+Customer 277.209375 288.573000 so that's a lot of the games that politicians play on where they want to go you know tax things that they don't you know to a degree
+Agent 277.504375 295.499625 [silence]
+Customer 288.573000 293.538750 [noise] well like booze you know example they keep raising the taxes on booze it gets to the point
+Customer 293.538750 298.077000 you know it makes drunks sober you [laughter-know] [laughter-they] [laughter-quit] [laughter-buying] [laughter-anything] [laughter]
+Agent 295.499625 299.234000 [laughter] well wha[t]- what about the taxes on cigarettes
+Customer 298.077000 299.234000 [silence]

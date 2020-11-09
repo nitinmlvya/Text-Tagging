@@ -1,0 +1,174 @@
+Agent 0.000000 0.266250 [noise]
+Customer 0.000000 0.987375 guess what
+Agent 0.266250 1.028125 what
+Customer 0.987375 4.832125 you know Diane Lancaster did you ever meet her she was at she was at your wedding
+Agent 1.028125 4.178875 [silence]
+Agent 4.178875 5.909375 yeah the blonde hair
+Customer 4.832125 10.503750 o[kay]- okay she is transcribing these tapes for TI
+Agent 5.909375 9.743125 [silence]
+Agent 9.743125 12.356875 oh you're kidding
+Customer 10.503750 11.966125 no
+Customer 11.966125 13.761500 [silence]
+Agent 12.356875 16.175375 well hi Diane [laughter]
+Customer 13.761500 17.730750 [laughter] really hey Suzy how you doing
+Agent 16.175375 20.014375 [laughter]
+Customer 17.730750 28.333250 oh this is too crazy well i i'm glad i'm glad it's you dear because whenever i first heard the topic i said oh no i hate to talk about finances and a budget
+Agent 20.014375 27.651750 [silence]
+Agent 27.651750 31.943750 [laughter] i don't do that well myself
+Customer 28.333250 29.348125 [laughter]
+Customer 29.348125 31.355000 [silence]
+Customer 31.355000 35.897875 no huh-uh i don't either no so that covers that so what's
+Agent 31.943750 33.100500 [silence]
+Agent 33.100500 34.887875 uh
+Agent 34.887875 36.946250 that is so funny
+Customer 35.897875 38.285125 i know it i know it
+Agent 36.946250 43.685750 this is so funny this is the third time this the third time i've done that i haven't even had a chance to call
+Customer 38.285125 40.755750 [silence]
+Customer 40.755750 42.389500 have
+Customer 42.389500 44.420000 but you've talked three different times
+Agent 43.685750 46.726875 huh you you're the third person
+Customer 44.420000 45.991750 [silence]
+Customer 45.991750 48.465500 yeah well great ha[ve]-
+Agent 46.726875 51.799250 yeah and and i got uh two uh two other fellows somewhere before
+Customer 48.465500 51.136500 [silence]
+Customer 51.136500 52.852000 yes
+Agent 51.799250 53.553125 they never stay on the subject
+Customer 52.852000 59.128000 yeah do [laughter] do you uh uh h[ave]- i was going to say have you gotten your first check yet
+Agent 53.553125 55.267500 [laughter]
+Agent 55.267500 58.529125 [silence]
+Agent 58.529125 61.988875 huh-uh no i just started this week Monday
+Customer 59.128000 61.362625 [silence]
+Customer 61.362625 63.498875 and you've already had two calls
+Agent 61.988875 63.053875 [silence]
+Agent 63.053875 64.449875 uh-huh
+Customer 63.498875 65.529375 then i'm just i gosh i'm just
+Agent 64.449875 66.222250 you're my third
+Customer 65.529375 67.762250 that's pretty good
+Agent 66.222250 68.469125 i mean i haven't made a call yet
+Customer 67.762250 69.888125 yeah well you need to start doing that
+Agent 68.469125 69.646125 [silence]
+Agent 69.646125 70.885125 oh okay
+Customer 69.888125 74.960125 but then a[gain]- then again if you're getting three calls and you hadn't made any then you really couldn't done much more than that
+Agent 70.885125 74.505125 [silence]
+Agent 74.505125 75.566750 right
+Customer 74.960125 76.073125 yeah
+Agent 75.566750 79.104750 are you uh did you record are we recording
+Customer 76.073125 78.842000 [silence]
+Customer 78.842000 80.268750 yeah we're recording
+Agent 79.104750 81.915250 oh okay all right i didn't know that
+Customer 80.268750 81.214500 yeah
+Customer 81.214500 89.923500 yeah well i- i went ahead and started it i said shoot might as well as long as we're talking i don't think it makes that much difference whether or not we talk about the exact topic you know what i mean
+Agent 81.915250 89.121250 [silence]
+Agent 89.121250 91.403375 oh oh oh oh
+Customer 89.923500 98.899500 i mean i that's that's for folks that don't know each other [laughter-that] [laughter-don't] [laughter-have] [laughter-anything] that don't have anything to say [laughter]
+Agent 91.403375 93.993625 [silence]
+Agent 93.993625 97.577250 [laughter]
+Agent 97.577250 102.486500 [noise] this is too wild [noise] too wild well how's Miami
+Customer 98.899500 101.348000 i know it
+Customer 101.348000 109.031250 oh it's good it's good i uh i talked to uh uh m[y]- the guy who's going to be my new boss today he called
+Agent 102.486500 112.223750 [silence]
+Customer 109.031250 113.075250 they had they were changing planes in New York coming back from uh Bermuda
+Agent 112.223750 113.637500 uh-huh
+Customer 113.075250 119.437500 and uh it looks like what i'll do a week from today i'll go back to uh uh
+Agent 113.637500 120.546125 [silence]
+Customer 119.437500 120.967125 Houston
+Agent 120.546125 121.974125 um-hum
+Customer 120.967125 122.240000 then uh
+Agent 121.974125 124.535500 when when you going back to Houston
+Customer 122.240000 123.792750 [silence]
+Customer 123.792750 125.538750 a week from today
+Agent 124.535500 126.632250 oh really
+Customer 125.538750 138.877125 yeah and then uh probably the next week what i'm going to do and maybe for the next two weeks we're not sure yet i'm going to work in the Houston office then i'm going to be working with uh the crude department
+Agent 126.632250 134.939250 [silence]
+Agent 134.939250 136.369625 uh-huh
+Agent 136.369625 138.483750 [silence]
+Agent 138.483750 139.534875 um-hum
+Customer 138.877125 144.176375 and uh learning what i'm going to need to be doing on on that side of the business
+Agent 139.534875 142.985750 [silence]
+Agent 142.985750 145.400375 so you're not going to stay down there in Miami
+Customer 144.176375 154.332500 not uh not long term then after a week or two in Houston i'll either come back to Miami or i'll go to Bermuda
+Agent 145.400375 153.715375 [silence]
+Agent 153.715375 155.015250 uh-huh
+Customer 154.332500 158.872625 and uh i don't know it's still pretty loosey-goosey
+Agent 155.015250 158.642375 [silence]
+Agent 158.642375 160.624125 huh
+Customer 158.872625 165.391875 [silence]
+Agent 160.624125 165.584625 hum well that's interesting i was wondering you know what are you doing down there anyway
+Customer 165.391875 169.879250 well what i'm i mean i'm working i mean like i would you know like i did at
+Agent 165.584625 168.668000 [silence]
+Agent 168.668000 171.523875 well no now i mean after work
+Customer 169.879250 171.328125 [silence]
+Customer 171.328125 182.316875 oh well shoot you know what one of the things about this i mean i- i don't get off work until uh well we don't well we don't leave the office until sometimes it's seven o'clock at night
+Agent 171.523875 176.480000 [silence]
+Agent 176.480000 178.002250 like six
+Agent 178.002250 179.524625 [silence]
+Agent 179.524625 180.398750 oh
+Agent 180.398750 181.774125 [silence]
+Agent 181.774125 182.718875 yeah
+Customer 182.316875 185.642250 and we've been staying real late cause it's a lot going on
+Agent 182.718875 184.925500 [silence]
+Agent 184.925500 186.083875 yeah
+Customer 185.642250 193.099125 and then for about oh gosh the first three nights i had dinners to go to
+Agent 186.083875 192.486625 [silence]
+Agent 192.486625 194.777000 oh yeah yeah yeah
+Customer 193.099125 195.821875 you know we have to go out and dine
+Agent 194.777000 197.743125 and then you heading into the corporate apartment
+Customer 195.821875 197.017000 [silence]
+Customer 197.017000 205.862250 yeah and then by the time you know you get in and you're living out of a suitcase and you know kind of get settle down i do a little reading hell it's bedtime for me
+Agent 197.743125 205.017625 [silence]
+Agent 205.017625 206.479250 yeah
+Customer 205.862250 209.867500 and uh tonight for instance i left the office early and uh
+Agent 206.479250 215.231000 [silence]
+Customer 209.867500 217.307250 i'm going to uh i was just sitting down here and i was watching the news i thought well let me see if i can get this call over with you know and uh
+Agent 215.231000 216.468625 yeah
+Agent 216.468625 222.006625 [silence]
+Customer 217.307250 225.557125 because i've got the guy that's coming in from New York his his plane comes in about seven thirty and whenever he gets back yeah and whenever he gets back to the airport here
+Agent 222.006625 224.240750 tonight yeah
+Agent 224.240750 233.477750 [silence]
+Customer 225.557125 233.983500 he flies down to Aruba tomorrow but whenever he gets back to the airport here tonight he's going to give me a call we're going to have dinner together because_1 he wants to talk with me about some more stuff
+Agent 233.477750 234.667500 um-hum
+Customer 233.983500 235.803625 you know so
+Agent 234.667500 235.831500 yeah
+Customer 235.803625 240.524625 and then but what i'm going to do tomorrow i'm going to get up and go get my haircut
+Agent 235.831500 239.618750 [silence]
+Agent 239.618750 241.006750 um-hum
+Customer 240.524625 245.665000 and uh got to get some shirts out of the laundry and then i'm headed to the beach
+Agent 241.006750 245.858125 [silence]
+Customer 245.665000 246.822750 [silence]
+Agent 245.858125 247.427375 ooh i don't blame you
+Customer 246.822750 248.032125 yeah
+Agent 247.427375 249.202875 i don't blame you
+Customer 248.032125 251.825625 yeah i[t]- it i think's it's going to be a pretty day it's been about
+Agent 249.202875 250.637625 [silence]
+Agent 250.637625 253.044750 is it warm down there
+Customer 251.825625 254.281750 yeah it's about eighty degrees today
+Agent 253.044750 257.156625 [laughter-oh] [laughter-shit]
+Customer 254.281750 258.919500 [laughter]
+Agent 257.156625 263.245250 it's only fifty five here [laughter] i hate it [laughter]
+Customer 258.919500 261.148250 oh no
+Customer 261.148250 262.753500 [laughter]
+Customer 262.753500 264.707875 well it's about eighty
+Agent 263.245250 265.427750 is the sun out
+Customer 264.707875 266.521750 oh yeah
+Agent 265.427750 267.799250 oh no
+Customer 266.521750 268.762375 [laughter] beautiful
+Agent 267.799250 272.200500 how awful we're looking at rain all weekend
+Customer 268.762375 270.036125 [laughter]
+Customer 270.036125 271.101625 [silence]
+Customer 271.101625 274.950750 no not again oh horrors
+Agent 272.200500 275.293500 yes yes
+Customer 274.950750 276.003125 [silence]
+Agent 275.293500 279.986750 oh really [laughter] so you're not staying down there for the whole two months
+Customer 276.003125 277.906375 well anyway don't
+Customer 277.906375 279.534000 [silence]
+Customer 279.534000 283.580000 no huh-uh no see i'm going to be going back and forth
+Agent 279.986750 282.009750 oh
+Agent 282.009750 284.331625 oh i see i see
+Customer 283.580000 296.669125 and like i said i'm going to be going to Bermuda some and then i think i'll i think probably i'll make another trip to Aruba between now and the time i move down there although i may there's a possibility that i may move be moving down there as early as the end of February
+Agent 284.331625 290.484250 [silence]
+Agent 290.484250 291.553125 yeah
+Agent 291.553125 295.966625 [silence]
+Agent 295.966625 297.580375 wow
+Customer 296.669125 298.341500 i know it
+Agent 297.580375 299.170000 wow
+Customer 298.341500 299.170000 but

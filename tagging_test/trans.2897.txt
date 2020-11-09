@@ -1,0 +1,132 @@
+Agent 0.000000 5.283875 [noise]
+Customer 0.000000 1.012125 [noise]
+Customer 1.012125 2.382625 [silence]
+Customer 2.382625 5.501000 what do you think about the benefits in jobs
+Agent 5.283875 7.996250 um i'm i'm
+Customer 5.501000 15.198875 [silence]
+Agent 7.996250 16.063750 r[elatively]- relatively satisfied with the benefits i have i think that um our health insurance is terribly expensive
+Customer 15.198875 16.660625 uh-huh
+Agent 16.063750 22.436250 i'd rather that we got a bit more coverage for a lot less [laughter-money]
+Customer 16.660625 27.282875 [silence]
+Agent 22.436250 27.477000 but um you know that's that's my major complaint i guess what about you
+Customer 27.282875 33.317875 yeah and a lot of times they turn down your claims so that leaves you paying for all of it
+Agent 27.477000 32.856375 [silence]
+Agent 32.856375 34.175375 uh-huh
+Customer 33.317875 39.959750 [silence]
+Agent 34.175375 35.180625 [silence]
+Agent 35.180625 40.955750 or or maybe that it's not understood what should be covered and what isn't
+Customer 39.959750 41.440750 uh-huh
+Agent 40.955750 42.119750 [silence]
+Customer 41.440750 42.670375 yeah
+Agent 42.119750 44.377000 yeah i
+Customer 42.670375 55.407750 right the the health insurance i have is MetLife and if it's the type that if you go to a certain doctor then uh you just pay ten dollars and then uh the insurance pays the rest of the bill
+Agent 44.377000 59.755125 [silence]
+Customer 55.407750 59.557000 or if you go outside you get uh seventy thirty
+Customer 59.557000 82.207750 [silence]
+Agent 59.755125 61.314375 i see
+Agent 61.314375 68.969375 now we i have just the regular insurance so that any doctor is covered but what i found recently is
+Agent 68.969375 73.689375 what they've been doing is they they poll somehow the area
+Agent 73.689375 83.092000 and then they have what they consider a justifiable price for the area where your doctor is located based on zip code
+Customer 82.207750 83.477000 uh-huh
+Agent 83.092000 87.134750 and so recently when when we had a claim
+Customer 83.477000 111.965750 [silence]
+Agent 87.134750 100.425750 um they didn't pay the eighty five percent they paid much lower and when i called they said oh well that's because your doctor is charging much more than the norm for the area and i was really surprised because
+Agent 100.425750 107.983625 either there aren't that many of that type of doctor within that zip code so that you know two doctors could balance each other out
+Agent 107.983625 112.471500 or their you know their statistics aren't very accurate
+Customer 111.965750 116.902875 right and and they're probably doing it to their benefit anyway so
+Agent 112.471500 116.727375 [silence]
+Agent 116.727375 123.563500 yeah i would assume that you [laughter-know] whatever doctors are willing to do the paperwork and send it in
+Customer 116.902875 122.670500 [silence]
+Customer 122.670500 124.106875 uh-huh
+Agent 123.563500 130.710000 but it's it's difficult What about other other benefits are there others that you're dissatisfied with
+Customer 124.106875 129.823625 [silence]
+Customer 129.823625 137.982250 well i work for Sears and and um that's about the the only real benefit you have is health insurance
+Agent 130.710000 137.063250 [silence]
+Agent 137.063250 139.596000 well you have vacation i mean
+Customer 137.982250 148.192125 yeah yeah but everybody gets vacation i mean like uh TI and some other places you know they have so[cial]- recreational facilities and
+Agent 139.596000 153.924375 [silence]
+Customer 148.192125 154.574375 they have a driving range and weight room and you know i think they even have a swimming pool and
+Agent 153.924375 155.986000 huh
+Customer 154.574375 157.818125 i don't know if they have any tennis courts or anything like that
+Agent 155.986000 157.910250 [silence]
+Customer 157.818125 158.905875 [silence]
+Agent 157.910250 160.968000 yeah i'm not familiar with that sort of thing but
+Customer 158.905875 163.047250 [noise]
+Agent 160.968000 171.182875 but you know to me vacation [laughter] is is an issue and i mean different places have different amounts of vacation i would assume
+Customer 163.047250 165.172750 [silence]
+Customer 165.172750 166.550250 uh-huh
+Customer 166.550250 170.186250 [silence]
+Customer 170.186250 171.655625 right
+Agent 171.182875 178.418250 and um you know the leniency with which they let you take leave without pay perhaps or um
+Customer 171.655625 188.542875 [silence]
+Agent 178.418250 179.425750 [silence]
+Agent 179.425750 189.391625 um i don't know i suppose um sick days some places count the number of hours and some places just sort of believe you
+Customer 188.542875 190.202500 uh-huh
+Agent 189.391625 199.616000 um ours is based on number of days and you know people try to build them up in case they really do get seriously ill
+Customer 190.202500 198.618625 [silence]
+Customer 198.618625 199.867875 right
+Agent 199.616000 201.362250 right
+Customer 199.867875 216.794500 [silence]
+Agent 201.362250 205.136750 but um otherwise
+Agent 205.136750 210.567750 i'm not not aware of any problems with the benefits around here
+Agent 210.567750 213.764625 [silence]
+Agent 213.764625 217.294625 so maybe that covers the topic then
+Customer 216.794500 224.131625 yeah well i don't know the worki[ng]- the working conditions you know if you could include that in benefits
+Agent 217.294625 226.655500 [silence]
+Customer 224.131625 227.340000 some places aren't very safe to work
+Agent 226.655500 227.917375 uh-huh
+Customer 227.340000 233.682250 and and some places don't compensate you for the hazards that you that you have to work under
+Agent 227.917375 233.063500 [silence]
+Agent 233.063500 243.493000 uh-huh or maybe a ben[efit]- uh not really a benefit either but would be the allowing you to use the telephone for personal calls
+Customer 233.682250 242.418250 [silence]
+Customer 242.418250 244.126250 right uh-huh
+Agent 243.493000 244.953125 um
+Customer 244.126250 249.963000 [silence]
+Agent 244.953125 250.722000 um but you know i suppose some places are are more stringent about that than others
+Customer 249.963000 252.179250 yeah i think so
+Agent 250.722000 252.903875 [silence]
+Customer 252.179250 259.414875 [silence]
+Agent 252.903875 259.889500 and and maybe arriving late or something like that you know how how they enforce the rules
+Customer 259.414875 261.685750 uh-huh
+Agent 259.889500 263.911750 [silence]
+Customer 261.685750 273.155500 [silence]
+Agent 263.911750 275.637000 but other than that i don't have much feeling for [laughter] for the benefits since like i said um i don't have a big problem with with them i
+Customer 273.155500 279.929500 um Workm[en]- Workmen's Comp is a big thing now in in Texas because um
+Agent 275.637000 282.486375 [silence]
+Customer 279.929500 287.365250 um how much it costs the employers and a a lot of them are going to their own insurance now
+Agent 282.486375 284.537375 uh-huh
+Agent 284.537375 300.025000 [silence]
+Customer 287.365250 291.782625 and it reduces some of the length of the benefits and uh
+Customer 291.782625 299.732625 and i don't know besides that but i i noticed right off that was a year less than what the state was allowing
+Customer 299.732625 305.302000 [silence]
+Agent 300.025000 306.070375 oh i uh i didn't know that somebody could avoid Workmen's Compensation
+Customer 305.302000 311.255125 well well they still have to pay it but they buy their own instead of going through the state
+Agent 306.070375 310.058750 [silence]
+Agent 310.058750 312.027875 oh i see
+Customer 311.255125 313.999250 so apparently it costs less that way
+Agent 312.027875 313.322500 [silence]
+Agent 313.322500 315.331250 uh-huh uh-huh
+Customer 313.999250 323.637500 [silence]
+Agent 315.331250 324.596875 i suppose that whenever companies can avoid um benefits it's to the to to the benefit of the company [laughter]
+Customer 323.637500 325.340750 uh-huh
+Agent 324.596875 333.627375 and at least you know financially in the short run but i would think that they would get a much greater turnover and that people would be dissatisfied working for them
+Customer 325.340750 332.707250 [silence]
+Customer 332.707250 340.445750 yeah that's what i what i think the[y]- they should be able they should be able to judge their benefits on how happy their employees are
+Agent 333.627375 348.792000 [silence]
+Customer 340.445750 349.356125 and how much profit they're making instead of trying to cut everything down and then have everybody be unhappy and and have a constant turnover of people
+Agent 348.792000 357.057000 right i mean sure the payroll is lower that way but i would assume that the productivity is way down also
+Customer 349.356125 355.665125 [silence]
+Customer 355.665125 364.926750 yeah the productivity and the training costs if they have to train the same employee a new employee every six months then i don't see how they can save money
+Agent 357.057000 364.070625 [silence]
+Agent 364.070625 365.860750 uh-huh uh-huh
+Customer 364.926750 369.903750 you know and once they once they get somebody good they ought to hang onto them
+Agent 365.860750 369.749500 [silence]
+Agent 369.749500 371.327125 that's right
+Customer 369.903750 372.672875 [silence]
+Agent 371.327125 373.104000 no i agree
+Customer 372.672875 376.253250 yeah okay it was nice talking to you
+Agent 373.104000 375.137375 [silence]
+Agent 375.137375 378.135375 well thank you for calling bye-bye
+Customer 376.253250 377.867750 yeah bye-bye
+Customer 377.867750 380.086375 [noise]
+Agent 378.135375 380.086375 [noise]

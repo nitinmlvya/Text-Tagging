@@ -1,0 +1,142 @@
+Agent 0.000000 0.353250 [silence]
+Customer 0.000000 0.037875 [silence]
+Customer 0.037875 5.418500 hello how you doing i'm Lee with uh uh i'm over here in Plano Texas
+Agent 0.353250 2.642125 hello fine
+Agent 2.642125 4.597625 [silence]
+Agent 4.597625 10.346625 okay let me ask you something can i run a minute and shut my radio off okay
+Customer 5.418500 8.225750 [silence]
+Customer 8.225750 9.997875 oh sure
+Customer 9.997875 11.558875 [noise]
+Agent 10.346625 20.388750 [silence]
+Customer 11.558875 15.639750 [silence]
+Customer 15.639750 18.780250 [laughter]
+Customer 18.780250 20.470625 oh
+Agent 20.388750 22.390125 okay
+Customer 20.470625 22.031125 [silence]
+Customer 22.031125 24.991750 [noise] where are you calling from or where are you at
+Agent 22.390125 23.298375 [silence]
+Agent 23.298375 28.975500 Arlington Arlington Texas yes
+Customer 24.991750 28.600750 Arlington well there's a
+Customer 28.600750 30.027875 [noise] lot of
+Agent 28.975500 31.601125 [silence]
+Customer 30.027875 33.079125 stuff going on in Arlington these days
+Agent 31.601125 34.675500 yes not all good stuff
+Customer 33.079125 37.291250 are you involved in any of that no
+Agent 34.675500 38.310750 no no i'm not not personally
+Customer 37.291250 43.016000 [noise] well uh what benefits uh d[o]- now do you work
+Agent 38.310750 42.175500 [silence]
+Agent 42.175500 51.461625 [noise] i'm going to school right now i can tell you about my last job or whatever you want to talk about that or my husband's or what i think i've got a lot of
+Customer 43.016000 44.910250 oh you are
+Customer 44.910250 45.946500 [silence]
+Customer 45.946500 47.568125 okay [noise]
+Customer 47.568125 49.302875 [silence]
+Customer 49.302875 53.598875 [noise] yeah because_1 i- i work for myself and so uh
+Agent 51.461625 53.171625 uh-huh
+Agent 53.171625 59.395625 [silence]
+Customer 53.598875 66.994500 [noise] uh there's a lot that i that i guess i do miss uh a lot of benefits from working for a big corporation i miss uh insurance and uh the steady paychecks that come but uh
+Agent 59.395625 62.548375 yes right
+Agent 62.548375 64.493875 [silence]
+Agent 64.493875 65.706500 yes
+Agent 65.706500 73.902250 yes i've been in my own business Mary Kay in fact i'm selling it out now to go to school for a turn and i enjoyed the freedom of having
+Customer 66.994500 70.987375 [silence]
+Customer 70.987375 72.629125 oh is that right
+Customer 72.629125 75.811625 [silence]
+Agent 73.902250 79.886500 that you know go to work when i wanted to and not but you know the benefits weren't there so
+Customer 75.811625 77.209375 uh-huh
+Customer 77.209375 78.493375 [silence]
+Customer 78.493375 84.907500 yeah i uh [noise] i own part of a roofing company
+Agent 79.886500 84.085250 [silence]
+Agent 84.085250 86.159250 oh do you yeah
+Customer 84.907500 87.469625 in the in the Dallas Fort Worth area
+Agent 86.159250 87.678625 uh-huh
+Customer 87.469625 101.920875 and uh y[ou]- you know unfortunately we we were part of a of a bigger bigger company and they uh you know we [noise] we had all the benefits there and and i do miss that you know but uh on the other hand i
+Agent 87.678625 93.831375 [silence]
+Agent 93.831375 95.228875 uh-huh
+Agent 95.228875 98.990750 [silence]
+Agent 98.990750 100.346875 yeah
+Agent 100.346875 106.827250 [silence]
+Customer 101.920875 103.753375 i uh
+Customer 103.753375 109.760875 i enjoy having the the time that i have with my family and
+Agent 106.827250 108.223125 right
+Agent 108.223125 110.028500 yep um-hum
+Customer 109.760875 113.782500 being able to you know work when i want and
+Agent 110.028500 113.774375 [silence]
+Agent 113.774375 116.761625 i think today the thing that i uh
+Customer 113.782500 121.283000 [silence]
+Agent 116.761625 124.123000 would appreciate the most uh because my husband gets his medical through his company but we have to pay for mine
+Customer 121.283000 122.634125 uh-huh
+Customer 122.634125 127.484250 [silence]
+Agent 124.123000 127.496500 and we're the only one that i'm the only one that's being insured
+Customer 127.484250 129.276875 oh is that right
+Agent 127.496500 137.648125 and and we pay the same amount that someone over there that has four children have i mean [laughter-so] [laughter-it's] [laughter-kind] [laughter-of] and i would i really and the way medical expenses are
+Customer 129.276875 133.765375 [silence]
+Customer 133.765375 135.408250 yeah
+Customer 135.408250 137.423625 [silence]
+Customer 137.423625 139.064000 it's a
+Agent 137.648125 143.449375 i think that's probably one of the biggest benefits to ha[ve]- you need to have
+Customer 139.064000 146.854875 yeah it r[eally]- p[robably]- it p[robably]- yeah i'll tell you what that is the single most uh benefit that i that i
+Agent 143.449375 145.073500 right
+Agent 145.073500 157.946625 [silence]
+Customer 146.854875 156.840500 enjoyed and i do miss because i looked into picking up some uh medical insurance for my just for my family you know just
+Customer 156.840500 160.504500 and it is unbelievable how much you have to pay for it
+Agent 157.946625 161.654625 it's out of sight right it's out of sight
+Customer 160.504500 163.521375 and uh yeah
+Agent 161.654625 165.809000 even at a group rate i couldn't believe how much is our
+Customer 163.521375 172.760500 oh yeah even at a group rate uh it's it's unbelievable and uh the amount that you have to pay for you know for kids and and if you want to add dental to it i mean that's
+Agent 165.809000 172.162375 [silence]
+Agent 172.162375 175.296750 right it goes up right
+Customer 172.760500 178.731250 that eats even more so [noise] yeah i guess what the other benefits that uh
+Agent 175.296750 186.802625 [silence]
+Customer 178.731250 185.670375 [noise] that i uh that i miss i guess is uh you know some of the
+Customer 185.670375 195.715000 bonuses and stuff that that goes on with just being involved with a big company you know and course these days you can't count on that because [laughter]
+Agent 186.802625 188.271000 um-hum
+Agent 188.271000 194.782250 [silence]
+Agent 194.782250 196.160750 right
+Customer 195.715000 201.008750 uh you know i feel bad for the people that are involved in that uh
+Agent 196.160750 202.993125 [silence]
+Customer 201.008750 202.083125 [silence]
+Customer 202.083125 209.124250 [vocalized-noise] GM deal there in in Arlington and i'm i'm sure it'll be you know quite a few people are affected by that so
+Agent 202.993125 204.297875 right
+Agent 204.297875 208.141500 [silence]
+Agent 208.141500 216.976875 right it's going to hurt the city although uh i will personally tell you i used to work at a bank and i would see the GM people come in when they were they would shut down to retool
+Customer 209.124250 216.332000 [silence]
+Customer 216.332000 217.694500 uh-huh
+Agent 216.976875 221.305875 they were paid that whole time and i don't know if you're aware of this ri[ght]- yes
+Customer 217.694500 219.618750 [silence]
+Customer 219.618750 221.287250 oh really
+Customer 221.287250 228.689375 [silence]
+Agent 221.305875 224.726125 they come in there just they go off fishing and stuff and come in and
+Agent 224.726125 234.374625 every Friday and go to the safety deposit box and i'm sitting there making a hundred dollars a week you know and they had all these gr[eat]- i- i really believe they have done this to themselves [noise]
+Customer 228.689375 230.587000 is that right
+Customer 230.587000 235.738500 [silence]
+Agent 234.374625 237.323875 in a way because of the unions being so strong
+Customer 235.738500 237.734375 [noise] the Union yeah
+Agent 237.323875 242.674875 and right now anybody that's laid off from GM will have a full year's paycheck
+Customer 237.734375 244.126125 [silence]
+Agent 242.674875 251.100750 i just read this in the paper the other day plus probably an additional six months through the the worker's stuff that they have at
+Customer 244.126125 245.902375 is that right
+Customer 245.902375 255.447625 [silence]
+Agent 251.100750 262.483500 at uh through the company so i'm so[rry]- you know i'm sorry it's happening because it's going to hurt but i don't feel as sorry for them if my husband were laid off tomorrow we'd get one more check and that would be it
+Customer 255.447625 256.848375 yeah
+Customer 256.848375 257.998125 [silence]
+Customer 257.998125 260.117500 well really the
+Customer 260.117500 261.630125 [silence]
+Customer 261.630125 274.065750 yeah really the ones it's gonna hurt is is actually the the businesses around in that area you know that's the ones that that that's going to hurt because they depend on that uh [noise]
+Agent 262.483500 266.391125 [silence]
+Agent 266.391125 270.050625 yes oh yeah that's already hurting yeah
+Agent 270.050625 271.899375 [silence]
+Agent 271.899375 283.357625 but i think there's a case where benefits have gotten they voted them_1 in and they got so good i mean like two dollars for a prescription no deductible on the medical all these things you know
+Customer 274.065750 278.927000 [silence]
+Customer 278.927000 280.604000 oh yeah
+Customer 280.604000 282.630500 [silence]
+Customer 282.630500 283.912500 yeah
+Agent 283.357625 287.281000 and it made the prices of cars go up and
+Customer 283.912500 285.930375 [silence]
+Customer 285.930375 287.290500 um-hum
+Agent 287.281000 291.828750 and you know the i we i believe in unions but they went too far
+Customer 287.290500 291.576250 [silence]
+Customer 291.576250 298.374000 well i tell you i [noise] i've had my fill of unions [laughter] i u[se]-
+Agent 291.828750 293.079125 [silence]
+Agent 293.079125 296.248375 i mean i can't make eighteen dollars an hour
+Agent 296.248375 299.522000 i mean i know someone out here that makes eighteen dollars an hour
+Customer 298.374000 299.522000 oh ye[ah]-

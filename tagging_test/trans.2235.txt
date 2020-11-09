@@ -1,0 +1,216 @@
+Agent 0.000000 0.631875 [noise]
+Customer 0.000000 1.193250 [silence]
+Agent 0.631875 1.465750 okay
+Customer 1.193250 2.325375 hi
+Agent 1.465750 2.481875 [silence]
+Customer 2.325375 4.525000 okay you wanna start
+Agent 2.481875 3.493750 hi
+Agent 3.493750 4.512375 [silence]
+Agent 4.512375 14.143375 um yeah sure um i think i think we should have a balanced budget even if it means that services are dramatically cut back
+Customer 4.525000 17.234250 [silence]
+Agent 14.143375 17.323250 if you can't pay for it you shouldn't have it period
+Customer 17.234250 22.643125 that is very true however our whole economy is based on loans
+Agent 17.323250 18.560250 and
+Agent 18.560250 19.608375 that's just
+Agent 19.608375 22.321875 [silence]
+Agent 22.321875 23.062625 um-hum
+Customer 22.643125 30.035375 uh uh but but right this moment you probably have several loans out or you have borrowed money against your credit card or something
+Agent 23.062625 29.830750 [silence]
+Agent 29.830750 31.225375 well
+Customer 30.035375 31.649375 master charge
+Agent 31.225375 32.625250 [laughter]
+Customer 31.649375 35.334125 [silence]
+Agent 32.625250 35.395750 i don't have a master charge thank you [laughter]
+Customer 35.334125 40.507250 but uh see that our whole system is built on on owing on borrowing
+Agent 35.395750 38.444000 [silence]
+Agent 38.444000 47.115750 right but that's the problem see as our system shouldn't be based on owing and borrowing and all that
+Customer 40.507250 46.064875 [silence]
+Customer 46.064875 54.047000 uh true but uh uh uh without it people wouldn't be able to own automobiles or they wouldn't be able to own a house
+Agent 47.115750 54.067000 [silence]
+Customer 54.047000 115.667375 [silence]
+Agent 54.067000 60.885625 yes they would they just wouldn't be able to own the kind of automobiles that they think they deserve to own
+Agent 60.885625 71.746000 or the kind of homes that we think we deserve to own we might have to you know just be able to i think if we a generation went without debt
+Agent 71.746000 77.100125 then the next generation like if if our our generation my husband and i we're twenty eight
+Agent 77.100125 84.204750 if we lived our lives and didn't become you know indebted like you know our generation before us
+Agent 84.204750 90.668250 that um the budget would balance and that we became accustomed to living with what we could afford
+Agent 90.668250 99.279875 which we wouldn't be destitute i mean we wouldn't be living on the street by any means but just compared to how spoiled we are we would be in our own minds
+Agent 99.279875 104.930625 but i feel like the generation after us w[ould]- oh man it i would be so good
+Agent 104.930625 112.080000 it would be so much better it wouldn't be perfect but then they could learn to live with wh[at]- what they could afford to save to buy
+Agent 112.080000 115.868125 and if you want a nicer car than that well you save a little longer
+Customer 115.667375 122.089750 well now i agree and uh i agree with you one hundred percent i'm just taking the other side just so we'll have a discussion
+Agent 115.868125 117.264000 [silence]
+Agent 117.264000 118.109875 uh-huh
+Agent 118.109875 121.518875 [silence]
+Agent 121.518875 124.721250 [laughter]
+Customer 122.089750 123.373625 here
+Customer 123.373625 131.341875 uh but i still go right back to what i said when is the last time you had uh fifteen thousand dollars all at one time to go out and buy an automobile
+Agent 124.721250 131.906500 [silence]
+Customer 131.341875 139.971500 [silence]
+Agent 131.906500 140.887625 but see i we made poor choices in college we took out two both of us had twenty thousand dollars in loans for student loans
+Customer 139.971500 141.427250 um-hum
+Agent 140.887625 147.882375 and i look back on that and i bought shoes i went shopping i did not need that money i did not need it
+Customer 141.427250 192.026375 [silence]
+Agent 147.882375 159.003000 i didn't need it i shouldn't have even qualified to get it i didn't need it and it would have been a little rough i might have eaten some bologna instead of roast beef out of the deli but i did not need it
+Agent 159.003000 168.457125 and as i look back now now we're paying that back i told my son if you have to live in the ghetto to go to college do it but don't take out ten thousand dollars in loans
+Agent 168.457125 173.666500 don't do it and i don't i hope don't think he'll have to do that but i just
+Agent 173.666500 184.112625 so like we might if we didn't have those loans we could have saved in the last five years the money for that and i believe we would have because God's really put it in our heart not to get in debt you know
+Agent 184.112625 192.085250 but we have friends at church that do this on a constant basis that are totally debt free and they pay cash for everything they buy
+Customer 192.026375 193.224875 uh-huh
+Agent 192.085250 194.811125 including new vans and so
+Customer 193.224875 211.826875 [silence]
+Agent 194.811125 198.876625 so i guess i've seen it done and i know you can do it you know
+Agent 198.876625 203.737750 but you have to drive that old car until you get that money saved up for that new van
+Agent 203.737750 212.319125 and that's where Americans don't like to do it and so and we don't want to cut back our services from the government because we're spoiled
+Customer 211.826875 215.312375 well i have one way to suggest reducing the budget
+Agent 212.319125 215.169250 [silence]
+Agent 215.169250 215.778750 what
+Customer 215.312375 216.925500 very simple
+Agent 215.778750 219.104000 [noise]
+Customer 216.925500 226.206375 just take all these civil service employees and and uh uh take some of those holidays away from them_1 like Columbus Day President's Day
+Agent 219.104000 220.341875 [laughter]
+Agent 220.341875 225.068500 [silence]
+Agent 225.068500 226.343000 [laughter]
+Customer 226.206375 230.116000 i mean they g[et]- they get all these days off now give them_1
+Agent 226.343000 227.617500 i know [laughter]
+Agent 227.617500 228.737375 [silence]
+Agent 228.737375 230.122375 yeah
+Customer 230.116000 235.117125 what a a week i think we here at TI get a total of eleven a year
+Agent 230.122375 231.420500 i know
+Agent 231.420500 234.153500 [silence]
+Agent 234.153500 235.314000 um-hum
+Customer 235.117125 240.812125 and that's about uh three or four less than civil servants get
+Agent 235.314000 240.218250 [silence]
+Agent 240.218250 241.337875 uh-huh
+Customer 240.812125 247.054875 now just look at that money the government could save if they didn't have all of those days off all those holidays
+Agent 241.337875 246.542750 [silence]
+Agent 246.542750 248.242750 yeah that is true
+Customer 247.054875 254.137000 [silence]
+Agent 248.242750 252.852375 because_1 i always think the mail never comes on these days and you're like well what is it [laughter]
+Agent 252.852375 254.460375 you don't even know it's a holiday [laughter]
+Customer 254.137000 259.654500 well now don't forget the mail is something else again that has nothing they're not civil servant people
+Agent 254.460375 259.001000 [silence]
+Agent 259.001000 261.546750 but isn't that federal in the federal budget
+Customer 259.654500 261.602750 [silence]
+Agent 261.546750 264.091500 [silence]
+Customer 261.602750 264.544000 no no they have their own budget they go by
+Agent 264.091500 267.660375 but isn't it part of our in[come]- it's not part of our taxes
+Customer 264.544000 267.027250 [silence]
+Customer 267.027250 271.496875 no you know that's why [vocalized-noise] the price of mailing a letter keeps going up
+Agent 267.660375 268.785375 it's not
+Agent 268.785375 270.658500 [silence]
+Agent 270.658500 273.909500 that's why it keeps [laughter-going] [laughter-up] huh that's another topic
+Customer 271.496875 272.531000 [silence]
+Customer 272.531000 273.805000 you know i could
+Customer 273.805000 278.912000 i can remember the days when it only cost three cents to mail uh uh uh a letter
+Agent 273.909500 274.776375 [laughter]
+Agent 274.776375 278.454750 [silence]
+Agent 278.454750 280.740875 those stamps are valuable now
+Customer 278.912000 280.295875 [silence]
+Customer 280.295875 284.184125 yeah [laughter] they probably hey i ought to go looking through some of my old mail
+Agent 280.740875 283.836125 [laughter]
+Agent 283.836125 289.862625 that's funny yeah and that is a good short term thing though that little things like that
+Customer 284.184125 357.743750 [silence]
+Agent 289.862625 296.321375 that overall though i just think we're just going to i don't know see i know i guess i'm kind of leery of this topic because
+Agent 296.321375 305.649750 i know that Bush is real for the new world order the one world government and alleviating all you know national debt between all of the nations but i see that to
+Agent 305.649750 311.842125 be a potential power problem later with um who's going to be in charge with this new world order
+Agent 311.842125 326.099750 and i you know i'm uncomfortable with that much power being in one place but i know we already have a new money sys[tem]- we already have new bills printed for [vocalized-noise] US Treasury already has our new bills printed for new currency and i mean i've seen them_1 [laughter]
+Agent 326.099750 334.355000 and so i know that the long-term vision for the US government is to alleviate all national debts and to start over afresh
+Agent 334.355000 340.751375 but i'm concerned with whose going to have the power over this new world order that they keep talking about you know
+Agent 340.751375 344.263750 that's a lot of power for one or two people to have
+Agent 344.263750 350.793375 and so um i guess because_1 i- i guess i feel like i know what their long-term vision is i'm kind of like
+Agent 350.793375 358.465875 you know yeah the only answer is to start over or to totally change our lifestyles and i don't think Americans are willing to do it
+Customer 357.743750 364.595000 well what about uh uh sending all this money overseas supporting other governments third world governments
+Agent 358.465875 366.286625 [silence]
+Customer 364.595000 366.346500 how do you feel about that
+Agent 366.286625 372.620750 i don't i don't feel we should loan them money if i- i wish our leaders were really seeking the Lord on these things
+Customer 366.346500 381.158500 [silence]
+Agent 372.620750 382.143000 and if we feel led to give a country money to help them fine but i don't feel we should be loaning money like that i mean it doesn't work are they gonna
+Customer 381.158500 385.816750 well in so many cases it's not a loan it's just a g[ive]- a giveaway
+Agent 382.143000 385.085625 [silence]
+Agent 385.085625 390.948375 but it's not but it's not set up as a giveaway if it were set up as a giveaway and it was something that
+Customer 385.816750 466.883375 [silence]
+Agent 390.948375 401.285250 i mean our our President and our leaders could be seeking God saying God is it your will for us to bless this nation with this money is it your will this money and your will for us to give to them
+Agent 401.285250 415.652000 and i believe if we gave it no strings attached that God would bless our nation but because we're our motive is interest our motive is not pure it just backfires i mean none of these nations have paid us back
+Agent 415.652000 424.817875 it be do you understand it's i guess it's a principle of giving and receiving you give it no strings attached and they may never give you anything back but
+Agent 424.817875 434.695750 because there's no strings attached it like gives them a freedom to give us something back and it might not be money it might be um no taxes on our things
+Agent 434.695750 444.763500 our computers going into their nation it might come back in another way but it would be come back but because we're loaning it i think that's the problem and i don't mean give it to everybody that asks
+Agent 444.763500 448.303625 use a lot of discernment don't give money to every nation
+Agent 448.303625 451.992125 you know what i'm saying i think we're loaning money to too many nations
+Agent 451.992125 459.369000 but i think if we gave to a few select ones that really needed it that it would work out better for us and for them
+Agent 459.369000 466.848875 and so now we have all these nations that owe us all this money and so i just think we're never going to get that back you know
+Agent 466.848875 468.191375 do you understand
+Customer 466.883375 472.322625 no that that's true i- i understand that France still owes us money from World War I
+Agent 468.191375 471.561000 [silence]
+Agent 471.561000 472.880500 um-hum
+Customer 472.322625 479.285500 and uh World War II debts have never been repaid i think the US just wrote them all off
+Agent 472.880500 479.283750 [silence]
+Agent 479.283750 480.544375 yeah
+Customer 479.285500 484.485500 and said well we'll cancel it just like they did to the that Polish debt here uh last week
+Agent 480.544375 482.529375 [silence]
+Agent 482.529375 483.697250 um-hum
+Agent 483.697250 484.812500 [silence]
+Customer 484.485500 485.644625 [silence]
+Agent 484.812500 486.048875 yeah
+Customer 485.644625 491.338625 uh uh half the countries in the world simply canceled the Poland debts
+Agent 486.048875 488.629500 [silence]
+Agent 488.629500 489.731750 [noise]
+Agent 489.731750 490.694000 [silence]
+Agent 490.694000 493.041250 [noise]
+Customer 491.338625 492.989625 to help them
+Customer 492.989625 511.261125 [silence]
+Agent 493.041250 507.942750 right long wh[at]- long term though do you think it would be best to see an a one world you know you can't alleviate all national debts or do you think it would be better for our leaders to just start seeking God on how to turn our nation around financially
+Agent 507.942750 509.070875 [silence]
+Agent 509.070875 511.820000 that's my opinion my opinion's the latter
+Customer 511.261125 516.785375 uh-huh well uh i've got to respect your opinion you have some uh solid ideas
+Agent 511.820000 514.200000 [silence]
+Agent 514.200000 515.431375 um-hum
+Agent 515.431375 516.626375 [silence]
+Agent 516.626375 521.944000 i know but what's yours do you agree or do you disagree or i mean what do you think long term
+Customer 516.785375 519.807000 [silence]
+Customer 519.807000 524.458375 well i don't believe in a single government or a single control for the world
+Agent 521.944000 523.882125 [silence]
+Agent 523.882125 524.943000 um-hum
+Customer 524.458375 527.177750 uh that's
+Agent 524.943000 529.949625 [silence]
+Customer 527.177750 530.537000 asking for trouble people are too different
+Agent 529.949625 531.027625 um-hum
+Customer 530.537000 539.726125 i mean you could travel from one coast to the other here in the US and find tremendous differences between the peoples they have their own ideas how things should be run
+Agent 531.027625 539.352375 [silence]
+Agent 539.352375 540.417125 um-hum
+Customer 539.726125 549.093125 so therefore i don't believe there could be a single government for the whole world there's too many societies involved uh the language barriers
+Agent 540.417125 548.985125 [silence]
+Agent 548.985125 550.567375 um-hum
+Customer 549.093125 555.029625 uh oh sure th[ey]- somebody said years ago well let's make it English uh an international
+Agent 550.567375 556.703750 [silence]
+Customer 555.029625 556.966375 uh language
+Agent 556.703750 557.859875 um-hum
+Customer 556.966375 562.525000 that's a big laugh we can't even make English a a national language here in our country
+Agent 557.859875 561.913125 [silence]
+Agent 561.913125 563.385625 um-hum
+Customer 562.525000 563.557375 [silence]
+Agent 563.385625 565.798500 [silence]
+Customer 563.557375 565.788250 we've got too many uh uh
+Customer 565.788250 567.555250 uh immigrants
+Agent 565.798500 567.717125 yeah
+Customer 567.555250 568.596125 [silence]
+Agent 567.717125 569.893500 yeah um
+Customer 568.596125 572.890375 they don't call them immigrants anymore that was back during my granddaddy's day
+Agent 569.893500 572.322000 [silence]
+Agent 572.322000 574.149500 yeah different
+Customer 572.890375 575.233875 [silence]
+Agent 574.149500 577.388500 ethnic groups [laughter]
+Customer 575.233875 578.629250 a [vocalized-noise] well yes yeah but uh
+Agent 577.388500 579.377250 yeah i know what you're saying
+Customer 578.629250 580.156250 [silence]
+Agent 579.377250 584.107375 [silence]
+Customer 580.156250 584.611250 my grandfather came over from Lithuania back uh just before the turn of the century
+Agent 584.107375 585.444125 um-hum
+Customer 584.611250 585.810125 [silence]
+Agent 585.444125 588.745250 [silence]
+Customer 585.810125 589.367000 and uh as a matter of fact he's a draft dodger
+Agent 588.745250 589.942375 uh-huh
+Customer 589.367000 596.003625 he uh was supposed to serve some time well he did serve his time in in the uh the militia
+Agent 589.942375 595.599500 [silence]
+Agent 595.599500 596.643625 uh-huh
+Customer 596.003625 600.699375 and he came back he was a civilian again and his father said well if you
+Agent 596.643625 600.699375 [silence]

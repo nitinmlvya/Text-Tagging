@@ -1,0 +1,108 @@
+Agent 0.000000 0.500250 [noise]
+Customer 0.000000 0.427375 [noise]
+Customer 0.427375 3.996750 so uh do you happen to be working for a large firm
+Agent 0.500250 3.722500 [silence]
+Agent 3.722500 9.908000 well it's about three hundred and fifty people i guess that's not large compared to some but it's big enough
+Customer 3.996750 9.282000 [silence]
+Customer 9.282000 10.580875 um-hum
+Agent 9.908000 11.870625 [noise] and they have a
+Customer 10.580875 16.087125 [silence]
+Agent 11.870625 16.415125 they don't have any kind of pension plan where they contribute anything and i wish they did
+Customer 16.087125 17.346500 yeah
+Agent 16.415125 19.964750 you know they have a 401K but i put all the money into it
+Customer 17.346500 19.455000 [silence]
+Customer 19.455000 20.705625 um-hum
+Agent 19.964750 22.410750 they don't add anything what about you
+Customer 20.705625 22.029125 [silence]
+Customer 22.029125 26.417750 uh i work for a fairly large company it's got eight thousand people
+Agent 22.410750 25.637875 [silence]
+Agent 25.637875 26.911000 uh-huh
+Customer 26.417750 30.226875 and uh we do have health insurance and
+Agent 26.911000 44.892000 [silence]
+Customer 30.226875 35.515000 we don't have 4O[1K]- -[40]1K plan stuff like that but we do have like
+Customer 35.515000 45.402000 retirement they kind of match up to you if you put six percent they match up to six percent and then [noise] the rest is whatever you want to put in if you want to put more than that or something like that
+Agent 44.892000 47.051000 oh that's a pretty good deal
+Customer 45.402000 46.417500 [silence]
+Customer 46.417500 48.461125 [noise] that's not bad
+Agent 47.051000 50.853125 now how long does it take for your contribution to vest
+Customer 48.461125 50.972125 [silence]
+Agent 50.853125 57.994375 [silence]
+Customer 50.972125 58.216375 God i don't know [laughter] it's probably a long time [laughter] i'm sure it's not till like twenty five years thirty years
+Agent 57.994375 65.992375 yeah the place i work at is health insurance is kind of expensive it's like you know hundred bucks a a month or something for a family
+Customer 58.216375 59.442750 [vocalized-noise]
+Customer 59.442750 64.071125 [silence]
+Customer 64.071125 65.507500 yeah
+Customer 65.507500 71.283250 huh well i guess what we have is like a f[lex]- what they call a flex benefits plan where you
+Agent 65.992375 92.394500 [silence]
+Customer 71.283250 81.052750 you get like a certain amount of dollars and then you spend it on a cafeteria of whatever you want or need otherwise you can uh [noise]
+Customer 81.052750 84.961000 guess you can put also put money hold money back and then
+Customer 84.961000 90.564625 either use it or lose it and that doesn't get taxed or you can just have that money
+Customer 90.564625 92.843000 you know put in your paycheck
+Agent 92.394500 103.138750 yeah we have one of those use it or lose it plans too where uh they'll basically pay for uh you know child care type uh expenses i can send in a uh
+Customer 92.843000 114.942000 [silence]
+Agent 103.138750 110.067875 can send in a request for payment and they'll uh and they'll send me you know a check for the amount they withheld
+Agent 110.067875 115.475375 that's pretty good you know it's uh it saves a third off on taxes or something
+Customer 114.942000 124.092625 yeah well it depends on which company you work for i know that like the the the one plan that everyone seems to be in in my place is uh
+Agent 115.475375 154.501125 [silence]
+Customer 124.092625 131.963000 you know you uh think you call it plan D [laughter] deductibles are really high it's like fifteen hundred dollars
+Customer 131.963000 142.816625 but if you go for the other ones you're paying too much money for them because it's unlikely if you're f[airly]- relatively uh healthy then it's really unlikely that you're gonna use that mu[ch]- amount of money you know
+Customer 142.816625 155.075250 so the it you know someone did start a cost benefit analysis and ends up the best is they take a high deductible and and take a loss what[ever]- whatever happens a be if you happen to be a healthy individual [laughter]
+Agent 154.501125 161.164250 [noise] yeah i guess uh on the other hand you know i- i had a similar had a similar health plan and uh
+Customer 155.075250 163.836875 [silence]
+Agent 161.164250 170.345000 one of my kids was in a car accident and and i had wound up having to pay for you know a bunch of doctor visits and stuff out of my pocket because of
+Customer 163.836875 165.043625 um
+Customer 165.043625 174.087000 [silence]
+Agent 170.345000 175.147500 you know no no insurance policy happened to cover it which is [noise]
+Customer 174.087000 178.110000 really you mean not even y[our]- [dour/your] your car insurance
+Agent 175.147500 177.689875 [silence]
+Agent 177.689875 187.419000 [noise] well it it [vocalized-noise] got all screwed up because i had a high deductible on the health insurance no fault here and and i had a high deductible on the [noise] on the uh
+Customer 178.110000 194.410625 [silence]
+Agent 187.419000 190.785375 on the c[ar]- car insurance and then [vocalized-noise] you know we
+Agent 190.785375 194.655500 just goofed up the medical insurance and the car insurance and stuff and
+Customer 194.410625 197.195250 [noise] oh that's too bad
+Agent 194.655500 198.525500 [laughter] blew it [laughter] oh well
+Customer 197.195250 209.189625 yeah uh well i don't know i think other than health insurance i think uh you know an extra week of uh [noise] time off would be nice i only get two weeks
+Agent 198.525500 199.733375 [noise]
+Agent 199.733375 209.597375 [silence]
+Customer 209.189625 216.996500 [silence]
+Agent 209.597375 217.394500 yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks
+Customer 216.996500 223.716625 oh that's nice we don't get them_1 till till your seventh year of service till you get an extra week
+Agent 217.394500 221.658375 [silence]
+Agent 221.658375 223.127000 aye
+Agent 223.127000 225.562625 that's a long time
+Customer 223.716625 225.100000 [silence]
+Customer 225.100000 227.403875 yeah it's uh
+Agent 225.562625 233.291250 yeah especially in the kind of engineering job i'm in you know companies don't stay afloat that long [laughter] and and they
+Customer 227.403875 231.765250 [silence]
+Customer 231.765250 235.106875 [noise] uh with the telecommunications
+Agent 233.291250 245.213500 [silence]
+Customer 235.106875 244.263125 type of company supposedly you use[d]- it used to be much more stable it's a lot less stable than it used to be they used to have job security and crap
+Customer 244.263125 245.937250 but now they don't
+Agent 245.213500 247.506375 so you work for Bell or something like that
+Customer 245.937250 247.185750 [silence]
+Customer 247.185750 250.647500 yeah it's the Bell Corps which is uh
+Agent 247.506375 249.572875 [silence]
+Agent 249.572875 251.468875 right right
+Customer 250.647500 259.004750 yeah so i don't know it's it's uh no longer [laughter] so that's what i think it's still based on the old model of
+Agent 251.468875 260.073375 [silence]
+Customer 259.004750 261.801750 [noise] and and now they don't uh
+Agent 260.073375 265.131500 a lifelong job security telephone pioneers of America all that stuff huh
+Customer 261.801750 263.080625 yeah
+Customer 263.080625 264.254750 [silence]
+Customer 264.254750 268.612750 yeah but the th[e]- n[o]- no longer [laughter] i don't think so
+Agent 265.131500 266.999875 [silence]
+Agent 266.999875 268.006250 [laughter]
+Agent 268.006250 268.908750 [laughter-right]
+Customer 268.612750 273.319000 uh hearing a lo[t]- there's always they're always laying people off which is another benefit
+Agent 268.908750 277.300000 [silence]
+Customer 273.319000 277.749875 that you can have other than salary is trade that off for security
+Agent 277.300000 280.875250 oh d[oes]- is it i mean does it they must have pretty good severance though huh
+Customer 277.749875 281.009125 [silence]
+Agent 280.875250 291.437250 [silence]
+Customer 281.009125 292.498375 ah i don't know we don't we haven't been doing layoffs we've been doing uh down sizing with uh getting rid of extra layers of management and uh i don't know what they do for those people
+Agent 291.437250 294.250875 i mean the the the management they get rid of
+Customer 292.498375 293.962375 [silence]
+Customer 293.962375 298.850000 some of it yeah there's too many man[agers]- too many chiefs and not enough Indians but
+Agent 294.250875 295.188750 um
+Agent 295.188750 297.757750 [silence]
+Agent 297.757750 298.850000 oh they they put

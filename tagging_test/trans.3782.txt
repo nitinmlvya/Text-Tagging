@@ -1,0 +1,181 @@
+Agent 0.000000 2.715875 [noise]
+Customer 0.000000 0.152375 [noise]
+Customer 0.152375 2.997000 so what do you think about the uh income taxes
+Agent 2.715875 5.641625 well i could do with a lot less than that
+Customer 2.997000 4.693000 [silence]
+Customer 4.693000 6.322000 where do you live
+Agent 5.641625 7.558375 i live in Dallas
+Customer 6.322000 8.705625 okay i live in Dallas too
+Agent 7.558375 12.042875 oh good well i live in Plano in that case [laughter]
+Customer 8.705625 9.891750 [silence]
+Customer 9.891750 14.691000 [noise] okay i live in uh in the Village do you know where that is i-
+Agent 12.042875 13.553625 [silence]
+Agent 13.553625 15.954875 oh yeah i do yeah
+Customer 14.691000 21.007625 yeah well one thing i can tell you i hate about the taxes in Dallas is the eight and a quarter percent sales tax
+Agent 15.954875 20.478500 [silence]
+Agent 20.478500 21.981625 yes
+Customer 21.007625 26.452000 it i think it's like the highest in the US because my sister lived in New York and it was only seven percent there
+Agent 21.981625 25.849875 [silence]
+Agent 25.849875 27.287625 uh-huh
+Customer 26.452000 28.809250 Washington DC was only six percent
+Agent 27.287625 33.202625 [silence]
+Customer 28.809250 33.815500 and where i moved from Virginia was only four and a half percent and i can tell you we were upset when it went to four and a half
+Agent 33.202625 35.064250 i know
+Customer 33.815500 35.782125 it was only four percent
+Agent 35.064250 46.904875 and you know we had no sales tax here about oh i don't know maybe ten years ago we had none at all and that's how it started with uh four percent five percent
+Customer 35.782125 40.105500 [silence]
+Customer 40.105500 41.550625 really
+Customer 41.550625 46.275625 [silence]
+Customer 46.275625 48.558750 um-hum um-hum
+Agent 46.904875 49.636500 and all of a sudden here we are now
+Customer 48.558750 50.010500 [laughter]
+Agent 49.636500 51.933125 and it's horrible
+Customer 50.010500 51.135625 what
+Customer 51.135625 58.524125 since there's no uh state tax i assume that that's why it went up fast because_1 Virginia does have a state tax
+Agent 51.933125 56.050250 [silence]
+Agent 56.050250 58.035000 [noise] well
+Agent 58.035000 61.482500 it's true but they did without it all those years
+Customer 58.524125 60.834500 [silence]
+Customer 60.834500 62.678500 um-hum hm
+Agent 61.482500 68.664500 and they keep talking about the state tax and they'll probably put one in and they'll have this too so
+Customer 62.678500 64.151750 [silence]
+Customer 64.151750 65.513750 [noise] yeah it
+Customer 65.513750 67.530500 [silence]
+Customer 67.530500 70.175000 [noise] if they put state tax in i mean i'll be pretty upset
+Agent 68.664500 69.789375 [silence]
+Agent 69.789375 71.180125 yeah
+Customer 70.175000 79.649375 because_1 i mean part of the reason part of the incentives of moving to Texas from Virginia was the fact that you have no state tax and basically it adds about sixty dollars to your paycheck
+Agent 71.180125 74.006500 [silence]
+Agent 74.006500 75.484750 uh-huh
+Agent 75.484750 80.860875 [silence]
+Customer 79.649375 84.422875 uh every two weeks and uh [noise] if that comes back in
+Agent 80.860875 82.356625 yeah
+Agent 82.356625 87.135125 [silence]
+Customer 84.422875 87.822250 i'll be pretty mad because_1 sixty dollars a paycheck is a lot of money actually you know
+Agent 87.135125 88.565250 yeah
+Customer 87.822250 92.564250 so uh i don't know i'm not very much for a for state tax
+Agent 88.565250 90.547625 [silence]
+Agent 90.547625 95.269125 well i hope it doesn't but you know how it goes so [laughter]
+Customer 92.564250 93.865625 [laughter]
+Customer 93.865625 97.742875 yeah they keep talking about uh you know the light rail system adding taxes
+Agent 95.269125 96.838875 [silence]
+Agent 96.838875 98.374750 uh-huh
+Customer 97.742875 102.331875 and then uh there was another issue that came up i forget uh the horse racing
+Agent 98.374750 102.110000 [silence]
+Agent 102.110000 103.465125 yeah
+Customer 102.331875 109.205375 they're putting up the the racing fees they said they may raise taxes because_1 of that yeah they said uh to build okay
+Agent 103.465125 105.368625 [silence]
+Agent 105.368625 107.011000 raise them
+Agent 107.011000 116.076750 [silence]
+Customer 109.205375 113.077375 apparently they said the builders would provide thirty million dollars in funds
+Customer 113.077375 116.369500 and the state would need to provide sixty five million dollars in funds
+Agent 116.076750 117.541625 oh
+Customer 116.369500 120.192875 well in order to get the sixty five million dollars it would cause an increase in taxes
+Agent 117.541625 121.773000 [silence]
+Customer 120.192875 122.732125 but it seems like it would pay itself off
+Agent 121.773000 123.820625 oh well it will
+Customer 122.732125 127.277625 so you know [laughter] what's the purpose of the increasing the sales tax you know
+Agent 123.820625 125.824000 [silence]
+Agent 125.824000 128.276625 probably the first season
+Customer 127.277625 129.689125 yeah so you know
+Agent 128.276625 131.492375 but they're funny about things like that here
+Customer 129.689125 130.745375 [silence]
+Customer 130.745375 132.940000 yeah things like that you know
+Agent 131.492375 132.505875 [silence]
+Agent 132.505875 144.962750 they really are when i came here you couldn't buy beer couldn't buy a drink [laughter] nothing was open on Sunday not even a grocery store i mean nothing nothing you know
+Customer 132.940000 136.068000 [silence]
+Customer 136.068000 137.327625 um-hum
+Customer 137.327625 140.781500 [silence]
+Customer 140.781500 142.935500 [laughter]
+Customer 142.935500 144.410500 [silence]
+Customer 144.410500 146.276625 no huh
+Agent 144.962750 152.536875 so it was a lot worse and as more people come in it does get better but they still have some real funny laws
+Customer 146.276625 151.562125 [silence]
+Customer 151.562125 164.059000 um-hum i mean you know federal tax i mean everybody has to pay standard around the US and that doesn't bother me that much you know the you buy a house you cut your taxes a little bit the rest of it you pay what you owe
+Agent 152.536875 156.678000 [silence]
+Agent 156.678000 158.250375 yeah
+Agent 158.250375 161.755375 [silence]
+Agent 161.755375 163.230625 yeah
+Agent 163.230625 170.939375 [silence]
+Customer 164.059000 173.145875 but uh [noise] like sales tax and i where i lived in uh in Virginia they had personal property tax in the counties
+Agent 170.939375 172.435625 uh-huh
+Agent 172.435625 176.764250 [silence]
+Customer 173.145875 182.494125 and that was a lot my parents paid almost four thousand dollars a year in personal property tax on the house they paid almost a thousand dollars on uh
+Agent 176.764250 179.117625 oh that is
+Agent 179.117625 186.473625 [silence]
+Customer 182.494125 189.936875 on two of our cars and they paid like a couple hundred dollars on the other cars but the personal property tax itself used to add up
+Agent 186.473625 187.998250 oh
+Agent 187.998250 190.236125 [silence]
+Customer 189.936875 194.959125 you know just i mean itself would probably add up to seven or eight thousand dollars a year
+Agent 190.236125 191.501250 hm
+Agent 191.501250 194.513375 [silence]
+Agent 194.513375 195.948375 yeah
+Customer 194.959125 205.440125 and that's a lot of money you know most places go ahead and just you know put it into your mortgage payment so you don't forget about it at the last minute you know and have to come up with the funds at the end of the year
+Agent 195.948375 197.583750 [silence]
+Agent 197.583750 199.090500 that is
+Agent 199.090500 201.615750 [silence]
+Agent 201.615750 203.264625 yeah
+Agent 203.264625 204.909625 [silence]
+Agent 204.909625 206.181875 hm
+Customer 205.440125 208.127125 but that gets real expensive
+Agent 206.181875 207.949750 [silence]
+Agent 207.949750 210.369250 oh yeah that is
+Customer 208.127125 209.471000 [silence]
+Customer 209.471000 212.676500 do they have that kind of tax down here on the houses at all do you know
+Agent 210.369250 211.847500 [silence]
+Agent 211.847500 216.477125 uh uh they well they do a little bit but um
+Customer 212.676500 218.557625 [silence]
+Agent 216.477125 225.960500 it's it's like next to nothing i've seen it it's on my when you pay your registration and stuff like that there is a little place
+Customer 218.557625 219.954125 um
+Customer 219.954125 222.219625 [silence]
+Customer 222.219625 223.499000 um-hum
+Customer 223.499000 225.587250 [silence]
+Customer 225.587250 231.493000 well you know like every year they renew the registration here kind of like fifty or sixty bucks
+Agent 225.960500 228.959250 [silence]
+Agent 228.959250 230.406000 uh-huh
+Agent 230.406000 231.448625 [silence]
+Agent 231.448625 233.425875 it costs what
+Customer 231.493000 239.688250 so it's only like fifty or sixty bucks to renew your registration here but in Virginia they won't renew your registration till you pay your pr[operty]- personal property tax
+Agent 233.425875 235.183750 yeah
+Agent 235.183750 236.515750 yeah
+Agent 236.515750 238.639000 [silence]
+Agent 238.639000 240.299125 uh-huh
+Customer 239.688250 244.661750 and i had a i- [vocalized-noise] i paid you know twelve hundred dollars [laughter-a] [laughter-year] for my last car
+Agent 240.299125 244.278750 [silence]
+Agent 244.278750 245.905500 really
+Customer 244.661750 248.099500 for personal property tax alone so that was kind of a relief i guess
+Agent 245.905500 247.786125 [silence]
+Agent 247.786125 249.343000 God
+Customer 248.099500 252.147500 that's not too bad but other than that everything worked out
+Agent 249.343000 251.776500 [silence]
+Agent 251.776500 254.514500 yeah so you haven't been here very long
+Customer 252.147500 254.168750 [silence]
+Customer 254.168750 255.671625 what's that
+Agent 254.514500 257.016125 you haven't been here very long
+Customer 255.671625 257.835000 i've been here about two years now
+Agent 257.016125 258.429750 two years
+Customer 257.835000 261.598750 but uh in the two years i've i've been here i've been through i've had two cars
+Agent 258.429750 261.186500 [silence]
+Agent 261.186500 262.609375 um-hum
+Customer 261.598750 263.535000 so i've never really like you know
+Agent 262.609375 267.174625 [silence]
+Customer 263.535000 267.481375 i don't know if they if they ever will assess a personal uh any kind of tax
+Agent 267.174625 268.824500 uh yeah
+Customer 267.481375 271.836375 on the car other than what i paid when i r[egistered]- uh registered the car
+Agent 268.824500 271.492250 [silence]
+Agent 271.492250 272.899875 yeah
+Customer 271.836375 274.406375 so that's the only thing i can really think of
+Agent 272.899875 276.797625 [silence]
+Customer 274.406375 278.063250 so so do you work for TI or you just doing this
+Agent 276.797625 280.615750 no i don't i'm a nurse i work down at Presbyterian
+Customer 278.063250 279.670000 [silence]
+Customer 279.670000 283.948875 okay yeah someone just mentioned this program to me so i thought it'd be kind of cool
+Agent 280.615750 283.541125 [silence]
+Agent 283.541125 292.553000 yeah oh it is you know they're supposed to cut you off at ten calls at least that's what i heard that you c[ould]- could get to do ten calls
+Customer 283.948875 287.861875 [silence]
+Customer 287.861875 289.503875 oh do they really
+Customer 289.503875 291.558125 [silence]
+Customer 291.558125 295.180125 yeah i- i don't know how the thing works uh
+Agent 292.553000 296.214500 and this is like the seventeenth
+Customer 295.180125 299.522000 oh really [laughter] all right you
+Agent 296.214500 299.522000 yeah so it's great

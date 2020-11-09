@@ -1,0 +1,151 @@
+Agent 0.000000 2.742500 i guess so [laughter] okay
+Customer 0.000000 2.574375 ready to talk okay
+Customer 2.574375 3.611500 [noise]
+Agent 2.742500 3.565250 [noise]
+Agent 3.565250 7.150125 [silence]
+Customer 3.611500 17.399875 uh i want to talk about um our family budget and the times that it's worked and the times that it hasn't worked and give you a general description of it and you can help me out a little bit
+Agent 7.150125 8.707625 okay_1
+Agent 8.707625 11.463375 [silence]
+Agent 11.463375 12.897125 yeah
+Agent 12.897125 16.627125 [silence]
+Agent 16.627125 21.220875 [laughter] [laughter-okay] [laughter]
+Customer 17.399875 19.618125 tell me how yours work
+Customer 19.618125 20.161125 [noise]
+Customer 20.161125 29.220125 well at the my i introduced you a little bit to it a few minutes ago when i said that we are uh we're on the east coast now
+Agent 21.220875 28.291875 [silence]
+Agent 28.291875 29.684625 um-hum
+Customer 29.220125 37.576250 my husband quit a perfectly wonderful job and decided that well we both decided we wanted to move to North Carolina
+Agent 29.684625 36.775625 [silence]
+Agent 36.775625 38.172000 uh-huh
+Customer 37.576250 42.418000 and so naturally we put ourselves we looked at our budget
+Agent 38.172000 41.780375 [silence]
+Agent 41.780375 43.177875 yeah
+Customer 42.418000 51.343125 and so what we did was draw up a budget that we thought uh was realistic and uh
+Agent 43.177875 49.142500 [silence]
+Agent 49.142500 50.473500 um-hum
+Agent 50.473500 63.512125 [silence]
+Customer 51.343125 64.571625 so we had to make some adjustments because we really are kind of looking for something that we want to do uh he wants to do that's satisfactory and we've been here seven months and he's still hasn't hit up on anything permanently
+Agent 63.512125 68.507375 oh no that throws the budget out of whack real fast
+Customer 64.571625 67.223250 [laughter] so you see
+Customer 67.223250 73.369625 well we actually planned for about one year
+Agent 68.507375 72.250375 [silence]
+Agent 72.250375 74.474750 oh good
+Customer 73.369625 77.834625 uh thank God because it never occurred [laughter]
+Agent 74.474750 77.657625 really that was smart
+Agent 77.657625 80.920250 [silence]
+Customer 77.834625 82.223875 [laughter] it never occurred to us that it would take seven months
+Agent 80.920250 82.452625 yeah
+Customer 82.223875 90.007500 and uh what we did was just uh decide wh[at]- how we had been spending our money before
+Agent 82.452625 88.993875 [silence]
+Agent 88.993875 90.443250 um-hum
+Customer 90.007500 103.260000 and then we put that on the computer and then we took about three months and uh and adjusted where we could come down and where we didn't want to come down
+Agent 90.443250 97.781125 [silence]
+Agent 97.781125 99.438875 oh uh-huh
+Agent 99.438875 102.541125 [silence]
+Agent 102.541125 104.011375 yeah
+Customer 103.260000 112.010375 and we really uh lessened it uh our living expenses uh more than what we thought we would [vocalized-noise]
+Agent 104.011375 110.662500 [silence]
+Agent 110.662500 117.985000 wow that's great did you have a special program on your computer to do that or was this just your own design of
+Customer 112.010375 113.658000 but
+Customer 113.658000 116.589875 [silence]
+Customer 116.589875 120.011375 oh just our own design uh-huh
+Agent 117.985000 120.552250 uh-huh gosh
+Customer 120.011375 130.564500 and uh so but we've had budgets that didn't work when our uh you know of our first fifteen years or eighteen years of being married nothing [laughter-worked]
+Agent 120.552250 129.320750 [silence]
+Agent 129.320750 131.923375 [laughter-yeah]
+Customer 130.564500 135.691875 we spent too much money until our k[ids]- children went to college so
+Agent 131.923375 133.345625 yeah
+Agent 133.345625 134.475625 [silence]
+Agent 134.475625 135.992125 yeah
+Customer 135.691875 140.171500 so tell me about do you all uh have a budget
+Agent 135.992125 139.350000 [silence]
+Agent 139.350000 153.432875 well we've been married for five and a half years and we started out without kids of course and found it much easier to save and used to do a lot more [noise] fun kinds of [laughter-things] that uh didn't really um
+Customer 140.171500 170.878500 [silence]
+Agent 153.432875 162.195625 [noise] you know have a real strict budg[et]- but budget but uh the the about into our wh[en]- wh[en]- wh[en]- when we first got married we were in graduate school and we were just you know dirt poor
+Agent 162.195625 172.842500 then when we got our first jobs after about a year of marriage we decided we'd bank my salary so we could buy a house so we virtually did that for about two years which worked real well
+Customer 170.878500 172.288000 wonder[ful]-
+Customer 172.288000 177.993875 [silence]
+Agent 172.842500 178.426250 and then moved from California where we realized we could never buy a [laughter-house] [laughter-anyway] [laughter-no] [laughter-matter] [laughter-how] [laughter-much] [laughter-we] [laughter-saved]
+Customer 177.993875 179.454875 yes
+Agent 178.426250 189.590000 and moved to Texas and bought a house immediately you know which of course is now devalued with the housing market so i don't know if we [laughter] we did a good thing to buy a house or not but at least we've got a place to live
+Customer 179.454875 193.817875 [silence]
+Agent 189.590000 195.143875 um so now since uh we have a three year old and a two year old now um
+Customer 193.817875 197.265625 three and a two year old bang bang
+Agent 195.143875 196.387875 uh-huh [laughter]
+Agent 196.387875 200.673500 that's that that threw our budget [laughter-really] [laughter-out] [laughter-of] [laughter-out] [laughter-of] [laughter-whack] [laughter-too]
+Customer 197.265625 217.778250 [silence]
+Agent 200.673500 210.163750 and we um have been just forced to budget much more because i quit working to be home with the kids and um we just really have uh
+Agent 210.163750 218.336250 [noise] uh i don't know we've we've tried different times we've done like a survey of like taking you know the past three months of where all the money went
+Customer 217.778250 219.085750 um-hum
+Agent 218.336250 225.533750 and we really don't spend on anything much of a luxury or anything at all but it seems like there's um
+Customer 219.085750 233.417500 [silence]
+Agent 225.533750 234.276125 times when we just have to get out where we'll go and like get a babysitter and we'll go and we'll blow you know fifty sixty dollars in one night going out to eat going to a show or doing something you know
+Customer 233.417500 239.678375 well i think that's important for your budget to be realist[ically]- for it to work though you have to do something
+Agent 234.276125 237.734250 [silence]
+Agent 237.734250 250.601250 yeah that's the hard part because_1 when we sit down to make it we try to make it real spartan and real narrow so we can put certain amount in savings every week and then it's not really that realistic because we do find that we want to go and do something or
+Customer 239.678375 263.600375 [silence]
+Agent 250.601250 263.862000 splurge for you know birthday for somebody or you know even we we even do things real frugally for the kids we get a lot of toys and clothes and stuff at garage sales or from friends because_1 they don't know the difference at this age you know whether they're Jordache new or whether [laughter-they're]
+Customer 263.600375 265.258625 of course not
+Agent 263.862000 269.724000 you know [laughter-something] and they're both boys so they just fit one year after the other into each other's clothes so
+Customer 265.258625 279.077750 [silence]
+Agent 269.724000 279.544125 but um that's the hardest part for us is that it's really um you know budgeting and some extra things you know for that are more you know nonessential items
+Customer 279.077750 288.044500 well i found uh that in the place that it was harder for me to stick to a budget was not where we were concerned
+Agent 279.544125 287.108625 [silence]
+Agent 287.108625 288.516500 um-hum
+Customer 288.044500 294.125250 but where maybe our friends were concerned and our relatives and parents
+Agent 288.516500 298.207625 [silence]
+Customer 294.125250 301.533875 uh we we tended to want to keep on giving lavish gifts as we had done before
+Agent 298.207625 300.840750 yeah yeah
+Agent 300.840750 302.298250 um-hum
+Customer 301.533875 310.943125 and i really believe that if you're going to cut down on yourself you need to cut down [laughter-somewhat] [laughter-on] [laughter-your] [laughter-friends]
+Agent 302.298250 306.133500 [silence]
+Agent 306.133500 320.594250 on your [laughter-friends] that's true [laughter] that's true [laughter] well we have so many unexpected things come up so often it seems with we both have older cars and something will come up and we'll end up having to spend a thousand dollars you know on the car in two months or something and
+Customer 310.943125 319.747000 [silence]
+Customer 319.747000 321.184125 yes
+Agent 320.594250 325.791375 you know a lot of things like that that really i[s]- are hard to plan for and uh
+Customer 321.184125 324.277125 [silence]
+Customer 324.277125 328.687250 well i really do i think you have to budget those things though
+Agent 325.791375 327.398625 [silence]
+Agent 327.398625 333.721750 yeah kind of put in a certain amount per year you're going to have on extra expenses for car and
+Customer 328.687250 329.792500 [silence]
+Customer 329.792500 331.360000 yes
+Customer 331.360000 334.955250 exactly or know so much per month anyway
+Agent 333.721750 336.141625 yeah yeah
+Customer 334.955250 342.429625 and uh that really should be in your b[ank]- but if you don't spend it it should be in your bank account at the end of the [laughter-month] [laughter]
+Agent 336.141625 339.503750 [silence]
+Agent 339.503750 353.014625 yeah [laughter] our biggest way of saving money is then just have all these deductions um you know i[sn't]- isn't let's see now i forget which way we do it we don't list all the deductions and then we get more money back you know at the end of the year
+Customer 342.429625 352.516875 [silence]
+Customer 352.516875 358.285250 oh no no no no [laughter] you don't want the government to spend your money you want to be able
+Agent 353.014625 356.493625 so that's not a good [laughter-way] [laughter-of] [laughter-doing] [laughter-it]
+Agent 356.493625 366.518250 that's what my husband said so this last year he changed it then of course we didn't get hardly i mean nearly as much back and it was like oh no we better find another way of saving money [laughter]
+Customer 358.285250 364.757375 [silence]
+Customer 364.757375 372.453625 well uh but i do realize that that is realistic for some people and it was for us many year[s]- for many years
+Agent 366.518250 368.879875 [silence]
+Agent 368.879875 370.599625 yeah
+Agent 370.599625 373.406875 yeah yeah
+Customer 372.453625 382.781750 uh and if and if that's the only way that will it will make you save and have a little nest egg at the end of the the year then doggone it that's what you should do
+Agent 373.406875 381.548250 [silence]
+Agent 381.548250 386.844000 yeah because we don't miss it we really don't when it's just taking out of the paycheck and stuff so
+Customer 382.781750 385.888125 [silence]
+Customer 385.888125 387.933625 um-hum um-hum
+Agent 386.844000 396.414625 but we're trying to put a little money away for the kids because we can en[vision]- envision the uh expenses for college already you know [laughter-eighteen] [laughter-years] [laughter-away] [laughter-or] [laughter-whatever]
+Customer 387.933625 394.698750 [silence]
+Customer 394.698750 398.473125 well i was just reading an article in uh
+Agent 396.414625 412.949625 [silence]
+Customer 398.473125 410.709750 a North Carolina pap[er]- paper today where a high school student obtained over two hundred thousand dollars worth of scholarships for herself by sitting up at night and typing at uh
+Customer 410.709750 413.556125 letters of applications to universities
+Agent 412.949625 414.964375 gosh
+Customer 413.556125 420.430250 she was oh she was third out of a class of two hundred and twenty so it can be done
+Agent 414.964375 419.606500 [silence]
+Agent 419.606500 422.833500 i guess that's fantastic
+Customer 420.430250 423.831875 where there's a will where there's a will there's a way right
+Agent 422.833500 426.426875 yeah [laughter]
+Customer 423.831875 425.278750 [laughter]
+Customer 425.278750 427.820125 well i have enjoyed talking to you
+Agent 426.426875 431.531250 well i enjoyed talking to you too good luck and don't spend any money this [laughter-weekend] [laughter]
+Customer 427.820125 429.565250 [silence]
+Customer 429.565250 433.888125 oh i know uh we'll have to stay home and mow the yard [laughter]
+Agent 431.531250 435.686625 [laughter] oh boy [laughter] bye
+Customer 433.888125 435.343375 bye-bye
+Customer 435.343375 437.193750 [noise]
+Agent 435.686625 437.193750 [noise]

@@ -1,0 +1,95 @@
+Agent 0.000000 2.502875 [noise]
+Customer 0.000000 0.135750 [noise]
+Customer 0.135750 6.026875 do you um have a family budget or how do you work your budgeting
+Agent 2.502875 4.696000 [silence]
+Agent 4.696000 8.610875 [noise] well [noise] for many many years uh
+Customer 6.026875 27.435750 [silence]
+Agent 8.610875 14.754250 my wife and i did have a budget uh we were both working at the time and so forth
+Agent 14.754250 16.427000 and um
+Agent 16.427000 23.379000 that we had to do that until we finally got the house paid for and and other big bills taken care of
+Agent 23.379000 32.434500 uh we have a a budget but not as strict now as we used to because we don't have quite such a tight financial [laughter-situation]
+Customer 27.435750 28.968375 um-hum
+Customer 28.968375 31.624250 [silence]
+Customer 31.624250 33.179375 yeah
+Agent 32.434500 44.907375 so it it's uh it's been helpful i mean yes having a budget is very very important and that did get us so that you know the house is paid for and uh other major things were taken care of
+Customer 33.179375 57.245750 [silence]
+Agent 44.907375 57.854500 and now we can relax a little bit more because basically we don't really require as much on a daily or a monthly basis as we did before so we're we don't have to have quite as strict uh a budget as we did
+Customer 57.245750 61.646875 oh well we don't have a real strict budget um
+Agent 57.854500 69.014000 [silence]
+Customer 61.646875 72.421375 we have a a low budget to work on but we um you know for like groceries we saved up this much per week and then w[e]- we just spend about so much we don't
+Agent 69.014000 70.989625 sure uh-huh
+Agent 70.989625 84.647375 [silence]
+Customer 72.421375 85.471000 i- i don't know of a a written figure of expenses that we you know keep to or anything but i know that when i go to the grocery store that we always stick within you know five dollars between here and there
+Agent 84.647375 86.445500 um-hum [noise]
+Customer 85.471000 87.199125 a certain amount
+Agent 86.445500 92.891375 i think i've i do that automatically myself i mean i unconsciously uh
+Customer 87.199125 88.695125 [silence]
+Customer 88.695125 90.293375 yeah
+Customer 90.293375 98.653375 [silence]
+Agent 92.891375 106.832250 you know stay in a within a with a certain amount because i- i have enough food already stored here that i don't have to make any large purchase at any one time all i normally do now is pick up little things here and there
+Customer 98.653375 100.280875 oh
+Customer 100.280875 110.007500 [silence]
+Agent 106.832250 111.283250 as the salt goes out or we need sugar or [laughter-something] like that
+Customer 110.007500 112.375750 wow that's great
+Agent 111.283250 118.008625 [noise] yeah we have two freezers and course we had a large garden here that we grow a lot of our own stuff
+Customer 112.375750 123.144000 [silence]
+Agent 118.008625 127.292875 and we freeze a lot of that so a lot of the vegetables are taken care of in our own per[sonal]- personal storage
+Customer 123.144000 125.163000 oh
+Customer 125.163000 128.994625 oh you guys sound pretty self sufficient [laughter]
+Agent 127.292875 141.289000 [laughter] well we we keep a little note pad on a on our wall wh[en]- if anything is absolutely out make a note of it and then uh the next time i go to the store why i pick it up and fill it up
+Customer 128.994625 141.463375 [silence]
+Agent 141.289000 147.962250 so it's it's worked very well that way at least that way we [noise] you know if each of us finds something is missing
+Customer 141.463375 143.000000 hm
+Customer 143.000000 151.248625 [silence]
+Agent 147.962250 151.671750 uh we put it up uh the other person might not know about it
+Customer 151.248625 153.595250 yeah well that's a good idea
+Agent 151.671750 155.815750 that way we can keep up to date [noise]
+Customer 153.595250 155.633750 [silence]
+Customer 155.633750 160.513250 let's see the the other thing there the topic was talking about was
+Agent 155.815750 179.435500 [silence]
+Customer 160.513250 169.397625 if you if i don't all i can think of is if you don't keep a real real tight budget how do you control expenses but um
+Customer 169.397625 180.418000 [noise] one another thing that we do is we always fly back to California and Washington each Christmas well not fly back but somehow we get back there
+Agent 179.435500 180.912250 uh-huh
+Customer 180.418000 186.639000 and um this year we did it by train because_1 it was the least expensive and [noise]
+Agent 180.912250 185.214500 [silence]
+Agent 185.214500 189.715875 well actually it's more interesting too if you've got the time [noise]
+Customer 186.639000 188.885500 huh oh yeah
+Customer 188.885500 194.306750 and um you know we could go to both places without having to spend so much for plane fare
+Agent 189.715875 192.712875 [silence]
+Agent 192.712875 193.958375 yeah
+Agent 193.958375 210.461250 [silence]
+Customer 194.306750 196.143375 and so um
+Customer 196.143375 203.604500 [noise] we find that if we're careful with our you know just everyday things like grocery shopping and and gas and
+Customer 203.604500 206.214625 entertainment things like that then um
+Customer 206.214625 212.459500 somewhere in out in the wash it'll come out that we have enough to get back there you know
+Agent 210.461250 217.187375 sure well i think we unconsciously [noise] do the same thing excuse me my throat's not as clear today as it should be
+Customer 212.459500 216.109250 [silence]
+Customer 216.109250 217.900000 uh-huh that's right
+Agent 217.187375 225.723125 uh we are uh going to be traveling to Europe with a choral we sing with this so called Pennsylvania Choral and we make a two weeks
+Customer 217.900000 224.239625 [silence]
+Customer 224.239625 225.702625 uh-huh
+Customer 225.702625 244.138875 [silence]
+Agent 225.723125 230.596375 tour of of uh foreign countries and of course that costs money
+Agent 230.596375 241.350500 so we uh each of us watches the funds that we spend and make sure that that we gather together over a period a time enough money to to make this trip
+Agent 241.350500 244.655625 so th[at]- that is another way of uh budgeting
+Customer 244.138875 245.928250 uh-huh that's right
+Agent 244.655625 255.273125 and i think we just sort of unconsciously do it we uh just live a normal life but we don't throw any money away particularly we save it for this trip which is uh always very very nice
+Customer 245.928250 254.604125 [silence]
+Customer 254.604125 264.538250 yeah well whenever [laughter] i don't know if this is part of the topic but whenever i find you know a dime or something on the ground i will i'll probably pick it up [laughter]
+Agent 255.273125 263.515125 [silence]
+Agent 263.515125 272.040125 [laughter] i do the same thing i have a whole pile of those things that i have found by parking meter [laughter]
+Customer 264.538250 266.689000 [noise]
+Customer 266.689000 268.961500 [silence]
+Customer 268.961500 270.245500 uh-huh
+Customer 270.245500 276.892000 yeah i have a special little jar that i keep all the money i found in [noise] count it up at the end of the year something [noise]
+Agent 272.040125 275.057125 [noise] yeah
+Agent 275.057125 276.979500 yeah [laughter]
+Customer 276.892000 278.785250 but yeah
+Agent 276.979500 279.921625 well let's face it then when we talking budget
+Customer 278.785250 291.896500 [silence]
+Agent 279.921625 287.790375 it is important to to have a budget [noise] and uh i- i keep track of mine on a more rough basis now by just watching the
+Agent 287.790375 292.583500 level of my ch[ecking]- checking account and i have a money market account also
+Customer 291.896500 293.452750 uh-huh
+Agent 292.583500 297.681500 and uh i keep those levels up above a certain minimum
+Customer 293.452750 299.522000 [silence]
+Agent 297.681500 299.522000 and i'm always trying to

@@ -1,0 +1,90 @@
+Agent 0.000000 0.389875 [noise]
+Customer 0.000000 0.116375 [noise]
+Customer 0.116375 2.000000 um why don't you go ahead first
+Agent 0.389875 1.689625 [silence]
+Agent 1.689625 3.903875 okay um
+Customer 2.000000 15.855375 [silence]
+Agent 3.903875 8.689125 short term uh it works out pretty well because
+Agent 8.689125 16.916250 we have just enough to cover expenses with a little left over so budgeting in the short term isn't too much of an issue because there's not that much uh
+Customer 15.855375 17.265250 sure
+Agent 16.916250 21.513000 extra to go around uh long term is
+Customer 17.265250 32.607875 [silence]
+Agent 21.513000 30.076375 something we're starting [noise] to think about because our older child will be ready for college in about uh
+Agent 30.076375 34.584125 gee she's eight now so i guess about ten years good heavens
+Customer 32.607875 34.132250 um-hum
+Customer 34.132250 44.802750 [silence]
+Agent 34.584125 45.506875 so we're we're starting to think about long term considerations college and retirement but with not a whole lot of discretionary money it's kind of hard to figure out how to do it
+Customer 44.802750 46.215750 sure
+Agent 45.506875 47.290625 how about you
+Customer 46.215750 49.808000 that's kind of uh similar to what we're doing is um
+Agent 47.290625 61.465000 [silence]
+Customer 49.808000 62.152250 budgeting you know month to month is uh kind of taking into consideration what the bills are and what's extra so that's kind of how we do it uh from month to month depending on what insurance is due or whatever
+Agent 61.465000 63.050000 um-hum
+Customer 62.152250 72.136750 um long term that's a little bit easier for us because uh with uh our jobs we can take out extra money towards savings 401K plans
+Agent 63.050000 71.303375 [silence]
+Agent 71.303375 72.968500 um-hum
+Customer 72.136750 80.475125 um that kind of [vocalized-noise] you know retirement plans that kind of stuff so we can kind of put aside some money that actually
+Agent 72.968500 82.344000 [silence]
+Customer 80.475125 91.645875 is better for us not to see versus when it's on the paycheck and you have to try and take out some of that money you always find something a little extra that you'd like to get that month so
+Agent 82.344000 84.156875 right
+Agent 84.156875 103.547125 [silence]
+Customer 91.645875 104.919250 uh long term probably is a little bit better than short term simply because um it's automatically taken out so uh that works out much better for us so that's kind of how we do it anyway but
+Agent 103.547125 109.587750 and the old uh if you can't see it then you can't spend it uh idea [laughter]
+Customer 104.919250 106.731125 [silence]
+Customer 106.731125 118.271125 [laughter-e[xactly]-] [laughter-exactly] and if you can't touch it you can't spend it either so that kind of works out where you get into uh some plans that you know you touch it you're going to get a penalty that kind of thing so
+Agent 109.587750 129.129875 [silence]
+Customer 118.271125 127.143500 it leads you to kind of say well i'm not going to take it out i'm going to keep it and uh keep it in there and let it grow so that some way
+Customer 127.143500 133.775375 maybe for retirement you're going to have that money [laughter] left let's hope anyway so you'll have that so
+Agent 129.129875 131.341500 [noise]
+Agent 131.341500 133.339500 right
+Agent 133.339500 146.839125 [silence]
+Customer 133.775375 141.753500 that's kind of how we do it but ours is more like month to month too uh short term is to get things going so
+Customer 141.753500 154.583000 any way other than that uh is kind of how we do it so i don't know if we're our time is up or what [laughter] they'll let us know [laughter]
+Agent 146.839125 148.130625 um-hum
+Agent 148.130625 149.554000 [silence]
+Agent 149.554000 151.973625 um they'll uh [laughter]
+Agent 151.973625 157.003250 yeah exactly we we actually do have some money in a 401K i just
+Customer 154.583000 156.745375 [silence]
+Customer 156.745375 158.068375 uh-huh
+Agent 157.003250 163.584000 wish i could afford to uh put more away each week because_1 i agree that it's a an excellent way
+Customer 158.068375 162.165500 [silence]
+Customer 162.165500 176.792000 oh definitely definitely and uh it grows uh it it seems like at first you're not gonna see a big return but as the years go on if you're with the company for any length of time then it gets much better and uh
+Agent 163.584000 187.335500 [silence]
+Customer 176.792000 188.008125 so you know you just have to kind of look at it that way and there's other savings plans or other things that you can do automatic you know deposit from checks to where you don't see it
+Agent 187.335500 189.002125 right
+Customer 188.008125 194.669500 and uh you know exactly whatever is in our checking account is basically just about what gets spent
+Agent 189.002125 193.978375 [silence]
+Agent 193.978375 195.793625 yeah
+Customer 194.669500 206.274875 it's put into our savings account and we don't see it then it works out to where you know you don't look at it you just look at the checking account and say this is what we have for money and that's it so
+Agent 195.793625 205.466000 [silence]
+Agent 205.466000 210.654625 yeah checking account's a very dangerous place for money to be i'm convinced
+Customer 206.274875 209.780375 [silence]
+Customer 209.780375 215.976625 yeah it it's easy because_1 you do spend it that's for sure like i said you know you kind of look at it uh
+Agent 210.654625 229.884750 [silence]
+Customer 215.976625 225.880000 y[ou]- you better have some other way of uh savings otherwise uh checking accounts aren't the best for you know long term type of planning so
+Customer 225.880000 229.510375 and you don't get a good return on it anyway so
+Customer 229.510375 231.532375 other
+Agent 229.884750 237.821250 yeah i guess there other than things like the stock market or mutual funds there's really not much of a return on anything these days
+Customer 231.532375 236.227625 [silence]
+Customer 236.227625 240.715875 exactly right now yeah it's a bad time you know
+Agent 237.821250 239.103750 [silence]
+Agent 239.103750 251.175375 yeah the interest is so low i mean it it's nice for people buying homes but for older people who have money in CDs or whatever it must be awfully hard to see rates go down to three and a half percent or whatever
+Customer 240.715875 243.392375 [silence]
+Customer 243.392375 245.224250 um-hum
+Customer 245.224250 246.729875 um-hum
+Customer 246.729875 249.542500 [silence]
+Customer 249.542500 262.529125 exactly exactly you know we have some in-laws uh that uh had theirs in some money market certificates and other things and uh kind of took them_1 out of that because they got so low but uh
+Agent 251.175375 280.358000 [silence]
+Customer 262.529125 275.522000 yeah it's it drops so your better bet is to uh try to get in with something with your corporation if they have some kind of uh savings plan or something like that to where they kind of match
+Customer 275.522000 281.621625 the percentage or whatever so or some kind of profit sharing so
+Agent 280.358000 290.376625 yeah i'm i'm with a small company now and i hope that uh if we're successful that they'll go in for some sort of profit sharing that'll be very nice
+Customer 281.621625 288.566375 [silence]
+Customer 288.566375 290.025500 sure
+Customer 290.025500 292.022500 oh that's great yeah
+Agent 290.376625 293.802750 [silence]
+Customer 292.022500 292.989875 [silence]
+Customer 292.989875 294.414500 okay
+Agent 293.802750 297.948125 well i guess we're kind of running out of steam on this topic here
+Customer 294.414500 295.874125 [silence]
+Customer 295.874125 299.074000 [laughter-yeah] [laughter-exactly]
+Agent 297.948125 299.074000 [silence]

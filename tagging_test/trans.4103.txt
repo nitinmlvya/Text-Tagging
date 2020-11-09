@@ -1,0 +1,136 @@
+Agent 0.000000 0.523125 [noise]
+Customer 0.000000 0.380500 [noise]
+Customer 0.380500 9.998375 um the question was kind of interesting to me because i was just trying to put together a uh long term financial plan and a monthly budget the only thing i do now is
+Agent 0.523125 13.474250 [silence]
+Customer 9.998375 13.987250 uh put the data into Quicken i don't know if you're familiar with that
+Agent 13.474250 18.083375 yeah i've uh have some friends of mine who use Quicken and uh
+Customer 13.987250 28.060000 [silence]
+Agent 18.083375 32.366750 i considered using it once myself but i decided that the amount of information that would have to go in would be a lot of time keeping that up to date so i i kind of gave up on the idea of using Quicken at least for now
+Customer 28.060000 29.323000 um-hum
+Customer 29.323000 31.795500 [silence]
+Customer 31.795500 33.052375 hm
+Agent 32.366750 45.188875 [silence]
+Customer 33.052375 41.779000 i i've found that it's the only reliable way to keep a check book balanced actually because_1 what -[w]ill happen is my wife or i'll write a few checks and then we'll uh
+Customer 41.779000 42.829000 [silence]
+Customer 42.829000 43.734375 uh
+Customer 43.734375 45.410375 not bother to total it
+Agent 45.188875 46.430750 um-hum
+Customer 45.410375 49.872125 and then it it comes comes in just to do all the arithmetic so it [vocalized-noise] helps with that
+Agent 46.430750 49.855125 [silence]
+Agent 49.855125 52.199750 yeah well i
+Customer 49.872125 72.587375 [silence]
+Agent 52.199750 57.451750 have similar problems but uh we just have the one check book and we
+Agent 57.451750 63.530000 try to keep it up to date as much as possible and occasionally we'll get behind like you say but uh
+Agent 63.530000 64.837625 [silence]
+Agent 64.837625 72.954625 it doesn't really seem to be too too tight if we r[emember]- just remember to keep everything up up to date and balanced
+Customer 72.587375 73.640875 um
+Agent 72.954625 74.116500 [silence]
+Customer 73.640875 79.939375 [silence]
+Agent 74.116500 79.955000 well how do you handle the the long range or medium range planning on finances
+Customer 79.939375 85.788125 uh actually we haven't had to y[et]- y[et]- uh uh until just recently i guess we've got a
+Agent 79.955000 88.828250 [silence]
+Customer 85.788125 89.509750 a daughter who's eighteen months and another one on the way so
+Agent 88.828250 90.040250 um-hum
+Customer 89.509750 92.634625 we need to start doing more of that just for uh
+Agent 90.040250 99.511750 [silence]
+Customer 92.634625 95.208875 you know saving for college and things like that
+Customer 95.208875 99.275750 we tried a way try to put away between two and four thousand a year just for that for
+Customer 99.275750 100.275875 [silence]
+Agent 99.511750 102.456875 yeah well that's pretty good if you can do that i know
+Customer 100.275875 101.124000 um
+Customer 101.124000 117.186750 [silence]
+Agent 102.456875 109.984500 i have a daughter who's ten and we haven't really put much away for her college up to this point but um
+Agent 109.984500 119.658000 we're to the point now where our financial income is enough that we can consider putting some away for college so
+Customer 117.186750 118.391000 um-hum
+Customer 118.391000 122.639750 [silence]
+Agent 119.658000 128.351750 we're gonna be starting a regular payroll deduction in the fall and then the money that i'll be making this summer we'll be
+Customer 122.639750 123.689625 hm
+Customer 123.689625 130.612625 [silence]
+Agent 128.351750 131.333500 putting away for her college fund
+Customer 130.612625 131.827250 hm
+Agent 131.333500 141.927500 [silence]
+Customer 131.827250 133.650625 sounds good
+Customer 133.650625 137.367625 yeah i guess we're we're just at the point m[y]- uh
+Customer 137.367625 144.513000 my wife worked until we had a family and then you know now we're just going on the one income so it's lot more interesting trying to
+Agent 141.927500 143.092125 um-hum
+Agent 143.092125 151.877000 [silence]
+Customer 144.513000 148.577750 find some extra i think payroll deductions probably the only way we'll be able to
+Customer 148.577750 149.503125 um
+Customer 149.503125 151.973125 do it just you know kind of enforce the savings
+Agent 151.877000 152.967750 um-hum
+Customer 151.973125 153.138250 [silence]
+Agent 152.967750 156.008500 [silence]
+Customer 153.138250 155.963625 but uh it'll be interesting to see
+Customer 155.963625 157.698000 [vocalized-noise]
+Agent 156.008500 165.491625 well our situation is just a little bit kind of the opposite of that cause my wife was not working for some time and was going to school and just recently
+Customer 157.698000 170.100000 [silence]
+Agent 165.491625 167.110125 uh
+Agent 167.110125 170.800000 took on a full time job well almost full time
+Customer 170.100000 171.187875 hm
+Agent 170.800000 180.449750 so it's only recently that we've had the money where we could start putting away large sums of it for uh long range goals like college and
+Customer 171.187875 179.501000 [silence]
+Customer 179.501000 180.661500 um
+Agent 180.449750 183.477375 significant travel and that kind of thing
+Customer 180.661500 183.320125 [silence]
+Customer 183.320125 184.735000 that sounds good
+Agent 183.477375 190.497750 [silence]
+Customer 184.735000 185.742000 [silence]
+Customer 185.742000 186.766250 but uh
+Customer 186.766250 190.466750 uh i was just curious what uh part of the country
+Customer 190.466750 191.604375 oh
+Agent 190.497750 192.143625 ah Wisconsin
+Customer 191.604375 192.896875 okay
+Agent 192.143625 193.531375 how about_1 you
+Customer 192.896875 195.190000 um Cincinnati actually
+Agent 193.531375 204.253750 [silence]
+Customer 195.190000 201.000000 i was kind of wondering if they'd be collecting people with uh the western accents or something like that i don't know how many people
+Customer 201.000000 202.000000 [silence]
+Customer 202.000000 204.567875 are uh going to be involved in this but
+Agent 204.253750 205.402000 um-hum
+Customer 204.567875 205.841750 uh
+Agent 205.402000 219.867500 [silence]
+Customer 205.841750 208.368250 well that's interesting i'm uh
+Customer 208.368250 209.470250 [silence]
+Customer 209.470250 210.376125 [vocalized-noise]
+Customer 210.376125 218.911875 uh um actually uh i was kind of interested if you found out about the study by uh reading Telecom Digest or was there another
+Customer 218.911875 229.086875 [silence]
+Agent 219.867500 225.543000 uh a colleague of mine at uh at work got some information over
+Agent 225.543000 226.850000 um
+Agent 226.850000 229.898875 the computer network called internet
+Customer 229.086875 232.974250 oh okay yeah that's how i got it as well but uh
+Agent 229.898875 233.322750 [silence]
+Customer 232.974250 240.606375 [silence]
+Agent 233.322750 236.193500 and he just forwarded that on to me and
+Agent 236.193500 237.607250 um
+Agent 237.607250 241.993500 it sounded like it'd be an interesting project to participate in so i
+Customer 240.606375 241.993875 um-hum
+Agent 241.993500 243.465625 sent
+Customer 241.993875 245.009625 yeah it'll be interesting to see what they [vocalized-noise]
+Agent 243.465625 245.561250 sent back some E-mail
+Customer 245.009625 246.020875 [silence]
+Agent 245.561250 250.645625 [silence]
+Customer 246.020875 251.189375 it'd be interesting to see how the data base [vocalized-noise] well i guess we're talking about the experiment and
+Agent 250.645625 251.860625 um-hum
+Customer 251.189375 253.321250 probably try to get back on the
+Agent 251.860625 261.163625 [silence]
+Customer 253.321250 258.549125 topic but uh it's hard to talk about finances without without
+Customer 258.549125 261.770000 getting to uh dollar figures i guess
+Agent 261.163625 262.404125 um-hum
+Customer 261.770000 264.562250 you know we could talk about some of the long range goals
+Agent 262.404125 265.322125 [silence]
+Customer 264.562250 265.617750 [silence]
+Agent 265.322125 268.963000 what other long range goals do you have besides college
+Customer 265.617750 266.758125 yeah
+Customer 266.758125 268.991000 [silence]
+Agent 268.963000 274.867250 [silence]
+Customer 268.991000 270.245125 um
+Customer 270.245125 275.461625 well i think either my wife or i would like to pursue advanced degrees at some point
+Agent 274.867250 276.167750 um-hum
+Customer 275.461625 276.759625 uh
+Agent 276.167750 287.471625 [silence]
+Customer 276.759625 278.312250 i guess we'll have to
+Customer 278.312250 287.955000 factor that in if we['re]- if we're not working for employers that happen to fund that it seems like every year my employer scales back you know a little bit of their tuition reimbursement
+Agent 287.471625 288.493000 um-hum
+Customer 287.955000 291.687875 i mean they use to reimburse it a hundred percent and now it's uh
+Agent 288.493000 299.394000 [silence]
+Customer 291.687875 299.394000 now it's reimbursement depending on the grade you get in class and uh it's it's a real shift from what we had before uh because_1 we're

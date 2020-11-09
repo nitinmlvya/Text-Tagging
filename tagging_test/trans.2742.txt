@@ -1,0 +1,171 @@
+Agent 0.000000 0.574625 [noise]
+Customer 0.000000 7.888500 [silence]
+Agent 0.574625 9.291250 well i guess you said that you're you're a uh you're engaged so you really don't have a a family budget to manage right now right
+Customer 7.888500 12.165875 uh i don't have a family budget but we do have a [laughter-budget] [laughter-already]
+Agent 9.291250 11.156875 [silence]
+Agent 11.156875 12.287125 [laughter]
+Customer 12.165875 15.441750 t[o]- we're paying for our own wedding and everything
+Agent 12.287125 14.320250 well that's good
+Agent 14.320250 23.111375 right oh that's good so you're really planning on uh how to how to manage money from the beginning and that's a a good time to start
+Customer 15.441750 17.467750 so
+Customer 17.467750 22.352375 [silence]
+Customer 22.352375 23.786375 uh-huh
+Agent 23.111375 24.123875 [silence]
+Customer 23.786375 34.271125 [silence]
+Agent 24.123875 32.755750 uh we've been married twenty five years and uh we find that uh you know money management is is really important we
+Agent 32.755750 39.877125 uh don't have a lot but we still you know manage it fairly well we don't have a formal budget
+Customer 34.271125 35.648625 uh-huh
+Customer 35.648625 57.035000 [silence]
+Agent 39.877125 43.114875 uh we have just found that uh
+Agent 43.114875 51.347125 by trying to practice uh paying our bills every month uh especially our credit card accounts
+Agent 51.347125 58.060250 uh we don't spend more in a month than what we typically expect to be able to pay at the end of that month
+Customer 57.035000 58.420125 uh-huh
+Agent 58.060250 60.093750 or when the bill comes
+Customer 58.420125 77.989875 [silence]
+Agent 60.093750 63.471125 we find that that works pretty well for the most part
+Agent 63.471125 64.481125 [silence]
+Agent 64.481125 65.667125 [noise]
+Agent 65.667125 67.374000 excuse me
+Agent 67.374000 69.495875 uh
+Agent 69.495875 78.440750 are are you planning on having a a real budget and and setting up a monthly monthly amount to spend or
+Customer 77.989875 86.712625 uh i myself i don't do it i've been paying for my own college education also for the past four years [noise] so uh
+Agent 78.440750 84.475625 [silence]
+Agent 84.475625 85.491750 uh-huh
+Agent 85.491750 90.920125 [silence]
+Customer 86.712625 94.658875 and my parents also have been married for twenty five years and i kind of picked up what they do they really don't have a formal budget like you do
+Agent 90.920125 92.234000 uh-huh
+Agent 92.234000 98.415125 [silence]
+Customer 94.658875 101.446750 and they just pretty much know how much they have coming in you know and they just make sure they don't buy over
+Agent 98.415125 99.664250 uh-huh
+Agent 99.664250 115.227750 [silence]
+Customer 101.446750 109.684125 and i'm pretty much like that also i don't buy a lot of luxury items i buy what i need and i buy it when it's on sale
+Customer 109.684125 120.783125 you know and i i don't go out of the way but my fiancee now he has a set budget that he goes by and he allots so much to each thing and it works out good for him but
+Agent 115.227750 116.617500 uh-huh
+Agent 116.617500 134.871125 [silence]
+Customer 120.783125 126.376125 i think whenever like for the wedding we're doing this you know the wedding money we're doing together
+Customer 126.376125 135.421250 and uh we've actually sat down and wrote out how much everything's going to cost and you know making sure we have enough for everything and going from there
+Agent 134.871125 144.523875 well now then i guess that's really you know the the idea of budgeting we know you know how much money's going to be coming in and we know what we have to spend so we
+Customer 135.421250 151.270500 [silence]
+Agent 144.523875 151.780000 don't uh you know we don't go out and spend a lot of money that for one thing when we need it for something else
+Customer 151.270500 152.672500 uh-huh
+Agent 151.780000 155.674500 and uh i guess that's a budget in in a sense
+Customer 152.672500 160.904375 [silence]
+Agent 155.674500 161.376750 it's it's strange i'm an accountant and my wife manages most of the money so
+Customer 160.904375 163.314750 [laughter]
+Agent 161.376750 166.482500 you know i manage other people's money but or or you know help them manage their money
+Customer 163.314750 164.880625 [silence]
+Customer 164.880625 166.245625 uh-huh
+Customer 166.245625 175.733375 [silence]
+Agent 166.482500 177.033000 so i kind of let her manage ours and then you know if there's any questions come up you know we discuss it and work things out whatever needs to be worked out
+Customer 175.733375 183.601000 uh-huh well see uh well like i said he he does com[puter]- he's with computer work and i'm a finance manager
+Agent 177.033000 180.939750 [silence]
+Agent 180.939750 182.693375 uh-huh
+Agent 182.693375 184.545125 uh-huh
+Customer 183.601000 185.050375 but uh
+Agent 184.545125 188.780250 [silence]
+Customer 185.050375 189.466250 we decided that we would kind of share like the books you know
+Agent 188.780250 190.248750 uh-huh
+Customer 189.466250 201.048125 he he he doesn't like the idea that i would just do all of it and i don't mind you know him helping with it either i think it's just pretty much going to be i think most couples you know it's not
+Agent 190.248750 193.280375 [silence]
+Agent 193.280375 194.377500 yeah
+Agent 194.377500 203.611125 [silence]
+Customer 201.048125 205.816500 it's it's not like one person doesn't know what's in there at any time you know
+Agent 203.611125 212.699625 right it yeah you you have to i think that's the the a good idea for both you know both parties to know what the finances are
+Customer 205.816500 212.039875 [silence]
+Customer 212.039875 213.628750 yeah
+Agent 212.699625 226.224250 then there's not ever any you know any uh question about whether or not the money can be spent or whether it's being spent properly or if one person knows that uh that if both parties know that
+Customer 213.628750 218.781750 [silence]
+Customer 218.781750 220.227125 uh-huh
+Customer 220.227125 231.410125 [silence]
+Agent 226.224250 229.358125 what has to be spent then there's not going to be
+Agent 229.358125 231.835500 i've already said that no questions
+Customer 231.410125 232.830750 uh-huh
+Agent 231.835500 245.107875 and and then plus if there's ever any uh you know tragedy or anything in the family then both parties are prepared to to take over control of the of the financial situation for themselves if they have to
+Customer 232.830750 242.627500 [silence]
+Customer 242.627500 244.488875 yeah
+Customer 244.488875 246.220875 uh-huh
+Agent 245.107875 248.636750 it's uh i've seen it uh seen it happen where
+Customer 246.220875 251.124250 [silence]
+Agent 248.636750 252.453000 you know people been married twenty twenty five years and [noise]
+Customer 251.124250 252.701000 [noise]
+Agent 252.453000 255.848375 one one party or the other managed the the money
+Customer 252.701000 260.109750 [silence]
+Agent 255.848375 263.461375 and you know something happens and the other one was left not knowing what was going on so you really need both of them [noise]
+Customer 260.109750 261.900875 uh-huh
+Customer 261.900875 263.357125 [noise]
+Customer 263.357125 270.149625 yeah well he's been on his own for probably oh it's been four years now
+Agent 263.461375 278.871875 [silence]
+Customer 270.149625 282.440250 so he is able you know to manage [noise] the money uh since we've decided to get married and stuff he hasn't been as carefree with his money like he used to he used to be really carefree with it and
+Agent 278.871875 280.422625 uh-huh
+Agent 280.422625 293.883625 [silence]
+Customer 282.440250 287.367875 like i well my my i came from a family we my mom had twelve children
+Customer 287.367875 294.651625 and my dad didn't start out as a out as with a high paying job you know so she cut pennies wherever she could
+Agent 293.883625 294.937125 yeah
+Customer 294.651625 301.749000 you know and i i've learned that from her and and it's really helping out now because in the you know
+Agent 294.937125 299.854250 [silence]
+Agent 299.854250 301.462250 [vocalized-noise]
+Agent 301.462250 303.977625 yeah in just
+Customer 301.749000 315.085625 in the in a matter of a year and a half we've we've been managed to save it's going to be almost enough to pay for our entire wedding you know and we're talking five or six thousand dollars saving in a year and a half
+Agent 303.977625 309.407250 [silence]
+Agent 309.407250 311.302500 yeah well that's great
+Agent 311.302500 312.709000 [silence]
+Agent 312.709000 314.162625 uh-huh
+Agent 314.162625 324.844250 yeah so that's that's pretty good and it's you know it's good that you've got that that uh background of of managing and saving as much as you can with today's economy
+Customer 315.085625 324.612375 [silence]
+Customer 324.612375 325.920625 uh-huh
+Agent 324.844250 331.046625 because you know things are so uncertain that you really have to watch you know be prepared to
+Customer 325.920625 334.464375 [silence]
+Agent 331.046625 334.740750 you know to cut spending when you have to
+Customer 334.464375 335.919875 yeah
+Agent 334.740750 342.585000 but uh you know it's money management's really an important thing you know with today's with the situation the way it is
+Customer 335.919875 337.922875 uh-huh
+Customer 337.922875 342.207875 [silence]
+Customer 342.207875 349.071125 uh-huh and i know a a lot of couples starting out uh i don't think they really think about
+Agent 342.585000 350.639750 [silence]
+Customer 349.071125 351.114125 saving any either
+Agent 350.639750 352.548000 right
+Customer 351.114125 353.421000 you know and uh
+Agent 352.548000 364.246250 [silence]
+Customer 353.421000 368.041125 now i know you know as my mom and dad that's been a big part on them and i think it will be a big part on us also but i know a lot of couples don't even think about it or retirement or you know or in case an accident would occur
+Agent 364.246250 365.490125 right
+Agent 365.490125 367.019750 [silence]
+Agent 367.019750 379.146125 yeah most most young young couples starting out think uh well i've got you know forty years before i need to think about retirement so they they plan on waiting [laughter] you know half of that time and so they wind up
+Customer 368.041125 377.459625 [silence]
+Customer 377.459625 378.991875 uh-huh
+Customer 378.991875 384.843375 [silence]
+Agent 379.146125 385.596750 when they you know twenty years later and they've already reached that point where they're spending everything they're making
+Customer 384.843375 389.206000 yeah and they say oh well we have the money we might as well spend it now [laughter]
+Agent 385.596750 387.191500 [silence]
+Agent 387.191500 396.387375 yeah and they well they they got their uh their lifestyle geared to to spending everything and they can't cut back enough to start saving so
+Customer 389.206000 395.681000 [silence]
+Customer 395.681000 396.792125 uh-huh
+Agent 396.387375 404.796250 if you cut back to start with you you know you'll find you'll be surprised at how easy it is to you know if you start off saving and just continue to do that
+Customer 396.792125 404.680250 [silence]
+Customer 404.680250 418.597500 yeah it is really pretty easy i mean myself i'm a college student and i get loans you know i i don't receive grants but i do have loans and just in the matter since uh Christmas
+Agent 404.796250 413.524875 [silence]
+Agent 413.524875 414.908625 uh-huh
+Agent 414.908625 423.351875 [silence]
+Customer 418.597500 429.301750 i've managed to pay about five hundred dollars on my wedding dress myself you know and it it's amazing where you can cut your pennies and you know
+Agent 423.351875 424.957875 uh-huh
+Agent 424.957875 428.148250 [silence]
+Agent 428.148250 429.554750 yeah
+Customer 429.301750 437.862375 [silence]
+Agent 429.554750 430.587750 [silence]
+Agent 430.587750 433.040250 so that's that's real good
+Agent 433.040250 437.988000 well any other anything else that we want to talk about on budgeting
+Customer 437.862375 439.733000 no i
+Agent 437.988000 441.582375 we seem to agree on everything [laughter]
+Customer 439.733000 442.419500 yeah [laughter]
+Agent 441.582375 448.109000 that's that's good every once in a while you find somebody on these conversations that you don't agree with everything have to bite your tongue but [laughter]
+Customer 442.419500 445.737125 [silence]
+Customer 445.737125 447.486375 uh-huh
+Customer 447.486375 449.192000 [laughter]
+Agent 448.109000 451.992500 [silence]
+Customer 449.192000 453.053625 well i really can't think of anything else on it
+Agent 451.992500 453.332125 okay
+Customer 453.053625 454.670000 [silence]
+Agent 453.332125 456.012500 well it's been nice talking to you
+Customer 454.670000 458.791500 it's been really nice talking to you too uh-huh bye-bye
+Agent 456.012500 458.741125 yeah okay thank you bye-bye
+Agent 458.741125 463.013750 [noise]
+Customer 458.791500 463.013750 [noise]

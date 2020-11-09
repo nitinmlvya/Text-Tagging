@@ -1,0 +1,222 @@
+Agent 0.000000 3.101125 [silence]
+Customer 0.000000 0.529250 [noise]
+Customer 0.529250 3.983625 okay uh do you work outside the home
+Agent 3.101125 4.928750 no i don't
+Customer 3.983625 9.442000 okay wow [laughter] have you have yes uh-huh
+Agent 4.928750 7.136750 do you
+Agent 7.136750 9.043875 have i
+Agent 9.043875 13.279250 uh no not actually [laughter]
+Customer 9.442000 11.799375 [silence]
+Customer 11.799375 20.449875 okay well yes i do in fact i am at work right now uh and so let me take the lead uh Angela uh i think
+Agent 13.279250 14.294250 okay
+Agent 14.294250 47.231875 [silence]
+Customer 20.449875 34.613875 what is really important uh [noise] of course salary is very important because that's why you are working is for your it's for the money but job satisfaction to me is also uh very important in having a job
+Customer 34.613875 48.256250 and uh one of the things that uh she um asked us to discuss was benefits uh i'm assuming that you are married and have a husband that supports you
+Agent 47.231875 48.888625 right
+Customer 48.256250 62.058625 okay and so we could we could talk about uh that path you know how important you think his benefits are and and and uh how important you think they are and if what would you like to see increased
+Agent 48.888625 62.123375 [silence]
+Customer 62.058625 67.657125 in his benefits like uh perhaps uh he has uh
+Agent 62.123375 63.594125 okay
+Agent 63.594125 65.263625 [silence]
+Agent 65.263625 66.331375 [noise]
+Agent 66.331375 82.462375 [silence]
+Customer 67.657125 79.084375 the benefit of having eyeglasses for the family uh uh and how much coverage uh it provides and also your hospital coverage and uh
+Customer 79.084375 84.363000 um probably dental how important you think that would be
+Agent 82.462375 85.478500 right i i think that
+Customer 84.363000 91.219000 [silence]
+Agent 85.478500 90.601625 job wise benefits are import[ant]- just as important as salary is
+Agent 90.601625 94.992625 [silence]
+Customer 91.219000 97.576750 because they and course if you did not have them you would be pulling from your salary of course right right
+Agent 94.992625 101.543625 exactly exactly especially when you have a family with children and you are always going to the doctor for
+Customer 97.576750 100.819500 [silence]
+Customer 100.819500 107.527375 and they always have surprises for you with children you know and so it's it is uh
+Agent 101.543625 102.852125 [silence]
+Agent 102.852125 103.951750 exactly
+Agent 103.951750 105.789375 they always do
+Agent 105.789375 118.465375 [silence]
+Customer 107.527375 118.719250 we could not do without the benefit package from from any company that we worked for whether they be a conglomerate or just a small uh uh business
+Agent 118.465375 126.296875 yeah i think any any even if your insurance policy is not the greatest
+Customer 118.719250 125.779000 [silence]
+Customer 125.779000 127.759500 you would still have something
+Agent 126.296875 131.329625 exactly you [vocalized-noise] you wouldn't be pulling it out of your account all of the time
+Customer 127.759500 130.654875 [silence]
+Customer 130.654875 131.676375 right
+Agent 131.329625 136.001375 just by yourself also [noise] for working women
+Customer 131.676375 135.538125 [silence]
+Customer 135.538125 136.360375 yes
+Agent 136.001375 143.571500 uh i think a lot of the companies should start providing for day care in the in the in the building
+Customer 136.360375 141.832875 [silence]
+Customer 141.832875 142.814500 uh-huh
+Customer 142.814500 149.391250 they are getting a handle on that in fact uh my oldest daughter is uh is uh a nurse
+Agent 143.571500 165.612125 [silence]
+Customer 149.391250 158.534000 and she just received her masters degree and she is now into consulting and that's one of the areas that she is working on to have uh
+Customer 158.534000 166.618375 uh a day care center for the indiv[idual]- the children of the of the nurses that are staffing the facility
+Agent 165.612125 167.462000 right
+Customer 166.618375 171.842750 and that is true in many many areas of you know uh job titles
+Agent 167.462000 171.637625 [silence]
+Agent 171.637625 172.795250 yeah
+Customer 171.842750 173.236500 and professions
+Agent 172.795250 174.780125 like i[n]- in may case
+Customer 173.236500 175.732875 [silence]
+Agent 174.780125 176.568000 i have three children
+Customer 175.732875 176.790875 uh-huh
+Agent 176.568000 186.914375 from ages nine to two and it it's just unfeasible for me to try to get a job because all the money that i would be making would be going to day care
+Customer 176.790875 178.781500 [silence]
+Customer 178.781500 179.551875 sure
+Customer 179.551875 184.048875 [silence]
+Customer 184.048875 184.860375 would
+Customer 184.860375 185.906125 it would
+Customer 185.906125 187.575250 it would be just futile
+Agent 186.914375 195.137500 and it it would be just basically be me working to pay for them to be at a day care center which is not right exactly
+Customer 187.575250 188.762000 [silence]
+Customer 188.762000 190.388125 and they would not have the quality
+Customer 190.388125 192.192250 [silence]
+Customer 192.192250 194.661625 and they would be deprived of their mother
+Customer 194.661625 197.155375 yeah no i understand that totally
+Agent 195.137500 196.585625 [silence]
+Agent 196.585625 209.238875 besides which it would be easier uh there's a lot of single mothers out there now from divorces and a lot of women are starting to have babies without a partner and to go to work
+Customer 197.155375 202.827125 [silence]
+Customer 202.827125 204.065250 oh i hear
+Customer 204.065250 206.145500 [silence]
+Customer 206.145500 207.838125 yes that's true
+Customer 207.838125 213.676875 [silence]
+Agent 209.238875 216.797750 you are worried about your child besides which you have to get up earlier to take the child to day care and if they were in the same building
+Customer 213.676875 214.542875 right
+Customer 214.542875 216.370000 [silence]
+Customer 216.370000 217.229875 uh-huh
+Agent 216.797750 224.910500 then you are going to the same place and you could go for your lunch hour down and visit with your child or you know and take your breaks with your children or something
+Customer 217.229875 221.676625 [silence]
+Customer 221.676625 223.291750 yes do you
+Customer 223.291750 224.362750 [silence]
+Customer 224.362750 231.209625 do you think that you should fund that if they have that as a benefit if you would fund that somewhat
+Agent 224.910500 234.393250 [silence]
+Customer 231.209625 233.462250 from your salary that you are getting
+Customer 233.462250 235.265750 do you think that would be
+Agent 234.393250 247.824875 i think tha[t]- i think it would be fair i think if if the company could not provide it all on their own for the for the people that would be using it you know a a a certain amount of their salary would go to it but it would still probably be cheaper
+Customer 235.265750 236.750000 acceptable
+Customer 236.750000 237.843375 i do too
+Customer 237.843375 240.178000 [silence]
+Customer 240.178000 241.497250 right that you
+Customer 241.497250 242.786250 [silence]
+Customer 242.786250 243.523875 right
+Customer 243.523875 245.157625 [silence]
+Customer 245.157625 245.877000 that's right
+Customer 245.877000 247.645000 [silence]
+Customer 247.645000 250.238000 with the company than than having to go
+Agent 247.824875 252.343875 with the company helping our if everybody you know pulled their own weight in it
+Customer 250.238000 251.754500 [silence]
+Customer 251.754500 253.484000 that's c[orrect]- that's right
+Agent 252.343875 254.094500 [silence]
+Customer 253.484000 254.090000 yes
+Customer 254.090000 255.443500 i agree with that
+Agent 254.094500 256.562625 i think it would be really really great
+Customer 255.443500 256.916625 that would be fair
+Agent 256.562625 257.741125 yeah
+Customer 256.916625 257.917000 yeah
+Agent 257.741125 258.809000 i do
+Customer 257.917000 259.537875 [silence]
+Agent 258.809000 264.861625 [silence]
+Customer 259.537875 262.660875 uh and how how do you feel about uh
+Customer 262.660875 264.496750 let's see eye care
+Customer 264.496750 270.272000 [silence]
+Agent 264.861625 270.926625 eye care is good i don't i'm not sure i don't think we have that on our policy
+Customer 270.272000 271.466250 okay
+Agent 270.926625 273.310500 but uh we
+Customer 271.466250 272.438375 [silence]
+Customer 272.438375 274.768375 vision i guess it's called vision care
+Agent 273.310500 274.749750 yeah
+Agent 274.749750 276.980750 it would be great i mean
+Customer 274.768375 281.168125 [silence]
+Agent 276.980750 281.718750 the glasses that the exams themselves are not expensive it's the glasses
+Customer 281.168125 284.278875 it depends on who ha[s]- examines your eyes
+Agent 281.718750 283.375625 [silence]
+Agent 283.375625 285.126625 yeah that's true
+Customer 284.278875 292.722875 if you have an ah optometrist or an ophthalmologist there's a vast difference in those two uh professions
+Agent 285.126625 288.144000 [silence]
+Agent 288.144000 290.265750 right now like my
+Agent 290.265750 291.986625 right
+Agent 291.986625 296.107875 well like my mother she has to go for testing cause she has got
+Customer 292.722875 295.691750 [silence]
+Customer 295.691750 296.631000 glaucoma
+Agent 296.107875 305.384000 well she does not have it but she is like on the verge of it or something her eyes are changing and she has to be tested periodically and and those are expensive tests
+Customer 296.631000 297.754375 [silence]
+Customer 297.754375 298.198750 oh
+Customer 298.198750 299.169000 [silence]
+Customer 299.169000 300.466750 oh okay so
+Customer 300.466750 301.480000 yes
+Customer 301.480000 302.820250 [silence]
+Customer 302.820250 303.640000 uh-huh
+Customer 303.640000 304.986125 [silence]
+Customer 304.986125 305.969250 yes they are
+Agent 305.384000 311.333375 now i think your insurance covers her on that but you know for something like that
+Customer 305.969250 307.820000 [silence]
+Customer 307.820000 308.919375 uh-huh
+Customer 308.919375 310.019375 uh
+Customer 310.019375 315.164875 [silence]
+Agent 311.333375 315.981625 it that that's just as bad as a medical you know that that
+Customer 315.164875 319.450875 right that's critical because she's in need of it so often yes
+Agent 315.981625 317.653375 [silence]
+Agent 317.653375 318.729375 right
+Agent 318.729375 330.333625 [silence]
+Customer 319.450875 323.333125 and you know we have uh needs
+Customer 323.333125 331.360000 in our life that are unique to us and you know people have needs in their life that are unique to us to them
+Agent 330.333625 331.914875 right
+Customer 331.360000 333.610625 i mean we are all different so
+Agent 331.914875 332.960000 [silence]
+Agent 332.960000 336.921000 now i i would like to see [bettle/better] better dental insurance
+Customer 333.610625 339.012625 [silence]
+Agent 336.921000 339.293000 to me was that our beep
+Customer 339.012625 341.265000 ye[ah]- well no that's my other phone
+Agent 339.293000 340.507375 [silence]
+Agent 340.507375 341.753250 oh huh
+Customer 341.265000 349.079250 so that's it that's okay my that phone is ringing to an empty desk and she's on vacation [laughter] so it's okay
+Agent 341.753250 346.092250 [silence]
+Agent 346.092250 350.189375 okay but with with the three children
+Customer 349.079250 350.692125 uh-huh
+Agent 350.189375 355.050250 um orthopedic care um not orthopedic orthodontic care
+Customer 350.692125 354.665250 [silence]
+Customer 354.665250 356.430500 that's very expensive
+Agent 355.050250 363.404875 because on on a lot of the dental insurances they don't cover that well for the the orthodontal stuff
+Customer 356.430500 361.451500 [silence]
+Customer 361.451500 363.322500 yes that's true
+Customer 363.322500 371.994500 orthodontic work is terribly expensive especially when you have a lot of uh problems with the children teeth and
+Agent 363.404875 366.535625 [silence]
+Agent 366.535625 367.863875 yes it is
+Agent 367.863875 371.162125 [silence]
+Agent 371.162125 372.378000 uh-huh
+Customer 371.994500 381.511625 and you have to really get them when they are young in order to have uh not uh a decent uh smile when they're uh fifteen sixteen years old
+Agent 372.378000 380.536500 [silence]
+Agent 380.536500 381.830125 right
+Customer 381.511625 386.550625 i know two of my daughters had to have that and they started having extractions at age eight
+Agent 381.830125 389.696250 [silence]
+Customer 386.550625 390.314000 uh because they just had too many teeth for their size mouth
+Agent 389.696250 390.914875 yeah
+Customer 390.314000 395.555125 and we footed the bill because there wasn't any such thing and when they were young
+Agent 390.914875 395.180875 [silence]
+Agent 395.180875 401.427750 right my middle child needs to have uh orthodontic he's because his his pallet is
+Customer 395.555125 402.962250 [silence]
+Agent 401.427750 403.544125 squared not rounded
+Customer 402.962250 404.231750 oh uh-huh
+Agent 403.544125 407.184750 and it affects his speech a little bit not not anything you know
+Customer 404.231750 406.487625 [silence]
+Customer 406.487625 407.904000 uh-huh major
+Agent 407.184750 416.086875 right but just enough that his bite is off a little bit and it's like four hundred dollars and my insurance is only going to cover like fifty of it
+Customer 407.904000 409.251125 uh-huh
+Customer 409.251125 415.443375 [silence]
+Customer 415.443375 427.307250 well i tell you i [noise] i just read an article in the paper about what they are doing i think it was an ad in in our publication at Texas Instruments where they are breaking the jaw
+Agent 416.086875 427.695625 [silence]
+Customer 427.307250 433.323000 and lining the jaw up with the teeth it's it's less painful and less expensive
+Agent 427.695625 428.815875 oh
+Agent 428.815875 433.029875 [silence]
+Agent 433.029875 434.036000 really
+Customer 433.323000 435.105000 yeah
+Agent 434.036000 436.673625 that sounds like it would hurt more
+Customer 435.105000 441.905750 i i know but it's it's it's uh easier on the patient in the long run
+Agent 436.673625 442.221750 [silence]
+Customer 441.905750 443.766125 which amazed me
+Agent 442.221750 450.556250 oh gosh i i would much rather that do that to myself than make my five year old [laughter-go] [laughter-in] and do it that would kill me
+Customer 443.766125 445.110125 [silence]
+Customer 445.110125 446.088375 [laughter]
+Customer 446.088375 448.371250 [silence]
+Customer 448.371250 448.829500 [laughter]
+Customer 448.829500 450.556250 [silence]

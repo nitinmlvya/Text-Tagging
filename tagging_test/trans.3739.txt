@@ -1,0 +1,93 @@
+Agent 0.000000 1.903000 [noise]
+Customer 0.000000 0.018875 [silence]
+Customer 0.018875 2.741250 okay_1 i guess we start talking about the budget
+Agent 1.903000 3.635500 very good sir
+Customer 2.741250 7.874750 okay you you live near the nation's capital what can we do about this mess
+Agent 3.635500 7.661625 [silence]
+Agent 7.661625 20.448375 well uh living near the nation's capital unfortunately doesn't do you any good uh all [laughter-i] all i uh find that i can do is read the newspapers and try to decide what's best for us
+Customer 7.874750 27.208375 [silence]
+Agent 20.448375 24.213375 what we need to do and that's sort of a function of the economy
+Agent 24.213375 36.748375 and our relationship with uh other countries and so forth and right now we're in this big change since Russia has undergone such a uh big uh renegotiation within themselves
+Customer 27.208375 28.623000 yeah
+Customer 28.623000 35.853000 [silence]
+Customer 35.853000 37.285250 yeah
+Agent 36.748375 40.582750 and i'm sure that we haven't quite decided where we stand in that yet
+Customer 37.285250 40.126375 [silence]
+Customer 40.126375 53.445375 i see big opportunities in Europe opening up uh it just it just seems to me like we ought to be able to go over there and help the people become a capitalistic society
+Agent 40.582750 41.894375 [noise]
+Agent 41.894375 52.942750 [silence]
+Agent 52.942750 58.823250 yes i think they're looking for that they just need guidance yes that would be very good for us to help
+Customer 53.445375 54.851250 uh
+Customer 54.851250 56.001000 [silence]
+Customer 56.001000 57.277500 yeah
+Customer 57.277500 61.102750 [silence]
+Agent 58.823250 70.324125 show them what it what it takes to have a a capitalistic society and one in which each of them has a a say and uh you know can express their thoughts safely
+Customer 61.102750 62.406500 yeah
+Customer 62.406500 70.174625 [silence]
+Customer 70.174625 77.858125 [noise] another thing i think the uh that the President could do right now on a short term basis to get things speeded up is
+Agent 70.324125 71.330000 [silence]
+Agent 71.330000 72.733000 [noise]
+Agent 72.733000 80.915750 [silence]
+Customer 77.858125 89.090125 help out the working people right now the middle income people uh give them_1 some tax credits i think they've done that i seems like i remember that happening once in my past i'm in my forties and i
+Agent 80.915750 82.319500 um-hum
+Agent 82.319500 88.212625 [silence]
+Agent 88.212625 89.522500 um-hum
+Customer 89.090125 95.087125 basically remember getting some sort of [trax/tax] tax credit years ago and i think it helped i think we bought a car
+Agent 89.522500 97.871750 [silence]
+Customer 95.087125 99.014000 uh at that time because we got some sort of a rebate
+Agent 97.871750 105.085875 oh i don't recall ever getting a rebate but it does seem as though if if we are able to
+Customer 99.014000 135.491750 [silence]
+Agent 105.085875 114.553500 reduce the our expenditures for defense course we've got to get get this big debt that the country has under control
+Agent 114.553500 121.665375 and if as we get that under control then i'd like to see the taxes that we pay reduced
+Agent 121.665375 132.510125 a certain amount you know so that we're all comfortable but i do believe that the country's gonna have to get itself straightened out {debtwise} before uh they could do too much that way
+Agent 132.510125 136.323625 but i hate to see them_1 raise the taxes if it's unnecessary
+Customer 135.491750 146.625125 well i've always believed in paying my fair share of of of taxes oh and whatever my government says is my fair share is what i think i should pay
+Agent 136.323625 140.457750 [silence]
+Agent 140.457750 141.820125 um-hum
+Agent 141.820125 145.701125 [silence]
+Agent 145.701125 148.352125 sure that makes sense
+Customer 146.625125 156.286125 uh i don't necessarily agree with people who go out of their way to find loopholes and not paying their fair share [vocalized-noise]
+Agent 148.352125 154.912750 [silence]
+Agent 154.912750 169.688125 yes it it it seems as though a lot of the things that we see in the paper and in letters that you receive are showing you loopholes or how not to pay your share and that really is sort of against what the whole ball game's about isn't it
+Customer 156.286125 168.118625 [silence]
+Customer 168.118625 174.276375 yeah the lady who does my taxes for me every year it seems like she's got a new suggestion
+Agent 169.688125 173.788250 [silence]
+Agent 173.788250 175.278625 um-hum
+Customer 174.276375 184.393625 and sometimes i go with them and sometimes i don't uh since i no longer work uh usually it's not very complicated anymore but uh
+Agent 175.278625 183.745125 [silence]
+Agent 183.745125 185.903625 you no longer work
+Customer 184.393625 193.053000 i no longer work uh [noise] oh it's been almost three years ago i had some uh strange heart problems occur
+Agent 185.903625 192.358125 [silence]
+Agent 192.358125 193.938125 oh my
+Customer 193.053000 199.213875 and uh so i'm more or less hang around the house and uh that sort of thing
+Agent 193.938125 198.140875 [silence]
+Agent 198.140875 210.374875 [noise] well you have more experience at that than i i just retired from working myself on December thirty first so i haven't really had time to look at it from the retiree point of view
+Customer 199.213875 209.274125 [silence]
+Customer 209.274125 210.637875 [vocalized-noise]
+Agent 210.374875 213.672875 but it'll be an interesting uh concept i'm sure
+Customer 210.637875 213.263000 [silence]
+Customer 213.263000 215.133000 yeah it's uh
+Agent 213.672875 223.426375 [silence]
+Customer 215.133000 224.777375 i know for the i thought maybe i would go back to work especially during that first year and then they finally decided that then maybe i'll never work again
+Agent 223.426375 224.754500 hm
+Agent 224.754500 236.296375 [silence]
+Customer 224.777375 236.368375 so it took some while to adjust to it and it and it took some adjusting financially and things like that i can no longer afford [noise] things that maybe i used to take for granted
+Agent 236.296375 237.739375 yes that
+Customer 236.368375 241.021875 and i certainly can't invest money like i used to [laughter]
+Agent 237.739375 240.773250 [silence]
+Agent 240.773250 253.885625 i understand well it's unfortunate you had that problem and i do hope you will be able to work out your circumstances so that you can live comfortably and feel confident that you are doing your share of the taxes
+Customer 241.021875 250.245625 [silence]
+Customer 250.245625 251.480625 well
+Customer 251.480625 261.313625 [silence]
+Agent 253.885625 260.310500 and you know still there are certain things that you need to do in your family and yourself
+Agent 260.310500 263.357750 to enjoy life to its fullest
+Customer 261.313625 263.904875 what kind of work did you do when you were working
+Agent 263.357750 267.811125 i was working uh in doing research for the government
+Customer 263.904875 274.961375 [silence]
+Agent 267.811125 268.930375 [silence]
+Agent 268.930375 275.699750 so i know what it's like i had worked for the government basically i'm actually i'm a professor a retired professor at Penn State
+Customer 274.961375 276.398500 oh yeah
+Agent 275.699750 286.616000 and uh but my work has always been in research uh related uh to the government so i'm i'm aware of what it takes to perform the work that's needed
+Customer 276.398500 298.306000 [silence]
+Agent 286.616000 288.255750 and
+Agent 288.255750 298.306000 the government has got to decide what it needs to know and then set up the criteria by which problems are solved and and uh the

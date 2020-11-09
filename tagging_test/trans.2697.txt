@@ -1,0 +1,253 @@
+Agent 0.000000 0.995750 [silence]
+Customer 0.000000 3.763625 okay you've do you have a uh monthly budget
+Agent 0.995750 1.996750 uh-huh
+Agent 1.996750 3.004625 [silence]
+Agent 3.004625 5.493875 well um
+Customer 3.763625 7.766375 [silence]
+Agent 5.493875 14.784375 we we do but not an official one i mean basically we know we have i- i think i'm a little crazy in that we keep so many different savings accounts
+Customer 7.766375 9.488875 uh-huh
+Customer 9.488875 14.244375 [silence]
+Customer 14.244375 15.649500 uh-huh
+Agent 14.784375 19.236375 we'll have our checking account that's just the the money that we use and spend
+Customer 15.649500 18.497500 [silence]
+Customer 18.497500 19.992875 right
+Agent 19.236375 30.965500 and then we have a savings account which is money where we work our credit cards in such a way that we charge everything and then we write it out like it was a check
+Customer 19.992875 30.289125 [silence]
+Customer 30.289125 31.968125 uh-huh
+Agent 30.965500 41.634875 so we're nev[er]- we pay off our bills in full we're not paying any interest but it's not a big surprise if we get a large bill because we have it all written out already
+Customer 31.968125 40.764000 [silence]
+Customer 40.764000 42.288250 right
+Agent 41.634875 49.996000 and then we have another checking acc[ount]- another savings account which is like for heavy duty savings you know that's just taken out of our paychecks every week
+Customer 42.288250 46.474750 [silence]
+Customer 46.474750 48.475125 uh-huh
+Customer 48.475125 76.186250 [silence]
+Agent 49.996000 57.498875 and then we have a a fourth sort of CD type arrangement um where you know it's in a CD and we can't get to it
+Agent 57.498875 71.996750 so i guess our budget is just what's in our checkbook we don't say we have x amount for entertainment x amount for gas it's just we know some weeks we might be able to go out for dinner two times some weeks one time some weeks three times
+Agent 71.996750 77.182500 um so there's nothing really that we have written down for a budget
+Customer 76.186250 77.988875 uh-huh
+Agent 77.182500 86.739875 but i'm a saver i would rather if i had twenty extra dollars i would rather save it than spend it and that's my philosophy and um
+Customer 77.988875 83.487500 [silence]
+Customer 83.487500 84.766625 yeah
+Customer 84.766625 94.485750 [silence]
+Agent 86.739875 97.221000 sometimes i- i you know i think that that's not necessarily the best way to live but i- i always think that you're going to need it for a rainy day you know how about_1 you
+Customer 94.485750 95.754375 right
+Customer 95.754375 96.775125 [silence]
+Customer 96.775125 101.733500 well we're very very similar we i have worked
+Agent 97.221000 98.837500 [silence]
+Agent 98.837500 100.196125 yeah
+Agent 100.196125 104.988375 [silence]
+Customer 101.733500 105.202625 for a goal of saving three months' salary
+Agent 104.988375 106.276500 wow
+Customer 105.202625 109.464875 and and we put that uh in a account
+Agent 106.276500 108.985250 [silence]
+Agent 108.985250 110.494250 um-hum
+Customer 109.464875 120.996375 and we just leave it there that's our emergency account if the car breaks down i mean we can take money out of that but you know then our goal after the next month is to rebuild it up to three months' salary
+Agent 110.494250 111.677750 um-hum
+Agent 111.677750 113.333750 [silence]
+Agent 113.333750 114.989875 um-hum
+Agent 114.989875 120.261000 [silence]
+Agent 120.261000 121.490875 right
+Customer 120.996375 125.151750 now we've only we've recently done that so now we have extra money
+Agent 121.490875 135.456250 [silence]
+Customer 125.151750 136.796250 we don't have to slap in that account so we're looking into mutual funds or uh just uh common stock you know anything like that that we can get a higher return on our money
+Agent 135.456250 136.985375 um-hum
+Customer 136.796250 150.764500 uh see we do have the checking account we have Carla works for TI so she has a CODA plan you know where she puts in if they put in a dollar sh[e]- she puts in a dollar you know TI pays fifty cents
+Agent 136.985375 143.282750 [silence]
+Agent 143.282750 144.986000 oh
+Agent 144.986000 149.494500 [silence]
+Agent 149.494500 152.291500 oh that's great
+Customer 150.764500 158.482000 it's sort of like a matching fund then she gets like eight percent interest on top of that so that's been uh
+Agent 152.291500 154.748250 [silence]
+Agent 154.748250 156.270500 um-hum
+Agent 156.270500 159.484000 [silence]
+Customer 158.482000 161.715500 pretty juicy for last couple of years
+Agent 159.484000 162.441625 um-hum yeah that's wonderful
+Customer 161.715500 163.810625 and
+Agent 162.441625 163.504500 [silence]
+Agent 163.504500 169.614125 one nice thing that my company does um and i know this is going on all over the country but
+Customer 163.810625 173.259500 [silence]
+Agent 169.614125 173.840500 they allow you to put into um a certain fund
+Customer 173.259500 174.996625 um-hum
+Agent 173.840500 185.470375 whatever you think some of your major medical expenses are going to be for the year such as any prescriptions um if you wear glasses or contacts any expenses you might have for that
+Customer 174.996625 190.428500 [silence]
+Agent 185.470375 198.670625 any dental expenses you anticipate if you have kids day care that sort of thing um outside of a major medical hospitalization problem anything that that might be medically related
+Customer 190.428500 191.987875 uh-huh
+Customer 191.987875 203.469250 [silence]
+Agent 198.670625 203.976125 and so you claim that amount at the beginning of the year let's say you determine that's five hundred dollars
+Customer 203.469250 205.009625 uh-huh
+Agent 203.976125 213.004750 they'll withhold five hundred dollars from your paycheck um broken up into fifty two weeks so whatever that is divided by fifty two
+Customer 205.009625 209.744875 [silence]
+Customer 209.744875 211.305375 yeah
+Customer 211.305375 218.776125 [silence]
+Agent 213.004750 219.320000 and w[hat]- what in in a sense happens is you end up paying those bills in pretax dollars
+Customer 218.776125 220.489125 yeah
+Agent 219.320000 221.255250 do you have something like that
+Customer 220.489125 225.491125 no well they may have we just haven't taken advantage of it
+Agent 221.255250 224.334125 [silence]
+Agent 224.334125 230.997625 it's really wonderful in our case we don't have that many medical expenses thank God and so i only claim two hundred dollars
+Customer 225.491125 228.220500 [silence]
+Customer 228.220500 229.495625 uh-huh
+Customer 229.495625 230.494875 [silence]
+Customer 230.494875 231.667125 yeah
+Agent 230.997625 235.797875 so i my salary in a sense was lowered by two hundred dollars
+Customer 231.667125 235.267375 [silence]
+Customer 235.267375 236.993750 right
+Agent 235.797875 244.313500 and they break that up into three dollars and eighty five cents a week that's taken out automatically and then if i go and get my teeth cleaned for thirty dollars
+Customer 236.993750 256.488875 [silence]
+Agent 244.313500 257.373625 i pay the thirty dollars and then i send it in to the it's Blue Choice i send it in to them and then they send me a check back for thirty dollars but the nice thing is that that thirty dollars i wasn't taxed on
+Customer 256.488875 258.452500 right
+Agent 257.373625 266.751750 initially because_1 it it almost looked like i never made that thirty dollars and it's really wonderful if i this is the first year we did it and uh next year
+Customer 258.452500 275.983375 [silence]
+Agent 266.751750 276.444250 i i'm just going to claim a lot more if you don't spend it all then you do lose it but i feel we could have benefitted from even two hundred dollars more from it
+Customer 275.983375 277.997250 huh so
+Agent 276.444250 289.992500 but uh it's a nice little savings account and then they they tell you if you'd like you can put the money that you save by not paying taxes into a savings account and they'll do like what you mentioned about matching it and that sort of thing
+Customer 277.997250 289.291625 [silence]
+Customer 289.291625 290.758625 yeah
+Agent 289.992500 291.490125 but um
+Customer 290.758625 296.229750 so if you don't use it in one year you lose the hum
+Agent 291.490125 293.500750 [silence]
+Agent 293.500750 302.038875 yes if you don't lose it so if you decided to claim or or put aside five hundred dollars and you only spent four fifty
+Customer 296.229750 304.229625 [silence]
+Agent 302.038875 312.740125 they let you know each quarter and they'll let you know you have three hundred dollars left two hundred dollars left but if it gets to be the end of the year and you haven't spent that fifty then you do lose it
+Customer 304.229625 305.721625 yeah
+Customer 305.721625 312.715625 [silence]
+Customer 312.715625 315.472750 well it's time to go get your teeth cleaned again
+Agent 312.740125 314.284250 [silence]
+Agent 314.284250 320.043625 yeah right [laughter] or just buy a new set of glasses or [laughter] or whatever
+Customer 315.472750 317.731125 [silence]
+Customer 317.731125 320.499000 oh yeah that's that's true too
+Agent 320.043625 327.497500 but i- i don't know how people can really live on a budget our i mean a budget that's really written out
+Customer 320.499000 321.732125 [vocalized-noise]
+Customer 321.732125 326.988875 [silence]
+Customer 326.988875 328.492000 uh-huh
+Agent 327.497500 339.722750 um you know this amount of dollars because you your life just fluctuates so much and i mean each week is so different some weeks you're just going to go over that and some weeks you're going to go under and so to me it's just easier to
+Customer 328.492000 334.292500 [silence]
+Customer 334.292500 335.727750 yeah
+Customer 335.727750 339.705125 [silence]
+Customer 339.705125 351.214375 well there again we both have the natural tendency to save and like so if we have the extra money we're going to slap it away as opposed to someone else who goes out and blows it
+Agent 339.722750 341.244250 i don't know
+Agent 341.244250 343.713250 [silence]
+Agent 343.713250 346.491000 yeah that's true that's true
+Agent 346.491000 347.814375 [silence]
+Agent 347.814375 349.194625 right
+Agent 349.194625 350.212875 [silence]
+Agent 350.212875 353.806750 that's true yeah a very good point
+Customer 351.214375 359.737500 so for those people that are in debt like you said you pay your credit card off at the end of the month and so do we because_1 i hate interest
+Agent 353.806750 355.508625 [laughter] yeah
+Agent 355.508625 357.246000 [silence]
+Agent 357.246000 360.494250 right oh i hate it too
+Customer 359.737500 362.994250 so i mean but some people don't care about interest
+Agent 360.494250 361.983375 [silence]
+Agent 361.983375 370.469000 well you you know some people look at their their credit card limit as a loan in a sense and they um
+Customer 362.994250 368.220250 [silence]
+Customer 368.220250 369.737500 yeah
+Customer 369.737500 377.497250 [silence]
+Agent 370.469000 377.788500 you know if their limit is twenty five hundred dollars if they have a hundred left they'll spend that because they think they have it
+Customer 377.497250 378.738625 yeah
+Agent 377.788500 382.991000 and then will just end up paying interest for the rest of their lives practically
+Customer 378.738625 382.248000 [silence]
+Customer 382.248000 385.265125 right it's a vicious circle
+Agent 382.991000 384.011375 [silence]
+Agent 384.011375 385.995750 yeah it really is
+Customer 385.265125 388.742750 yeah credit cards are good if you use them correctly
+Agent 385.995750 387.762875 [silence]
+Agent 387.762875 389.240125 um-hum
+Customer 388.742750 391.705500 but they can be very dangerous if you don't
+Agent 389.240125 390.723625 [silence]
+Agent 390.723625 393.988250 oh they sure can that's for sure
+Customer 391.705500 393.488625 [silence]
+Customer 393.488625 396.488625 especially yeah that interest is terrible
+Agent 393.988250 395.485750 [silence]
+Agent 395.485750 396.804625 i know
+Customer 396.488625 400.473625 [silence]
+Agent 396.804625 405.726500 and you know they send these applications out to college kids and college kid gets an application that says you've been approved for this amount of credit
+Customer 400.473625 401.983500 uh-huh
+Customer 401.983500 414.730500 [silence]
+Agent 405.726500 408.797250 [vocalized-noise] automatic approval
+Agent 408.797250 412.765875 and they get them and then these kids start charging and
+Agent 412.765875 421.745000 and they get themselves into some deep trouble before they [laughter-even] start making money they're already in debt [laughter-you] [laughter-know] let alone loans and stuff
+Customer 414.730500 416.993750 oh yeah
+Customer 416.993750 418.993500 [laughter]
+Customer 418.993500 420.492000 no kidding
+Customer 420.492000 422.512250 [silence]
+Agent 421.745000 423.724000 but
+Customer 422.512250 423.728750 but
+Agent 423.724000 431.463875 [silence]
+Customer 423.728750 432.986875 yeah that sounds like you uh now what are you doing you've got your big master savings account that you're going to use to retire on or something or
+Agent 431.463875 437.147000 well it'll be a long time before that's something we can retire on but um
+Customer 432.986875 441.276750 [silence]
+Agent 437.147000 448.211125 it's yeah it's just uh something that's automatically taken out of our paychecks each week and uh it goes for an emergency we had a disastrous storm here about seven weeks ago and
+Customer 441.276750 442.990875 uh-huh
+Customer 442.990875 455.471750 [silence]
+Agent 448.211125 456.191000 Rochester was in a state of emergency for three weeks and everyone lost their power and we had to pay over five hundred dollars to have a tree removed
+Customer 455.471750 457.961250 oh man
+Agent 456.191000 468.274500 and it wasn't covered by insurance so that's something where y[ou]- you don't plan on it's not something that you can you know you're not saving for a trip or whatever it's boom here it is
+Customer 457.961250 465.449375 [silence]
+Customer 465.449375 466.987375 [laughter]
+Customer 466.987375 476.483000 [silence]
+Agent 468.274500 477.031000 and you just have to pay for it so it's an emergency fund but when we got married we you know obviously got some money and that that's what's put in the CD
+Customer 476.483000 477.993875 oh
+Agent 477.031000 484.685875 and to me i- i try and forget that we even have that because i don't want to think about that um
+Customer 477.993875 479.805875 [silence]
+Customer 479.805875 481.475375 yeah
+Customer 481.475375 492.995750 [silence]
+Agent 484.685875 497.998375 but it would be nice to just not always think about saving like have a have a twenty dollar bill and think oh maybe we'll just go out and buy something with this and it'll come
+Customer 492.995750 494.248625 [laughter]
+Customer 494.248625 495.991625 [silence]
+Customer 495.991625 503.989250 yeah yeah we i just did that my wife's birthday was yesterday and yeah so
+Agent 497.998375 499.995625 [silence]
+Agent 499.995625 501.993000 ah really
+Agent 501.993000 506.493625 [silence]
+Customer 503.989250 515.337000 i'm very tight you know with my cash and we haven't really we don't go to malls and shop because_1 they're too expensive and you know we'll buy things here and there but she had we haven't really went shopping for her
+Agent 506.493625 508.185750 um-hum [laughter]
+Agent 508.185750 510.004250 [silence]
+Agent 510.004250 511.993750 oh yeah it'll
+Agent 511.993750 512.993500 um-hum
+Agent 512.993500 514.732750 [silence]
+Agent 514.732750 516.229500 oh
+Customer 515.337000 529.988750 and you know but she's been really good and she hasn't really said much and i go well look you know today we're going to go out and get something so we went out and blew about a hundred bucks but you know for us that's a that's huge for me you know but you know some people do it every weekend
+Agent 516.229500 522.751500 [silence]
+Agent 522.751500 524.999625 oh isn't it great
+Agent 524.999625 527.997250 oh i know you mean um-hum
+Agent 527.997250 528.995250 [silence]
+Agent 528.995250 531.206750 oh it's incredible
+Customer 529.988750 530.995125 [silence]
+Customer 530.995125 532.217875 but
+Agent 531.206750 532.906125 we really do
+Customer 532.217875 539.274000 [silence]
+Agent 532.906125 539.717250 i- i- i like discount stores i have no problem with buying an a no name brand of something
+Customer 539.274000 540.735125 yeah
+Agent 539.717250 542.887250 um i'm not into labels and that sort of thing
+Customer 540.735125 542.492000 [silence]
+Customer 542.492000 543.498250 yeah
+Agent 542.887250 547.009625 our fire our smoke detector's going off [laughter] making French fries
+Customer 543.498250 544.996250 [silence]
+Customer 544.996250 547.724125 uh oh you're not cooking are you
+Agent 547.009625 554.478250 um my husband's making French fries [laughter] or burning French fries one or the other but um
+Customer 547.724125 549.995750 [silence]
+Customer 549.995750 551.496375 that's funny
+Customer 551.496375 559.989625 [silence]
+Agent 554.478250 563.175375 i feel fortunate that my parents instilled in me you know a sense to save and and you know watch where your money goes
+Customer 559.989625 561.482500 uh-huh
+Customer 561.482500 563.492250 [silence]
+Agent 563.175375 568.250875 and i that's very valuable yeah yeah
+Customer 563.492250 564.991875 well that's good
+Customer 564.991875 565.993500 [silence]
+Customer 565.993500 567.499875 that's good
+Customer 567.499875 570.493875 sounds like uh you know what you're doing
+Agent 568.250875 569.277375 [silence]
+Agent 569.277375 576.744000 yeah i hope so we do you too was your wife always like this or was she did you have to
+Customer 570.493875 575.966125 [silence]
+Customer 575.966125 577.981375 did i have to train her
+Agent 576.744000 578.475375 yeah [laughter]
+Customer 577.981375 582.998000 no she she's really good she uh she didn't uh
+Agent 578.475375 585.494125 [silence]
+Customer 582.998000 597.775500 you know she doesn't go out and buy clothes without me knowing it and like Blondie in the cartoons you know she doesn't do anything like that she's not big on sales and all that she's just really she's really great she's really content and just uses what she has and then
+Agent 585.494125 587.193375 um-hum
+Agent 587.193375 589.757375 i know kind
+Agent 589.757375 591.995375 [silence]
+Agent 591.995375 593.256500 um-hum
+Agent 593.256500 596.498125 [silence]
+Agent 596.498125 598.257875 that's great
+Customer 597.775500 599.838500 you know she just you know some day
+Agent 598.257875 599.838500 [silence]

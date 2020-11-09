@@ -1,0 +1,298 @@
+Agent 0.000000 0.919500 [noise]
+Customer 0.000000 1.370750 [noise]
+Agent 0.919500 3.918875 so what are the benefits working for a large organization
+Customer 1.370750 3.293375 [silence]
+Customer 3.293375 6.553875 gosh i wouldn't know i've never worked for a large organization
+Agent 3.918875 8.243500 [silence]
+Customer 6.553875 8.056375 [laughter]
+Customer 8.056375 11.118250 [silence]
+Agent 8.243500 10.409500 uh
+Agent 10.409500 11.621250 that will make it interesting
+Customer 11.118250 17.341625 well i will take that back i i was in the Air Force for thirteen years i guess that qualifies as a large organization
+Agent 11.621250 16.898375 [silence]
+Agent 16.898375 20.075375 yeah i i would qualify the U S government as
+Customer 17.341625 20.525000 [laughter]
+Agent 20.075375 23.289250 large if not too large
+Customer 20.525000 21.835625 [silence]
+Customer 21.835625 24.351750 sort of large yeah just
+Agent 23.289250 27.055375 [silence]
+Customer 24.351750 27.701625 a little bit little bit bigger than TI
+Agent 27.055375 28.175000 yeah yeah
+Customer 27.701625 34.913250 okay oh some of the benefits i- s[ee]- i- i never really counted that as an organization because it's uh
+Agent 28.175000 34.050000 [silence]
+Agent 34.050000 35.578750 the benefits are funny
+Customer 34.913250 39.668250 yeah the benefits are strange they change every day and uh
+Agent 35.578750 42.338125 [silence]
+Customer 39.668250 42.932625 you don't really have a lot of choice [laughter]
+Agent 42.338125 43.053625 yeah
+Customer 42.932625 47.319375 not like TI do you want this or do you want this or do you want this [vocalized-noise]
+Agent 43.053625 46.692625 [silence]
+Agent 46.692625 49.601750 well we don't have that kind of choice either
+Customer 47.319375 49.962625 [silence]
+Agent 49.601750 51.102375 [silence]
+Customer 49.962625 51.674875 um
+Agent 51.102375 52.571625 oh
+Customer 51.674875 54.745250 oh i mean you certain
+Agent 52.571625 53.859625 [silence]
+Agent 53.859625 57.319750 yeah out here in the real world it's a lot it's all the same
+Customer 54.745250 56.468000 [silence]
+Customer 56.468000 58.242125 oh really
+Agent 57.319750 59.776875 no matter who your employer is
+Customer 58.242125 59.490375 [silence]
+Customer 59.490375 63.190875 no i mean you have the choice of taking this health insurance or
+Agent 59.776875 65.362625 [silence]
+Customer 63.190875 65.660875 some other or something like that
+Agent 65.362625 66.697750 uh
+Customer 65.660875 72.530625 [silence]
+Agent 66.697750 68.471375 yeah
+Agent 68.471375 74.560250 here in the Springs we have a choice of two either an HMO or a company health insurance
+Customer 72.530625 73.594750 yeah
+Customer 73.594750 74.614625 yeah
+Agent 74.560250 76.708125 so there are two
+Customer 74.614625 76.032625 [silence]
+Customer 76.032625 77.124000 yeah
+Agent 76.708125 83.240625 [silence]
+Customer 77.124000 84.011750 of course i can't say we didn't have a choice if you always wanted to you could uh go out and buy your health insurance and
+Agent 83.240625 85.931250 out of your own jeans yes
+Customer 84.011750 90.670500 yeah out of your own jeans and stay a way from the base hospital which is generally what i did
+Agent 85.931250 89.990125 [silence]
+Agent 89.990125 91.626000 ooh
+Customer 90.670500 92.768750 kind of scary
+Agent 91.626000 93.483750 it was that bad huh
+Customer 92.768750 99.586625 uh i i never fully trusted them the only time i ever went there was when i had to for a flight physical or something
+Agent 93.483750 107.280125 [silence]
+Customer 99.586625 107.197375 uh which has to be their doctor but they're not doing anything to me other than testing me so i let them do that
+Customer 107.197375 108.091500 [noise]
+Agent 107.280125 110.822375 well there are other benefits with the military
+Customer 108.091500 110.810000 [silence]
+Customer 110.810000 113.229500 well i don't
+Agent 110.822375 113.384375 that the civilians don't get
+Customer 113.229500 114.940000 yeah i don't i don't
+Agent 113.384375 118.697375 [silence]
+Customer 114.940000 119.083875 i don't bad mouth the military too much i had a i had a good time
+Agent 118.697375 121.099625 well i just meant from a benefit standpoint
+Customer 119.083875 120.668125 [silence]
+Customer 120.668125 124.992625 well from benefit well that's one of the reasons i made a decision to get out
+Agent 121.099625 128.736000 [silence]
+Customer 124.992625 128.955750 uh i what i perceived as the benefits were just eroding
+Agent 128.736000 129.939375 yeah
+Customer 128.955750 130.573500 uh
+Agent 129.939375 131.168250 [silence]
+Customer 130.573500 134.638125 [silence]
+Agent 131.168250 132.279250 well the
+Agent 132.279250 134.575625 their pension plan is really good
+Agent 134.575625 142.955750 [silence]
+Customer 134.638125 144.543500 yeah you know that that part is good except for the except for the little thing that you're paying into social security for twenty years and when you start
+Agent 142.955750 144.897125 and then you can't draw it
+Customer 144.543500 152.310625 that's right and then and then you start drawing your retirement pay and if you start drawing the social security they offset your retirement dollar for dollar
+Agent 144.897125 151.857750 [silence]
+Agent 151.857750 152.796000 yes
+Customer 152.310625 155.280750 and i always thought that that that was a big rip off
+Agent 152.796000 157.098750 [silence]
+Customer 155.280750 157.315875 uh
+Agent 157.098750 160.437125 yeah well on the other side of the fence
+Customer 157.315875 159.757750 but s[till]- but still
+Customer 159.757750 173.488000 [silence]
+Agent 160.437125 164.065125 [noise] the way it works is that uh
+Agent 164.065125 167.029625 some employers
+Agent 167.029625 171.981000 although they have a qualified pension plan they don't have a
+Agent 171.981000 174.180500 viable pension plan
+Customer 173.488000 174.762875 yeah
+Agent 174.180500 175.616875 [silence]
+Customer 174.762875 176.665500 yeah
+Agent 175.616875 177.668625 and we won't mention any names
+Customer 176.665500 179.772875 [noise]
+Agent 177.668625 181.541750 [silence]
+Customer 179.772875 182.232750 don't worry they're recording every word [laughter]
+Agent 181.541750 183.113250 i know
+Customer 182.232750 183.353625 [laughter]
+Agent 183.113250 185.577250 i didn't say it was them
+Customer 183.353625 185.553875 [silence]
+Customer 185.553875 188.815500 oh okay you're you're right you're right
+Agent 185.577250 187.651625 but i didn't but
+Agent 187.651625 189.509125 but i didn't say it wasn't either
+Customer 188.815500 190.187875 that's right
+Agent 189.509125 191.918375 [noise]
+Customer 190.187875 190.807000 [laughter]
+Customer 190.807000 193.101500 [silence]
+Agent 191.918375 193.815875 we will let them draw their own conclusions
+Customer 193.101500 195.677750 that's right draw your own inference
+Agent 193.815875 195.960000 [silence]
+Customer 195.677750 196.856875 um
+Agent 195.960000 196.912375 uh
+Customer 196.856875 204.639750 but but but what you are saying about the military times is is true i mean fifty percent uh of your base pay is pretty good
+Agent 196.912375 204.826125 [silence]
+Customer 204.639750 210.113875 [silence]
+Agent 204.826125 206.147500 and
+Agent 206.147500 207.900875 uh
+Agent 207.900875 210.385250 medical for the rest of your life
+Customer 210.113875 218.508750 yeah that you know that sounds great on paper but it's not it i- uh it's not something that i would look would look forward to
+Agent 210.385250 214.251375 [silence]
+Agent 214.251375 215.833500 well we have
+Agent 215.833500 218.112250 [silence]
+Agent 218.112250 224.877500 we have had some medical reti[re]- i mean some military retirees work up here for us
+Customer 218.508750 229.481750 [silence]
+Agent 224.877500 226.930125 or a bunch really and
+Agent 226.930125 230.500375 they did use the heck out of the medical
+Customer 229.481750 230.943000 yeah
+Agent 230.500375 232.266500 military medical
+Customer 230.943000 232.770625 yeah
+Agent 232.266500 235.403000 now the military dental was poor
+Customer 232.770625 234.430125 no now
+Customer 234.430125 235.551750 uh-huh
+Agent 235.403000 237.257625 at best
+Customer 235.551750 236.925125 [silence]
+Customer 236.925125 237.988125 yeah
+Agent 237.257625 240.358625 but the medical seemed
+Customer 237.988125 242.330750 [silence]
+Agent 240.358625 241.649750 [silence]
+Agent 241.649750 243.177125 somewhat adequate
+Customer 242.330750 248.282625 yeah i mean don't get me wrong uh it's [vocalized-noise] for something something that was major
+Agent 243.177125 271.137625 [silence]
+Customer 248.282625 255.483625 i i wouldn't have any problems with them it's the daily uh go in with the with the flu or something like that
+Customer 255.483625 266.047250 and and the the treatment is terrible i mean first you wait for hours and hours and hours and then the guy says you have a temperature you know well i knew that
+Customer 266.047250 270.927375 we're going to give you Sudafed you know i've been taking Sudafed for two weeks it doesn't do any good
+Customer 270.927375 273.738375 that's all i can do that's all i can do
+Agent 271.137625 272.508250 yeah yeah
+Agent 272.508250 274.000625 [silence]
+Customer 273.738375 283.396250 yeah [noise] um-hum
+Agent 274.000625 277.676250 yeah uh i'm a member of an HMO
+Agent 277.676250 284.691625 and uh from all indications it's quite similar to the military
+Customer 283.396250 290.964125 yeah yeah well that that's HMO's are designed that way i mean they are going to they're gonna they're gonna get the most bang for their buck
+Agent 284.691625 287.655500 [silence]
+Agent 287.655500 289.114250 yeah exactly and
+Agent 289.114250 296.185500 [silence]
+Customer 290.964125 295.799000 and uh you know they're they're in the big profit making business
+Customer 295.799000 304.142875 [silence]
+Agent 296.185500 297.667125 and
+Agent 297.667125 299.445375 so
+Agent 299.445375 305.888125 the single benefits that i consider among the most important are medical insurance
+Customer 304.142875 305.998625 yeah absolutely
+Agent 305.888125 309.455125 because without it you can be
+Customer 305.998625 311.017500 [silence]
+Agent 309.455125 312.095625 broke for the rest of your life
+Customer 311.017500 313.919500 that's it forever and ever
+Agent 312.095625 322.900500 [silence]
+Customer 313.919500 318.654250 all all you have to do is you don't have it let something bad happen
+Customer 318.654250 322.340000 and that hospital will slap a lien on you so fast
+Customer 322.340000 325.174625 because_1 th[ey]- because_1 they do it routinely
+Agent 322.900500 324.474375 yeah and
+Agent 324.474375 328.087250 yes and the funny thing is that uh
+Customer 325.174625 331.002750 [silence]
+Agent 328.087250 332.237750 private medical insurance is grossly expensive
+Customer 331.002750 334.673875 yeah oh i know i know
+Agent 332.237750 333.900000 if you are not a member of a group
+Agent 333.900000 340.082125 [silence]
+Customer 334.673875 340.110000 i know my roomie's got um the insurance through the school
+Agent 340.082125 341.023250 uh-huh
+Customer 340.110000 345.398875 and it it runs fifty eight i think fifty eight bucks a month something like that
+Agent 341.023250 345.573000 [silence]
+Customer 345.398875 348.575875 an that's not bad but you don't get anything
+Agent 345.573000 347.021375 that's not bad
+Agent 347.021375 349.985625 [silence]
+Customer 348.575875 350.908875 i mean to tell you
+Agent 349.985625 352.085375 well you get what you pay for don't you
+Customer 350.908875 354.041500 that's exactly right i mean it's it's nothing
+Agent 352.085375 361.238625 [silence]
+Customer 354.041500 355.315750 um
+Customer 355.315750 356.855375 [silence]
+Customer 356.855375 360.775500 it doesn't cover doctors or anything else it's crazy
+Customer 360.775500 362.019875 [silence]
+Agent 361.238625 363.278625 doesn't cover doctors
+Customer 362.019875 366.237250 no i mean you can go [vocalized-noise] it will cover something major
+Agent 363.278625 378.634750 [silence]
+Customer 366.237250 372.792625 but forget about things like uh eyes or your teeth or anything else
+Customer 372.792625 374.330125 [noise]
+Customer 374.330125 377.548750 it i[t]- what it is it's medical insurance on paper
+Customer 377.548750 379.716500 [silence]
+Agent 378.634750 382.402250 are you covered yes are you covered really no
+Customer 379.716500 381.532000 [laughter]
+Customer 381.532000 384.889500 that's right read between the lines are you covered no
+Agent 382.402250 387.003250 [silence]
+Customer 384.889500 387.759625 [silence]
+Agent 387.003250 387.812375 so
+Customer 387.759625 392.891625 but you know i mean the whole health care thing in the states is so screwed up that uh
+Agent 387.812375 392.162625 [silence]
+Agent 392.162625 394.251000 yes it
+Customer 392.891625 396.491375 uh it's it's totally ridiculous
+Agent 394.251000 395.985500 [silence]
+Agent 395.985500 399.113125 it it's a shame it's
+Customer 396.491375 398.350000 it is i mean
+Customer 398.350000 403.541625 i'm one of those forty million Americans running around with no health insurance at the moment
+Agent 399.113125 403.965125 [silence]
+Customer 403.541625 423.523875 [silence]
+Agent 403.965125 412.764875 in our state currently when in Colorado whenever you fill out uh your state income tax
+Agent 412.764875 417.935125 they ask you if you have medical insurance if you do
+Agent 417.935125 422.682750 you have to pay for those that don't have medical insurance
+Agent 422.682750 423.980500 [silence]
+Customer 423.523875 424.771875 huh
+Agent 423.980500 429.475250 i think it's two or four dollars a person i don't remember something along those lines but it
+Customer 424.771875 430.609625 [silence]
+Agent 429.475250 431.888625 still the idea irks me so that
+Customer 430.609625 432.030000 yeah
+Agent 431.888625 454.948750 [silence]
+Customer 432.030000 439.143750 well it's sort of like North Carolina North Carolina has an interesting thing on their income tax uh they create
+Customer 439.143750 440.311250 money
+Customer 440.311250 443.421625 to tax you with or to tax you on
+Customer 443.421625 446.802875 there's a neat little formula on the back that you have to complete
+Customer 446.802875 459.389625 and assuming you're you're you're at poverty line where you're uh deduction or you take the standard deduction of thirty two fifty uh that will work out to an additional three hundred dollars
+Agent 454.948750 456.016500 right
+Agent 456.016500 462.715125 [silence]
+Customer 459.389625 462.584625 tacked on to your taxable income
+Customer 462.584625 467.274875 yeah and of course it goes higher and higher the more money you make
+Agent 462.715125 463.858000 oh no
+Agent 463.858000 474.172875 [silence]
+Customer 467.274875 476.685125 but the very least that anybody filing income tax form will have to pay on is three hundred dollars and they create money out of thin air
+Agent 474.172875 474.960125 huh
+Agent 474.960125 487.143625 [silence]
+Customer 476.685125 484.474750 i wr[ote]- i- i attached a little note to my my return when i sent it in saying gee i didn't know i had this extra three hundred dollars i wonder where it went
+Customer 484.474750 499.982625 [silence]
+Agent 487.143625 491.099750 uh Colorado is a nifty thing if you
+Agent 491.099750 494.589500 or they did until last year
+Agent 494.589500 499.884625 in times past if you got a federal tax
+Agent 499.884625 501.239875 refund
+Customer 499.982625 501.570000 uh-huh
+Agent 501.239875 503.258750 [silence]
+Customer 501.570000 504.579750 [silence]
+Agent 503.258750 507.092375 you paid state income tax on it the next year
+Customer 504.579750 509.346375 on the refund yeah uh Alabama did that too
+Agent 507.092375 514.465625 [silence]
+Customer 509.346375 515.252625 and i always thought well this is pretty nifty you taxed me when i made the money the feds
+Agent 514.465625 517.229250 and now you're taxing me again on it
+Customer 515.252625 527.537500 yeah the feds took it out and now they're giving it back to me and now you're going to tax it again i s[eem]- i seem to rec[all]- recall something about revolutions and wars about double and triple taxation and stuff
+Agent 517.229250 520.706375 [silence]
+Agent 520.706375 522.124250 yes
+Agent 522.124250 527.144750 [silence]
+Agent 527.144750 528.517375 yeah
+Customer 527.537500 533.106125 course uh course it it's the by word now i mean let let's tax everything three or four times
+Agent 528.517375 533.336375 [silence]
+Customer 533.106125 535.024375 [silence]
+Agent 533.336375 536.318250 and there are tax revolutions going on currently
+Customer 535.024375 536.930125 yeah there should be
+Agent 536.318250 537.672625 [silence]
+Customer 536.930125 539.500500 [silence]
+Agent 537.672625 540.599875 but the problem is it's not an armed insurrection
+Customer 539.500500 541.021000 no
+Agent 540.599875 542.106375 [silence]
+Customer 541.021000 542.288250 eleven
+Agent 542.106375 545.832250 it's not a violent overthrow of the people in Washington
+Customer 542.288250 544.347000 [silence]
+Customer 544.347000 551.407000 no because because quite honestly the American people are so apathetic about everything Washington can do what they want to do
+Agent 545.832250 551.772500 [silence]
+Customer 551.407000 553.230375 [silence]
+Agent 551.772500 554.362625 and they are trying to take away our guns
+Customer 553.230375 554.968750 yeah that too
+Agent 554.362625 565.505125 [silence]
+Customer 554.968750 558.243375 i'm a lifelong member of the NRA
+Customer 558.243375 564.928125 i'm not as militant as i was when i was younger but i still firmly believe in the rights to to own and bear arms
+Customer 564.928125 575.217000 [silence]
+Agent 565.505125 570.110125 and those people that say that
+Agent 570.110125 576.078000 all that amendment to the Constitution was guaranteeing is that we will have a militia
+Customer 575.217000 577.999250 yeah that's garbage
+Agent 576.078000 580.592375 [noise] i think they are [noise] sorely mistaken
+Customer 577.999250 590.656750 they're they're wrong the militia in those days was the common man there was no organization of militia the militia made up the the everyday common man and
+Agent 580.592375 590.204625 [silence]
+Agent 590.204625 593.546000 he pulled his squirrel rifle off his wall as he walked out in the yard
+Customer 590.656750 592.219000 [silence]
+Customer 592.219000 599.170000 that's right and and if they said hey we need a militia then all the able bodied men were were supposed to show up
+Agent 593.546000 599.170000 [silence]

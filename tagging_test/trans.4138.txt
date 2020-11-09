@@ -1,0 +1,94 @@
+Agent 0.000000 2.151625 [noise]
+Customer 0.000000 0.563125 [noise] think about
+Customer 0.563125 1.923875 uh taxes
+Customer 1.923875 11.696750 [silence]
+Agent 2.151625 12.523875 well i think they're a necessary evil uh i wish the government would operate on the same premise that uh businesses operate on and that is uh
+Customer 11.696750 13.470500 you spend what you have and
+Agent 12.523875 17.366125 you you don't spend more than you than you bring in
+Customer 13.470500 15.511500 [silence]
+Customer 15.511500 17.401000 yeah i think that
+Agent 17.366125 58.403750 [silence]
+Customer 17.401000 20.889500 the general idea is to s[pend]- you know spend uh
+Customer 20.889500 28.568750 during a time of recession that you know for the deficit spending to help pick up the economy but they're running under the assump[tion]- you know
+Customer 28.568750 41.287625 the way they're running it now they're h[ave]- you know running it under a deficit spending you know while we're not under a recession so there's never any surplus coming in to counter the deficit that we're running so
+Customer 41.287625 49.880250 that's kind of a basic thing of economics i guess keep spending keep going into debt you're not going to payoff what you owe
+Customer 49.880250 58.062750 so i guess the the question was more like uh do you get what you pay f[or]- you know get what you pay for
+Customer 58.062750 72.156500 [silence]
+Agent 58.403750 72.561125 well i it just depends uh uh roads are very expensive uh commodity and so is uh utilities they supply and police and fire department uh you know they need to make a living
+Customer 72.156500 74.480500 yeah [vocalized-noise] there's
+Agent 72.561125 83.285875 [laughter-so] i think for for for many years uh we've paid teachers and police officers and firemen who are uh to a great extent public servants
+Customer 74.480500 82.965250 [silence]
+Customer 82.965250 83.900000 uh-huh
+Agent 83.285875 88.450125 uh we have not paid them really what they're worth in what they contribute to society
+Customer 83.900000 87.477125 [silence]
+Customer 87.477125 89.375625 i agree with that
+Agent 88.450125 96.106375 but uh then again uh it's the hard to justify with all the wastefulness of money that
+Customer 89.375625 104.919250 [silence]
+Agent 96.106375 105.013250 the government spends on all levels of of uh government including municipalities as well as state and federal governments
+Customer 104.919250 109.403125 i guess i'm a i'm a student right now and i don't make a whole lot of money and
+Agent 105.013250 148.632250 [silence]
+Customer 109.403125 116.393500 so i i kind of don't pay a proportionate amount of taxes to i guess uh
+Customer 116.393500 124.094625 compared to what i get because i you know all my my education is state sponsored i go to a state sponsored school
+Customer 124.094625 137.114750 and uh my education all up through high school and stuff so i guess i'm kind of in debt i i suppose because i don't you know been paying taxes all that all that long my parents i guess h[owever]- h[owever]- however have
+Customer 137.114750 149.837375 contributed to that you know for the education side of it and everything but uh i usually end up getting money back i will this year anyway from
+Agent 148.632250 157.746250 uh you're very fortunate [laughter] we just try not to pay any more in than we have to uh we pay in a substantial amount uh
+Customer 149.837375 153.970750 [laughter-yeah] [laughter-i] [laughter-am] i need it too otherwise things
+Customer 153.970750 157.580000 [silence]
+Customer 157.580000 158.996000 uh-huh
+Agent 157.746250 168.825500 we don't regret paying taxes we do think that uh sometimes uh we have a reverse of a regressive tax a progressive tax
+Customer 158.996000 168.705875 [silence]
+Customer 168.705875 170.153750 uh-huh
+Agent 168.825500 178.205750 and progressive tax i think uh does not give people incentive to make more money [noise] and what i mean by that the more income you make the more tax you pay
+Customer 170.153750 176.657500 [silence]
+Customer 176.657500 178.698000 more taxes you pay
+Agent 178.205750 184.655750 it should be i think a flat percentage and uh that percentage ought to be an equitable amount
+Customer 178.698000 183.973750 [silence]
+Customer 183.973750 186.323125 uh-huh isn't
+Agent 184.655750 188.968875 uh last year when they passed the tax laws for the
+Customer 186.323125 192.932625 [silence]
+Agent 188.968875 193.841375 nineteen ninety ninety one whatever nineteen ninety one
+Customer 192.932625 194.535125 uh-huh
+Agent 193.841375 204.279000 uh i added up all the taxes that we were going to pay on all these different specific luxury items and travel expenses and everything else
+Customer 194.535125 202.430875 [silence]
+Customer 202.430875 203.651125 uh-huh
+Customer 203.651125 210.541875 [silence]
+Agent 204.279000 210.715750 and i totaled them all up and basically uh we were going to be paying seventy or eighty percent tax
+Customer 210.541875 211.553000 wow
+Agent 210.715750 215.235500 now that was the assumption that you spent that same dollar for every
+Customer 211.553000 217.033250 [silence]
+Agent 215.235500 217.438125 for every item on there
+Customer 217.033250 218.012625 uh-huh
+Agent 217.438125 220.501375 even though there's uh taxes on different things
+Customer 218.012625 220.654375 [silence]
+Agent 220.501375 228.754125 but you know there's f[ederal]- there's a lot of taxes you pay that you're not even aware of that you're paying uh like when you buy a tire you pay a federal excise tax
+Customer 220.654375 221.703000 well isn't
+Customer 221.703000 228.932750 [silence]
+Agent 228.754125 230.901875 [silence]
+Customer 228.932750 231.431750 uh-huh there's a lot yeah lot of hidden taxes
+Agent 230.901875 235.519250 you pay gasoline taxes every time you pump something into your your tank
+Customer 231.431750 233.824500 [silence]
+Customer 233.824500 234.398750 uh-huh
+Customer 234.398750 235.168625 [silence]
+Customer 235.168625 237.734125 the taxes that people don't think about that
+Agent 235.519250 242.592125 [silence]
+Customer 237.734125 242.986125 yeah the the the income tax is a lot more visible portion of the taxes you pay i guess
+Agent 242.592125 246.200125 but you probably pay more percentage wise in other taxes
+Customer 242.986125 245.569000 [silence]
+Customer 245.569000 246.633250 uh-huh
+Agent 246.200125 259.025250 [silence]
+Customer 246.633250 259.277500 there was that which can[didates]- was it Jerry Brown one of the democratic candidates had a proposal for doing away with all the the tax codes they have now and implementing a f[lat]- i think a flat percentage something like that
+Agent 259.025250 267.710125 if you impl[emented]- implemented a flat percentage it would encourage people uh to make more money and the what
+Customer 259.277500 279.736750 [silence]
+Agent 267.710125 279.571625 people need to understand in my opinion now this is just my opinion okay uh is that businesses create jobs and jobs create income and income pays taxes
+Agent 279.571625 289.412000 and so if they penalize businesses business people are smart enough to say here's my break point i'm not going to work any harder and make any more or create any more jobs
+Customer 279.736750 280.783250 uh-huh
+Customer 280.783250 286.505000 [silence]
+Customer 286.505000 287.850750 right
+Customer 287.850750 288.877125 [silence]
+Customer 288.877125 292.196125 exactly that's because up until like eight
+Agent 289.412000 294.456750 and so based on that who do you think you're talking to you're talking to an employer
+Customer 292.196125 294.373375 [laughter]
+Customer 294.373375 296.088625 [laughter]
+Agent 294.456750 299.458000 [laughter]
+Customer 296.088625 298.914250 up until like eighty five or something was
+Customer 298.914250 299.458000 the

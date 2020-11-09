@@ -1,0 +1,291 @@
+Agent 0.000000 2.730250 [silence]
+Customer 0.000000 0.075125 [noise]
+Customer 0.075125 3.324000 hi what do you do with your credit cards
+Agent 2.730250 11.819500 oh [laughter] well my husband and i have gotten into some some problems with credit cards we don't handle them very well
+Customer 3.324000 5.680500 [laughter]
+Customer 5.680500 15.824250 [silence]
+Agent 11.819500 16.686875 we we tend to run them up to the maximum and then ask for more [laughter]
+Customer 15.824250 17.603375 [laughter-oh] jeez
+Agent 16.686875 25.375750 they they're they're really bad for us um matter of fact we've gotten rid of all of our credit cards except for a MasterCard and a Visa
+Customer 17.603375 25.513875 [silence]
+Agent 25.375750 28.676625 then and we pretty much keep those {maxed} out
+Customer 25.513875 27.651125 [laughter]
+Customer 27.651125 35.903375 oh i was going to say that that sounds like like pretty many but i see what you meant you had them for each of the individual stores
+Agent 28.676625 34.706625 [silence]
+Agent 34.706625 39.810000 yeah we had cre[dit]- i had probably twenty credit cards
+Customer 35.903375 39.390125 [silence]
+Customer 39.390125 40.927500 um-hum um-hum
+Agent 39.810000 50.434500 um for i had i had an American Express American Express Gold an Optima all the different department stores um
+Customer 40.927500 53.280000 [silence]
+Agent 50.434500 54.015625 two Visas two MasterCards [laughter]
+Customer 53.280000 55.194625 oh gee [laughter]
+Agent 54.015625 57.771250 i mean i had any time anybody would
+Customer 55.194625 66.128625 [silence]
+Agent 57.771250 66.741500 you know send me an application you know preapproved or whatever i went i took it and it really ended up getting us in some real serious trouble
+Customer 66.128625 67.689750 oh sure
+Agent 66.741500 68.040125 um
+Customer 67.689750 73.121125 [silence]
+Agent 68.040125 73.807125 because see the more the more credit cards you have the more people offer them to you
+Customer 73.121125 74.650125 um-hum um-hum
+Agent 73.807125 77.931250 um and the more you use them the more the more they send them to you
+Customer 74.650125 77.590750 [silence]
+Customer 77.590750 81.349750 but each of these had an annual fee also right
+Agent 77.931250 80.387250 [silence]
+Agent 80.387250 84.732000 exactly and the American Express was probably the wo[rst]- the worst
+Customer 81.349750 91.622750 [silence]
+Agent 84.732000 92.179250 um because the with the Gold card i can't remember how much it was because i didn't even have it very long before i gave it up
+Customer 91.622750 92.718250 um-hum
+Agent 92.179250 97.196750 but i know the Green card was like thirty five forty five dollars a year
+Customer 92.718250 96.431625 [silence]
+Customer 96.431625 98.237375 yeah i'm forty five
+Agent 97.196750 98.442250 [silence]
+Customer 98.237375 101.967500 right i [laughter] i
+Agent 98.442250 99.504375 um
+Agent 99.504375 100.885375 [silence]
+Agent 100.885375 105.147625 which was a lot because i mean you had to pay it in full every month
+Customer 101.967500 104.772375 [silence]
+Customer 104.772375 114.875375 exactly you know i that's it i really resented the fact that they were charging me for cards so i sent back all of mine except the ones that were free
+Agent 105.147625 114.009500 [silence]
+Agent 114.009500 115.133125 uh-huh
+Customer 114.875375 121.120125 and um then then i also limited it to one of each
+Agent 115.133125 132.228125 [silence]
+Customer 121.120125 133.039000 one MasterCard and one one Visa and here most of the stores will accept those and actually i then got a Discover card since they pay you back
+Agent 132.228125 140.335000 um-hum yeah i had a Discover and that was one of the ones in the group that i ended up um closing
+Customer 133.039000 139.850125 [silence]
+Customer 139.850125 141.305125 uh
+Agent 140.335000 141.823500 [silence]
+Customer 141.305125 148.923000 [silence]
+Agent 141.823500 143.253375 um
+Agent 143.253375 153.199875 it really wasn't my choice though i mean i ended up having i ended up actually losing my credit cards um i ended up going through a credit counseling service
+Customer 148.923000 150.050000 oh
+Customer 150.050000 152.797875 [silence]
+Customer 152.797875 154.399125 um-hum um-hum
+Agent 153.199875 157.621500 um because my husband and i just don't handle credit very well
+Customer 154.399125 157.076500 [silence]
+Customer 157.076500 158.650000 um-hum yeah
+Agent 157.621500 165.178750 and um when when you do that they automatically once you start with their service they close your accounts out
+Customer 158.650000 164.520000 [silence]
+Customer 164.520000 166.390000 oh i see
+Agent 165.178750 170.052625 so i'm still paying on all these accounts but [laughter] my accounts are closed
+Customer 166.390000 168.083125 [silence]
+Customer 168.083125 169.198625 yeah
+Customer 169.198625 170.372250 yeah
+Agent 170.052625 174.139500 so and i would prefer to keep it that way once we once we're paid off
+Customer 170.372250 173.721375 [silence]
+Customer 173.721375 174.950000 um-hum
+Agent 174.139500 175.334375 um
+Customer 174.950000 178.571875 [silence]
+Agent 175.334375 179.346375 i would prefer just to have one MasterCard and one Visa and that's it
+Customer 178.571875 185.177000 yeah yeah actually i pay off my cards every month only once in my life have i not paid
+Agent 179.346375 185.104250 [silence]
+Agent 185.104250 193.282750 i think that's a really good way to handle it because that way if you if you paid off every month you never have to worry about well
+Customer 185.177000 195.708500 [silence]
+Agent 193.282750 202.377125 how much do i have to pay these guys you know this month you know this you buy what you can afford i mean if you handle it just like you would like a check or cash
+Customer 195.708500 196.776875 um-hum
+Customer 196.776875 198.587000 [silence]
+Customer 198.587000 199.828625 right and
+Customer 199.828625 202.024375 [silence]
+Customer 202.024375 203.410000 um-hum um-hum
+Agent 202.377125 205.400750 um it's a lot easier to keep it in check
+Customer 203.410000 205.425625 [silence]
+Agent 205.400750 208.965250 [silence]
+Customer 205.425625 209.813750 well and also in a sense they're giving you a loan for a month so that
+Agent 208.965250 209.970375 yeah
+Customer 209.813750 216.357375 you know if i were smarter i would have that same amount in savings and get the interest which i don't do but
+Agent 209.970375 214.551000 [silence]
+Agent 214.551000 215.890000 um-hum
+Agent 215.890000 223.061375 [silence]
+Customer 216.357375 218.170125 but yeah the
+Customer 218.170125 225.860000 the thought of adding you know X percent to to the price of what i buy i just i can't accept
+Agent 223.061375 229.298500 yeah and i and i think at this at this point in time with the economy the way it is
+Customer 225.860000 233.399875 [silence]
+Agent 229.298500 230.341625 um
+Agent 230.341625 233.917875 i think that um it's going to get even worse
+Customer 233.399875 234.575500 um-hum
+Agent 233.917875 235.288000 um
+Customer 234.575500 245.020000 [silence]
+Agent 235.288000 239.740125 i'm i'm glad that we're starting to pay our debts o[ff]- off now
+Agent 239.740125 240.900500 um
+Agent 240.900500 241.996375 [silence]
+Agent 241.996375 245.310750 you know we s[tarted]- we s[tarted]- i mean we started this last year
+Customer 245.020000 246.200000 um-hum um-hum
+Agent 245.310750 251.184625 and we probably still have about another year to go before we're completely out of the hole
+Customer 246.200000 247.811000 [silence]
+Customer 247.811000 249.021375 um-hum
+Customer 249.021375 256.593000 [silence]
+Agent 251.184625 256.957000 but i think this they way the whole economy's is going right now it's just not good to be in debt
+Customer 256.593000 258.335250 that's right that's right
+Agent 256.957000 267.068875 [silence]
+Customer 258.335250 259.487625 [silence]
+Customer 259.487625 268.080125 yeah yeah that i would that would be a very scary feeling for me to know that i was you know juggling payments to different people
+Agent 267.068875 268.261375 um-hum
+Customer 268.080125 269.229000 [silence]
+Agent 268.261375 276.586250 [silence]
+Customer 269.229000 277.280000 i guess because i never [laughter-experienced] it and it's not because you know i'm rich or anything it's just uh a mental concept that i have
+Agent 276.586250 277.740875 yeah
+Customer 277.280000 279.886625 yeah that i just
+Agent 277.740875 278.992125 [silence]
+Agent 278.992125 285.732125 well whe[n]- when it's you when you're getting rid of the whole credit card cycle and if you really get into the mind set
+Customer 279.886625 293.912875 [silence]
+Agent 285.732125 294.781500 i got really good at juggling money and basically robbing Peter to pay Paul and i and i it was scary because i was so good [laughter-at] it
+Customer 293.912875 295.486875 uh-huh uh-huh
+Agent 294.781500 304.612625 and i thought this this is not right i mean this has got to stop because eventually it'd end up catching up at and catching up with me and it hit me in the face
+Customer 295.486875 304.002250 [silence]
+Customer 304.002250 305.447375 right right
+Agent 304.612625 305.826625 um
+Customer 305.447375 306.488500 [silence]
+Agent 305.826625 309.579000 [silence]
+Customer 306.488500 311.408750 but it sounds like you know you you learned from it and you're coming out of it all right
+Agent 309.579000 318.783250 i yeah i have i've learned a lot from it um i've learned that credit cards are extremely dangerous in my hand [laughter]
+Customer 311.408750 313.294500 [silence]
+Customer 313.294500 314.375000 um-hum
+Customer 314.375000 317.934375 [silence]
+Customer 317.934375 319.385125 um-hum um-hum
+Agent 318.783250 322.356250 and my husband's too because he's he's the same way i am
+Customer 319.385125 321.840250 [silence]
+Customer 321.840250 322.818750 um-hum
+Agent 322.356250 324.337125 i don't i don't think that
+Customer 322.818750 329.332625 [silence]
+Agent 324.337125 329.680625 well when w[e]- when we buy on credit we just don't have a concept of how much money we're spending
+Customer 329.332625 330.321250 um-hum
+Agent 329.680625 331.418250 until the bill comes in
+Customer 330.321250 331.069500 [silence]
+Customer 331.069500 332.115000 um-hum
+Agent 331.418250 332.761875 [silence]
+Customer 332.115000 336.403500 [silence]
+Agent 332.761875 336.912750 and a[ll]- then all of a sudden you look at the bill and you go oh my gosh i spent this much [laughter]
+Customer 336.403500 344.487750 um-hum but now the fact that you still have two cards are you do you use them more judiciously
+Agent 336.912750 343.915875 [silence]
+Agent 343.915875 349.872750 yeah we pretty much use them for for emergency type things like um
+Customer 344.487750 351.957750 [silence]
+Agent 349.872750 352.766250 transmission fell out on our car [laughter]
+Customer 351.957750 353.482250 uh yeah
+Agent 352.766250 355.472875 and that paid for a new transmission
+Customer 353.482250 355.099500 [silence]
+Customer 355.099500 356.169500 um-hum
+Agent 355.472875 359.018125 um and and things like that um
+Customer 356.169500 362.603625 [silence]
+Agent 359.018125 362.727875 and we t[ry]- we try not to use them for you know
+Customer 362.603625 363.714000 purchases
+Agent 362.727875 367.192000 incidental type things like you know gas and stuff like that
+Customer 363.714000 366.650375 [silence]
+Customer 366.650375 367.885500 um-hum um-hum
+Agent 367.192000 369.689000 [silence]
+Customer 367.885500 368.926125 [silence]
+Customer 368.926125 374.706125 clothing [laughter-sales] sales i find are a pain [laughter]
+Agent 369.689000 370.958750 yeah
+Agent 370.958750 372.333375 [silence]
+Agent 372.333375 373.527125 yeah
+Agent 373.527125 380.203875 i've i've gotten i've gotten a lot more away from from credit cards and i- i pay by check a lot more now
+Customer 374.706125 379.706750 [silence]
+Customer 379.706750 380.889250 um-hum
+Agent 380.203875 387.602750 [silence]
+Customer 380.889250 382.222125 [silence]
+Customer 382.222125 387.954500 well it sounds good you know like i said it sounds like you're you've really got it under control
+Agent 387.602750 392.570250 i- i admire you for for having that um
+Customer 387.954500 398.159500 [silence]
+Agent 392.570250 401.688500 uh mind set for not not even getting you know past that thirty days i- i would that's ideally the where where i would like to be
+Customer 398.159500 399.357125 um-hum
+Customer 399.357125 401.309750 [silence]
+Customer 401.309750 402.957500 um-hum um-hum
+Agent 401.688500 413.694750 [silence]
+Customer 402.957500 412.542375 yeah and like i said once once it it happened i couldn't because my son's tuition came due and i guess i had you know not really counted on it quite
+Customer 412.542375 424.127000 at that point but um yeah i didn't like it at all i was very uncomfortable [laughter] so you know and and i mean it was
+Agent 413.694750 414.693250 um-hum
+Agent 414.693250 420.645500 [silence]
+Agent 420.645500 422.126500 i can imagine
+Agent 422.126500 429.204000 [silence]
+Customer 424.127000 437.845625 i thought a lot sixty dollars interest or something for for just a couple of months and i'm going jeez that's outrageous [laughter] but in in you know retrospect it wasn't all that much i mean a lot of people pay a lot more and
+Agent 429.204000 430.343875 yeah
+Agent 430.343875 437.047375 [silence]
+Agent 437.047375 438.441625 oh yeah
+Customer 437.845625 445.650000 and you know but still i mean i figured i didn't need those items if it cost me sixty dollars more to have them
+Agent 438.441625 444.657125 [silence]
+Agent 444.657125 446.206250 um-hum
+Customer 445.650000 448.520750 [silence]
+Agent 446.206250 448.998000 you think about what you can buy for sixty dollars
+Customer 448.520750 456.007250 exactly [laughter] groceries for a week [laughter] yeah
+Agent 448.998000 451.965500 [silence]
+Agent 451.965500 453.789000 yeah yeah
+Agent 453.789000 455.097625 [silence]
+Agent 455.097625 459.438250 i- i think about all all the money that that we've spent on interest
+Customer 456.007250 459.291750 [silence]
+Customer 459.291750 460.423625 um-hum
+Agent 459.438250 462.804750 on all of our credit cards and it's just incredible
+Customer 460.423625 462.520250 [silence]
+Customer 462.520250 467.611625 but now did you use to not feel so badly because you could take it off your income tax
+Agent 462.804750 467.088375 [silence]
+Agent 467.088375 473.713125 we've never been able to take it off our income tax i'm i'm fairly newly married i've only been married um less than two years
+Customer 467.611625 473.137875 [silence]
+Customer 473.137875 474.432500 um-hum
+Agent 473.713125 475.675875 and before that
+Customer 474.432500 479.520375 [silence]
+Agent 475.675875 479.971875 i never owned a home or anything so i never had any deductions
+Customer 479.520375 481.024250 right right
+Agent 479.971875 483.568000 so really it was always just money
+Customer 481.024250 483.467875 [silence]
+Customer 483.467875 486.133375 thrown away yeah jeez
+Agent 483.568000 485.364500 thrown away
+Agent 485.364500 488.810500 and i never really thought about it because
+Customer 486.133375 489.746750 [silence]
+Agent 488.810500 490.885000 uh
+Customer 489.746750 491.936625 you were good at it [laughter]
+Agent 490.885000 496.440375 yeah i was so good at it that it just kind of got stuck in the back of my mind and just never
+Customer 491.936625 496.033500 [laughter]
+Customer 496.033500 497.159750 um-hum
+Agent 496.440375 502.486750 um became a real problem until all of a sudden it came an insurmountable problem
+Customer 497.159750 501.895875 [silence]
+Customer 501.895875 514.501625 yeah i suspect that you know thinking about it and looking at my friends and the number of credit cards that they use and you know the amount that i know they buy i guess probably a lot of them are
+Agent 502.486750 518.136250 [silence]
+Customer 514.501625 519.042000 in a similar situation and you know just don't talk about it
+Agent 518.136250 519.530000 yeah
+Customer 519.042000 523.361625 [silence]
+Agent 519.530000 524.757750 most most people don't like to talk about money they feel uncomfortable i think
+Customer 523.361625 525.367000 um-hum um-hum um-hum
+Agent 524.757750 528.864750 you know because_1 i mean i guess for a lot of people it is very personal
+Customer 525.367000 526.371375 [silence]
+Customer 526.371375 527.633375 very personal
+Customer 527.633375 528.550750 [silence]
+Customer 528.550750 529.620125 um-hum
+Agent 528.864750 533.246875 [silence]
+Customer 529.620125 537.483625 yeah and especially if you if you don't feel you're handling it quite right or that somebody might make fun of you or that it would be
+Agent 533.246875 534.395625 yeah
+Agent 534.395625 537.023000 [silence]
+Agent 537.023000 541.852375 but i- i think the the average American is probably
+Customer 537.483625 543.219500 [silence]
+Agent 541.852375 543.697250 pretty heavily in debt
+Customer 543.219500 544.334250 um-hum
+Agent 543.697250 544.934875 [silence]
+Customer 544.334250 549.287625 [silence]
+Agent 544.934875 549.677000 not not including like a mortgage i mean a mortgage is an understandable debt
+Customer 549.287625 550.471250 um-hum
+Agent 549.677000 552.779000 um because_1 that's you have you have to have a roof over your head
+Customer 550.471250 552.225875 [silence]
+Customer 552.225875 553.354125 right
+Agent 552.779000 557.956875 and i would much rather own my own home than than
+Customer 553.354125 563.666875 [silence]
+Agent 557.956875 564.328375 be renting it like we're doing i mean we're basically you know kind of throwing seven hundred dollars a month away
+Customer 563.666875 565.033750 um-hum
+Agent 564.328375 565.858250 we're renting a house
+Customer 565.033750 566.015000 [silence]
+Agent 565.858250 566.575250 [silence]
+Customer 566.015000 567.117125 um-hum
+Agent 566.575250 567.975875 but
+Customer 567.117125 576.352125 [silence]
+Agent 567.975875 568.809625 [silence]
+Agent 568.809625 574.883500 but you know right now with the way our credit card situation is there's nobody in the world that's going to
+Agent 574.883500 576.746625 give us a mortgage on a house
+Customer 576.352125 578.239125 right right
+Agent 576.746625 582.550375 [silence]
+Customer 578.239125 585.022750 but but once i suppose you you prove yourself by paying this off next year you'll be in very good shape
+Agent 582.550375 583.798250 yeah
+Agent 583.798250 591.642250 yeah it's it's going to it's going to take quite a while um hopefully within five years we'll be in our own home
+Customer 585.022750 587.191125 [silence]
+Customer 587.191125 588.200000 um-hum
+Customer 588.200000 590.663125 [silence]
+Customer 590.663125 591.862750 um-hum
+Agent 591.642250 594.827875 but um i'm not really counting on it real soon
+Customer 591.862750 594.511375 [silence]
+Customer 594.511375 600.117375 um-hum um-hum so that's that's been an even harder lesson then if it affected
+Agent 594.827875 598.884375 [silence]
+Agent 598.884375 600.117375 yeah

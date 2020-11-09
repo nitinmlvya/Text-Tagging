@@ -1,0 +1,140 @@
+Agent 0.000000 0.521625 [noise]
+Customer 0.000000 0.154000 [noise]
+Customer 0.154000 1.191625 [silence]
+Agent 0.521625 2.155375 [silence]
+Customer 1.191625 2.415000 [noise]
+Agent 2.155375 3.921375 okay
+Customer 2.415000 3.425625 [silence]
+Customer 3.425625 6.995500 okay i thought it was supposed to give a recording but anyway
+Agent 3.921375 14.135625 [silence]
+Customer 6.995500 8.533750 um
+Customer 8.533750 15.922875 well i- i do take care of pretty much [laughter-all] of the stuff for for my wife and for me and um
+Agent 14.135625 15.480500 um-hum
+Agent 15.480500 36.173500 [silence]
+Customer 15.922875 24.686375 i embarrassed to say it's pretty trivial all we all i do is uh keep a list of things like debts that are
+Customer 24.686375 28.208500 outstanding and and every two or three months
+Customer 28.208500 31.694125 update that and every once in a while
+Customer 31.694125 36.927625 make a list of what we spent that month but i doubt i do it more than three times a year
+Agent 36.173500 38.547750 um-hum do you use a computer
+Customer 36.927625 38.311375 and
+Customer 38.311375 49.494375 no i work with them_1 all day yeah i'm in computer science yet i- i do everything on paper [laughter] uh i don't even use a calculator for the stuff i'm doing because_1 it's all pretty round numbers
+Agent 38.547750 41.470625 [silence]
+Agent 41.470625 43.140750 oh
+Agent 43.140750 44.590375 uh-huh
+Agent 44.590375 48.731750 [silence]
+Agent 48.731750 53.325750 yeah mine is really simple because i got all our bills paid off
+Customer 49.494375 65.411375 [silence]
+Agent 53.325750 58.344000 when um he was a Marine he went to Saudi Arabia and while he was gone
+Agent 58.344000 65.818625 i got all of our bills paid off so really the only bills i have is rent utilities insurance
+Customer 65.411375 66.614625 um-hum
+Agent 65.818625 73.738750 you know so they come in i pay them_1 and that's it [laughter-you] [laughter-know] that's about the extent of it you know
+Customer 66.614625 71.680500 [silence]
+Customer 71.680500 73.053750 yeah i
+Customer 73.053750 82.856750 [silence]
+Agent 73.738750 87.406250 i don't really have this major budget or anything i just really i'm real thrifty i take care of you know two children and me and um just real careful with the money you know
+Customer 82.856750 84.066750 um-hum
+Customer 84.066750 91.076125 [silence]
+Agent 87.406250 91.876500 what little we have [laughter] so that's what i do
+Customer 91.076125 93.040125 yeah it's a pretty
+Agent 91.876500 99.027000 [silence]
+Customer 93.040125 94.641875 straightforward
+Customer 94.641875 99.198250 it's almo[st]- i can't imagine having to go into real complicated stuff and making
+Agent 99.027000 100.471375 no
+Customer 99.198250 105.695875 you know fancy budgets it seems like if you're getting to that level y[ou're]- you're not in real good control
+Agent 100.471375 105.254125 [silence]
+Agent 105.254125 106.512250 huh-uh
+Customer 105.695875 112.520625 [silence]
+Agent 106.512250 116.574375 you know i mean i- i i've never liked credit cards and a lot of debt you know you buy something on credit and you pay twice as much for it when you get done
+Customer 112.520625 113.814000 uh-huh
+Customer 113.814000 116.348625 [silence]
+Customer 116.348625 117.587375 yeah
+Agent 116.574375 118.662375 you know so
+Customer 117.587375 122.642250 actually i'm i me[an]- i like using credit cards for everything but just paying off the bills
+Agent 118.662375 122.066375 [silence]
+Agent 122.066375 123.542000 uh-huh
+Customer 122.642250 130.291500 because that way it's a record of everything and i don't have to worry about keeping [laughter-records] of anything else because they come in at the end of the month
+Agent 123.542000 127.959625 [silence]
+Agent 127.959625 129.643875 i don't have too many wea[knesses]-
+Agent 129.643875 133.940625 i don't have too many weaknesses but i found out a credit card was one of them_1
+Customer 130.291500 133.462750 [silence]
+Customer 133.462750 134.671375 uh
+Agent 133.940625 145.584125 you know it's so much easy easier you know if something's on sale if you're a woman and you're a sale person it's like oh well that's on sale let's go grab it you know [laughter] so um
+Customer 134.671375 140.359250 [silence]
+Customer 140.359250 141.399375 hum
+Customer 141.399375 149.974125 [silence]
+Agent 145.584125 150.659125 and if you don't have the money then use the credit card so i got rid of them credit cards
+Customer 149.974125 151.983875 yeah i guess if that's
+Agent 150.659125 151.665625 [silence]
+Agent 151.665625 153.004875 you know
+Customer 151.983875 154.880750 if that's a weakness that's a good thing to do
+Agent 153.004875 154.077375 [silence]
+Agent 154.077375 164.554125 yeah that was my weakness it wasn't bad i mean i didn't have like thousands of dollars you know and like that just i just learned that that wasn't for me you know
+Customer 154.880750 161.014625 [silence]
+Customer 161.014625 162.310250 um-hum
+Customer 162.310250 164.196375 [silence]
+Customer 164.196375 165.436125 sure
+Agent 164.554125 166.030250 so
+Customer 165.436125 175.342000 [silence]
+Agent 166.030250 169.300125 but i self employed
+Agent 169.300125 176.481250 you know i have my own little cleaning business type thing so um i keep
+Customer 175.342000 179.322625 do you find trouble keeping the records for taxes and all that or
+Agent 176.481250 178.488625 [silence]
+Agent 178.488625 190.538500 no it's not hard i just keep it in a notebook and write down what i've made and um you know what it's gonna have to go for that month and
+Customer 179.322625 189.825875 [silence]
+Customer 189.825875 191.125500 uh-huh
+Agent 190.538500 193.731375 you know it's not that not that hard
+Customer 191.125500 196.236500 [silence]
+Agent 193.731375 195.485250 not at all
+Agent 195.485250 197.432500 [silence]
+Customer 196.236500 197.579500 well that's good to know
+Agent 197.432500 198.643875 so
+Customer 197.579500 201.269375 [silence]
+Agent 198.643875 201.203750 i always do my own income tax
+Agent 201.203750 203.523625 you know do you
+Customer 201.269375 202.482375 yeah
+Customer 202.482375 206.570250 i don't understand the idea of paying somebody to to do it
+Agent 203.523625 206.001500 [silence]
+Agent 206.001500 207.351250 huh
+Customer 206.570250 211.505500 it seems like it's absurd the number of people who had to having to pay somebody to do it
+Agent 207.351250 210.160500 [silence]
+Agent 210.160500 212.424875 rea[d]- all you got to do is read a book
+Customer 211.505500 212.512375 [silence]
+Agent 212.424875 224.328000 i mean read the little book they send you fill in the blanks and go i mean it seems absurd that people will pay you know some bucks just to get someone to
+Customer 212.512375 213.966125 i
+Customer 213.966125 217.040625 yeah just the form yeah
+Customer 217.040625 222.694625 [silence]
+Customer 222.694625 224.577375 yeah and a lot of them_1
+Agent 224.328000 229.482125 it's dumb [laughter-you] [laughter-know] i guess if you had some really complicated
+Customer 224.577375 232.359250 [silence]
+Agent 229.482125 234.065500 stuff but i don't so i don't mess with it
+Customer 232.359250 233.564375 yeah
+Customer 233.564375 238.295250 [silence]
+Agent 234.065500 235.127625 [silence]
+Agent 235.127625 243.935750 but i don't use a calculator either [laughter-you] [laughter-know] i don't i don't have that mu[ch]- that many you know things to add up so
+Customer 238.295250 239.296875 i
+Customer 239.296875 239.793750 [laughter]
+Customer 239.793750 242.911000 [silence]
+Customer 242.911000 250.578375 i don't trust myself with using a calculator or computer to too much stuff like that because i wanna make sure that that i
+Agent 243.935750 260.660250 [silence]
+Customer 250.578375 251.895250 i keep
+Customer 251.895250 261.248375 on top of the numbers and understand what's going on i know too many people who use a calculator if they make a mistake they find out two months later because they weren't paying attention
+Agent 260.660250 262.470000 oh yeah
+Customer 261.248375 262.643250 and
+Agent 262.470000 263.490375 [silence]
+Customer 262.643250 263.689375 [silence]
+Agent 263.490375 271.516000 and we have a i- i bank at NCNB here and they have a number that you can call in and i always call in like
+Customer 263.689375 265.029750 [vocalized-noise]
+Customer 265.029750 277.525750 [silence]
+Agent 271.516000 277.496625 once every other week or so and i will um check off what checks have cleared and
+Agent 277.496625 279.344750 do you do that
+Customer 277.525750 280.557250 yeah we have the same thing
+Agent 279.344750 289.348750 you do too and i always check them_1 off and you know check my balance and my book and you know because_1 i always want to know exactly what i have
+Customer 280.557250 281.995375 yeah
+Customer 281.995375 289.604375 [silence]
+Agent 289.348750 293.250250 you know i do that real often
+Customer 289.604375 290.913000 sure
+Customer 290.913000 298.786000 [silence]
+Agent 293.250250 295.341500 i do that so
+Agent 295.341500 296.569375 [silence]
+Agent 296.569375 297.778250 anyway
+Agent 297.778250 298.786000 [silence]

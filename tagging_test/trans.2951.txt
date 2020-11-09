@@ -1,0 +1,223 @@
+Agent 0.000000 4.985000 [silence]
+Customer 0.000000 0.590750 [noise]
+Customer 0.590750 2.470250 okay um
+Customer 2.470250 4.018750 do you want to start
+Customer 4.018750 5.295750 do you have a
+Agent 4.985000 9.992750 well credit cards um i th[ink]- think they are wonderful but um
+Customer 5.295750 28.229375 [silence]
+Agent 9.992750 12.752750 i think you have to have a lot of restraint
+Agent 12.752750 14.023125 [silence]
+Agent 14.023125 23.601875 um i have never been in trouble with credit cards but uh my youngest daughter is and a friend of mine is and i think it is terrible
+Agent 23.601875 28.589000 that they can uh you know wipe out a max in uh such a short time
+Customer 28.229375 29.352375 um-hum
+Agent 28.589000 29.974125 [silence]
+Customer 29.352375 36.613500 [silence]
+Agent 29.974125 37.511625 uh i never pay interest charges i value my money too much to uh line somebody else's pockets with my money
+Customer 36.613500 37.456000 um-hum
+Customer 37.456000 43.874625 [silence]
+Agent 37.511625 44.511500 and i always um pay it off before um i am charged any interest on my balance
+Customer 43.874625 46.692625 so you never let it run up on you
+Agent 44.511500 45.709250 [silence]
+Agent 45.709250 46.898250 never
+Customer 46.692625 52.074875 that is wonderful that is wonderful i'm uh i- i kind of uh
+Agent 46.898250 49.126125 [laughter]
+Agent 49.126125 64.007500 [silence]
+Customer 52.074875 64.771625 uh i'm just do ver[y]- you know just just all depends that it when i have everything all paid off and then i start wanting something and i don't really have enough well don't have enough in savings s[avings]- you know like for a big purchase
+Agent 64.007500 65.207125 um-hum
+Customer 64.771625 72.913750 then uh sometimes i- i uh lose sight of it you know it's it ju[st]- it is just is easy to use
+Agent 65.207125 77.781125 [silence]
+Customer 72.913750 80.707750 and then uh after a while i- i am like you i hate paying those people interest and then i ma[ke]-
+Agent 77.781125 79.161875 um um-hum
+Agent 79.161875 90.071375 [silence]
+Customer 80.707750 95.107875 i make i- i added like uh uh wrote uh an addition to to my car loan through the credit union which i knew was lower interest just to pay them_1 all off and then i swore i would never use them again
+Agent 90.071375 91.130750 um-hum
+Agent 91.130750 94.126750 [silence]
+Agent 94.126750 104.738375 right you really have to show a lot of restraint but if you look at [noise] if you look at the time frame on that uh you will find that you have about six or seven weeks
+Customer 95.107875 96.904625 [silence]
+Customer 96.904625 97.560000 um-hum
+Customer 97.560000 112.054875 [silence]
+Agent 104.738375 111.415625 before you have to make that payment back to the credit card company without being charged any interest
+Agent 111.415625 117.869875 [silence]
+Customer 112.054875 118.674250 the only thing is you have to make sure that you don't charge more than you know you are going to be able to pay
+Agent 117.869875 119.677875 that's correct yeah you
+Customer 118.674250 121.000000 at a given time and
+Agent 119.677875 120.760875 um-hum
+Agent 120.760875 123.824250 your budget has to be so that you can uh
+Customer 121.000000 128.211250 [silence]
+Agent 123.824250 128.614875 you know summarize what your balance is going to be at a particular time and i can do that
+Customer 128.211250 137.090000 yeah and the pro[blem]- the problem is especially with young people is they they want things now they don't want to have to wait for them_1 and credit cards are the way to do that
+Agent 128.614875 136.465375 [silence]
+Agent 136.465375 138.121000 that's right
+Customer 137.090000 139.877375 and then then they're in trouble
+Agent 138.121000 146.153125 well that's what the you know that's what that's what it is geared for advertisement you know is uh to wet you appetite and give you that
+Customer 139.877375 142.670000 [silence]
+Customer 142.670000 143.384750 um-hum
+Customer 143.384750 153.647000 [silence]
+Agent 146.153125 150.626125 oh i've got to have that i can't live without that and that's the image
+Agent 150.626125 153.735500 that the younger generation has you know
+Customer 153.647000 156.541500 i have a i have a friend who uh
+Agent 153.735500 158.522625 [silence]
+Customer 156.541500 165.256500 well she is old enough to know better but uh she she did it and she got really in bad shape she ended up going into bankruptcy
+Agent 158.522625 159.622625 um-hum
+Agent 159.622625 166.253000 [silence]
+Customer 165.256500 170.538125 and Palley Royal is her downfall and there is no limit on those things
+Agent 166.253000 167.359625 on that
+Agent 167.359625 175.245375 [silence]
+Customer 170.538125 175.847625 they just let you come and spend and you know run it up run it up so i don't know
+Agent 175.245375 176.857875 who was that that could
+Customer 175.847625 177.955625 Palley Palley Royal
+Agent 176.857875 178.084250 [silence]
+Customer 177.955625 179.253375 [silence]
+Agent 178.084250 179.900000 is that a department store
+Customer 179.253375 180.318125 uh-huh
+Agent 179.900000 181.772125 oh okay that's probably
+Customer 180.318125 182.849625 i- i do not know if i don't know if it is local
+Agent 181.772125 189.350125 no it is not in uh in Dallas huh-uh no we we have Dillard's and uh Sanger Harris and Macy's and
+Customer 182.849625 189.296375 [silence]
+Customer 189.296375 190.659375 no Palley Royal
+Agent 189.350125 194.866625 Neiman Marcus and things like that and i am sure that they probably would not have a problem [laughter-either]
+Customer 190.659375 194.197625 [silence]
+Customer 194.197625 203.204375 i know i know a lot of people who uh some ga[ls]- some ladies at work who don't have any problems with money or anything but they they really love Palley Royal
+Agent 194.866625 208.244500 [silence]
+Customer 203.204375 212.519625 so you know they it is just ha[rd]- you know you got stay [laughter-away] or else you might end up you just can't help yourself and buy
+Agent 208.244500 209.964375 well
+Agent 209.964375 215.084625 self-cont[rol]- yeah self-control though is the key
+Customer 212.519625 214.228500 [silence]
+Customer 214.228500 224.078000 self-control is the key my daughter has my daughter is twenty and she got a Sears credit card when she was about eighteen
+Agent 215.084625 217.090375 um-hum um-hum
+Agent 217.090375 220.904625 [silence]
+Agent 220.904625 221.962875 um-hum
+Agent 221.962875 223.207875 [silence]
+Agent 223.207875 224.135500 um-hum
+Customer 224.078000 230.145000 and uh Christmas before last she and her boyfriend her boyfriend had gotten one too i believe
+Agent 224.135500 233.133125 [silence]
+Customer 230.145000 241.569250 and they gave some of the most wonderful gifts to everyone in their family i mean they spent lots of money on they gave each other these beautiful things they gave stuff to all of us and we were going
+Agent 233.133125 234.918625 [laughter]
+Agent 234.918625 236.280000 [silence]
+Agent 236.280000 237.123875 um
+Agent 237.123875 238.966000 [silence]
+Agent 238.966000 240.547750 oh dear
+Agent 240.547750 248.600000 [silence]
+Customer 241.569250 245.932125 i can't believe you all did this you should not have done this and they got angry and said
+Customer 245.932125 247.100750 [silence]
+Customer 247.100750 248.939875 we wanted to do it
+Agent 248.600000 250.685375 um-hum um-hum
+Customer 248.939875 250.008000 [silence]
+Customer 250.008000 261.350250 okay no[w]- she is still paying on that Sears charge she has now you know she's learned and she she is uh definitely paying it off pay[ing]- paying on it and not running it back up but you can't tell them_1
+Agent 250.685375 253.286875 [silence]
+Agent 253.286875 254.850750 wow
+Agent 254.850750 256.471000 sure
+Agent 256.471000 261.091875 [silence]
+Agent 261.091875 274.002375 well experience is the best teacher and sometimes you know uh a lot of us have have to learn by experience and and uh if you can learn by someone's else's past mistakes then you are very wise
+Customer 261.350250 263.101500 [silence]
+Customer 263.101500 264.118875 that's right
+Customer 264.118875 274.072250 [silence]
+Agent 274.002375 276.938625 if you can heed to advice given
+Customer 274.072250 274.917875 um-hum
+Customer 274.917875 277.269875 [silence]
+Agent 276.938625 286.738250 [silence]
+Customer 277.269875 282.680375 the only good thi[ng]- one good thing about credit cards though uh especially in business if you
+Customer 282.680375 284.477625 uh you have to
+Customer 284.477625 287.552750 you know you are going to be reimbursed by your company
+Agent 286.738250 289.433125 that's true yes i am yeah um-hum
+Customer 287.552750 292.001000 and then uh in fact i know of a man who is in uh
+Agent 289.433125 304.651125 [silence]
+Customer 292.001000 297.252875 he is in a he he he he we[ll]- he he is in an oil pipe
+Customer 297.252875 301.488750 pipe line selling kind of a thing and he has to
+Customer 301.488750 311.678625 he has to live on credit cards and then he gets commission you know later on but if he did not have credit cards he could not exist because_1 a lot of those you know because_1 he knows
+Agent 304.651125 305.688750 um-hum
+Agent 305.688750 313.047875 [silence]
+Customer 311.678625 318.382625 six weeks down the road he is probably you know he is going to get the money to pay for it but he really does so sometimes i think
+Agent 313.047875 314.334000 sure
+Agent 314.334000 318.062750 [silence]
+Agent 318.062750 321.264875 oh credit cards are you know really a blessing
+Customer 318.382625 320.732000 [silence]
+Customer 320.732000 321.561125 um-hum
+Agent 321.264875 324.275625 uh but you have to be wise when you use them_1
+Customer 321.561125 323.516375 [silence]
+Customer 323.516375 324.680375 that's true
+Agent 324.275625 331.142625 and uh i have nothing against them other than you know people abusing it and then they get themselves in hot water and
+Customer 324.680375 338.437000 [silence]
+Agent 331.142625 333.588000 you know they're just hurting theirselves
+Agent 333.588000 340.063875 and when you uh have a bankruptcy uh it takes you i think about eight years to wipe that off your record
+Customer 338.437000 339.370375 oh yeah
+Customer 339.370375 340.248750 yeah
+Agent 340.063875 345.776000 and so you know that is the shame about that is uh and people won't touch you
+Customer 340.248750 347.548875 [silence]
+Agent 345.776000 347.903500 and you've got to live that down
+Customer 347.548875 349.651500 um-hum that is true
+Agent 347.903500 349.739875 [silence]
+Customer 349.651500 351.235750 that's really true
+Agent 349.739875 356.481125 so you have to be very cautious about how you use your credit i mean it is a wonderful thing but don't abuse it
+Customer 351.235750 355.862500 [silence]
+Customer 355.862500 361.652625 right uh you know like emergencies or something that you do not have the ready ca[sh]- that you do not have cash and you have to
+Agent 356.481125 360.072500 [silence]
+Agent 360.072500 362.744125 oh absolutely sure
+Customer 361.652625 365.600000 your car breaks down or you have to you have to have something
+Agent 362.744125 364.601625 um-hum
+Agent 364.601625 366.175750 sure
+Customer 365.600000 373.084750 it's a real it's you know you do not have the money in savings so it really is a lifesaver at times when you do have to use it but
+Agent 366.175750 374.892125 [silence]
+Customer 373.084750 375.444750 but like you say use it wisely
+Agent 374.892125 376.444000 that's right
+Customer 375.444750 380.745375 only in you know when you really have to or knowing that you are going to pay it off every every month
+Agent 376.444000 386.747125 [silence]
+Customer 380.745375 386.869750 so that is that is something about American Express if you only use American [laughter-Express] you do not have a choice
+Agent 386.747125 391.544875 well there is a lot of people that uh know exactly what they are doing
+Customer 386.869750 408.802625 [silence]
+Agent 391.544875 397.764000 and they will run into thousands and thousands of dollars into debt
+Agent 397.764000 401.533000 and they will deliberately do this so that they can go into bankruptcy
+Agent 401.533000 402.613250 [silence]
+Agent 402.613250 409.323250 and they they have a way of uh diverting all of the things that they've bought and put it like in hiding
+Customer 408.802625 410.270750 you're kidding
+Agent 409.323250 419.021000 no i've heard uh uh there was a radio program in Dallas that we listen to and i well it in fact it's nationwide
+Customer 410.270750 431.498125 [silence]
+Agent 419.021000 424.543625 and i was shocked at some of the stories that came out of that uh program about
+Agent 424.543625 429.741750 these people that really you know they bought all these wonderful things
+Agent 429.741750 432.047375 and then they went bankrupt
+Customer 431.498125 434.466125 and they were knowing they were going to go into bankruptcy
+Agent 432.047375 433.102375 [silence]
+Agent 433.102375 437.678125 and they knew that yes they knew that they were going to do that and they just um-hum
+Customer 434.466125 436.855250 so they it was planned
+Customer 436.855250 462.970625 [silence]
+Agent 437.678125 443.241125 and uh they said you know it was worth the uh jeopardizing their credit for that amount of time
+Agent 443.241125 446.904875 because they still had the stuff you know and they could write it off
+Agent 446.904875 453.348750 you know they can only um be responsible for a certain percent and not the full uh amount that they owed
+Agent 453.348750 454.601250 [silence]
+Agent 454.601250 456.535375 and i don't know who um
+Agent 456.535375 462.150000 determines uh the percentage rate that they have to repay but it is not surely
+Agent 462.150000 464.373375 what they are were indebted for
+Customer 462.970625 465.319000 oh no right
+Agent 464.373375 465.915500 um-hum
+Customer 465.319000 479.087625 [silence]
+Agent 465.915500 469.484500 so it it they use it as a scam
+Agent 469.484500 471.548875 instead of uh
+Agent 471.548875 474.714750 to me they were criminals and they used th[at]- that
+Agent 474.714750 475.917625 [silence]
+Agent 475.917625 478.403000 in a in a really bad situation
+Agent 478.403000 479.488750 [silence]
+Customer 479.087625 479.627125 yeah
+Agent 479.488750 484.366500 and that has kind of snowballed i guess around so i do not know maybe the courts and lawyers are
+Customer 479.627125 493.631875 [silence]
+Agent 484.366500 489.354500 working on that to co[ver]- you know cover all the loopholes that might exist
+Agent 489.354500 490.732625 [silence]
+Agent 490.732625 494.218500 but i've never been in that situation and hope i never have to be
+Customer 493.631875 495.975375 yeah me too really
+Agent 494.218500 498.002625 [silence]
+Customer 495.975375 498.175375 well i guess we covered it
+Agent 498.002625 499.388875 [laughter-okay]
+Customer 498.175375 500.839875 do you have any do you have anything else you want to add
+Agent 499.388875 500.685750 [silence]
+Agent 500.685750 507.916375 no i can't think of anything i am sure that we haven't covered everything because_1 that is uh that is a great big uh a ball
+Customer 500.839875 507.903375 [silence]
+Customer 507.903375 509.781000 well if you have got any other thoughts
+Agent 507.916375 509.221250 uh credit
+Agent 509.221250 511.174375 [silence]
+Customer 509.781000 510.980000 throw them_1 out
+Customer 510.980000 516.560500 [silence]
+Agent 511.174375 513.418000 i can't think of anything right now
+Agent 513.418000 517.097750 [laughter] well listen thank you for calling and you have a good day
+Customer 516.560500 518.589000 well thank you Catherine bye
+Agent 517.097750 518.883125 bye-bye
+Customer 518.589000 520.840875 [silence]
+Agent 518.883125 520.840875 [silence]

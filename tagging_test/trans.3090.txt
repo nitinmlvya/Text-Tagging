@@ -1,0 +1,172 @@
+Agent 0.000000 0.905000 [noise]
+Customer 0.000000 0.875375 [noise]
+Customer 0.875375 6.603250 okay um well do you uh keep a family budget or or do you have some
+Agent 0.905000 5.379875 [silence]
+Agent 5.379875 18.357750 no i don't use a family budget my father who's very old has kept one his entire life and i probably re[belled]- rebelled against it and probably should have kept one he keeps every penny that comes in and goes out
+Customer 6.603250 11.007625 [silence]
+Customer 11.007625 12.410500 uh-huh
+Customer 12.410500 13.445375 [silence]
+Customer 13.445375 14.797625 [laughter]
+Customer 14.797625 16.109875 [laughter]
+Customer 16.109875 17.617750 [silence]
+Customer 17.617750 19.929625 oh interesting
+Agent 18.357750 20.619500 on a very strict percentage
+Customer 19.929625 31.593375 yes well um we sort of started doing it years and years ago and my husband started graduate school when we were first married and i sort of just got in the habit i guess and you know and never have gotten out of it
+Agent 20.619500 40.064000 [silence]
+Customer 31.593375 43.304125 i can't really say that it's a formal budget it's more just a a pretty um a fairly uh a[ccurate]- accurate um recording of what i spend and what i think i'm going to have to spend and
+Agent 40.064000 41.425125 right
+Agent 41.425125 42.130500 [noise]
+Agent 42.130500 46.329125 i think it makes much more sense and i've recently uh
+Customer 43.304125 44.795500 yeah
+Customer 44.795500 50.082000 [silence]
+Agent 46.329125 53.124750 gotten out of debt and everything and i'll probably kee[ping]- start keeping a little better track of it i just uh
+Customer 50.082000 52.227250 yeah yeah
+Customer 52.227250 57.347125 [silence]
+Agent 53.124750 61.360375 spent whatever came in and and uh didn['t]- never knew what came in what went out but uh just you know like about_1 like the government runs
+Customer 57.347125 58.858250 right
+Customer 58.858250 60.439125 [silence]
+Customer 60.439125 64.100625 yeah [laughter] sounds real similar [laughter]
+Agent 61.360375 62.680875 huh
+Agent 62.680875 74.672875 so i think it's probably better to have some sort of a a at least a record but my dad's was so precise that i mean if it said to spend eleven percent on something that's what it was spent and
+Customer 64.100625 68.791625 [silence]
+Customer 68.791625 70.328500 um
+Customer 70.328500 73.596750 [silence]
+Customer 73.596750 75.945250 oh my yeah
+Agent 74.672875 79.821500 that was put over there and i mean uh of course he's from the depression and uh
+Customer 75.945250 78.017250 [silence]
+Customer 78.017250 79.399125 yes
+Customer 79.399125 82.358750 [silence]
+Agent 79.821500 87.141625 so uh you know it's his life but uh i i would i think it'd be smart if somebody would keep uh
+Customer 82.358750 83.777750 sure
+Customer 83.777750 89.225125 [silence]
+Agent 87.141625 90.011375 some sort of a plan that works for them
+Customer 89.225125 100.725625 yeah i think you're right um well i[t]- it what's been sort of interesting to us is to um it because since i have uh pretty much kept my record books for the last fifteen years i guess
+Agent 90.011375 104.732500 [silence]
+Customer 100.725625 106.786000 i can go back and look and it's real fun to just see wh[at]- how things have changed over the years uh for ins[tance]-
+Agent 104.732500 110.836000 yeah it is [noise] i'm a historian and my father had kept them_1 i think since nineteen twenty seven and
+Customer 106.786000 109.929250 [silence]
+Customer 109.929250 111.502125 my goodness
+Agent 110.836000 119.355625 but he burned the ones from twenty seven to fi[fty]- i couldn't believe he did that but then so i took the ones from fifty two on to the present but
+Customer 111.502125 114.267625 [silence]
+Customer 114.267625 116.148000 oh dear
+Customer 116.148000 118.169500 [silence]
+Customer 118.169500 119.476625 yes
+Agent 119.355625 126.043875 to look to have looked back into the twenties and thirties and forties it would have been fantastic to see that but uh
+Customer 119.476625 123.675750 [silence]
+Customer 123.675750 125.179125 oh yes
+Customer 125.179125 133.510750 well as a matter of fact uh my mother was going through some things uh not lon[g]- long ago i guess it's been a couple of years [vocalized-noise] in an old trunk that she had
+Agent 126.043875 136.485875 [silence]
+Customer 133.510750 144.966875 and she came upon a b[udget]- a budget book that she'd had back in the thirties uh when they it was the late well i guess it would have been i take that back it must have been the forties because they had been married uh probably fifteen years at the time
+Agent 136.485875 137.946375 um-hum
+Agent 137.946375 148.601625 [silence]
+Customer 144.966875 154.897375 and it was just f[ascinating]- uh fascinating to see how little things cost i mean it was it was just almost laughable in some instances that you know of course it's all relative of course but
+Agent 148.601625 150.090375 oh
+Agent 150.090375 153.406125 [silence]
+Agent 153.406125 155.151250 i know right right
+Customer 154.897375 163.614250 uh never the less it was fun to see those figures next to you know for a pr[ice]- pair of shoes was uh like five dollars and [laughter]
+Agent 155.151250 160.631000 [silence]
+Agent 160.631000 169.459625 i know well even in nineteen sixty three i found a a record that i had [vocalized-noise] had traveled in Europe a lot and i what i'd paid for hotels
+Customer 163.614250 168.796375 [silence]
+Customer 168.796375 170.345375 um
+Agent 169.459625 182.990250 and a similar hotel in Paris is two hundred dollars a night now and i paid uh oh between four and five dollars in nineteen sixty and that's really crazy because_1 that's about thirty years ago
+Customer 170.345375 173.070250 [silence]
+Customer 173.070250 174.432625 oh
+Customer 174.432625 177.269000 [silence]
+Customer 177.269000 180.544125 oh isn't that something
+Customer 180.544125 181.960875 [silence]
+Customer 181.960875 185.887875 really oh that is that is really really something
+Agent 182.990250 184.347375 [silence]
+Agent 184.347375 192.772125 oh b[ut]- but of course it's just what the market'll bear and if pe[ople]- if people will pay two hundred then why charge ten you know yeah
+Customer 185.887875 186.975375 [silence]
+Customer 186.975375 188.526500 that's true
+Customer 188.526500 190.058625 [silence]
+Customer 190.058625 194.730750 yeah that's g[ood]- that's right that's exa[ctly]- that's just good old economics working [laughter]
+Agent 192.772125 195.996250 right right that
+Customer 194.730750 209.202375 well uh we've tried to uh instill some se[nse]- some sense of uh of budgeting in our kids but our two children are just uh as um unlike as n[ight]- night and day and our son could care less about a budget and our daughter watches her pennies so closely that
+Agent 195.996250 203.779000 [silence]
+Agent 203.779000 205.168250 um-hum
+Agent 205.168250 213.501000 [silence]
+Customer 209.202375 218.498375 she almost she almost just sounds like your father i mean she has everything planned so cl[osely]- closely that if something goes wrong it just throws her for a [laughter-loop]
+Agent 213.501000 215.993875 um-hum um-hum
+Agent 215.993875 225.838375 yeah well then you never know how they'll one they they may s[witch]- flip flop when they get to be uh ol[der]- well older the other one may be very careful and
+Customer 218.498375 220.765500 [silence]
+Customer 220.765500 222.305125 yes
+Customer 222.305125 224.970375 right yes
+Customer 224.970375 226.621750 yes
+Agent 225.838375 238.152875 she may marry somebody and of course it'd be good because if you marry somebody a little loose then she'll have that stability of watching uh you should have one in the in the in the house and i think
+Customer 226.621750 233.261750 [silence]
+Customer 233.261750 234.943125 yeah
+Customer 234.943125 237.444125 i think that's true i and and it's
+Customer 237.444125 250.013500 i kind of think that's sort of what happened in our house because i think my husband was not quite as uh good at saving and so on before we got married and i was i was really diligent about that i always putting money aside and when before i was married you know when i was working in and out of college and
+Agent 238.152875 249.186625 [silence]
+Agent 249.186625 250.402125 yeah
+Customer 250.013500 260.003875 uh that really paid off because when it time came for him to go back to graduate school we were in in in fairly good g[ood]- shape financially as far as not having many major debts and
+Agent 250.402125 258.709375 [silence]
+Agent 258.709375 264.274375 yeah that's about the way it is here if it hadn't been for my wife i would have probably been in debtor's prison if we had one
+Customer 260.003875 261.359250 yeah
+Customer 261.359250 262.506250 [silence]
+Customer 262.506250 266.539375 [laughter]
+Agent 264.274375 265.752250 [laughter-so]
+Agent 265.752250 268.954500 but uh what does you husband do now
+Customer 266.539375 267.822500 well
+Customer 267.822500 278.124125 uh he is an engineer he's uh an electrical engineer and in fact went through uh many years of graduate school and got his PhD so we had a a lot of lot of years of budgeting [laughter]
+Agent 268.954500 270.659000 oh
+Agent 270.659000 275.312375 [silence]
+Agent 275.312375 277.092750 um
+Agent 277.092750 284.704750 oh yeah you have to do it when you're in school my wife's still in school getting her doctorate and so i it it and i've got
+Customer 278.124125 281.512250 and you know yeah when you
+Customer 281.512250 283.280250 uh yes
+Customer 283.280250 296.118375 well i'm working i'm working on my masters degree now so in fact this last year we had three t[wo]- both of the children were in college our son has a year left our daughter graduated this year and i'm uh just about ready to finish my masters degree so
+Agent 284.704750 294.671500 [silence]
+Agent 294.671500 296.443875 um um
+Customer 296.118375 300.204000 we've had uh once again you know some really a real lean year for us
+Agent 296.443875 299.003625 [silence]
+Agent 299.003625 304.802250 oh i i know we had three in college plus my wife so that was four so we're both in the same
+Customer 300.204000 302.175250 but uh
+Customer 302.175250 306.991625 yep yeah you know exactly what it's what it's like then and it's uh
+Agent 304.802250 307.283125 yeah yeah
+Customer 306.991625 316.099500 which you learn i guess you figure that that's an investment that is um really a in[valuable]- invaluable um-hum yeah and
+Agent 307.283125 312.223125 [silence]
+Agent 312.223125 316.815875 that's the best one yeah with education you can't take that away from you
+Customer 316.099500 325.631000 that's right so it's it's one that you can live through and i think that that's way we looked at it in our beginnings when my husband was in graduate school is that there was a light at the end of that tunnel you know that
+Agent 316.815875 318.806000 [silence]
+Agent 318.806000 320.035875 right
+Agent 320.035875 324.349000 [silence]
+Agent 324.349000 325.736000 sure
+Customer 325.631000 338.232875 that it was worth it to save and then not have uh something and uh in return know that something better was going to be at the end of it so uh it really makes it easier but uh well i've enjoyed talking with you Jay
+Agent 325.736000 332.577125 [silence]
+Agent 332.577125 335.248000 yeah that's true yeah
+Agent 335.248000 336.847250 [silence]
+Agent 336.847250 339.193375 i have enjoyed talking with you Kathy
+Customer 338.232875 344.509750 and i- i wish i could hear more about your historian part of your life because that sounds really fascinating to me i'm interested in that
+Agent 339.193375 342.484750 [silence]
+Agent 342.484750 352.837750 well if i had your address i'd send you i am also in the travel business i do tours and i can take some real great tours to Europe so uh if you
+Customer 344.509750 346.389875 [silence]
+Customer 346.389875 347.780625 oh
+Customer 347.780625 349.941500 [silence]
+Customer 349.941500 360.717125 oh wow well my my husband and i just were there last year um actually we didn't take a tour we we were in England and and uh went to Ireland and Scotland and just rented cars and and did it on our own but
+Agent 352.837750 359.090250 [silence]
+Agent 359.090250 360.567875 yeah
+Agent 360.567875 364.479625 [silence]
+Customer 360.717125 365.588500 um i uh that sounds interesting d[o]- is your business in Dallas then
+Agent 364.479625 372.923000 yeah it's in Dallas it's here in the Quorum so i'm i'm Jerry Hammond and i'm out at Brookhaven College so you could just holler at me out there yeah
+Customer 365.588500 367.115500 okay
+Customer 367.115500 370.094250 [silence]
+Customer 370.094250 378.546000 oh you're kidding well i'm going to be teaching at Brookhaven in the fall [laughter] Kuenzer K U E N Z E R and i'm i'm going to
+Agent 372.923000 375.538375 all right well what's your last name
+Agent 375.538375 377.080875 [silence]
+Agent 377.080875 379.574750 K U E N
+Customer 378.546000 380.321375 uh-huh Z E R
+Agent 379.574750 381.731750 well good i'll uh
+Customer 380.321375 388.595000 and i'll be in the communications department teaching uh English one O one to i have a couple of sections yes yep that's the guy who hired me yes
+Agent 381.731750 383.763250 [silence]
+Agent 383.763250 386.489125 oh well i know Zack Miller real well
+Agent 386.489125 387.498750 so
+Agent 387.498750 390.895625 uh all right well wonderful i'll look you up in the fall then
+Customer 388.595000 389.949750 well
+Customer 389.949750 395.156375 fantastic good well it's g[ood]- it's been a good ta[lk]- conversation uh-huh bye-bye
+Agent 390.895625 392.290500 okay
+Agent 392.290500 393.373250 [silence]
+Agent 393.373250 394.696750 bye-bye
+Agent 394.696750 397.215500 [noise]
+Customer 395.156375 397.215500 [noise]

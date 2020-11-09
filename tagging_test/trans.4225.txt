@@ -1,0 +1,120 @@
+Agent 0.000000 0.484375 [noise]
+Customer 0.000000 0.391125 [noise]
+Customer 0.391125 3.315750 okay well are you still there
+Agent 0.484375 2.552000 [silence]
+Agent 2.552000 4.186625 yeah i'm here
+Customer 3.315750 14.744250 yeah uh we got real good benefits where i'm at although they're becoming uh less and less every year so that they're taking a little bit more away uh especially when it comes to health care benefits
+Agent 4.186625 16.658750 [silence]
+Customer 14.744250 17.419875 do you guys uh have full coverage where you're at
+Agent 16.658750 19.315625 yeah well we do um it's
+Customer 17.419875 41.458500 [silence]
+Agent 19.315625 28.727250 it's funny that uh that you mention that because health care benefits are really a big issue nowadays because of the skyrocketing costs
+Agent 28.727250 31.838375 in general yeah our benefits uh
+Agent 31.838375 38.832125 we we have a choice between an H[MOs]- between various HMOs or just straight uh straight off major medical Blue Cross Blue Shield
+Agent 38.832125 40.557000 and um
+Agent 40.557000 50.777750 seems like the main idea of insurance companies is to try as hard as possible to deny benefits and collect uh premiums as much as possible
+Customer 41.458500 42.932375 [noise]
+Customer 42.932375 50.702000 [silence]
+Customer 50.702000 60.667000 yeah yeah i- i i agree uh y[ou]- you pay a lot of money into them_1 and then when you finally do have a claim they uh they really stick it to you they say that it doesn't meet their uh
+Agent 50.777750 52.014875 they're
+Agent 52.014875 74.214625 [silence]
+Customer 60.667000 74.485250 you know their their minimum amounts or something like that they've always got these uh these plans set up where they they've got a certain amount benchmarked for like a certain operation or something but when you go to that doctor it's always like ten or fifteen dollars more than what they'll pay for
+Agent 74.214625 75.975750 yeah
+Customer 74.485250 78.623750 and uh that's one thing that really bothers me down here they say that uh
+Agent 75.975750 90.395750 [silence]
+Customer 78.623750 86.443625 the the pri[mary]- or the the customary fee should be fifty dollars but then the most of the doctors around here charge seventy five so it doesn't really keep up with what they
+Customer 86.443625 88.450875 actually have so it's kind of a
+Customer 88.450875 92.088750 they [vocalized-noise] they kind of take from you a little bit there and uh the uh
+Agent 90.395750 92.626375 yeah absolutely
+Customer 92.088750 99.247625 other thing about Pratt's benefits uh when i first came here five years ago they really had like the best i thought that i'd ever had
+Agent 92.626375 109.650625 [silence]
+Customer 99.247625 110.248750 and since then you know they've for the st[aggering]- skyrocketing uh medical costs like you've said uh they've really had to cut back on what they give people because it was just taking too much money out of the company
+Agent 109.650625 115.909250 yeah it's expensive uh it's very expensive for the company to uh to pay all the benefits out uh
+Customer 110.248750 121.685625 [silence]
+Agent 115.909250 122.039375 if you want to talk for a second about non health benefits uh at my office we have free drinks free beverages
+Customer 121.685625 123.350750 wow
+Agent 122.039375 129.128375 and uh that's really popular that's v[ery]- uh a lot of people like that where we have uh all kinds of uh
+Customer 123.350750 131.983500 [silence]
+Agent 129.128375 130.639000 uh well
+Agent 130.639000 137.275125 here we call it pop i guess on the east coast you'd call it soda and uh juices and
+Customer 131.983500 133.896625 oh you have soda
+Customer 133.896625 144.562000 [silence]
+Agent 137.275125 146.204250 oh coffee and tea and uh uh spring water hot and cold and soups and that's
+Customer 144.562000 147.181625 well that's pretty good benefit then
+Agent 146.204250 149.544375 yeah it's very nice uh often if you're
+Customer 147.181625 156.375625 [silence]
+Agent 149.544375 159.634875 just having trouble thinking and doing your work you can just get up and walk to the kitchen and uh make yourself a cup of tea a fresh cup of tea herbal tea or whatever and
+Customer 156.375625 158.044750 yeah
+Customer 158.044750 167.064000 well i d[idn't]- i guess i never really thought about that as a benefit we we can get up and go to our cafeteria and you know and pay to get something to drink but i guess i guess that is kind of a benefit to just to have a place to go do that
+Agent 159.634875 166.838625 [silence]
+Agent 166.838625 169.661125 yeah oh definitely it gives you a chance
+Customer 167.064000 168.194875 [silence]
+Customer 168.194875 175.112375 yeah we we have a real nice cafeteria we can go to that anytime during the day and it's always it is always nice to go down there and get a coffee or a tea or a juice
+Agent 169.661125 174.562250 [silence]
+Agent 174.562250 177.159250 sure absolutely and get your and give your mind a rest
+Customer 175.112375 176.725625 [silence]
+Customer 176.725625 179.047250 yeah that that's that's always good
+Agent 177.159250 180.950750 [silence]
+Customer 179.047250 181.119500 uh do you guys have like a savings plan
+Agent 180.950750 186.318875 uh well the company offers a 401K but they don't contribute at all
+Customer 181.119500 185.497000 [silence]
+Customer 185.497000 192.252375 uh our uh we we're really lucky in that respect our for every dollar we put in Pratt Whitney'll match us sixty cents
+Agent 186.318875 187.583250 so
+Agent 187.583250 191.728500 [silence]
+Agent 191.728500 193.033250 so that is great
+Customer 192.252375 197.468125 that th[at]- th[at]- that's real good and that's that's one reason why i really like that
+Agent 193.033250 196.923500 [silence]
+Agent 196.923500 199.326125 yeah that that that is a very nice benefit
+Customer 197.468125 204.832125 [silence]
+Agent 199.326125 205.098250 one of the things that we have lacking is the number of vacation days we have uh only two weeks vacation a year
+Customer 204.832125 207.413000 does it depend on how many years you've been there
+Agent 205.098250 206.803375 [silence]
+Agent 206.803375 209.523000 no it's just across the board
+Customer 207.413000 208.794250 [silence]
+Customer 208.794250 220.030500 wow that's really something uh at Pratt it's uh if you're there eight years or less it's two weeks and as soon as you get your eight year in you get three weeks and then when you get uh fifteen years you get another week so
+Agent 209.523000 225.084875 [silence]
+Customer 220.030500 226.482125 you know a guy who's been ou[t]- been out there for like twenty five thirty years get about uh you know five weeks vacation paid a year
+Agent 225.084875 235.760875 yeah well in the technology industry it's such a young industry that there aren't very many people that have been in it for a very long time so they don't have the same uh
+Customer 226.482125 233.029750 [silence]
+Customer 233.029750 234.512125 oh ok[ay]-
+Customer 234.512125 239.815375 [silence]
+Agent 235.760875 240.577250 scale although at other jobs i've had i['ve]- i've had three weeks vacation
+Customer 239.815375 241.091125 ah
+Agent 240.577250 243.863125 so uh so stripping down to two was uh
+Customer 241.091125 244.015125 [silence]
+Agent 243.863125 250.106000 [silence]
+Customer 244.015125 250.858000 how are your h[ow]- h[ow]- how important is that you know your benefits when you sound like you've uh done some job hopping you've had more than one job then
+Agent 250.106000 252.896000 uh three i've had three
+Customer 250.858000 252.096875 [silence]
+Customer 252.096875 256.284625 oh okay with th[at]- how ma[ny]- how much time did you spend with each one
+Agent 252.896000 255.464375 [silence]
+Agent 255.464375 257.024625 very short
+Customer 256.284625 258.391125 oh okay
+Agent 257.024625 261.046875 the first the first job with the first two were a year and a half each
+Customer 258.391125 260.553000 [silence]
+Customer 260.553000 261.925250 okay
+Agent 261.046875 264.134125 and uh and after that i worked for two years
+Customer 261.925250 263.788500 [silence]
+Customer 263.788500 264.914500 wow
+Agent 264.134125 267.044000 at the company i'm at where i plan to stay for a while
+Customer 264.914500 267.018750 [silence]
+Customer 267.018750 269.898625 okay and and that's up in in Pittsburgh you said
+Agent 267.044000 269.285250 [silence]
+Agent 269.285250 270.471750 that's right
+Customer 269.898625 271.551625 okay
+Agent 270.471750 271.916000 [silence]
+Customer 271.551625 276.495250 [silence]
+Agent 271.916000 276.846750 that's right but you know in the the c[omputer]- the computer industry is a little bit more liberal with benefits in general
+Customer 276.495250 277.973625 hm
+Agent 276.846750 279.840875 i think than other industries um
+Customer 277.973625 283.990250 [silence]
+Agent 279.840875 286.453125 in terms of uh flex hours and just the you know the whole attitude of the work place
+Customer 283.990250 288.307500 ah that's another that's another benefit i forgot to mention we have flex time
+Agent 286.453125 287.929375 [silence]
+Agent 287.929375 289.234750 yeah
+Customer 288.307500 290.013250 you also have that
+Agent 289.234750 290.779375 that's right
+Customer 290.013250 292.394125 that's one of my favorite benefits uh
+Agent 290.779375 297.858000 [silence]
+Customer 292.394125 296.532000 ever since i've been ever since i graduated from school in eighty six
+Customer 296.532000 297.858000 every job i've had has always

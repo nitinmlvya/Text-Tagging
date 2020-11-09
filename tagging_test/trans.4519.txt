@@ -1,0 +1,89 @@
+Agent 0.000000 0.484000 [noise]
+Customer 0.000000 0.351500 [noise]
+Customer 0.351500 1.992875 [silence]
+Agent 0.484000 2.995000 [silence]
+Customer 1.992875 3.623500 your turn
+Agent 2.995000 9.325125 oh i- i start okay well uh we keep a budget to an extent um
+Customer 3.623500 24.141625 [silence]
+Agent 9.325125 17.777875 and really i[t]- i[t]- we were really forced into keeping a budget because i'm i'm paid once a month which sort of sort of forces some uh
+Agent 17.777875 22.983875 uh restrictions and you need to make sure all your bills are paid
+Agent 22.983875 25.459375 uh how about_1 yourself
+Customer 24.141625 29.408625 well i have to say i really don't have a budget
+Agent 25.459375 62.533000 [silence]
+Customer 29.408625 38.720500 both my wife and i uh grew up in uh families of rather modest means and uh
+Customer 38.720500 48.094000 our family income at this point is comfortable upper middle class i guess you might say and uh we're both so
+Customer 48.094000 50.527750 uh frugal
+Customer 50.527750 63.581375 that um we really don't need a budget you know we just sort of invest the money and go on vacations and always never seem to have any money problems which i guess is a comfortable thing
+Agent 62.533000 68.853750 yeah well i guess that really is sort of of keeping a budget you know you stay within your uh
+Customer 63.581375 67.937250 [silence]
+Customer 67.937250 74.965125 well we stay within our means but we don't do it uh by conscious effort it just sort of happens automatically
+Agent 68.853750 70.896875 within your means
+Agent 70.896875 74.271625 [silence]
+Agent 74.271625 75.766875 yeah
+Customer 74.965125 84.399125 although we just moved to California and uh the cost of living here in California is um i would say rather pathological [laughter]
+Agent 75.766875 83.704250 [silence]
+Agent 83.704250 85.505875 yes
+Customer 84.399125 93.255250 uh housing prices are you know like from four to ten times more expensive than um
+Agent 85.505875 100.438250 [silence]
+Customer 93.255250 104.642125 um they were where i came from in uh Dallas [noise] yeah so uh
+Agent 100.438250 105.479125 oh you moved from Dallas to San Francisco that is a huge difference
+Customer 104.642125 117.394625 uh that presents um a real shock [laughter] actu[ally]- actually our standard of living has gone down somewhat since we've moved to California but
+Agent 105.479125 111.115375 [silence]
+Agent 111.115375 112.833875 yeah
+Agent 112.833875 116.815375 [silence]
+Agent 116.815375 121.593000 but you have good sour dough and it's a beautiful [laughter-place] to live
+Customer 117.394625 120.007625 [silence]
+Customer 120.007625 127.503375 yeah it's God's country uh and one way you know that is that only God can afford it [laughter]
+Agent 121.593000 123.716500 yeah
+Agent 123.716500 126.047375 [silence]
+Agent 126.047375 129.435375 [laughter]
+Customer 127.503375 134.819375 um so budget is not a problem for us
+Agent 129.435375 160.856750 [silence]
+Customer 134.819375 144.209875 uh least it hasn't been it may it may be at this point but uh up until this point it really hasn't been when i uh was in uh
+Customer 144.209875 157.185750 undergraduate school a long long time ago i uh noted that the monthly salary starting average monthly [saly/salary] salary for engineers that [vocalized-noise] in my discipline was like
+Customer 157.185750 165.665750 oh six hundred and ten dollars a month or something like that and uh i noted at that point that i was
+Agent 160.856750 162.638375 um-hum
+Agent 162.638375 179.644500 [silence]
+Customer 165.665750 177.910000 you know if that's what my salary was that i drew then i would be making almost twice as much as my father made during his best year ever so
+Customer 177.910000 183.523625 i stopped worrying about money and uh never have worried about money since then
+Agent 179.644500 181.214125 yeah
+Agent 181.214125 183.682750 [silence]
+Customer 183.523625 186.815375 [silence]
+Agent 183.682750 186.544375 well that's that's a system too
+Agent 186.544375 201.234375 [silence]
+Customer 186.815375 201.806125 sometimes uh it's a bit of a a problem you know because i guess i don't really manage my money the way i should but uh i suppose i've lost money on not taking good advantage of of uh investments but
+Agent 201.234375 210.710750 well then again you know you said you you are able to take trips and you do obviously have enough to live on so i guess you're indirectly budgeting
+Customer 201.806125 209.782875 [silence]
+Customer 209.782875 212.054125 um-hum
+Agent 210.710750 219.069500 uh just by by the fact you said that you're both very frugal uh in spending the money so i mean that's that's a form of budgeting i would think
+Customer 212.054125 230.858875 [silence]
+Agent 219.069500 221.977125 [silence]
+Agent 221.977125 231.132250 it's kind of a kind of a strange topic to to [laughter-try] [laughter-to] for two people who don't really have a budget to talk about budgeting and how they manage their money
+Customer 230.858875 237.001750 well i guess we're both lucky in that regard then
+Agent 231.132250 235.533250 [silence]
+Agent 235.533250 237.042750 yeah
+Customer 237.001750 239.390750 uh how big is your family
+Agent 237.042750 239.024375 [silence]
+Agent 239.024375 246.810500 uh well we're we have one on the way um my wife and then we're we're having one on the way in uh in uh September
+Customer 239.390750 241.307125 [silence]
+Customer 241.307125 243.001375 i see
+Customer 243.001375 248.187625 [silence]
+Agent 246.810500 251.382375 [silence]
+Customer 248.187625 252.739375 so how do you and when once you get ten children though you may have
+Agent 251.382375 255.374000 [laughter] no i think it's just going to be one
+Customer 252.739375 253.907750 [silence]
+Customer 253.907750 256.799500 oh all right [laughter]
+Agent 255.374000 257.981750 how about yourself
+Customer 256.799500 269.420500 i have two kids uh one nine and one thirteen and they are beginning to be a budget problem but uh have not been really up until this up to this point
+Agent 257.981750 259.817500 oh
+Agent 259.817500 267.907500 [silence]
+Agent 267.907500 272.482000 do they budget at all i mean do you have them on an allowance or
+Customer 269.420500 278.715625 i give them_1 uh i give them_1 an allowance and they um i basically give my son ten dollars a week and i put
+Agent 272.482000 282.717375 [silence]
+Customer 278.715625 283.696250 half of it in the bank and i give give him the other half in cold cash
+Agent 282.717375 284.346750 yeah
+Customer 283.696250 295.483625 and uh he has a teller card so he can uh do what he wi[shes]- do what he wishes with the money that i put in the bank but at least it isn't you know burning a hole in his pocket
+Agent 284.346750 294.749250 [silence]
+Agent 294.749250 296.217875 yeah
+Customer 295.483625 299.074000 if he wants to use it he has to go get it and that usually
+Agent 296.217875 299.074000 [silence]
